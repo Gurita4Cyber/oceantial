@@ -1,0 +1,2 @@
+select#language option[value="EN"]   { background-image:url(img/en.png);   }
+select#language option[value="IN"] { background-image:url(female.png); }
