@@ -184,79 +184,32 @@
   </header>
   <section class="text-black lg:h-screen">
 
-    <img src="img/cover.gif" alt="" class="object-cover h-screen w-full">
+    <img src="img/cover-2.gif" alt="" class="object-cover h-screen w-full">
 
 
   </section>
   <section class="h-screen">
-    <div class="container mx-auto">
+    <div class="lg:pt-4 lg:pb-5 lg:px-16 container mx-auto">
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, dolorum perspiciatis dicta provident deleniti
       assumenda odio? Nemo, eaque a. Facilis eaque aperiam sit, recusandae dolor iure ad! Quos, itaque maiores?
     </div>
 
   </section>
 
-
-
-
+  <button id="btt" class="fixed right-0 bottom-0 z-50 bg-red-800 p-5" title="Return To Top">
+    <svg class="text-white" width="12" height="18" viewBox="0 0 320 512">
+      <path
+        d="M168.5 84.2l148 146.8c4.7 4.7 4.7 12.3 0 17l-19.8 19.8c-4.7 4.7-12.3 4.7-17 0L160 149.3 40.3 267.8c-4.7 4.7-12.3 4.7-17 0L3.5 248c-4.7-4.7-4.7-12.3 0-17l148-146.8c4.7-4.7 12.3-4.7 17 0zm-17 160L3.5 391c-4.7 4.7-4.7 12.3 0 17l19.8 19.8c4.7 4.7 12.3 4.7 17 0L160 309.3l119.7 118.5c4.7 4.7 12.3 4.7 17 0l19.8-19.8c4.7-4.7 4.7-12.3 0-17l-148-146.8c-4.7-4.7-12.3-4.7-17 0z" />
+    </svg>
+  </button>
 
 
   <!-- jQuery JS -->
   <script src="js/jquery.min.js"></script>
-  <script>
-    //test for getting url value from attr
-    // var img1 = $('.test').attr("data-thumbnail");
-    // console.log(img1);
+  <!-- Oceantial JS -->
+  <script src="js/oceantial.js"></script>
+  <script src="js/select-open.js"></script>
 
-    //test for iterating over child elements
-    var langArray = [];
-    $('.vodiapicker option').each(function () {
-      var img = $(this).attr("data-thumbnail");
-      var text = this.innerText;
-      var value = $(this).val();
-      var item = '<li><img src="' + img + '" alt="" value="' + value + '"/><span>' + text + '</span></li>';
-      langArray.push(item);
-    })
-
-    $('#a').html(langArray);
-
-    //Set the button value to the first el of the array
-    $('.btn-select').html(langArray[0]);
-    $('.btn-select').attr('value', 'en');
-
-    //change button stuff on click
-    $('#a li').click(function () {
-      var img = $(this).find('img').attr("src");
-      var value = $(this).find('img').attr('value');
-      var text = this.innerText;
-      var item = '<li><img src="' + img + '" alt="" /><span>' + text + '</span></li>';
-      $('.btn-select').html(item);
-      $('.btn-select').attr('value', value);
-      $(".b").toggle();
-      //console.log(value);
-    });
-
-    $(".btn-select").click(function () {
-      $(".b").toggle();
-    });
-
-    //check local storage for the lang
-    var sessionLang = localStorage.getItem('lang');
-    if (sessionLang) {
-      //find an item with value of sessionLang
-      var langIndex = langArray.indexOf(sessionLang);
-      $('.btn-select').html(langArray[langIndex]);
-      $('.btn-select').attr('value', sessionLang);
-    } else {
-      var langIndex = langArray.indexOf('ch');
-      console.log(langIndex);
-      $('.btn-select').html(langArray[langIndex]);
-      //$('.btn-select').attr('value', 'en');
-    }
-
-
-
-  </script>
 
 
 
