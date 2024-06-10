@@ -7,8 +7,8 @@ module.exports = {
     extend: {
      
       colors : {
-        "border-header"  : '#EEEEEE',
-        "sea-blue"  : '#2F5597'
+        "bg-section"  : '#F6F6F6',
+        "btnbg"  : '#964F4C'
         
         
         
