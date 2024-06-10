@@ -604,24 +604,20 @@ body {
   position: relative;
 }
 
-.right-0 {
-  right: 0px;
-}
-
-.bottom-16 {
-  bottom: 4rem;
-}
-
 .bottom-0 {
   bottom: 0px;
 }
 
-.z-\[90\] {
-  z-index: 90;
+.right-0 {
+  right: 0px;
 }
 
 .z-50 {
   z-index: 50;
+}
+
+.z-\[90\] {
+  z-index: 90;
 }
 
 .order-1 {
@@ -630,6 +626,10 @@ body {
 
 .order-3 {
   order: 3;
+}
+
+.m-auto {
+  margin: auto;
 }
 
 .mx-auto {
@@ -681,6 +681,10 @@ body {
   height: 100vh;
 }
 
+.h-full {
+  height: 100%;
+}
+
 .w-2 {
   width: 0.5rem;
 }
@@ -697,6 +701,14 @@ body {
   width: 100%;
 }
 
+.max-w-4 {
+  max-width: 1rem;
+}
+
+.max-w-96 {
+  max-width: 24rem;
+}
+
 .grow {
   flex-grow: 1;
 }
@@ -705,6 +717,10 @@ body {
   -webkit-appearance: none;
      -moz-appearance: none;
           appearance: none;
+}
+
+.flex-col {
+  flex-direction: column;
 }
 
 .items-center {
@@ -750,12 +766,12 @@ body {
   padding: 0.5rem;
 }
 
-.p-4 {
-  padding: 1rem;
-}
-
 .p-5 {
   padding: 1.25rem;
+}
+
+.p-4 {
+  padding: 1rem;
 }
 
 .px-4 {
@@ -778,6 +794,14 @@ body {
   padding-bottom: 10px;
 }
 
+.pb-10 {
+  padding-bottom: 2.5rem;
+}
+
+.text-center {
+  text-align: center;
+}
+
 .text-base {
   font-size: 1rem;
   line-height: 1.5rem;
@@ -786,6 +810,21 @@ body {
 .text-xl {
   font-size: 1.25rem;
   line-height: 1.75rem;
+}
+
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.text-5xl {
+  font-size: 3rem;
+  line-height: 1;
+}
+
+.text-3xl {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
 }
 
 .font-medium {
@@ -798,6 +837,10 @@ body {
 
 .font-thin {
   font-weight: 100;
+}
+
+.font-bold {
+  font-weight: 700;
 }
 
 .text-black {
