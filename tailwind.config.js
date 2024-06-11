@@ -8,7 +8,8 @@ module.exports = {
      
       colors : {
         "bg-section"  : '#F6F6F6',
-        "btnbg"  : '#964F4C'
+        "btnbg"  : '#964F4C',
+        "bgstart" : '#ffce31'
         
         
         
