@@ -9,7 +9,9 @@ module.exports = {
       colors : {
         "bg-section"  : '#F6F6F6',
         "btnbg"  : '#964F4C',
-        "bgstart" : '#ffce31'
+        "bgstart" : '#ffce31',
+        "title2" : '#232020',
+        "border2" : '#D2D3D3'
         
         
         
