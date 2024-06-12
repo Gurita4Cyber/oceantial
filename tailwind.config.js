@@ -11,7 +11,8 @@ module.exports = {
         "btnbg"  : '#964F4C',
         "bgstart" : '#ffce31',
         "title2" : '#232020',
-        "border2" : '#D2D3D3'
+        "border2" : '#D2D3D3',
+        "btnsosmed" : '#E0DED4'
         
         
         

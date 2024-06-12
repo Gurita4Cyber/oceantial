@@ -644,6 +644,10 @@ body {
   margin: auto;
 }
 
+.-m-4 {
+  margin: -1rem;
+}
+
 .-mx-2 {
   margin-left: -0.5rem;
   margin-right: -0.5rem;
@@ -711,12 +715,12 @@ body {
   margin-top: 0.75rem;
 }
 
-.mt-4 {
-  margin-top: 1rem;
-}
-
 .mt-6 {
   margin-top: 1.5rem;
+}
+
+.mt-8 {
+  margin-top: 2rem;
 }
 
 .block {
@@ -779,8 +783,8 @@ body {
   width: 1rem;
 }
 
-.w-40 {
-  width: 10rem;
+.w-60 {
+  width: 15rem;
 }
 
 .w-7 {
@@ -910,6 +914,11 @@ body {
   background-color: rgb(153 27 27 / var(--tw-bg-opacity));
 }
 
+.bg-btnsosmed {
+  --tw-bg-opacity: 1;
+  background-color: rgb(224 222 212 / var(--tw-bg-opacity));
+}
+
 .fill-white {
   fill: #fff;
 }
@@ -940,8 +949,16 @@ body {
   padding: 1.25rem;
 }
 
+.p-6 {
+  padding: 1.5rem;
+}
+
 .p-8 {
   padding: 2rem;
+}
+
+.p-3 {
+  padding: 0.75rem;
 }
 
 .px-4 {
@@ -957,6 +974,11 @@ body {
 .px-6 {
   padding-left: 1.5rem;
   padding-right: 1.5rem;
+}
+
+.py-20 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
 }
 
 .py-24 {
@@ -1009,10 +1031,6 @@ body {
   padding-right: 0px;
 }
 
-.pt-10 {
-  padding-top: 2.5rem;
-}
-
 .pt-20 {
   padding-top: 5rem;
 }
@@ -1023,6 +1041,10 @@ body {
 
 .pt-6 {
   padding-top: 1.5rem;
+}
+
+.pb-20 {
+  padding-bottom: 5rem;
 }
 
 .text-left {
@@ -1287,12 +1309,30 @@ body {
     padding-right: 4rem;
   }
 
+  .lg\:px-20 {
+    padding-left: 5rem;
+    padding-right: 5rem;
+  }
+
+  .lg\:px-80 {
+    padding-left: 20rem;
+    padding-right: 20rem;
+  }
+
   .lg\:pb-16 {
     padding-bottom: 4rem;
   }
 
+  .lg\:pb-40 {
+    padding-bottom: 10rem;
+  }
+
   .lg\:pb-5 {
     padding-bottom: 1.25rem;
+  }
+
+  .lg\:pt-20 {
+    padding-top: 5rem;
   }
 
   .lg\:pt-4 {
