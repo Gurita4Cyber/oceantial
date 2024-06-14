@@ -31,33 +31,41 @@ var back_to_top = function(){
 };
 
 
-var open_sticky = function(){
-  "use strict";
-  $('.open-sticky').click(function(){
-    var get_id = $(this).attr('title');
-  $('body').toggleClass('disable-scroll');
-  $(this).toggleClass('show-sticky');
-  $('.open-sticky').not(this).removeClass('show-sticky');
-    $('#float-' + get_id).slideToggle('fast');
-    $('.float-bottom').not('#float-' + get_id).slideUp('fast');
-    return false;
-  }); 
-  
-  $('.fbc-overlay, .fbc-bar > span, .fcb-close').click(function(){
-    $('body').removeClass('disable-scroll');
-  $('.open-sticky').removeClass('show-sticky');
-    $('.float-bottom').slideUp('fast');
-    return false;
-  });
+
+let burger = document.getElementById("navTrigger"),
+nav = document.getElementById("navMenu");
+
+burger.addEventListener("click", function (e) {
+this.classList.toggle("active");
+nav.classList.toggle("active");
+});
+
+// Get the button
+const menuHead = document.getElementById("menuHead");
+
+// When the user scrolls down 20px from the top of the document, show the button
+
+const scrollFunction = () => {
+if (
+    document.body.scrollTop > 20 ||
+    document.documentElement.scrollTop > 20
+) {
+    mybutton.classList.remove("hidden");
+    menuHead.classList.add("bg-default");
+    menuHead.classList.add("drop-shadow-lg");
+
+} else {
+    mybutton.classList.add("hidden");
+    menuHead.classList.remove("bg-default");
+    menuHead.classList.remove("drop-shadow-lg");
+
+}
 };
-
-
 
 
 $(document).ready(function(){
   "use strict";
   all_scroll();
   back_to_top();
-  open_sticky()
   
 });
