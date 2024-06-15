@@ -44,73 +44,131 @@
 </head>
 
 <body>
-  <header class="text-white fixed z-[90] lg:bg-menu-bg w-full lg:pt-4 lg:pb-5 lg:px-20" id="menuHead">
+  <header class="text-white fixed z-[90] lg:bg-menu-bg w-full lg:pt-4 lg:pb-4 lg:px-20 " id="menuHead">
     <div class="lg:container lg:mx-auto">
       <div class="hidden lg:flex justify-between items-center">
         <div class="order-1 justify-between flex gap-16 items-center">
-          <a class="block" href="#">
+          <a class="block lg:pb-5" href="#">
 
-            <img src="img/logo.png" alt="">
+            <img class="logodefault" src="img/logo.png" alt="">
+            <img class="hidden logodark" src="img/logo2.png" alt="">
 
           </a>
-          <!-- navigation -->
-          <ul class="flex items-center">
-            <li class="grow px-4 py-[10px] rounded-3xl text-base hover:opacity-100  opacity-100">
-              <a href="index.html">
+          <!-- navigation desktop -->
+          <div class="flex items-center nav-header">
+
+            <div class="nav-a">
+              <a href="index.html" class="px-6 py-6 text-base inline-flex items-center">
                 Home
               </a>
-            </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle dropdown-toggle-nocaret" href="tv-shows.html"
-                data-bs-toggle="dropdown">
-                Categories
-              </a>
-              <div class="dropdown-menu dropdown-large-menu">
-                <div class="row">
-                  <div class="col-12 col-xl-4">
-                    <ul class="list-unstyled">
-                      <li><a href="shop-grid-left-sidebar.html">Open Face</a>
-                      </li>
-                      <li><a href="shop-grid-left-sidebar.html">Full Face</a>
-                      </li>
-                      <li><a href="shop-grid-left-sidebar.html">Modular</a>
-                      </li>
-                      <li><a href="shop-grid-left-sidebar.html">Off Road</a>
-                      </li>
-                      <li><a href="shop-grid-left-sidebar.html">Bogo</a></li>
-                    </ul>
-                  </div>
-                  <div class="col-12 col-xl-4 d-none d-xl-block">
-                    <div class="pramotion-banner1">
-                      <img src="assets/images/gallery/menu-img.jpg" class="img-fluid" alt="" />
-                    </div>
-                  </div>
-                  <div class="col-12 col-xl-4 d-none d-xl-block">
-                    <div class="pramotion-banner1">
-                      <img src="assets/images/gallery/menu-img.jpg" class="img-fluid" alt="" />
-                    </div>
-                  </div>
-                  <!-- end col-3 -->
+            </div>
+
+            <div class="nav-a toggleable vfb-checkbox">
+
+              <input type="checkbox" value="selected" id="toggle-one" class="toggle-input">
+              <label for="toggle-one" class="block cursor-pointer py-6 px-4 lg:p-6 text-sm lg:text-base">Shop</label>
+              <div role="toggle" class="p-6 mega-menu mb-16 sm:mb-0 shadow-xl bg-white">
+                <div class="container mx-auto w-full flex flex-wrap justify-between">
+                  <ul
+                    class="px-4 w-full sm:w-1/2 lg:w-1/4 border-gray-600 border-b sm:border-r lg:border-b-0 pb-6 pt-6 lg:pt-3">
+                    <h3 class="font-bold text-xl text-white text-bold mb-2">Heading 1</h3>
+                    <li>
+                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
+                        Sublink</a>
+                    </li>
+                    <li>
+                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
+                        Sublink</a>
+                    </li>
+                    <li>
+                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
+                        Sublink</a>
+                    </li>
+                    <li>
+                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
+                        Sublink</a>
+                    </li>
+                    <li>
+                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
+                        Sublink</a>
+                    </li>
+                  </ul>
+                  <ul
+                    class="px-4 w-full sm:w-1/2 lg:w-1/4 border-gray-600 border-b sm:border-r-0 lg:border-r lg:border-b-0 pb-6 pt-6 lg:pt-3">
+                    <h3 class="font-bold text-xl text-white text-bold mb-2">Heading 2</h3>
+                    <li>
+                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
+                        Sublink</a>
+                    </li>
+                    <li>
+                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
+                        Sublink</a>
+                    </li>
+                    <li>
+                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
+                        Sublink</a>
+                    </li>
+                    <li>
+                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
+                        Sublink</a>
+                    </li>
+                    <li>
+                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
+                        Sublink</a>
+                    </li>
+                  </ul>
+                  <ul
+                    class="px-4 w-full sm:w-1/2 lg:w-1/4 border-gray-600 border-b sm:border-b-0 sm:border-r md:border-b-0 pb-6 pt-6 lg:pt-3">
+                    <h3 class="font-bold text-xl text-white text-bold">Heading 3</h3>
+                    <li>
+                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
+                        Sublink</a>
+                    </li>
+                    <li>
+                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
+                        Sublink</a>
+                    </li>
+                    <li>
+                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
+                        Sublink</a>
+                    </li>
+                    <li>
+                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
+                        Sublink</a>
+                    </li>
+                    <li>
+                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
+                        Sublink</a>
+                    </li>
+                  </ul>
+                  <ul class="px-4 w-full sm:w-1/2 lg:w-1/4 border-gray-600 pb-6 pt-6 lg:pt-3">
+                    <h3 class="font-bold text-xl text-white text-bold mb-2">Heading 4</h3>
+                    <li class="pt-3">
+                      <img src="https://placehold.it/205x172">
+                    </li>
+                  </ul>
                 </div>
-                <!-- end row -->
               </div>
-            <li>
-              <a href="partners.html" class="grow px-6 py-4 rounded-3xl text-base hover:opacity-100 opacity-70">
+            </div>
+            <div class="nav-a">
+              <a href="how-it-works.html" class="px-6 py-6 text-base inline-flex items-center">
                 How it Works
               </a>
-            </li>
-            <li>
-              <a href="article.html" class="grow px-6 py-4 rounded-3xl text-base hover:opacity-100 opacity-70">
+            </div>
+            <div class="nav-a">
+              <a href="faqs.html" class="px-6 py-6 text-base inline-flex items-center">
                 FAQs
               </a>
-            </li>
-            <li>
-              <a href="contact-us.html" class="grow px-6 py-4 rounded-3xl text-base hover:opacity-100 opacity-70">
+            </div>
+
+            <div class="nav-a">
+              <a href="about-us.html" class="px-6 py-6 text-base inline-flex items-center">
                 About Us
               </a>
-            </li>
+            </div>
 
-          </ul>
+
+          </div>
         </div>
 
 
@@ -144,9 +202,28 @@
                 </div>
               </div>
             </div>
-            <div class="text-white ml-6 rounded border appearance-none border-white ">
+            <div class="text-white ml-6 rounded border appearance-none border-white efectmenu">
               <a href="" class="p-2 flex font-normal items-center">
-                <img class="mr-2 w-4 h-4" src="img/cart.png" alt="">
+                <svg class="mr-3" width="16" height="16" viewBox="0 0 16 16" fill="none"
+                  xmlns="http://www.w3.org/2000/svg">
+                  <g clip-path="url(#clip0_1668_5945)">
+                    <path fill-rule="evenodd" clip-rule="evenodd"
+                      d="M0.666667 0C0.298477 0 0 0.298477 0 0.666667C0 1.03486 0.298477 1.33333 0.666667 1.33333H2.78688L3.3413 4.10338C3.34425 4.12236 3.34801 4.14106 3.35253 4.15947L4.46611 9.72321C4.55764 10.1834 4.80817 10.5973 5.17365 10.8915C5.53747 11.1844 5.99225 11.3406 6.4591 11.3333H12.9276C13.3944 11.3406 13.8492 11.1844 14.213 10.8915C14.5787 10.5972 14.8291 10.1836 14.9206 9.72321L14.9215 9.71822L15.9882 4.12488C16.0254 3.92972 15.9736 3.72812 15.847 3.57504C15.7203 3.42195 15.532 3.33333 15.3333 3.33333H4.54695L3.98704 0.535829C3.92467 0.224257 3.65108 0 3.33333 0H0.666667ZM4.81382 4.66667H14.5275L13.6123 9.4656C13.5815 9.6182 13.4982 9.75523 13.3769 9.85289C13.255 9.951 13.1025 10.0031 12.9461 10.0001L12.9333 10H6.45333L6.44056 10.0001C6.28413 10.0031 6.13162 9.951 6.00974 9.85289C5.88786 9.75478 5.80437 9.61692 5.77389 9.46346L4.81382 4.66667Z"
+                      fill="white" />
+                    <path
+                      d="M4.66667 14C4.66667 13.2636 5.26362 12.6667 6 12.6667C6.73638 12.6667 7.33333 13.2636 7.33333 14C7.33333 14.7364 6.73638 15.3333 6 15.3333C5.26362 15.3333 4.66667 14.7364 4.66667 14Z"
+                      fill="white" />
+                    <path
+                      d="M12 14C12 13.2636 12.597 12.6667 13.3333 12.6667C14.0697 12.6667 14.6667 13.2636 14.6667 14C14.6667 14.7364 14.0697 15.3333 13.3333 15.3333C12.597 15.3333 12 14.7364 12 14Z"
+                      fill="white" />
+                  </g>
+                  <defs>
+                    <clipPath id="clip0_1668_5945">
+                      <rect width="16" height="16" fill="white" />
+                    </clipPath>
+                  </defs>
+                </svg>
+
                 Shop Now
               </a>
 
@@ -175,28 +252,27 @@
         <div class="navMenu navfont" id="navMenu">
           <ul>
             <li>
-              <a href="index.html"
-                class="text-default grow px-6 py-4 rounded-3xl text-xl be-vietnam pro-bold opacity-100">
+              <a href="index.html" class="text-default grow px-6 py-4 text-xl be-vietnam pro-bold opacity-100">
                 Home
               </a>
             </li>
             <li>
-              <a href="about-us.html" class="text-default grow px-6 py-4 rounded-3xl text-xl opacity-70">
+              <a href="about-us.html" class="text-default grow px-6 py-4 text-xl opacity-70">
                 Shop
               </a>
             </li>
             <li>
-              <a href="partners.html" class="text-default grow px-6 py-4 rounded-3xl text-xl opacity-70">
+              <a href="partners.html" class="text-default grow px-6 py-4 text-xl opacity-70">
                 How It Works
               </a>
             </li>
             <li>
-              <a href="article.html" class="text-default grow px-6 py-4 rounded-3xl text-xl opacity-70">
+              <a href="article.html" class="text-default grow px-6 py-4 text-xl opacity-70">
                 FAQs
               </a>
             </li>
             <li>
-              <a href="contact-us.html" class="text-default grow px-6 py-4 rounded-3xl text-xl opacity-70">
+              <a href="contact-us.html" class="text-default grow px-6 py-4 text-xl opacity-70">
                 About Us
               </a>
             </li>

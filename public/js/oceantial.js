@@ -30,6 +30,23 @@ var back_to_top = function(){
   }); 
 };
 
+var chekbox = function(){
+  "use strict";
+  $('.vfb-checkbox input:checkbox').change(function(){
+    if($(this).is(":checked")) {
+        $('header').addClass("menuitemshow");
+        $('.logodefault').addClass("none");
+        $('.logodark').addClass("show");
+    } else {
+        $('header').removeClass("menuitemshow");
+        $('.logodefault').removeClass("none");
+        $('.logodark').removeClass("show");
+    }
+  });
+};
+
+
+
 
 
 let burger = document.getElementById("navTrigger"),
@@ -67,5 +84,6 @@ $(document).ready(function(){
   "use strict";
   all_scroll();
   back_to_top();
+  chekbox();
   
 });
