@@ -41,246 +41,43 @@
   <link href="css/oceantial.css" rel="stylesheet">
   <link href="css/custom.css" rel="stylesheet">
 
+  <script>
+    function includeHTML() {
+      var z, i, elmnt, file, xhttp;
+      /*loop through a collection of all HTML elements:*/
+      z = document.getElementsByTagName("*");
+      for (i = 0; i < z.length; i++) {
+        elmnt = z[i];
+        /*search for elements with a certain atrribute:*/
+        file = elmnt.getAttribute("w3-include-html");
+        if (file) {
+          /*make an HTTP request using the attribute value as the file name:*/
+          xhttp = new XMLHttpRequest();
+          xhttp.onreadystatechange = function () {
+            if (this.readyState == 4) {
+              if (this.status == 200) { elmnt.innerHTML = this.responseText; }
+              if (this.status == 404) { elmnt.innerHTML = "Page not found."; }
+              /*remove the attribute, and call this function once more:*/
+              elmnt.removeAttribute("w3-include-html");
+              includeHTML();
+            }
+          }
+          xhttp.open("GET", file, true);
+          xhttp.send();
+          /*exit the function:*/
+          return;
+        }
+      }
+    };
+  </script>
+
 </head>
 
 <body>
-  <header class="text-white fixed z-[90] lg:bg-menu-bg w-full lg:pt-4 lg:pb-4 lg:px-20 " id="menuHead">
-    <div class="lg:container lg:mx-auto">
-      <div class="hidden lg:flex justify-between items-center">
-        <div class="order-1 justify-between flex gap-16 items-center">
-          <a class="block lg:pb-5" href="#">
 
-            <img class="logodefault" src="img/logo.png" alt="">
-            <img class="hidden logodark" src="img/logo2.png" alt="">
-
-          </a>
-          <!-- navigation desktop -->
-          <div class="flex items-center nav-header">
-
-            <div class="nav-a">
-              <a href="index.html" class="px-6 py-6 text-base inline-flex items-center">
-                Home
-              </a>
-            </div>
-
-            <div class="nav-a toggleable vfb-checkbox">
-
-              <input type="checkbox" value="selected" id="toggle-one" class="toggle-input">
-              <label for="toggle-one" class="block cursor-pointer py-6 px-4 lg:p-6 text-sm lg:text-base">Shop</label>
-              <div role="toggle" class="p-6 mega-menu mb-16 sm:mb-0 shadow-xl bg-white">
-                <div class="container mx-auto w-full flex flex-wrap justify-between">
-                  <ul
-                    class="px-4 w-full sm:w-1/2 lg:w-1/4 border-gray-600 border-b sm:border-r lg:border-b-0 pb-6 pt-6 lg:pt-3">
-                    <h3 class="font-bold text-xl text-white text-bold mb-2">Heading 1</h3>
-                    <li>
-                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
-                        Sublink</a>
-                    </li>
-                    <li>
-                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
-                        Sublink</a>
-                    </li>
-                    <li>
-                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
-                        Sublink</a>
-                    </li>
-                    <li>
-                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
-                        Sublink</a>
-                    </li>
-                    <li>
-                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
-                        Sublink</a>
-                    </li>
-                  </ul>
-                  <ul
-                    class="px-4 w-full sm:w-1/2 lg:w-1/4 border-gray-600 border-b sm:border-r-0 lg:border-r lg:border-b-0 pb-6 pt-6 lg:pt-3">
-                    <h3 class="font-bold text-xl text-white text-bold mb-2">Heading 2</h3>
-                    <li>
-                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
-                        Sublink</a>
-                    </li>
-                    <li>
-                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
-                        Sublink</a>
-                    </li>
-                    <li>
-                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
-                        Sublink</a>
-                    </li>
-                    <li>
-                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
-                        Sublink</a>
-                    </li>
-                    <li>
-                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
-                        Sublink</a>
-                    </li>
-                  </ul>
-                  <ul
-                    class="px-4 w-full sm:w-1/2 lg:w-1/4 border-gray-600 border-b sm:border-b-0 sm:border-r md:border-b-0 pb-6 pt-6 lg:pt-3">
-                    <h3 class="font-bold text-xl text-white text-bold">Heading 3</h3>
-                    <li>
-                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
-                        Sublink</a>
-                    </li>
-                    <li>
-                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
-                        Sublink</a>
-                    </li>
-                    <li>
-                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
-                        Sublink</a>
-                    </li>
-                    <li>
-                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
-                        Sublink</a>
-                    </li>
-                    <li>
-                      <a href="#" class="block p-3 hover:bg-blue-600 text-gray-300 hover:text-white">Category One
-                        Sublink</a>
-                    </li>
-                  </ul>
-                  <ul class="px-4 w-full sm:w-1/2 lg:w-1/4 border-gray-600 pb-6 pt-6 lg:pt-3">
-                    <h3 class="font-bold text-xl text-white text-bold mb-2">Heading 4</h3>
-                    <li class="pt-3">
-                      <img src="https://placehold.it/205x172">
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-            <div class="nav-a">
-              <a href="how-it-works.html" class="px-6 py-6 text-base inline-flex items-center">
-                How it Works
-              </a>
-            </div>
-            <div class="nav-a">
-              <a href="faqs.html" class="px-6 py-6 text-base inline-flex items-center">
-                FAQs
-              </a>
-            </div>
-
-            <div class="nav-a">
-              <a href="about-us.html" class="px-6 py-6 text-base inline-flex items-center">
-                About Us
-              </a>
-            </div>
+  <div w3-include-html="header.html"></div>
 
 
-          </div>
-        </div>
-
-
-
-        <div class="navfont order-3 lg:flex hidden sm:hidden text-biru">
-          <div class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
-
-
-            <div class=" text-white text-xl font-thin flex items-center">
-              <div class="flex ml-6 items-center">
-
-                <div class="relative">
-                  <select class="vodiapicker">
-                    <option value="en" class="test" data-thumbnail="img/en.png">
-                      EN
-                    </option>
-                    <option value="au" data-thumbnail="img/in.png">
-                      IN</option>
-
-
-                  </select>
-
-
-
-                  <div class="lang-select">
-                    <button class="btn-select" value=""></button>
-                    <div class="b">
-                      <ul id="a" class="sel"></ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="text-white ml-6 rounded border appearance-none border-white efectmenu">
-              <a href="" class="p-2 flex font-normal items-center">
-                <svg class="mr-3" width="16" height="16" viewBox="0 0 16 16" fill="none"
-                  xmlns="http://www.w3.org/2000/svg">
-                  <g clip-path="url(#clip0_1668_5945)">
-                    <path fill-rule="evenodd" clip-rule="evenodd"
-                      d="M0.666667 0C0.298477 0 0 0.298477 0 0.666667C0 1.03486 0.298477 1.33333 0.666667 1.33333H2.78688L3.3413 4.10338C3.34425 4.12236 3.34801 4.14106 3.35253 4.15947L4.46611 9.72321C4.55764 10.1834 4.80817 10.5973 5.17365 10.8915C5.53747 11.1844 5.99225 11.3406 6.4591 11.3333H12.9276C13.3944 11.3406 13.8492 11.1844 14.213 10.8915C14.5787 10.5972 14.8291 10.1836 14.9206 9.72321L14.9215 9.71822L15.9882 4.12488C16.0254 3.92972 15.9736 3.72812 15.847 3.57504C15.7203 3.42195 15.532 3.33333 15.3333 3.33333H4.54695L3.98704 0.535829C3.92467 0.224257 3.65108 0 3.33333 0H0.666667ZM4.81382 4.66667H14.5275L13.6123 9.4656C13.5815 9.6182 13.4982 9.75523 13.3769 9.85289C13.255 9.951 13.1025 10.0031 12.9461 10.0001L12.9333 10H6.45333L6.44056 10.0001C6.28413 10.0031 6.13162 9.951 6.00974 9.85289C5.88786 9.75478 5.80437 9.61692 5.77389 9.46346L4.81382 4.66667Z"
-                      fill="white" />
-                    <path
-                      d="M4.66667 14C4.66667 13.2636 5.26362 12.6667 6 12.6667C6.73638 12.6667 7.33333 13.2636 7.33333 14C7.33333 14.7364 6.73638 15.3333 6 15.3333C5.26362 15.3333 4.66667 14.7364 4.66667 14Z"
-                      fill="white" />
-                    <path
-                      d="M12 14C12 13.2636 12.597 12.6667 13.3333 12.6667C14.0697 12.6667 14.6667 13.2636 14.6667 14C14.6667 14.7364 14.0697 15.3333 13.3333 15.3333C12.597 15.3333 12 14.7364 12 14Z"
-                      fill="white" />
-                  </g>
-                  <defs>
-                    <clipPath id="clip0_1668_5945">
-                      <rect width="16" height="16" fill="white" />
-                    </clipPath>
-                  </defs>
-                </svg>
-
-                Shop Now
-              </a>
-
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-      <!-- mobile -->
-      <div class="lg:hidden block">
-        <div class="lg:flex bg-g-orange py-4 px-4 lg:px-0 items-center flex relative">
-          <a class="" href="index.php">
-            <img src="img/logo.png" alt="">
-          </a>
-          <button class="navTrigger" id="navTrigger">
-            <svg viewBox="0 0 64 48">
-              <path d="M19,15 L45,15 C70,15 58,-2 49.0177126,7 L19,37"></path>
-              <path d="M19,24 L45,24 C61.2371586,24 57,49 41,33 L32,24"></path>
-              <path d="M45,33 L19,33 C-8,33 6,-2 22,14 L45,37"></path>
-            </svg>
-          </button>
-        </div>
-
-        <!-- navigation -->
-        <div class="navMenu navfont" id="navMenu">
-          <ul>
-            <li>
-              <a href="index.html" class="text-default grow px-6 py-4 text-xl be-vietnam pro-bold opacity-100">
-                Home
-              </a>
-            </li>
-            <li>
-              <a href="about-us.html" class="text-default grow px-6 py-4 text-xl opacity-70">
-                Shop
-              </a>
-            </li>
-            <li>
-              <a href="partners.html" class="text-default grow px-6 py-4 text-xl opacity-70">
-                How It Works
-              </a>
-            </li>
-            <li>
-              <a href="article.html" class="text-default grow px-6 py-4 text-xl opacity-70">
-                FAQs
-              </a>
-            </li>
-            <li>
-              <a href="contact-us.html" class="text-default grow px-6 py-4 text-xl opacity-70">
-                About Us
-              </a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </header>
   <section class="text-black lg:h-screen relative">
 
     <div class="absolute w-full h-full flex items-center">
@@ -299,7 +96,7 @@
     <div class="container mx-auto flex flex-wrap">
       <div class="lg:py-24 py-10 lg:px-16 container mx-auto">
         <div class="text-center">
-          <h2 class="font-bold text-3xl py-20">Inspired by the ocean, crafted for you</h2>
+          <h2 class="font-bold text-3xl capitalize py-20">Inspired by the ocean, crafted for you</h2>
         </div>
       </div>
       <div class=" w-full mx-auto p-4 lg:p-0">
@@ -392,7 +189,7 @@
     <div class="container mx-auto flex flex-wrap">
       <div class="container mx-auto">
         <div class="text-center">
-          <h2 class="font-bold text-3xl py-20">Healthy skin starts here</h2>
+          <h2 class="font-bold text-3xl capitalize py-20">Healthy skin starts here</h2>
         </div>
       </div>
       <div class="flex flex-wrap w-full">
@@ -709,7 +506,7 @@
     <div class="container mx-auto flex flex-wrap">
       <div class="container mx-auto">
         <div class="text-center">
-          <h2 class="font-bold text-3xl lg:py-20 py-10">What they say about us </h2>
+          <h2 class="font-bold text-3xl capitalize lg:py-20 py-10">What they say about us </h2>
         </div>
       </div>
       <div class="flex flex-wrap">
@@ -801,7 +598,7 @@
     <div class="container mx-auto flex flex-wrap">
       <div class="lg:px-16 container mx-auto">
         <div class="text-center">
-          <h2 class="font-bold text-3xl py-20">Everyday with Ocential </h2>
+          <h2 class="font-bold text-3xl capitalize py-20">Everyday with Ocential </h2>
         </div>
       </div>
       <div class="flex flex-wrap">
@@ -1040,109 +837,47 @@
 
   <section class="w-full desktop-only lg:pb-40 lg:pt-20 lg:px-20">
     <div class="container mx-auto">
-      <div class="container pl-4 pb-6">
-        <div class="text-left">
-          <h2 class="font-bold text-3xl">Showerhead </h2>
-        </div>
-      </div>
-      <div class="flex flex-wrap ">
-        <div class="lg:w-1/4 w-1/2 p-5">
-          <a class="block relative rounded overflow-hidden">
-            <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/1.jpg">
-          </a>
-          <div class="mt-8">
-            <div class="inline-flex items-center">
-              <h2 class="text-title2 text-lg  mb-1 font-semibold">Aromica</h2>
-              <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path
-                  d="M7.16683 19.1914L5.5835 16.5247L2.5835 15.8581L2.87516 12.7747L0.833496 10.4414L2.87516 8.10807L2.5835 5.02474L5.5835 4.35807L7.16683 1.69141L10.0002 2.89974L12.8335 1.69141L14.4168 4.35807L17.4168 5.02474L17.1252 8.10807L19.1668 10.4414L17.1252 12.7747L17.4168 15.8581L14.4168 16.5247L12.8335 19.1914L10.0002 17.9831L7.16683 19.1914ZM9.12516 13.3997L13.8335 8.69141L12.6668 7.48307L9.12516 11.0247L7.3335 9.27474L6.16683 10.4414L9.12516 13.3997Z"
-                  fill="#66102D" />
-              </svg>
-
-            </div>
-
-            <h2 class="text-title2 title-font text-lg font-normal mt-3">Showerhead Handheld - Luxe Chrome</h2>
-            <p class="mt-6 text-black font-normal">IDR 299,000</p>
-          </div>
-        </div>
-        <div class="lg:w-1/4 w-1/2 p-5">
-          <a class="block relative rounded overflow-hidden">
-            <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/1.jpg">
-          </a>
-          <div class="mt-8">
-            <div class="inline-flex items-center">
-              <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
-              <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path
-                  d="M7.16683 19.1914L5.5835 16.5247L2.5835 15.8581L2.87516 12.7747L0.833496 10.4414L2.87516 8.10807L2.5835 5.02474L5.5835 4.35807L7.16683 1.69141L10.0002 2.89974L12.8335 1.69141L14.4168 4.35807L17.4168 5.02474L17.1252 8.10807L19.1668 10.4414L17.1252 12.7747L17.4168 15.8581L14.4168 16.5247L12.8335 19.1914L10.0002 17.9831L7.16683 19.1914ZM9.12516 13.3997L13.8335 8.69141L12.6668 7.48307L9.12516 11.0247L7.3335 9.27474L6.16683 10.4414L9.12516 13.3997Z"
-                  fill="#004E98" />
-              </svg>
-            </div>
-
-            <h2 class="text-title2 title-font text-lg font-normal mt-3">Showerhead Handheld - Luxe Chrome</h2>
-            <p class="mt-6 text-black font-normal">IDR 299,000</p>
-          </div>
-        </div>
-        <div class="lg:w-1/4 w-1/2 p-5">
-          <a class="block relative rounded overflow-hidden">
-            <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/1.jpg">
-          </a>
-          <div class="mt-8">
-            <div class="inline-flex items-center">
-              <h2 class="text-title2 text-lg  mb-1 font-semibold">Aromica</h2>
-              <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path
-                  d="M7.16683 19.1914L5.5835 16.5247L2.5835 15.8581L2.87516 12.7747L0.833496 10.4414L2.87516 8.10807L2.5835 5.02474L5.5835 4.35807L7.16683 1.69141L10.0002 2.89974L12.8335 1.69141L14.4168 4.35807L17.4168 5.02474L17.1252 8.10807L19.1668 10.4414L17.1252 12.7747L17.4168 15.8581L14.4168 16.5247L12.8335 19.1914L10.0002 17.9831L7.16683 19.1914ZM9.12516 13.3997L13.8335 8.69141L12.6668 7.48307L9.12516 11.0247L7.3335 9.27474L6.16683 10.4414L9.12516 13.3997Z"
-                  fill="#66102D" />
-              </svg>
-
-            </div>
-
-            <h2 class="text-title2 title-font text-lg font-normal mt-3">Showerhead Handheld - Luxe Chrome</h2>
-            <p class="mt-6 text-black font-normal">IDR 299,000</p>
-          </div>
-        </div>
-        <div class="lg:w-1/4 w-1/2 p-5">
-          <a class="block relative rounded overflow-hidden">
-            <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/1.jpg">
-          </a>
-          <div class="mt-8">
-            <div class="inline-flex items-center">
-              <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
-              <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path
-                  d="M7.16683 19.1914L5.5835 16.5247L2.5835 15.8581L2.87516 12.7747L0.833496 10.4414L2.87516 8.10807L2.5835 5.02474L5.5835 4.35807L7.16683 1.69141L10.0002 2.89974L12.8335 1.69141L14.4168 4.35807L17.4168 5.02474L17.1252 8.10807L19.1668 10.4414L17.1252 12.7747L17.4168 15.8581L14.4168 16.5247L12.8335 19.1914L10.0002 17.9831L7.16683 19.1914ZM9.12516 13.3997L13.8335 8.69141L12.6668 7.48307L9.12516 11.0247L7.3335 9.27474L6.16683 10.4414L9.12516 13.3997Z"
-                  fill="#004E98" />
-              </svg>
-            </div>
-
-            <h2 class="text-title2 title-font text-lg font-normal mt-3">Showerhead Handheld - Luxe Chrome</h2>
-            <p class="mt-6 text-black font-normal">IDR 299,000</p>
-          </div>
-        </div>
-
-        <div class="container pb-6 pt-20 pl-4">
+      <!-- showerhead -->
+      <div class="product-list">
+        <div class="container pl-4 pb-6">
           <div class="text-left">
-            <h2 class="font-bold text-3xl">Showerhead Kids Series </h2>
+            <h2 class="font-bold text-3xl capitalize">Showerhead </h2>
           </div>
         </div>
-        <div class="flex flex-wrap">
+        <div class="flex flex-wrap w-full">
+          <div class="lg:w-1/4 w-1/2 p-5">
+            <a class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/1.jpg">
+            </a>
+            <div class="mt-8">
+              <div class="inline-flex items-center">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z"
+                    fill="#01ADEF" />
+                </svg>
+              </div>
+
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">Showerhead Handheld - Showerhead 801</h2>
+              <p class="mt-6 text-black font-normal">IDR 299,000</p>
+            </div>
+          </div>
           <div class="lg:w-1/4 w-1/2 p-5">
             <a class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/2.jpg">
             </a>
             <div class="mt-8">
               <div class="inline-flex items-center">
-                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aromica</h2>
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path
-                    d="M7.16683 19.1914L5.5835 16.5247L2.5835 15.8581L2.87516 12.7747L0.833496 10.4414L2.87516 8.10807L2.5835 5.02474L5.5835 4.35807L7.16683 1.69141L10.0002 2.89974L12.8335 1.69141L14.4168 4.35807L17.4168 5.02474L17.1252 8.10807L19.1668 10.4414L17.1252 12.7747L17.4168 15.8581L14.4168 16.5247L12.8335 19.1914L10.0002 17.9831L7.16683 19.1914ZM9.12516 13.3997L13.8335 8.69141L12.6668 7.48307L9.12516 11.0247L7.3335 9.27474L6.16683 10.4414L9.12516 13.3997Z"
-                    fill="#66102D" />
+                    d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z"
+                    fill="#01ADEF" />
                 </svg>
-
               </div>
 
-              <h2 class="text-title2 title-font text-lg font-normal mt-3">Showerhead Handheld - Luxe Chrome</h2>
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">Showerhead Handheld - Showerhead 701</h2>
               <p class="mt-6 text-black font-normal">IDR 299,000</p>
             </div>
           </div>
@@ -1152,34 +887,17 @@
             </a>
             <div class="mt-8">
               <div class="inline-flex items-center">
-                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
-                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                  <path
-                    d="M7.16683 19.1914L5.5835 16.5247L2.5835 15.8581L2.87516 12.7747L0.833496 10.4414L2.87516 8.10807L2.5835 5.02474L5.5835 4.35807L7.16683 1.69141L10.0002 2.89974L12.8335 1.69141L14.4168 4.35807L17.4168 5.02474L17.1252 8.10807L19.1668 10.4414L17.1252 12.7747L17.4168 15.8581L14.4168 16.5247L12.8335 19.1914L10.0002 17.9831L7.16683 19.1914ZM9.12516 13.3997L13.8335 8.69141L12.6668 7.48307L9.12516 11.0247L7.3335 9.27474L6.16683 10.4414L9.12516 13.3997Z"
-                    fill="#004E98" />
-                </svg>
-              </div>
-
-              <h2 class="text-title2 title-font text-lg font-normal mt-3">Showerhead Handheld - Luxe Chrome</h2>
-              <p class="mt-6 text-black font-normal">IDR 299,000</p>
-            </div>
-          </div>
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
-              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/4.jpg">
-            </a>
-            <div class="mt-8">
-              <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aromica</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path
-                    d="M7.16683 19.1914L5.5835 16.5247L2.5835 15.8581L2.87516 12.7747L0.833496 10.4414L2.87516 8.10807L2.5835 5.02474L5.5835 4.35807L7.16683 1.69141L10.0002 2.89974L12.8335 1.69141L14.4168 4.35807L17.4168 5.02474L17.1252 8.10807L19.1668 10.4414L17.1252 12.7747L17.4168 15.8581L14.4168 16.5247L12.8335 19.1914L10.0002 17.9831L7.16683 19.1914ZM9.12516 13.3997L13.8335 8.69141L12.6668 7.48307L9.12516 11.0247L7.3335 9.27474L6.16683 10.4414L9.12516 13.3997Z"
-                    fill="#66102D" />
+                    d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z"
+                    fill="#01ADEF" />
                 </svg>
 
               </div>
 
-              <h2 class="text-title2 title-font text-lg font-normal mt-3">Showerhead Handheld - Luxe Chrome</h2>
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">Showerhead Handheld - Medium AS9000 Vitamin C
+              </h2>
               <p class="mt-6 text-black font-normal">IDR 299,000</p>
             </div>
           </div>
@@ -1192,36 +910,57 @@
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path
-                    d="M7.16683 19.1914L5.5835 16.5247L2.5835 15.8581L2.87516 12.7747L0.833496 10.4414L2.87516 8.10807L2.5835 5.02474L5.5835 4.35807L7.16683 1.69141L10.0002 2.89974L12.8335 1.69141L14.4168 4.35807L17.4168 5.02474L17.1252 8.10807L19.1668 10.4414L17.1252 12.7747L17.4168 15.8581L14.4168 16.5247L12.8335 19.1914L10.0002 17.9831L7.16683 19.1914ZM9.12516 13.3997L13.8335 8.69141L12.6668 7.48307L9.12516 11.0247L7.3335 9.27474L6.16683 10.4414L9.12516 13.3997Z"
-                    fill="#004E98" />
+                    d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z"
+                    fill="#01ADEF" />
                 </svg>
               </div>
 
-              <h2 class="text-title2 title-font text-lg font-normal mt-3">Showerhead Handheld - Luxe Chrome</h2>
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">Showerhead Handheld - Showerhead Mist Vitamin
+                C</h2>
               <p class="mt-6 text-black font-normal">IDR 299,000</p>
             </div>
           </div>
-
         </div>
-
+      </div>
+      <!-- home -->
+      <div class="product-list">
         <div class="container pb-6 pt-20 pl-4">
           <div class="text-left">
-            <h2 class="font-bold text-3xl">Home </h2>
+            <h2 class="font-bold text-3xl capitalize">Home </h2>
           </div>
         </div>
-        <div class="flex flex-wrap">
+        <div class="flex flex-wrap w-full">
           <div class="lg:w-1/4 w-1/2 p-5">
             <a class="block relative rounded overflow-hidden">
-              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/5.jpg">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/1.jpg">
             </a>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path
-                    d="M7.16683 19.1914L5.5835 16.5247L2.5835 15.8581L2.87516 12.7747L0.833496 10.4414L2.87516 8.10807L2.5835 5.02474L5.5835 4.35807L7.16683 1.69141L10.0002 2.89974L12.8335 1.69141L14.4168 4.35807L17.4168 5.02474L17.1252 8.10807L19.1668 10.4414L17.1252 12.7747L17.4168 15.8581L14.4168 16.5247L12.8335 19.1914L10.0002 17.9831L7.16683 19.1914ZM9.12516 13.3997L13.8335 8.69141L12.6668 7.48307L9.12516 11.0247L7.3335 9.27474L6.16683 10.4414L9.12516 13.3997Z"
+                    d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z"
                     fill="#F4CF7A" />
                 </svg>
+              </div>
+
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">Alat Tap Water Filter PR100 (Bathroom) </h2>
+              <p class="mt-6 text-black font-normal">IDR 299,000</p>
+            </div>
+          </div>
+          <div class="lg:w-1/4 w-1/2 p-5">
+            <a class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/2.jpg">
+            </a>
+            <div class="mt-8">
+              <div class="inline-flex items-center">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z"
+                    fill="#F4CF7A" />
+                </svg>
+
               </div>
 
               <h2 class="text-title2 title-font text-lg font-normal mt-3">Alat Tap Water Filter PR303 (Kitchen) </h2>
@@ -1230,55 +969,41 @@
           </div>
           <div class="lg:w-1/4 w-1/2 p-5">
             <a class="block relative rounded overflow-hidden">
-              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/5.jpg">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/3.jpg">
             </a>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path
-                    d="M7.16683 19.1914L5.5835 16.5247L2.5835 15.8581L2.87516 12.7747L0.833496 10.4414L2.87516 8.10807L2.5835 5.02474L5.5835 4.35807L7.16683 1.69141L10.0002 2.89974L12.8335 1.69141L14.4168 4.35807L17.4168 5.02474L17.1252 8.10807L19.1668 10.4414L17.1252 12.7747L17.4168 15.8581L14.4168 16.5247L12.8335 19.1914L10.0002 17.9831L7.16683 19.1914ZM9.12516 13.3997L13.8335 8.69141L12.6668 7.48307L9.12516 11.0247L7.3335 9.27474L6.16683 10.4414L9.12516 13.3997Z"
+                    d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z"
                     fill="#F4CF7A" />
                 </svg>
+
               </div>
 
-              <h2 class="text-title2 title-font text-lg font-normal mt-3">Alat Tap Water Filter PR303 (Kitchen) </h2>
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">Microfiber Tap Water Filter (Bathroom) PR100
+              </h2>
               <p class="mt-6 text-black font-normal">IDR 299,000</p>
             </div>
           </div>
           <div class="lg:w-1/4 w-1/2 p-5">
             <a class="block relative rounded overflow-hidden">
-              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/5.jpg">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/4.jpg">
             </a>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path
-                    d="M7.16683 19.1914L5.5835 16.5247L2.5835 15.8581L2.87516 12.7747L0.833496 10.4414L2.87516 8.10807L2.5835 5.02474L5.5835 4.35807L7.16683 1.69141L10.0002 2.89974L12.8335 1.69141L14.4168 4.35807L17.4168 5.02474L17.1252 8.10807L19.1668 10.4414L17.1252 12.7747L17.4168 15.8581L14.4168 16.5247L12.8335 19.1914L10.0002 17.9831L7.16683 19.1914ZM9.12516 13.3997L13.8335 8.69141L12.6668 7.48307L9.12516 11.0247L7.3335 9.27474L6.16683 10.4414L9.12516 13.3997Z"
+                    d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z"
                     fill="#F4CF7A" />
                 </svg>
+
               </div>
 
-              <h2 class="text-title2 title-font text-lg font-normal mt-3">Alat Tap Water Filter PR303 (Kitchen) </h2>
-              <p class="mt-6 text-black font-normal">IDR 299,000</p>
-            </div>
-          </div>
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
-              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/5.jpg">
-            </a>
-            <div class="mt-8">
-              <div class="inline-flex items-center">
-                <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
-                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                  <path
-                    d="M7.16683 19.1914L5.5835 16.5247L2.5835 15.8581L2.87516 12.7747L0.833496 10.4414L2.87516 8.10807L2.5835 5.02474L5.5835 4.35807L7.16683 1.69141L10.0002 2.89974L12.8335 1.69141L14.4168 4.35807L17.4168 5.02474L17.1252 8.10807L19.1668 10.4414L17.1252 12.7747L17.4168 15.8581L14.4168 16.5247L12.8335 19.1914L10.0002 17.9831L7.16683 19.1914ZM9.12516 13.3997L13.8335 8.69141L12.6668 7.48307L9.12516 11.0247L7.3335 9.27474L6.16683 10.4414L9.12516 13.3997Z"
-                    fill="#F4CF7A" />
-                </svg>
-              </div>
-
-              <h2 class="text-title2 title-font text-lg font-normal mt-3">Alat Tap Water Filter PR303 (Kitchen) </h2>
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">Microfiber Tap Water Filter PR300 (Kitchen)
+              </h2>
               <p class="mt-6 text-black font-normal">IDR 299,000</p>
             </div>
           </div>
@@ -1286,17 +1011,183 @@
 
         </div>
       </div>
+      <!-- Aromatube -->
+      <div class="product-list">
+        <div class="container pb-6 pt-20 pl-4">
+          <div class="text-left">
+            <h2 class="font-bold text-3xl capitalize">aromatube </h2>
+          </div>
+        </div>
+        <div class="flex flex-wrap w-full">
+          <div class="lg:w-1/4 w-1/2 p-5">
+            <a class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/1.jpg">
+            </a>
+            <div class="mt-8">
+              <div class="inline-flex items-center">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z"
+                    fill="#01ADEF" />
+                </svg>
+
+
+              </div>
+
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">Vitamin C Cartidges Aroma Therapy for Shower
+                Arofix - Neutral (1 pcs)</h2>
+              <p class="mt-6 text-black font-normal">IDR 299,000</p>
+            </div>
+          </div>
+          <div class="lg:w-1/4 w-1/2 p-5">
+            <a class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/2.jpg">
+            </a>
+            <div class="mt-8">
+              <div class="inline-flex items-center">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z"
+                    fill="#01ADEF" />
+                </svg>
+
+              </div>
+
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">Vitamin C Cartidges - Vanilla Coconut (1 pcs)
+              </h2>
+              <p class="mt-6 text-black font-normal">IDR 299,000</p>
+            </div>
+          </div>
+          <div class="lg:w-1/4 w-1/2 p-5">
+            <a class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/3.jpg">
+            </a>
+            <div class="mt-8">
+              <div class="inline-flex items-center">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z"
+                    fill="#01ADEF" />
+                </svg>
+
+
+              </div>
+
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">Vitamin C Cartidges Aroma Therapy for Shower
+                Arofix - Lavender (1 pcs)</h2>
+              <p class="mt-6 text-black font-normal">IDR 299,000</p>
+            </div>
+          </div>
+          <div class="lg:w-1/4 w-1/2 p-5">
+            <a class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/4.jpg">
+            </a>
+            <div class="mt-8">
+              <div class="inline-flex items-center">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z"
+                    fill="#01ADEF" />
+                </svg>
+
+              </div>
+
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">Vitamin C Cartidges - Pine
+                (1 pcs)</h2>
+              <p class="mt-6 text-black font-normal">IDR 299,000</p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+      <!-- showerhead kids -->
+      <div class="product-list">
+        <div class="container pb-6 pt-20 pl-4">
+          <div class="text-left">
+            <h2 class="font-bold text-3xl capitalize">Showerhead Kids Series </h2>
+          </div>
+        </div>
+        <div class="flex flex-wrap w-full">
+          <div class="lg:w-1/4 w-1/2 p-5">
+            <a class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/shower-kids/1.jpg">
+            </a>
+            <div class="mt-8">
+              <div class="inline-flex items-center">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M7.16671 19.1914L5.58337 16.5247L2.58337 15.8581L2.87504 12.7747L0.833374 10.4414L2.87504 8.10807L2.58337 5.02474L5.58337 4.35807L7.16671 1.69141L10 2.89974L12.8334 1.69141L14.4167 4.35807L17.4167 5.02474L17.125 8.10807L19.1667 10.4414L17.125 12.7747L17.4167 15.8581L14.4167 16.5247L12.8334 19.1914L10 17.9831L7.16671 19.1914ZM9.12504 13.3997L13.8334 8.69141L12.6667 7.48307L9.12504 11.0247L7.33337 9.27474L6.16671 10.4414L9.12504 13.3997Z"
+                    fill="#01ADEF" />
+                </svg>
+
+
+              </div>
+
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">SH - Showerhead Kids Shark Pink Vitamin C</h2>
+              <p class="mt-6 text-black font-normal">IDR 299,000</p>
+            </div>
+          </div>
+          <div class="lg:w-1/4 w-1/2 p-5">
+            <a class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/shower-kids/2.jpg">
+            </a>
+            <div class="mt-8">
+              <div class="inline-flex items-center">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M7.16671 19.1914L5.58337 16.5247L2.58337 15.8581L2.87504 12.7747L0.833374 10.4414L2.87504 8.10807L2.58337 5.02474L5.58337 4.35807L7.16671 1.69141L10 2.89974L12.8334 1.69141L14.4167 4.35807L17.4167 5.02474L17.125 8.10807L19.1667 10.4414L17.125 12.7747L17.4167 15.8581L14.4167 16.5247L12.8334 19.1914L10 17.9831L7.16671 19.1914ZM9.12504 13.3997L13.8334 8.69141L12.6667 7.48307L9.12504 11.0247L7.33337 9.27474L6.16671 10.4414L9.12504 13.3997Z"
+                    fill="#01ADEF" />
+                </svg>
+
+              </div>
+
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">SH - Showerhead Kids Shark Blue Vitamin C</h2>
+              <p class="mt-6 text-black font-normal">IDR 299,000</p>
+            </div>
+          </div>
+          <div class="lg:w-1/4 w-1/2 p-5">
+            <a class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/shower-kids/3.jpg">
+            </a>
+            <div class="mt-8">
+              <div class="inline-flex items-center">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M7.16671 19.1914L5.58337 16.5247L2.58337 15.8581L2.87504 12.7747L0.833374 10.4414L2.87504 8.10807L2.58337 5.02474L5.58337 4.35807L7.16671 1.69141L10 2.89974L12.8334 1.69141L14.4167 4.35807L17.4167 5.02474L17.125 8.10807L19.1667 10.4414L17.125 12.7747L17.4167 15.8581L14.4167 16.5247L12.8334 19.1914L10 17.9831L7.16671 19.1914ZM9.12504 13.3997L13.8334 8.69141L12.6667 7.48307L9.12504 11.0247L7.33337 9.27474L6.16671 10.4414L9.12504 13.3997Z"
+                    fill="#01ADEF" />
+                </svg>
+
+
+              </div>
+
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">SH - Showerhead Kids Turtle Vitamin C</h2>
+              <p class="mt-6 text-black font-normal">IDR 299,000</p>
+            </div>
+          </div>
+
+
+        </div>
+      </div>
+
+    </div>
   </section>
 
-  <!-- Tabs percobaan -->
-  <div class="mobile-only simplecarousel-list lg:hidden block ml-6">
+  <!-- Tabs caraousel -->
+  <div class="mobile-only simplecarousel-list lg:hidden block mt-20">
     <div class="crousel-mobile">
       <div style="width: 22px;">
         <ul id="tabs" class="flex text-base font-medium uppercase">
-          <li><a id="default-tab" href="#first"> Showerhead </a></li>
-          <li><a href="#second"> Showerhead Kids Series </a></li>
+          <li class="bordercustom"><a id="default-tab" href="#first"> Showerhead </a></li>
+          <li><a href="#second"> Home </a></li>
           <li><a href="#tree"> Aroma Tube </a></li>
-          <li><a href="#four"> Aroma Tube </a></li>
+          <li><a href="#four"> Showerhead Kids </a></li>
         </ul>
       </div>
     </div>
@@ -1305,16 +1196,334 @@
   <!-- Tab Contents -->
   <div id="tab-contents" class="mb-10 mobile-only">
     <div id="first" class="p-4">
-      satu
+      <!-- showerhead -->
+      <div class="product-list">
+
+        <div class="flex flex-wrap w-full">
+          <div class="lg:w-1/4 w-1/2 p-5">
+            <a class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/1.jpg">
+            </a>
+            <div class="mt-8">
+              <div class="inline-flex items-center">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z"
+                    fill="#01ADEF" />
+                </svg>
+              </div>
+
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">Showerhead Handheld - Showerhead 801</h2>
+              <p class="mt-6 text-black font-normal">IDR 299,000</p>
+            </div>
+          </div>
+          <div class="lg:w-1/4 w-1/2 p-5">
+            <a class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/2.jpg">
+            </a>
+            <div class="mt-8">
+              <div class="inline-flex items-center">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z"
+                    fill="#01ADEF" />
+                </svg>
+              </div>
+
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">Showerhead Handheld - Showerhead 701</h2>
+              <p class="mt-6 text-black font-normal">IDR 299,000</p>
+            </div>
+          </div>
+          <div class="lg:w-1/4 w-1/2 p-5">
+            <a class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/3.jpg">
+            </a>
+            <div class="mt-8">
+              <div class="inline-flex items-center">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aromica</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z"
+                    fill="#01ADEF" />
+                </svg>
+
+              </div>
+
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">Showerhead Handheld - Medium AS9000 Vitamin C
+              </h2>
+              <p class="mt-6 text-black font-normal">IDR 299,000</p>
+            </div>
+          </div>
+          <div class="lg:w-1/4 w-1/2 p-5">
+            <a class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/4.jpg">
+            </a>
+            <div class="mt-8">
+              <div class="inline-flex items-center">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z"
+                    fill="#01ADEF" />
+                </svg>
+              </div>
+
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">Showerhead Handheld - Showerhead Mist Vitamin
+                C</h2>
+              <p class="mt-6 text-black font-normal">IDR 299,000</p>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
     <div id="second" class="hidden p-4">
-      dua
+      <!-- home -->
+      <div class="product-list">
+
+        <div class="flex flex-wrap w-full">
+          <div class="lg:w-1/4 w-1/2 p-5">
+            <a class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/1.jpg">
+            </a>
+            <div class="mt-8">
+              <div class="inline-flex items-center">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z"
+                    fill="#F4CF7A" />
+                </svg>
+              </div>
+
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">Alat Tap Water Filter PR100 (Bathroom) </h2>
+              <p class="mt-6 text-black font-normal">IDR 299,000</p>
+            </div>
+          </div>
+          <div class="lg:w-1/4 w-1/2 p-5">
+            <a class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/2.jpg">
+            </a>
+            <div class="mt-8">
+              <div class="inline-flex items-center">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z"
+                    fill="#F4CF7A" />
+                </svg>
+
+              </div>
+
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">Alat Tap Water Filter PR303 (Kitchen) </h2>
+              <p class="mt-6 text-black font-normal">IDR 299,000</p>
+            </div>
+          </div>
+          <div class="lg:w-1/4 w-1/2 p-5">
+            <a class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/3.jpg">
+            </a>
+            <div class="mt-8">
+              <div class="inline-flex items-center">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z"
+                    fill="#F4CF7A" />
+                </svg>
+
+              </div>
+
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">Microfiber Tap Water Filter (Bathroom) PR100
+              </h2>
+              <p class="mt-6 text-black font-normal">IDR 299,000</p>
+            </div>
+          </div>
+          <div class="lg:w-1/4 w-1/2 p-5">
+            <a class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/4.jpg">
+            </a>
+            <div class="mt-8">
+              <div class="inline-flex items-center">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z"
+                    fill="#F4CF7A" />
+                </svg>
+
+              </div>
+
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">Microfiber Tap Water Filter PR300 (Kitchen)
+              </h2>
+              <p class="mt-6 text-black font-normal">IDR 299,000</p>
+            </div>
+          </div>
+
+
+        </div>
+      </div>
     </div>
     <div id="tree" class="hidden p-4">
-      tiga
+      <!-- Aromatube -->
+      <div class="product-list">
+
+        <div class="flex flex-wrap w-full">
+          <div class="lg:w-1/4 w-1/2 p-5">
+            <a class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/1.jpg">
+            </a>
+            <div class="mt-8">
+              <div class="inline-flex items-center">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z"
+                    fill="#01ADEF" />
+                </svg>
+
+
+              </div>
+
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">Vitamin C Cartidges Aroma Therapy for Shower
+                Arofix - Neutral (1 pcs)</h2>
+              <p class="mt-6 text-black font-normal">IDR 299,000</p>
+            </div>
+          </div>
+          <div class="lg:w-1/4 w-1/2 p-5">
+            <a class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/2.jpg">
+            </a>
+            <div class="mt-8">
+              <div class="inline-flex items-center">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z"
+                    fill="#01ADEF" />
+                </svg>
+
+              </div>
+
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">Vitamin C Cartidges - Vanilla Coconut (1 pcs)
+              </h2>
+              <p class="mt-6 text-black font-normal">IDR 299,000</p>
+            </div>
+          </div>
+          <div class="lg:w-1/4 w-1/2 p-5">
+            <a class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/3.jpg">
+            </a>
+            <div class="mt-8">
+              <div class="inline-flex items-center">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z"
+                    fill="#01ADEF" />
+                </svg>
+
+
+              </div>
+
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">Vitamin C Cartidges Aroma Therapy for Shower
+                Arofix - Lavender (1 pcs)</h2>
+              <p class="mt-6 text-black font-normal">IDR 299,000</p>
+            </div>
+          </div>
+          <div class="lg:w-1/4 w-1/2 p-5">
+            <a class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/4.jpg">
+            </a>
+            <div class="mt-8">
+              <div class="inline-flex items-center">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z"
+                    fill="#01ADEF" />
+                </svg>
+
+              </div>
+
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">Vitamin C Cartidges - Pine
+                (1 pcs)</h2>
+              <p class="mt-6 text-black font-normal">IDR 299,000</p>
+            </div>
+          </div>
+
+        </div>
+      </div>
     </div>
     <div id="four" class="hidden p-4">
-      empat
+      <!-- showerhead kids -->
+      <div class="product-list">
+
+        <div class="flex flex-wrap w-full">
+          <div class="lg:w-1/4 w-1/2 p-5">
+            <a class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/shower-kids/1.jpg">
+            </a>
+            <div class="mt-8">
+              <div class="inline-flex items-center">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M7.16671 19.1914L5.58337 16.5247L2.58337 15.8581L2.87504 12.7747L0.833374 10.4414L2.87504 8.10807L2.58337 5.02474L5.58337 4.35807L7.16671 1.69141L10 2.89974L12.8334 1.69141L14.4167 4.35807L17.4167 5.02474L17.125 8.10807L19.1667 10.4414L17.125 12.7747L17.4167 15.8581L14.4167 16.5247L12.8334 19.1914L10 17.9831L7.16671 19.1914ZM9.12504 13.3997L13.8334 8.69141L12.6667 7.48307L9.12504 11.0247L7.33337 9.27474L6.16671 10.4414L9.12504 13.3997Z"
+                    fill="#01ADEF" />
+                </svg>
+
+
+              </div>
+
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">SH - Showerhead Kids Shark Pink Vitamin C</h2>
+              <p class="mt-6 text-black font-normal">IDR 299,000</p>
+            </div>
+          </div>
+          <div class="lg:w-1/4 w-1/2 p-5">
+            <a class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/shower-kids/2.jpg">
+            </a>
+            <div class="mt-8">
+              <div class="inline-flex items-center">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M7.16671 19.1914L5.58337 16.5247L2.58337 15.8581L2.87504 12.7747L0.833374 10.4414L2.87504 8.10807L2.58337 5.02474L5.58337 4.35807L7.16671 1.69141L10 2.89974L12.8334 1.69141L14.4167 4.35807L17.4167 5.02474L17.125 8.10807L19.1667 10.4414L17.125 12.7747L17.4167 15.8581L14.4167 16.5247L12.8334 19.1914L10 17.9831L7.16671 19.1914ZM9.12504 13.3997L13.8334 8.69141L12.6667 7.48307L9.12504 11.0247L7.33337 9.27474L6.16671 10.4414L9.12504 13.3997Z"
+                    fill="#01ADEF" />
+                </svg>
+
+              </div>
+
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">SH - Showerhead Kids Shark Blue Vitamin C</h2>
+              <p class="mt-6 text-black font-normal">IDR 299,000</p>
+            </div>
+          </div>
+          <div class="lg:w-1/4 w-1/2 p-5">
+            <a class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/shower-kids/3.jpg">
+            </a>
+            <div class="mt-8">
+              <div class="inline-flex items-center">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M7.16671 19.1914L5.58337 16.5247L2.58337 15.8581L2.87504 12.7747L0.833374 10.4414L2.87504 8.10807L2.58337 5.02474L5.58337 4.35807L7.16671 1.69141L10 2.89974L12.8334 1.69141L14.4167 4.35807L17.4167 5.02474L17.125 8.10807L19.1667 10.4414L17.125 12.7747L17.4167 15.8581L14.4167 16.5247L12.8334 19.1914L10 17.9831L7.16671 19.1914ZM9.12504 13.3997L13.8334 8.69141L12.6667 7.48307L9.12504 11.0247L7.33337 9.27474L6.16671 10.4414L9.12504 13.3997Z"
+                    fill="#01ADEF" />
+                </svg>
+
+
+              </div>
+
+              <h2 class="text-title2 title-font text-lg font-normal mt-3">SH - Showerhead Kids Turtle Vitamin C</h2>
+              <p class="mt-6 text-black font-normal">IDR 299,000</p>
+            </div>
+          </div>
+
+
+        </div>
+      </div>
     </div>
   </div>
 
@@ -1323,7 +1532,7 @@
     <div class="container mx-auto">
       <div class="container">
         <div class="text-center">
-          <h2 class="font-bold text-3xl py-20">Bringing the Ocean's Harmony to Your Skin </h2>
+          <h2 class="font-bold text-3xl capitalize py-20">Bringing the Ocean's Harmony to Your Skin </h2>
         </div>
       </div>
       <div class="flex flex-wrap">
@@ -1457,245 +1666,22 @@
     </div>
   </section>
 
-  <footer class="w-full">
-    <div class="w-full lg:pb-40 lg:pt-20 lg:px-20">
-      <div
-        class="container px-5 py-24 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
-        <div class="w- flex-shrink-0 md:mx-0 mx-auto text-center md:text-left pr-7">
-          <a class="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
-            <svg width="194" height="49" viewBox="0 0 194 49" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path
-                d="M49.1006 24.99C46.9174 25.2061 44.6961 24.7943 42.6043 24.1716C37.4526 22.6467 32.8091 19.7214 27.5583 18.5802C24.5236 17.8736 21.4509 18.3921 18.5458 19.4215C13.4475 21.165 8.68455 24.0903 3.27608 24.896C2.18829 25.051 1.08271 25.0968 0 24.99C4.35117 24.5122 8.10507 22.3544 11.9378 20.4025C20.5283 15.9446 25.1717 14.5239 34.2426 18.9436C39.0995 21.2056 43.6616 24.3724 49.1006 24.99Z"
-                fill="#964F4C" />
-              <path
-                d="M46.5768 36.2343C44.6198 36.4275 42.6272 36.0589 40.749 35.4998C37.0256 34.3815 33.5665 32.4855 29.9372 31.235C28.1936 30.6403 26.3815 30.1828 24.549 30.1854C20.7545 30.2311 17.303 31.9391 13.8389 33.4005C10.2934 34.9025 6.47338 36.5876 2.52124 36.2343C6.42509 35.8048 9.79267 33.8681 13.2314 32.117C16.7667 30.3099 20.4749 28.4139 24.549 28.3809C26.6102 28.3885 28.6206 28.907 30.5166 29.6288C35.9658 31.6493 40.6855 35.5328 46.5743 36.2318L46.5768 36.2343Z"
-                fill="#964F4C" />
-              <path
-                d="M48.0458 32.665C45.9566 32.8734 43.8319 32.477 41.8291 31.8822C36.901 30.4234 32.4558 27.6226 27.4311 26.5322C24.5261 25.8562 21.588 26.3518 18.805 27.3379C13.0865 29.2466 7.31712 33.1556 1.05469 32.6676C5.21778 32.2101 8.81156 30.1438 12.479 28.2757C20.701 24.0084 25.1437 22.6487 33.8257 26.8804C38.4742 29.0458 42.8407 32.0779 48.0458 32.6676V32.665Z"
-                fill="#964F4C" />
-              <path
-                d="M48.8565 28.8779C46.6962 29.0914 44.4977 28.6847 42.4263 28.0671C37.328 26.5574 32.7277 23.6601 27.5302 22.5316C24.5261 21.8327 21.4838 22.3435 18.6067 23.3652C13.5592 25.0909 8.84457 27.9883 3.48948 28.7864C2.41186 28.9389 1.31644 28.9846 0.243896 28.8779C4.55186 28.4052 8.26764 26.2677 12.0622 24.3361C20.5688 19.9214 25.164 18.5159 34.1459 22.8925C38.9546 25.1316 43.4709 28.2679 48.8565 28.8779Z"
-                fill="#964F4C" />
-              <path
-                d="M44.6605 39.5549C42.8738 39.7328 41.054 39.3948 39.3385 38.8839C35.9404 37.8647 32.7787 36.1339 29.467 34.9902C27.8735 34.4463 26.2189 34.0295 24.5491 34.0321C21.0849 34.0727 17.9334 35.6333 14.7717 36.9676C11.5337 38.3375 8.04667 39.8777 4.44019 39.5549C8.00347 39.1635 11.0788 37.3946 14.2176 35.7959C21.2552 32.1437 25.0574 30.9796 32.489 34.6014C36.4767 36.4567 40.1975 39.0466 44.6605 39.5549Z"
-                fill="#964F4C" />
-              <path
-                d="M34.2656 47.2239C31.6453 47.4146 29.3121 45.8159 26.9256 45.0204C24.1578 43.9936 22.3634 44.8857 19.8244 45.976C18.2639 46.6368 16.5687 47.3815 14.8328 47.2265C16.5559 47.0384 18.0402 46.1844 19.5575 45.4118C23.6774 43.226 25.426 43.2286 29.5408 45.4118C31.0581 46.187 32.5424 47.0384 34.2656 47.2265V47.2239Z"
-                fill="#964F4C" />
-              <path
-                d="M38.5533 45.1928C36.0371 45.4114 33.615 44.3465 31.3581 43.3909C29.1571 42.4632 26.9586 41.3754 24.5492 41.3474C23.3852 41.3474 22.2339 41.6372 21.1232 42.0159C18.818 42.8114 16.617 44.0161 14.2508 44.7277C13.0537 45.0835 11.7956 45.3123 10.5452 45.1928C11.7626 45.0657 12.9419 44.682 14.0602 44.1965C17.4786 42.7478 20.681 40.2673 24.5518 40.2012C27.134 40.219 29.5205 41.4389 31.7469 42.5775C33.9251 43.6882 36.093 44.926 38.5558 45.1928H38.5533Z"
-                fill="#964F4C" />
-              <path
-                d="M42.3782 42.6768C39.1758 42.9538 36.0929 41.5992 33.2184 40.3817C30.415 39.1999 27.6193 37.8173 24.5491 37.7817C23.0674 37.7817 21.6009 38.1502 20.1878 38.6331C17.2522 39.6447 14.4514 41.1798 11.4371 42.0846C9.91473 42.5395 8.31099 42.8293 6.71997 42.6768C8.27033 42.5141 9.76986 42.0261 11.1931 41.4085C15.5494 39.5608 19.6312 36.4067 24.5491 36.3203C27.0347 36.333 29.3857 37.2404 31.5867 38.2849C35.1093 39.9268 38.4413 42.232 42.3782 42.6768Z"
-                fill="#964F4C" />
-              <path
-                d="M1.04712 22.4506C1.52748 13.6568 7.6857 5.68387 15.8874 2.56536C27.2888 -1.89764 40.5101 3.11942 45.8626 14.1676C47.1283 16.7753 47.8883 19.6066 48.0535 22.4481C47.4587 19.693 46.437 17.0447 44.9883 14.6429C39.1859 4.90615 27.2405 0.486357 16.5583 4.35971C8.60829 7.19865 2.76014 14.2108 1.04712 22.4532V22.4506Z"
-                fill="#964F4C" />
-              <path
-                d="M30.7528 48.0977C28.9051 48.5297 26.7956 48.9415 23.8042 48.9415C22.0429 48.9415 20.0782 48.4611 18.3474 48.0977H30.7528Z"
-                fill="#964F4C" />
-              <path
-                d="M70.0988 36.9403C69.0009 36.9403 67.9156 36.7523 66.8405 36.3761C65.7654 36 64.8022 35.451 63.9533 34.7317C63.1044 34.0125 62.4157 33.1254 61.8895 32.0707C61.3634 31.0185 61.0991 29.8011 61.0991 28.4261C61.0991 27.0079 61.3685 25.7701 61.9048 24.7154C62.4411 23.6632 63.1349 22.7863 63.9863 22.0874C64.8352 21.3885 65.7985 20.8674 66.8736 20.5218C67.9486 20.1787 69.0237 20.0059 70.0988 20.0059C71.1942 20.0059 72.282 20.1787 73.3571 20.5218C74.4322 20.8649 75.3955 21.3885 76.2443 22.0874C77.0932 22.7863 77.7871 23.6632 78.3259 24.7154C78.8622 25.7701 79.1316 27.0053 79.1316 28.4261C79.1316 29.8468 78.8672 31.0185 78.3411 32.0707C77.815 33.1254 77.1263 34.0125 76.2774 34.7317C75.4285 35.4535 74.4602 36 73.3749 36.3761C72.2897 36.7523 71.1968 36.9403 70.1014 36.9403H70.0988ZM70.0988 20.6184C69.1534 20.6184 68.3401 20.8649 67.664 21.3605C66.9854 21.8561 66.4262 22.4737 65.9866 23.2159C65.5443 23.958 65.2165 24.7637 65.003 25.6354C64.7869 26.5072 64.6802 27.3281 64.6802 28.1033C64.6573 29.092 64.7717 30.0756 65.0182 31.0541C65.2648 32.0326 65.6206 32.9094 66.0831 33.6821C66.5457 34.4572 67.115 35.0799 67.7936 35.5526C68.4722 36.0254 69.2398 36.2617 70.0988 36.2617C70.9375 36.2617 71.6898 36.0254 72.3557 35.5526C73.0216 35.0799 73.5986 34.4547 74.0815 33.6821C74.5644 32.9069 74.9303 32.0326 75.1769 31.0541C75.4234 30.0756 75.5479 29.092 75.5479 28.1033C75.5479 27.3281 75.4463 26.5072 75.2404 25.6354C75.0345 24.7637 74.7194 23.958 74.2899 23.2159C73.8603 22.4737 73.3012 21.8561 72.6124 21.3605C71.9237 20.8649 71.085 20.6184 70.0963 20.6184H70.0988Z"
-                fill="#964F4C" />
-              <path
-                d="M95.647 21.9724C95.4971 22.1453 95.4005 22.252 95.3573 22.2952C95.3141 22.3384 95.2276 22.4248 95.098 22.5545C94.4957 22.0385 93.8552 21.6344 93.1791 21.3447C92.5005 21.0549 91.766 20.9101 90.9705 20.9101C90.1953 20.9304 89.438 21.1464 88.6958 21.5556C87.9537 21.9648 87.2878 22.5189 86.6956 23.2178C86.1034 23.9167 85.6307 24.7351 85.2774 25.6704C84.9216 26.6057 84.7462 27.5893 84.7462 28.6212C84.7665 29.6327 84.9495 30.5833 85.2952 31.4754C85.6383 32.3675 86.0907 33.1426 86.6499 33.7984C87.209 34.4541 87.8444 34.9751 88.5535 35.364C89.2626 35.7503 89.9717 35.9434 90.6833 35.9434C90.9197 35.9434 91.0925 35.9333 91.1993 35.9104C92.2515 35.7605 93.1029 35.4707 93.7484 35.0386C94.394 34.6091 94.9633 34.1466 95.4589 33.651L96.0714 34.2304C95.2963 35.0895 94.3457 35.7528 93.2173 36.2154C92.0888 36.678 90.9426 36.9093 89.7811 36.9093C88.7263 36.9093 87.6995 36.7161 86.7007 36.3298C85.7018 35.9435 84.8148 35.3894 84.0397 34.6676C83.2645 33.9483 82.6418 33.0664 82.1691 32.0218C81.6963 30.9798 81.46 29.8005 81.46 28.489C81.46 27.1776 81.7065 25.9957 82.2021 24.941C82.6977 23.8888 83.3534 22.9941 84.1693 22.2647C84.9851 21.5327 85.9153 20.9736 86.9599 20.5873C88.002 20.201 89.072 20.0078 90.1699 20.0078C90.2767 20.0078 90.391 20.0078 90.5079 20.0078C90.6249 20.0078 90.7392 20.018 90.846 20.0408C91.8575 20.084 92.7369 20.267 93.4918 20.5898C94.2441 20.9126 94.9633 21.3752 95.6521 21.9775L95.647 21.9724Z"
-                fill="#964F4C" />
-              <path
-                d="M97.6141 28.6184C97.6141 27.2637 97.8454 26.0692 98.308 25.0373C98.7705 24.0054 99.3831 23.1337 100.146 22.4246C100.908 21.7155 101.775 21.1767 102.743 20.8107C103.711 20.4447 104.69 20.2617 105.679 20.2617C106.494 20.2617 107.318 20.3685 108.146 20.5845C108.975 20.8005 109.742 21.1436 110.452 21.6164C111.161 22.0891 111.778 22.7016 112.307 23.4539C112.833 24.2062 113.204 25.1212 113.42 26.1963C113.463 26.4123 113.496 26.6639 113.517 26.9537C113.537 27.2434 113.55 27.5331 113.55 27.8254C113.55 28.1177 113.54 28.3897 113.517 28.6489C113.494 28.9081 113.474 29.1216 113.453 29.2945H101.132C101.175 30.2196 101.373 31.0735 101.729 31.8589C102.085 32.6442 102.54 33.3152 103.099 33.8744C103.658 34.4335 104.293 34.8732 105.002 35.196C105.712 35.5188 106.454 35.6789 107.229 35.6789C107.681 35.6789 108.149 35.6103 108.632 35.4705C109.115 35.3307 109.582 35.1426 110.035 34.9062C110.487 34.6699 110.907 34.3903 111.293 34.0675C111.679 33.7447 111.992 33.4118 112.228 33.0687L112.874 33.5211C111.971 34.6165 110.884 35.44 109.615 35.9889C108.347 36.5379 107.046 36.8124 105.712 36.8124C104.68 36.8124 103.673 36.6447 102.695 36.3117C101.716 35.9788 100.85 35.473 100.097 34.797C99.3449 34.1184 98.7426 33.2644 98.2902 32.2325C97.8378 31.2006 97.6116 29.9959 97.6116 28.6209L97.6141 28.6184ZM110.421 28.2956C110.528 27.1341 110.459 26.1022 110.213 25.2C109.966 24.2977 109.615 23.5378 109.166 22.9253C108.713 22.3128 108.187 21.8451 107.585 21.5223C106.982 21.1995 106.37 21.0394 105.747 21.0394C105.124 21.0394 104.517 21.2072 103.925 21.5401C103.333 21.8731 102.817 22.3509 102.377 22.9761C101.935 23.5988 101.597 24.3587 101.36 25.2508C101.124 26.1429 101.048 27.1595 101.134 28.2982H110.424L110.421 28.2956Z"
-                fill="#964F4C" />
-              <path
-                d="M116.775 23.7789C117.55 22.6402 118.467 21.8015 119.532 21.2627C120.597 20.7264 121.871 20.457 123.355 20.457C125.548 20.457 127.172 20.9349 128.225 21.893C129.277 22.8512 129.805 24.4905 129.805 26.811V37.0687H127.353L126.87 35.7141C126.461 36.0165 125.871 36.3164 125.096 36.6163C124.321 36.9162 123.375 37.0687 122.257 37.0687C121.505 37.0687 120.656 36.9722 119.708 36.779C118.826 36.5858 118.089 36.2351 117.499 35.7319C116.907 35.2261 116.462 34.6415 116.16 33.9731C115.857 33.3072 115.712 32.6083 115.725 31.8763C115.735 31.1443 115.885 30.4454 116.178 29.7795C116.467 29.1136 116.904 28.5265 117.484 28.0207C118.063 27.515 118.795 27.1668 119.677 26.9736C120.366 26.8008 121.075 26.6661 121.807 26.5695C122.539 26.4729 123.225 26.3662 123.871 26.2467C124.516 26.1298 125.086 25.9824 125.581 25.8121C126.077 25.6393 126.42 25.3928 126.613 25.07C126.506 23.845 126.151 22.9147 125.548 22.2793C124.946 21.6465 124.034 21.3288 122.806 21.3288C122.16 21.3288 121.563 21.4101 121.017 21.5702C120.468 21.7304 119.975 21.9515 119.532 22.2311C119.093 22.5106 118.704 22.8232 118.371 23.1664C118.038 23.5095 117.753 23.8653 117.517 24.2313L116.775 23.7789ZM126.646 34.7788V25.9722C126.087 26.3382 125.426 26.6381 124.661 26.8745C123.899 27.1109 122.969 27.3803 121.871 27.6802C121.118 27.8962 120.506 28.2495 120.033 28.7451C119.56 29.2407 119.222 29.7999 119.016 30.4225C118.811 31.0478 118.737 31.6959 118.79 32.3745C118.844 33.0531 119.016 33.6707 119.306 34.2298C119.596 34.7889 119.995 35.2566 120.501 35.6328C121.007 36.0089 121.614 36.2071 122.323 36.23C123.139 36.23 123.914 36.1385 124.646 35.9555C125.378 35.7725 126.044 35.3811 126.646 34.7788Z"
-                fill="#964F4C" />
-              <path
-                d="M133.969 37.0683V20.2635H136.322L137.001 22.1671C137.324 21.824 137.728 21.5215 138.211 21.2648C138.694 21.0056 139.199 20.787 139.725 20.604C140.252 20.421 140.79 20.2863 141.339 20.1999C141.888 20.1135 142.399 20.0703 142.872 20.0703C143.711 20.0703 144.539 20.1898 145.355 20.4261C146.171 20.6625 146.898 21.0615 147.533 21.6207C148.166 22.1798 148.662 22.927 149.017 23.8623C149.373 24.7976 149.505 25.9744 149.422 27.3951V37.0734H146.196V27.268C146.217 26.1726 146.105 25.2424 145.858 24.4774C145.612 23.7149 145.289 23.0948 144.89 22.622C144.491 22.1493 144.046 21.7986 143.55 21.5749C143.055 21.3487 142.562 21.214 142.066 21.1708C141.657 21.1708 141.217 21.2191 140.745 21.3157C140.272 21.4123 139.809 21.547 139.357 21.7198C138.904 21.8926 138.48 22.1061 138.084 22.3653C137.685 22.6246 137.357 22.9143 137.1 23.2371V37.076H133.971L133.969 37.0683Z"
-                fill="#964F4C" />
-              <path
-                d="M155.676 12.9414V20.4238H159.45V21.7149H155.676V29.5862C155.676 31.7795 155.907 33.3985 156.37 34.4406C156.833 35.4851 157.72 36.0062 159.031 36.0062C160.299 36.0062 161.364 35.5233 162.223 34.5549L163.062 35.3606C162.482 35.9401 161.819 36.334 161.077 36.5373C160.335 36.7407 159.565 36.8449 158.772 36.8449C158.04 36.8449 157.315 36.7331 156.594 36.5069C155.872 36.2807 155.234 35.8943 154.675 35.3454C154.116 34.7964 153.663 34.0542 153.32 33.1189C152.977 32.1836 152.804 31.0069 152.804 29.5862V12.9414H155.676Z"
-                fill="#964F4C" />
-              <path
-                d="M169.159 13.4884C169.525 13.8544 169.708 14.3068 169.708 14.8431C169.708 15.3794 169.525 15.8013 169.159 16.1647C168.793 16.5307 168.354 16.7137 167.838 16.7137C167.322 16.7137 166.849 16.5307 166.483 16.1647C166.117 15.7987 165.934 15.359 165.934 14.8431C165.934 14.3271 166.117 13.8544 166.483 13.4884C166.849 13.1224 167.299 12.9395 167.838 12.9395C168.354 12.9395 168.793 13.1224 169.159 13.4884ZM169.256 19.6187H166.384V37.0691H169.256V19.6187Z"
-                fill="#964F4C" />
-              <path
-                d="M172.771 23.7789C173.546 22.6402 174.464 21.8015 175.528 21.2627C176.593 20.7264 177.867 20.457 179.351 20.457C181.544 20.457 183.168 20.9349 184.221 21.893C185.273 22.8512 185.802 24.4905 185.802 26.811V37.0687H183.349L182.866 35.7141C182.457 36.0165 181.867 36.3164 181.092 36.6163C180.317 36.9162 179.371 37.0687 178.253 37.0687C177.501 37.0687 176.652 36.9722 175.704 36.779C174.822 36.5858 174.085 36.2351 173.495 35.7319C172.903 35.2261 172.458 34.6415 172.156 33.9731C171.853 33.3072 171.709 32.6083 171.721 31.8763C171.731 31.1443 171.881 30.4454 172.174 29.7795C172.463 29.1136 172.901 28.5265 173.48 28.0207C174.059 27.515 174.791 27.1668 175.673 26.9736C176.362 26.8008 177.071 26.6661 177.803 26.5695C178.535 26.4729 179.221 26.3662 179.867 26.2467C180.513 26.1298 181.082 25.9824 181.577 25.8121C182.073 25.6393 182.416 25.3928 182.609 25.07C182.503 23.845 182.147 22.9147 181.544 22.2793C180.942 21.6465 180.03 21.3288 178.802 21.3288C178.156 21.3288 177.559 21.4101 177.013 21.5702C176.464 21.7304 175.971 21.9515 175.528 22.2311C175.089 22.5106 174.7 22.8232 174.367 23.1664C174.034 23.5095 173.749 23.8653 173.513 24.2313L172.771 23.7789ZM182.642 34.7788V25.9722C182.083 26.3382 181.422 26.6381 180.657 26.8745C179.895 27.1109 178.965 27.3803 177.867 27.6802C177.114 27.8962 176.502 28.2495 176.029 28.7451C175.556 29.2407 175.218 29.7999 175.013 30.4225C174.807 31.0478 174.733 31.6959 174.786 32.3745C174.84 33.0531 175.013 33.6707 175.302 34.2298C175.592 34.7889 175.991 35.2566 176.497 35.6328C177.003 36.0089 177.61 36.2071 178.319 36.23C179.135 36.23 179.91 36.1385 180.642 35.9555C181.374 35.7725 182.04 35.3811 182.642 34.7788Z"
-                fill="#964F4C" />
-              <path d="M190.481 12.9414H193.673V37.0685H190.481V12.9414Z" fill="#964F4C" />
-            </svg>
-          </a>
-          <p class="mt-2 text-sm text-gray-500 py-10">Jl. Mampang Prampatan KAV. 77, Tegal Parang, <br> Mampang
-            Prapatan,
-            Jakarta
-            Selatan
-            DKI Jakarta. 212932</p>
-          <ul>
-            <li class="flex items-center pb-4">
-              <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path fill-rule="evenodd" clip-rule="evenodd"
-                  d="M0.833365 5.92695C0.83323 5.93518 0.833216 5.9434 0.833323 5.95161V15.9414C0.833323 17.3183 1.95642 18.4414 3.33332 18.4414H16.6667C18.0436 18.4414 19.1667 17.3183 19.1667 15.9414V5.95171C19.1668 5.94342 19.1668 5.93513 19.1666 5.92683C19.1587 4.55659 18.0387 3.44141 16.6667 3.44141H3.33332C1.96124 3.44141 0.84119 4.55665 0.833365 5.92695ZM2.5888 5.5697C2.72662 5.29718 3.01002 5.10807 3.33332 5.10807H16.6667C16.99 5.10807 17.2734 5.29718 17.4112 5.5697L9.99999 10.7575L2.5888 5.5697ZM17.5 7.54195V15.9414C17.5 16.3978 17.1231 16.7747 16.6667 16.7747H3.33332C2.87689 16.7747 2.49999 16.3978 2.49999 15.9414V7.54195L9.52211 12.4574C9.80904 12.6583 10.1909 12.6583 10.4779 12.4574L17.5 7.54195Z"
-                  fill="#964F4C" />
-              </svg>
-              <span class="ml-2 font-medium text-font-small">admin@oceantial.com</span>
-            </li>
-            <li class="flex items-center pb-4">
-              <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <g clip-path="url(#clip0_945_2397)">
-                  <path
-                    d="M18.3334 15.0408V17.5408C18.3344 17.7729 18.2868 18.0026 18.1939 18.2153C18.1009 18.4279 17.9645 18.6188 17.7935 18.7757C17.6225 18.9326 17.4206 19.0521 17.2007 19.1264C16.9809 19.2008 16.7479 19.2284 16.5168 19.2075C13.9525 18.9289 11.4893 18.0526 9.32511 16.6492C7.31163 15.3697 5.60455 13.6626 4.32511 11.6492C2.91676 9.47517 2.04031 7 1.76677 4.42417C1.74595 4.19373 1.77334 3.96147 1.84719 3.74219C1.92105 3.52291 2.03975 3.32141 2.19575 3.15052C2.35174 2.97963 2.54161 2.84309 2.75327 2.7496C2.96492 2.65611 3.19372 2.60772 3.42511 2.6075H5.92511C6.32953 2.60352 6.7216 2.74673 7.02824 3.01045C7.33488 3.27416 7.53517 3.64037 7.59177 4.04084C7.69729 4.84089 7.89298 5.62644 8.17511 6.3825C8.28723 6.68077 8.31149 7.00493 8.24503 7.31657C8.17857 7.62821 8.02416 7.91426 7.80011 8.14084L6.74177 9.19917C7.92807 11.2855 9.65549 13.0129 11.7418 14.1992L12.8001 13.1408C13.0267 12.9168 13.3127 12.7624 13.6244 12.6959C13.936 12.6295 14.2602 12.6537 14.5584 12.7658C15.3145 13.048 16.1001 13.2437 16.9001 13.3492C17.3049 13.4063 17.6746 13.6102 17.9389 13.9221C18.2032 14.234 18.3436 14.6321 18.3334 15.0408Z"
-                    stroke="#964F4C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                </g>
-                <defs>
-                  <clipPath id="clip0_945_2397">
-                    <rect width="20" height="20" fill="white" transform="translate(0 0.941406)" />
-                  </clipPath>
-                </defs>
-              </svg>
-
-              <span class="ml-2 font-medium text-font-small">0811-9722-881</span>
-            </li>
-            <li class="flex items-center pb-4">
-              <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <g clip-path="url(#clip0_945_2397)">
-                  <path
-                    d="M18.3334 15.0408V17.5408C18.3344 17.7729 18.2868 18.0026 18.1939 18.2153C18.1009 18.4279 17.9645 18.6188 17.7935 18.7757C17.6225 18.9326 17.4206 19.0521 17.2007 19.1264C16.9809 19.2008 16.7479 19.2284 16.5168 19.2075C13.9525 18.9289 11.4893 18.0526 9.32511 16.6492C7.31163 15.3697 5.60455 13.6626 4.32511 11.6492C2.91676 9.47517 2.04031 7 1.76677 4.42417C1.74595 4.19373 1.77334 3.96147 1.84719 3.74219C1.92105 3.52291 2.03975 3.32141 2.19575 3.15052C2.35174 2.97963 2.54161 2.84309 2.75327 2.7496C2.96492 2.65611 3.19372 2.60772 3.42511 2.6075H5.92511C6.32953 2.60352 6.7216 2.74673 7.02824 3.01045C7.33488 3.27416 7.53517 3.64037 7.59177 4.04084C7.69729 4.84089 7.89298 5.62644 8.17511 6.3825C8.28723 6.68077 8.31149 7.00493 8.24503 7.31657C8.17857 7.62821 8.02416 7.91426 7.80011 8.14084L6.74177 9.19917C7.92807 11.2855 9.65549 13.0129 11.7418 14.1992L12.8001 13.1408C13.0267 12.9168 13.3127 12.7624 13.6244 12.6959C13.936 12.6295 14.2602 12.6537 14.5584 12.7658C15.3145 13.048 16.1001 13.2437 16.9001 13.3492C17.3049 13.4063 17.6746 13.6102 17.9389 13.9221C18.2032 14.234 18.3436 14.6321 18.3334 15.0408Z"
-                    stroke="#964F4C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                </g>
-                <defs>
-                  <clipPath id="clip0_945_2397">
-                    <rect width="20" height="20" fill="white" transform="translate(0 0.941406)" />
-                  </clipPath>
-                </defs>
-              </svg>
-
-              <span class="ml-2 font-medium text-font-small">0811-3228-819</span>
-            </li>
-          </ul>
-        </div>
-        <div class="flex-grow flex flex-wrap md:pl-10 -mb-10 md:mt-0 mt-10 md:text-left text-center">
-          <div class="lg:w-1/3 md:w-1/2 w-full px-4">
-            <h2 class="title-font font-medium text-btnbg uppercase tracking-normal text-xl mb-3">Shop</h2>
-            <ul class="list-none">
-              <li class="pb-4">
-                <a class="text-gray-600 hover:text-gray-800">Showerhead Handheld</a>
-              </li>
-              <li class="pb-4">
-                <a class="text-gray-600 hover:text-gray-800">Showerhead Kids Series</a>
-              </li>
-              <li class="pb-4">
-                <a class="text-gray-600 hover:text-gray-800">Aroma Tube</a>
-              </li>
-              <li class="pb-4">
-                <a class="text-gray-600 hover:text-gray-800">Showerhead Wall</a>
-              </li>
-              <li class="pb-4">
-                <a class="text-gray-600 hover:text-gray-800">Filter</a>
-              </li>
-            </ul>
-          </div>
-          <div class="lg:w-1/3 md:w-1/2 w-full px-4">
-            <h2 class="title-font font-medium text-btnbg uppercase tracking-normal text-xl mb-3">Help</h2>
-            <ul class="list-none">
-              <li class="pb-4">
-                <a class="text-gray-600 hover:text-gray-800">How it Works</a>
-              </li>
-              <li class="pb-4">
-                <a class="text-gray-600 hover:text-gray-800">FAQs</a>
-              </li>
-              <li class="pb-4">
-                <a class="text-gray-600 hover:text-gray-800">Contact Us</a>
-              </li>
-              <li class="pb-4">
-                <a class="text-gray-600 hover:text-gray-800">Fourth Link</a>
-              </li>
-            </ul>
-          </div>
-          <div class="lg:w-1/3 md:w-1/2 w-full px-4">
-            <h2 class="title-font font-medium text-btnbg uppercase tracking-normal text-xl mb-3">follow
-              us</h2>
-            <ul class="list-none">
-              <li class="pb-4">
-                <a class="text-gray-600 hover:text-gray-800 flex items-center">
-                  <img src="img/shopee-small.png" alt=""> <span>Oceantial_Shoppe</span>
-                </a>
-              </li>
-              <li class="pb-4">
-                <a class="text-gray-600 hover:text-gray-800 flex items-center">
-                  <img src="img/tokopedia-small.png" alt=""><span>Oceantial_Tokopedia</span>
-                </a>
-              </li>
-            </ul>
-            <ul class="flex gap-4 pt-6">
-              <li>
-                <a href="">
-                  <svg width="32" height="33" viewBox="0 0 32 33" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path
-                      d="M16 3.66211C8.66663 3.66211 2.66663 9.64878 2.66663 17.0221C2.66663 23.6888 7.54662 29.2221 13.92 30.2221V20.8888H10.5333V17.0221H13.92V14.0754C13.92 10.7288 15.9066 8.88878 18.96 8.88878C20.4133 8.88878 21.9333 9.14211 21.9333 9.14211V12.4354H20.2533C18.6 12.4354 18.08 13.4621 18.08 14.5154V17.0221H21.7866L21.1866 20.8888H18.08V30.2221C21.2219 29.7259 24.0829 28.1228 26.1465 25.7022C28.2102 23.2816 29.3404 20.203 29.3333 17.0221C29.3333 9.64878 23.3333 3.66211 16 3.66211Z"
-                      fill="#964F4C" />
-                  </svg>
-                </a>
-
-              </li>
-              <li>
-                <a href="">
-                  <svg width="32" height="33" viewBox="0 0 32 33" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path
-                      d="M10.4 3.60742H21.6C25.8666 3.60742 29.3333 7.07409 29.3333 11.3408V22.5408C29.3333 24.5918 28.5185 26.5588 27.0683 28.009C25.618 29.4593 23.651 30.2741 21.6 30.2741H10.4C6.13329 30.2741 2.66663 26.8074 2.66663 22.5408V11.3408C2.66663 9.28975 3.48139 7.32274 4.93167 5.87246C6.38195 4.42218 8.34895 3.60742 10.4 3.60742ZM10.1333 6.27409C8.86025 6.27409 7.63935 6.7798 6.73918 7.67998C5.83901 8.58015 5.33329 9.80105 5.33329 11.0741V22.8074C5.33329 25.4608 7.47996 27.6074 10.1333 27.6074H21.8666C23.1397 27.6074 24.3606 27.1017 25.2607 26.2015C26.1609 25.3014 26.6666 24.0805 26.6666 22.8074V11.0741C26.6666 8.42075 24.52 6.27409 21.8666 6.27409H10.1333ZM23 8.27409C23.442 8.27409 23.8659 8.44968 24.1785 8.76224C24.491 9.0748 24.6666 9.49873 24.6666 9.94075C24.6666 10.3828 24.491 10.8067 24.1785 11.1193C23.8659 11.4318 23.442 11.6074 23 11.6074C22.5579 11.6074 22.134 11.4318 21.8214 11.1193C21.5089 10.8067 21.3333 10.3828 21.3333 9.94075C21.3333 9.49873 21.5089 9.0748 21.8214 8.76224C22.134 8.44968 22.5579 8.27409 23 8.27409ZM16 10.2741C17.7681 10.2741 19.4638 10.9765 20.714 12.2267C21.9642 13.477 22.6666 15.1726 22.6666 16.9408C22.6666 18.7089 21.9642 20.4046 20.714 21.6548C19.4638 22.905 17.7681 23.6074 16 23.6074C14.2318 23.6074 12.5362 22.905 11.2859 21.6548C10.0357 20.4046 9.33329 18.7089 9.33329 16.9408C9.33329 15.1726 10.0357 13.477 11.2859 12.2267C12.5362 10.9765 14.2318 10.2741 16 10.2741ZM16 12.9408C14.9391 12.9408 13.9217 13.3622 13.1715 14.1123C12.4214 14.8625 12 15.8799 12 16.9408C12 18.0016 12.4214 19.019 13.1715 19.7692C13.9217 20.5193 14.9391 20.9408 16 20.9408C17.0608 20.9408 18.0782 20.5193 18.8284 19.7692C19.5785 19.019 20 18.0016 20 16.9408C20 15.8799 19.5785 14.8625 18.8284 14.1123C18.0782 13.3622 17.0608 12.9408 16 12.9408Z"
-                      fill="#964F4C" />
-                  </svg>
-                </a>
-
-              </li>
-              <li>
-                <a href="">
-                  <svg width="32" height="33" viewBox="0 0 32 33" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path
-                      d="M13.3333 20.9408L20.2533 16.9408L13.3333 12.9408V20.9408ZM28.7466 10.5008C28.92 11.1274 29.04 11.9674 29.12 13.0341C29.2133 14.1008 29.2533 15.0208 29.2533 15.8208L29.3333 16.9408C29.3333 19.8608 29.12 22.0074 28.7466 23.3808C28.4133 24.5808 27.64 25.3541 26.44 25.6874C25.8133 25.8608 24.6666 25.9808 22.9066 26.0608C21.1733 26.1541 19.5866 26.1941 18.12 26.1941L16 26.2741C10.4133 26.2741 6.93329 26.0608 5.55996 25.6874C4.35996 25.3541 3.58663 24.5808 3.25329 23.3808C3.07996 22.7541 2.95996 21.9141 2.87996 20.8474C2.78663 19.7808 2.74663 18.8608 2.74663 18.0608L2.66663 16.9408C2.66663 14.0208 2.87996 11.8741 3.25329 10.5008C3.58663 9.30076 4.35996 8.52742 5.55996 8.19409C6.18663 8.02076 7.33329 7.90076 9.09329 7.82076C10.8266 7.72742 12.4133 7.68742 13.88 7.68742L16 7.60742C21.5866 7.60742 25.0666 7.82076 26.44 8.19409C27.64 8.52742 28.4133 9.30076 28.7466 10.5008Z"
-                      fill="#964F4C" />
-                  </svg>
-                </a>
-              </li>
-              <li>
-                <svg width="32" height="33" viewBox="0 0 32 33" fill="none" xmlns="http://www.w3.org/2000/svg">
-                  <path
-                    d="M16.0533 3.60749C8.77328 3.60749 2.83994 9.54083 2.83994 16.8208C2.83994 19.1542 3.45328 21.4208 4.59994 23.4208L2.73328 30.2742L9.73328 28.4342C11.6666 29.4875 13.8399 30.0475 16.0533 30.0475C23.3333 30.0475 29.2666 24.1142 29.2666 16.8342C29.2666 13.3008 27.8933 9.98083 25.3999 7.48749C24.1774 6.25297 22.7213 5.27412 21.1166 4.60798C19.5119 3.94184 17.7907 3.60174 16.0533 3.60749ZM16.0666 5.83416C18.9999 5.83416 21.7466 6.98083 23.8266 9.06083C24.8471 10.0815 25.6563 11.2935 26.2076 12.6274C26.759 13.9613 27.0419 15.3908 27.0399 16.8342C27.0399 22.8875 22.1066 27.8075 16.0533 27.8075C14.0799 27.8075 12.1466 27.2875 10.4666 26.2742L10.0666 26.0475L5.90661 27.1408L7.01328 23.0875L6.74661 22.6608C5.646 20.912 5.0635 18.8871 5.06661 16.8208C5.07994 10.7675 9.99994 5.83416 16.0666 5.83416ZM11.3733 10.7142C11.1599 10.7142 10.7999 10.7942 10.4933 11.1275C10.1999 11.4608 9.33328 12.2742 9.33328 13.8875C9.33328 15.5142 10.5199 17.0742 10.6666 17.3008C10.8533 17.5275 13.0133 20.8608 16.3333 22.2742C17.1199 22.6342 17.7333 22.8342 18.2133 22.9808C18.9999 23.2342 19.7199 23.1942 20.2933 23.1142C20.9333 23.0208 22.2399 22.3142 22.5199 21.5408C22.7999 20.7675 22.7999 20.1142 22.7199 19.9675C22.6266 19.8342 22.4133 19.7542 22.0799 19.6075C21.7466 19.4208 20.1199 18.6208 19.8266 18.5142C19.5199 18.4075 19.3333 18.3542 19.0799 18.6742C18.8666 19.0075 18.2266 19.7542 18.0399 19.9675C17.8399 20.1942 17.6533 20.2208 17.3333 20.0608C16.9866 19.8875 15.9199 19.5408 14.6666 18.4208C13.6799 17.5408 13.0266 16.4608 12.8266 16.1275C12.6666 15.8075 12.8133 15.6075 12.9733 15.4608C13.1199 15.3142 13.3333 15.0742 13.4666 14.8742C13.6399 14.6875 13.6933 14.5408 13.7999 14.3275C13.9066 14.1008 13.8533 13.9142 13.7733 13.7542C13.6933 13.6075 13.0266 11.9542 12.7466 11.3008C12.4799 10.6608 12.2133 10.7408 11.9999 10.7275C11.8133 10.7275 11.5999 10.7142 11.3733 10.7142Z"
-                    fill="#964F4C" />
-                </svg>
-
-                </a>
-              </li>
-              <li>
-                <svg width="32" height="33" viewBox="0 0 32 33" fill="none" xmlns="http://www.w3.org/2000/svg">
-                  <path
-                    d="M22.1333 8.70141C21.2219 7.6609 20.7196 6.32465 20.72 4.94141H16.6V21.4747C16.5682 22.3694 16.1905 23.2169 15.5463 23.8387C14.9022 24.4604 14.0419 24.8079 13.1466 24.8081C11.2533 24.8081 9.67997 23.2614 9.67997 21.3414C9.67997 19.0481 11.8933 17.3281 14.1733 18.0347V13.8214C9.5733 13.2081 5.54663 16.7814 5.54663 21.3414C5.54663 25.7814 9.22663 28.9414 13.1333 28.9414C17.32 28.9414 20.72 25.5414 20.72 21.3414V12.9547C22.3906 14.1545 24.3965 14.7983 26.4533 14.7947V10.6747C26.4533 10.6747 23.9466 10.7947 22.1333 8.70141Z"
-                    fill="#964F4C" />
-                </svg>
-                </a>
-              </li>
-            </ul>
-          </div>
-
-        </div>
-      </div>
-    </div>
-
-    <div class="bg-btnbg">
-      <div class="container mx-auto py-4 px-5 flex  justify-center">
-        <p class="text-white text-sm text-center flex items-center justify-center">Copyright © 2024 Oceantial &nbsp;
-          <svg width="5" height="5" viewBox="0 0 5 5" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <circle cx="2.5" cy="2.94141" r="2" fill="white" />
-          </svg>&nbsp;
-          All rights reserved
-        </p>
-
-      </div>
-    </div>
-  </footer>
+  <!-- footer -->
+  <div w3-include-html="footer.html"></div>
 
 
-  <button id="btt" class="fixed right-4 bottom-4 z-50 bg-red-800 opacity-30 rounded-full p-5" title="Return To Top">
+  <button id="btt" class="fixed right-4 bottom-4 z-50 bg-red-800 rounded-full p-5" title="Return To Top">
     <svg class="fill-white" width="18" height="18" viewBox="0 0 320 512">
       <path
         d="M168.5 84.2l148 146.8c4.7 4.7 4.7 12.3 0 17l-19.8 19.8c-4.7 4.7-12.3 4.7-17 0L160 149.3 40.3 267.8c-4.7 4.7-12.3 4.7-17 0L3.5 248c-4.7-4.7-4.7-12.3 0-17l148-146.8c4.7-4.7 12.3-4.7 17 0zm-17 160L3.5 391c-4.7 4.7-4.7 12.3 0 17l19.8 19.8c4.7 4.7 12.3 4.7 17 0L160 309.3l119.7 118.5c4.7 4.7 12.3 4.7 17 0l19.8-19.8c4.7-4.7 4.7-12.3 0-17l-148-146.8c-4.7-4.7-12.3-4.7-17 0z" />
     </svg>
   </button>
+
+
+  <!-- pemanggilan html -->
+  <script>
+    includeHTML();
+  </script>
 
 
   <!-- jQuery JS -->
@@ -1707,14 +1693,10 @@
 
   <script>
     let tabsContainer = document.querySelector("#tabs");
-
     let tabTogglers = tabsContainer.querySelectorAll("#tabs a");
-
-
     tabTogglers.forEach(function (toggler) {
       toggler.addEventListener("click", function (e) {
         e.preventDefault();
-
         let tabName = this.getAttribute("href");
 
         let tabContents = document.querySelector("#tab-contents");
@@ -1737,6 +1719,61 @@
       var m_box_width = ($(this).find("> div > div > ul").outerWidth()) + 22;
       $(this).find("> div > div").css("width", m_count * m_box_width);
     });
+
+    let tabsContainer2 = document.querySelector("#tabsnav");
+    let tabTogglers2 = tabsContainer2.querySelectorAll("#tabsnav a");
+    tabTogglers2.forEach(function (toggler2) {
+      toggler2.addEventListener("click", function (c) {
+        c.preventDefault();
+        let tabName2 = this.getAttribute("href");
+
+        let tabContents2 = document.querySelector("#tab-contentsnav");
+
+        for (let b = 0; b < tabContents2.children.length; b++) {
+
+          tabTogglers2[b].parentElement.classList.remove("bordercustom");
+          tabContents2.children[b].classList.remove("hidden");
+          if ("#" + tabContents2.children[b].id === tabName2) {
+            continue;
+          }
+          tabContents2.children[b].classList.add("hidden");
+
+        }
+        c.target.parentElement.classList.add("bordercustom");
+      });
+    });
+
+
+    let burger = document.getElementById("navTrigger"),
+      nav = document.getElementById("navMenu");
+
+    burger.addEventListener("click", function (e) {
+      this.classList.toggle("active");
+      nav.classList.toggle("active");
+    });
+
+    // Get the button
+    const menuHead = document.getElementById("menuHead");
+
+    // When the user scrolls down 20px from the top of the document, show the button
+
+    const scrollFunction = () => {
+      if (
+        document.body.scrollTop > 20 ||
+        document.documentElement.scrollTop > 20
+      ) {
+        mybutton.classList.remove("hidden");
+        menuHead.classList.add("bg-default");
+        menuHead.classList.add("drop-shadow-lg");
+
+      } else {
+        mybutton.classList.add("hidden");
+        menuHead.classList.remove("bg-default");
+        menuHead.classList.remove("drop-shadow-lg");
+
+      }
+    };
+
   </script>
 
 
