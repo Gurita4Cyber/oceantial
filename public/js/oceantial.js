@@ -9,13 +9,16 @@ var all_scroll = function(){
       $('#btt').css("display","flex");
       $('html').addClass('nosmoth');
       $('header').addClass('fixed-head');
+      $('.logodefault').addClass('showlogo');
+      
 
     }
 
     else{
       $('#btt').hide();
       $('html').removeClass('nosmoth');
-      $('header').removeClass('fixed-head');   
+      $('header').removeClass('fixed-head');
+      $('.logodefault').removeClass('showlogo');     
     }
   });  
 };

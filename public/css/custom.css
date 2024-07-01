@@ -19,8 +19,15 @@
 .sel li {position:relative;}
 .sel img { top: 4px !important; }
 .btn-select li:after { width: 24px; height: 24px; background-image: url(../img/down.png); background-repeat: no-repeat; background-position: center; content: ""; position: absolute; bottom: 11px; }
+.btn-select.blackbtn li:after { width: 24px; height: 24px; background-image: url(../img/down2.png); background-repeat: no-repeat; background-position: center; content: ""; position: absolute; bottom: 11px; }
+.b.blacklanguage span { color: #fff; }
+
 html.nosmoth {scroll-behavior: unset; } 
 .fixed-head { background: #33333373; backdrop-filter: blur(2rem); }
+.fixed-head .text-xl.font-thin.flex.items-center { color: #fff; }
+.fixed-head .btn-select.blackbtn li:after{background-image: url(../img/down.png);}
+.fixed-head .nav-header>.nav-a.active:after{border-bottom: solid 3px #fff;}
+
 .hbox::after{content: ""; position: absolute; bottom: 0; left: 0; width: 100%; height: 100%; z-index: -1; background: -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgba(0, 0, 0, .7))); background: linear-gradient(180deg, transparent, rgba(0, 0, 0, .7));}
 #a li:hover { background: #fb004f; }
 #a{background-color: #333;}
@@ -256,10 +263,15 @@ html.nosmoth {scroll-behavior: unset; }
   .nav-header>.nav-a {
   display: inline-block;
   text-decoration: none;
-  color: #fff;
   font-family: sans-serif;
+  font-weight: 600;
   }
-  
+  .nav-header.black>.nav-a{
+    color: #232020;
+  }
+  .nav-header.black>.nav-a:after, .nav-header>.nav-a.navMenu.active:after{border-bottom: solid 3px #964F4C;}
+  .nav-header>.nav-a.active:after { transform: none; }
+  .fixed-head .nav-header>.nav-a{ color: #fff; }
   .nav-header>.nav-a:after {
   display:block;
   content: '';
@@ -361,6 +373,14 @@ height: 100vh;
 .crousel-desktop li a:hover{background:#e0ded454;}
 .crousel-desktop li a{ padding:20px 10px; border-radius: 8px; display: block; }
 .navmenubig li a{font-weight:  400 !important;}
+
+.hidden.logodefault.showlogo {
+  display: block;
+}
+
+.logodefault.showlogo {
+  display: none;
+}
 
 
 

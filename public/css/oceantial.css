@@ -640,12 +640,16 @@ body {
   order: 3;
 }
 
-.m-auto {
-  margin: auto;
+.m-2 {
+  margin: 0.5rem;
 }
 
 .m-5 {
   margin: 1.25rem;
+}
+
+.m-auto {
+  margin: auto;
 }
 
 .mx-auto {
@@ -722,6 +726,10 @@ body {
   margin-top: 5rem;
 }
 
+.mt-24 {
+  margin-top: 6rem;
+}
+
 .mt-3 {
   margin-top: 0.75rem;
 }
@@ -732,6 +740,18 @@ body {
 
 .mt-8 {
   margin-top: 2rem;
+}
+
+.mt-28 {
+  margin-top: 7rem;
+}
+
+.mt-4 {
+  margin-top: 1rem;
+}
+
+.mt-0 {
+  margin-top: 0px;
 }
 
 .block {
@@ -788,6 +808,10 @@ body {
 
 .w-40 {
   width: 10rem;
+}
+
+.w-5\/6 {
+  width: 83.333333%;
 }
 
 .w-60 {
@@ -868,6 +892,17 @@ body {
   --tw-space-x-reverse: 0;
   margin-right: calc(1rem * var(--tw-space-x-reverse));
   margin-left: calc(1rem * calc(1 - var(--tw-space-x-reverse)));
+}
+
+.divide-y-2 > :not([hidden]) ~ :not([hidden]) {
+  --tw-divide-y-reverse: 0;
+  border-top-width: calc(2px * calc(1 - var(--tw-divide-y-reverse)));
+  border-bottom-width: calc(2px * var(--tw-divide-y-reverse));
+}
+
+.divide-gray-100 > :not([hidden]) ~ :not([hidden]) {
+  --tw-divide-opacity: 1;
+  border-color: rgb(243 244 246 / var(--tw-divide-opacity));
 }
 
 .overflow-hidden {
@@ -1078,6 +1113,14 @@ body {
 
 .pt-6 {
   padding-top: 1.5rem;
+}
+
+.pb-16 {
+  padding-bottom: 4rem;
+}
+
+.pt-16 {
+  padding-top: 4rem;
 }
 
 .text-left {
@@ -1304,6 +1347,11 @@ body {
   .sm\:hidden {
     display: none;
   }
+
+  .sm\:text-4xl {
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+  }
 }
 
 @media (min-width: 768px) {
@@ -1364,12 +1412,20 @@ body {
     padding-right: 2.5rem;
   }
 
+  .md\:pr-16 {
+    padding-right: 4rem;
+  }
+
   .md\:text-left {
     text-align: left;
   }
 }
 
 @media (min-width: 1024px) {
+  .lg\:m-0 {
+    margin: 0px;
+  }
+
   .lg\:-mx-4 {
     margin-left: -1rem;
     margin-right: -1rem;
@@ -1424,6 +1480,26 @@ body {
 
   .lg\:w-1\/4 {
     width: 25%;
+  }
+
+  .lg\:w-full {
+    width: 100%;
+  }
+
+  .lg\:max-w-lg {
+    max-width: 32rem;
+  }
+
+  .lg\:max-w-2xl {
+    max-width: 42rem;
+  }
+
+  .lg\:max-w-xl {
+    max-width: 36rem;
+  }
+
+  .lg\:flex-grow {
+    flex-grow: 1;
   }
 
   .lg\:items-start {
@@ -1488,6 +1564,10 @@ body {
     padding-bottom: 1.25rem;
   }
 
+  .lg\:pr-24 {
+    padding-right: 6rem;
+  }
+
   .lg\:pr-7 {
     padding-right: 1.75rem;
   }
@@ -1521,6 +1601,11 @@ body {
     line-height: 2rem;
   }
 
+  .lg\:text-3xl {
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+  }
+
   .lg\:text-5xl {
     font-size: 3rem;
     line-height: 1;
@@ -1531,8 +1616,8 @@ body {
     line-height: 1.5rem;
   }
 
-  .lg\:text-3xl {
-    font-size: 1.875rem;
-    line-height: 2.25rem;
+  .lg\:text-lg {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
   }
 }

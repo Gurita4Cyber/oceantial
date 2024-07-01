@@ -1,0 +1,837 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="robots" content="noindex, follow">
+    <meta name="description" content="Isi Descripsi disini" />
+    <meta name="next-head-count" content="8" />
+    <meta name="keywords" content="ISI KEYWORD">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="apple-touch-fullscreen" content="yes" />
+    <title>Oceantial</title>
+
+    <!-- Facebook Meta Tags -->
+    <meta property="og:url" content="https://ocential.id/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Isi Title Disini">
+    <meta property="og:description" content="Isi Descripsi disini">
+    <meta property="og:image"
+        content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="ocential.id">
+    <meta property="twitter:url" content="https://ocential.id/">
+    <meta name="twitter:title" content="Isi Title Disini">
+    <meta name="twitter:description" content="Isi Descripsi disini">
+    <meta name="twitter:image"
+        content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+
+    <!-- favicon -->
+    <link rel="shortcut icon" href="img/favicon.ico?" type="image/x-icon" />
+
+    <!-- cdn font -->
+    <link href="https://fonts.cdnfonts.com/css/aileron" rel="stylesheet">
+
+
+    <link href="css/oceantial.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
+    <link href="css/owl.carousel.min.css" rel="stylesheet">
+    <link href="css/owl.theme.default.min.css" rel="stylesheet">
+
+    <script>
+        function includeHTML() {
+            var z, i, elmnt, file, xhttp;
+            /*loop through a collection of all HTML elements:*/
+            z = document.getElementsByTagName("*");
+            for (i = 0; i < z.length; i++) {
+                elmnt = z[i];
+                /*search for elements with a certain atrribute:*/
+                file = elmnt.getAttribute("w3-include-html");
+                if (file) {
+                    /*make an HTTP request using the attribute value as the file name:*/
+                    xhttp = new XMLHttpRequest();
+                    xhttp.onreadystatechange = function () {
+                        if (this.readyState == 4) {
+                            if (this.status == 200) { elmnt.innerHTML = this.responseText; }
+                            if (this.status == 404) { elmnt.innerHTML = "Page not found."; }
+                            /*remove the attribute, and call this function once more:*/
+                            elmnt.removeAttribute("w3-include-html");
+                            includeHTML();
+                        }
+                    }
+                    xhttp.open("GET", file, true);
+                    xhttp.send();
+                    /*exit the function:*/
+                    return;
+                }
+            }
+        };
+    </script>
+
+</head>
+
+<body>
+
+    <!-- header -->
+    <header class="text-white fixed z-[90] lg:bg-menu-bg black-header w-full lg:pt-4 lg:pb-4 lg:px-20 " id="menuHead">
+        <div class="lg:container lg:mx-auto">
+            <div class="hidden lg:flex justify-between items-center">
+                <div class="order-1 justify-between flex gap-16 items-center">
+                    <a class="block lg:pb-5" href="#">
+                        <img class="logodefault" src="img/logo2.png" alt="">
+                        <img class="hidden logodefault" src="img/logo.png" alt="">
+                    </a>
+                    <!-- navigation desktop -->
+                    <div class="flex items-center nav-header black">
+                        <div class="nav-a">
+                            <a href="index.html" class="px-6 py-6 text-base inline-flex items-center">
+                                Home
+                            </a>
+                        </div>
+                        <div class="nav-a toggleable vfb-checkbox">
+                            <input type="checkbox" value="selected" id="toggle-one" class="toggle-input">
+                            <label for="toggle-one"
+                                class="block cursor-pointer py-6 px-4 lg:p-6 text-sm lg:text-base">Shop</label>
+                            <div role="toggle" class="p-6 mega-menu mb-16 sm:mb-0 shadow-xl bg-white">
+                                <div class="mx-auto w-full flex space-x-4">
+                                    <div class="px-4 w-2/5 pb-6 pt-6 lg:pt-3">
+                                        <!-- Tabs caraousel -->
+                                        <div class="desktop-only simplecarousel-list lg:hidden block ml-6">
+                                            <div class="crousel-desktop">
+                                                <ul id="tabsnav" class=" text-base font-medium uppercase">
+                                                    <li class="bordercustom"><a id="default-tab" href="#first">
+                                                            Showerhead
+                                                        </a></li>
+                                                    <li><a href="#second"> Showerhead Kids Series </a></li>
+                                                    <li><a href="#tree"> Aroma Tube </a></li>
+                                                    <li><a href="#four"> Filter </a></li>
+                                                    <li><a href="#five"> Home </a></li>
+                                                    <li><a href="#six"> orther </a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+
+
+
+                                    </div>
+                                    <div class="px-4 w-[858px] pb-6 pt-6 lg:pt-3">
+                                        <!-- Tab Contents -->
+                                        <div id="tab-contentsnav" class="mb-10 desktop-only text-black">
+
+                                            <div id="first" class="p-4">
+                                                <h2 class="text-2xl text-font-nav pb-6">Showerhead</h2>
+                                                <div class="flex justify-between">
+                                                    <div class="p-6">
+                                                        <div class="inline-flex items-center pb-6">
+                                                            <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma
+                                                                Sense
+                                                            </h2>
+                                                            <svg width="20" height="21" viewBox="0 0 20 21" fill="none"
+                                                                xmlns="http://www.w3.org/2000/svg">
+                                                                <path
+                                                                    d="M7.16683 19.1914L5.5835 16.5247L2.5835 15.8581L2.87516 12.7747L0.833496 10.4414L2.87516 8.10807L2.5835 5.02474L5.5835 4.35807L7.16683 1.69141L10.0002 2.89974L12.8335 1.69141L14.4168 4.35807L17.4168 5.02474L17.1252 8.10807L19.1668 10.4414L17.1252 12.7747L17.4168 15.8581L14.4168 16.5247L12.8335 19.1914L10.0002 17.9831L7.16683 19.1914ZM9.12516 13.3997L13.8335 8.69141L12.6668 7.48307L9.12516 11.0247L7.3335 9.27474L6.16683 10.4414L9.12516 13.3997Z"
+                                                                    fill="#004E98"></path>
+                                                            </svg>
+                                                        </div>
+                                                        <ul class="navmenubig">
+                                                            <li>
+                                                                <a class="block py-4" href="">
+                                                                    Showerhead Handheld - Medium AS9000 Vitamin C
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a class="block py-4" href="">Showerhead Handheld -
+                                                                    Showerhead Mist
+                                                                    Vitamin C</a>
+                                                            </li>
+                                                            <li>
+                                                                <a class="block py-4" href="">Shower Head Wall -
+                                                                    Arofix</a>
+                                                            </li>
+                                                            <li>
+                                                                <a class="block py-4" href="">Showerhead Handheld -
+                                                                    Showerhead
+                                                                    701</a>
+                                                            </li>
+                                                            <li>
+                                                                <a class="block py-4" href="">Showerhead Handheld -
+                                                                    Showerhead
+                                                                    801</a>
+                                                            </li>
+                                                            <li>
+                                                                <a class="block py-4" href="">Showerhead Handheld -Super
+                                                                    Jet
+                                                                    Wide
+                                                                    PR-SJW</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="p-6">
+                                                        <div class="inline-flex items-center">
+                                                            <h2 class="text-title2 text-lg  mb-1 font-semibold">Aromica
+                                                            </h2>
+                                                            <svg width="20" height="21" viewBox="0 0 20 21" fill="none"
+                                                                xmlns="http://www.w3.org/2000/svg">
+                                                                <path
+                                                                    d="M7.16683 19.1914L5.5835 16.5247L2.5835 15.8581L2.87516 12.7747L0.833496 10.4414L2.87516 8.10807L2.5835 5.02474L5.5835 4.35807L7.16683 1.69141L10.0002 2.89974L12.8335 1.69141L14.4168 4.35807L17.4168 5.02474L17.1252 8.10807L19.1668 10.4414L17.1252 12.7747L17.4168 15.8581L14.4168 16.5247L12.8335 19.1914L10.0002 17.9831L7.16683 19.1914ZM9.12516 13.3997L13.8335 8.69141L12.6668 7.48307L9.12516 11.0247L7.3335 9.27474L6.16683 10.4414L9.12516 13.3997Z"
+                                                                    fill="#66102D"></path>
+                                                            </svg>
+
+                                                        </div>
+                                                        <ul class="navmenubig">
+                                                            <li>
+                                                                <a class="block py-4" href="">
+                                                                    Showerhead Handheld - Medium AS9000 Vitamin C
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a class="block py-4" href="">Showerhead Handheld -
+                                                                    Showerhead Mist
+                                                                    Vitamin C</a>
+                                                            </li>
+                                                            <li>
+                                                                <a class="block py-4" href="">Shower Head Wall -
+                                                                    Arofix</a>
+                                                            </li>
+                                                            <li>
+                                                                <a class="block py-4" href="">Showerhead Handheld -
+                                                                    Showerhead
+                                                                    701</a>
+                                                            </li>
+                                                            <li>
+                                                                <a class="block py-4" href="">Showerhead Handheld -
+                                                                    Showerhead
+                                                                    801</a>
+                                                            </li>
+                                                            <li>
+                                                                <a class="block py-4" href="">Showerhead Handheld -Super
+                                                                    Jet
+                                                                    Wide
+                                                                    PR-SJW</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+
+
+                                            </div>
+                                            <div id="second" class="hidden p-4">
+                                                <h2 class="text-2xl text-font-nav pb-6">Showerhead</h2>
+                                                <div class="flex justify-between">
+                                                    <div class="p-6">
+                                                        <div class="inline-flex items-center pb-6">
+                                                            <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma
+                                                                Sense
+                                                            </h2>
+                                                            <svg width="20" height="21" viewBox="0 0 20 21" fill="none"
+                                                                xmlns="http://www.w3.org/2000/svg">
+                                                                <path
+                                                                    d="M7.16683 19.1914L5.5835 16.5247L2.5835 15.8581L2.87516 12.7747L0.833496 10.4414L2.87516 8.10807L2.5835 5.02474L5.5835 4.35807L7.16683 1.69141L10.0002 2.89974L12.8335 1.69141L14.4168 4.35807L17.4168 5.02474L17.1252 8.10807L19.1668 10.4414L17.1252 12.7747L17.4168 15.8581L14.4168 16.5247L12.8335 19.1914L10.0002 17.9831L7.16683 19.1914ZM9.12516 13.3997L13.8335 8.69141L12.6668 7.48307L9.12516 11.0247L7.3335 9.27474L6.16683 10.4414L9.12516 13.3997Z"
+                                                                    fill="#004E98"></path>
+                                                            </svg>
+                                                        </div>
+                                                        <ul class="navmenubig">
+                                                            <li>
+                                                                <a class="block py-4" href="">
+                                                                    Showerhead Handheld - Showerhead Kids Shark Pink
+                                                                    Vitamin
+                                                                    C
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a class="block py-4" href="">Showerhead Handheld -
+                                                                    Showerhead Kids Shark Blue Vitamin C</a>
+                                                            </li>
+                                                            <li>
+                                                                <a class="block py-4" href="">Showerhead Handheld -
+                                                                    Showerhead Kids Turtle Vitamin C</a>
+                                                            </li>
+
+                                                        </ul>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                            <div id="tree" class="hidden p-4">
+                                                tiga
+                                            </div>
+                                            <div id="four" class="hidden p-4">
+                                                empat
+                                            </div>
+                                            <div id="five" class="hidden p-4">
+                                                lima
+                                            </div>
+                                            <div id="six" class="hidden p-4">
+                                                enam
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <ul class="px-4 w-40 border-gray-600 pb-6 pt-6 lg:pt-3">
+                                        <li class="pt-3">
+                                            <img src="img/placeholder.png">
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="nav-a active">
+                            <a href="how-it-works.html" class="px-6 py-6 text-base inline-flex items-center">
+                                How it Works
+                            </a>
+                        </div>
+                        <div class="nav-a">
+                            <a href="faqs.html" class="px-6 py-6 text-base inline-flex items-center">
+                                FAQs
+                            </a>
+                        </div>
+
+                        <div class="nav-a">
+                            <a href="about-us.html" class="px-6 py-6 text-base inline-flex items-center">
+                                About Us
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="navfont order-3 lg:flex hidden sm:hidden text-biru">
+                    <div class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
+                        <div class="text-xl font-thin flex items-center">
+                            <div class="flex ml-6 items-center">
+
+                                <div class="relative">
+                                    <select class="vodiapicker">
+                                        <option value="en" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="au" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                    <div class="lang-select">
+                                        <button class="btn-select blackbtn" value=""></button>
+                                        <div class="b blacklanguage">
+                                            <ul id="a" class="sel"></ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class=" ml-6 rounded border appearance-none bg-btnsosmed efectmenu">
+                            <a href="" class="p-2 flex font-normal items-center">
+                                <svg class="mr-3" width="16" height="16" viewBox="0 0 16 16" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <g clip-path="url(#clip0_1668_5945)">
+                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                            d="M0.666667 0C0.298477 0 0 0.298477 0 0.666667C0 1.03486 0.298477 1.33333 0.666667 1.33333H2.78688L3.3413 4.10338C3.34425 4.12236 3.34801 4.14106 3.35253 4.15947L4.46611 9.72321C4.55764 10.1834 4.80817 10.5973 5.17365 10.8915C5.53747 11.1844 5.99225 11.3406 6.4591 11.3333H12.9276C13.3944 11.3406 13.8492 11.1844 14.213 10.8915C14.5787 10.5972 14.8291 10.1836 14.9206 9.72321L14.9215 9.71822L15.9882 4.12488C16.0254 3.92972 15.9736 3.72812 15.847 3.57504C15.7203 3.42195 15.532 3.33333 15.3333 3.33333H4.54695L3.98704 0.535829C3.92467 0.224257 3.65108 0 3.33333 0H0.666667ZM4.81382 4.66667H14.5275L13.6123 9.4656C13.5815 9.6182 13.4982 9.75523 13.3769 9.85289C13.255 9.951 13.1025 10.0031 12.9461 10.0001L12.9333 10H6.45333L6.44056 10.0001C6.28413 10.0031 6.13162 9.951 6.00974 9.85289C5.88786 9.75478 5.80437 9.61692 5.77389 9.46346L4.81382 4.66667Z"
+                                            fill="black" />
+                                        <path
+                                            d="M4.66667 14C4.66667 13.2636 5.26362 12.6667 6 12.6667C6.73638 12.6667 7.33333 13.2636 7.33333 14C7.33333 14.7364 6.73638 15.3333 6 15.3333C5.26362 15.3333 4.66667 14.7364 4.66667 14Z"
+                                            fill="black" />
+                                        <path
+                                            d="M12 14C12 13.2636 12.597 12.6667 13.3333 12.6667C14.0697 12.6667 14.6667 13.2636 14.6667 14C14.6667 14.7364 14.0697 15.3333 13.3333 15.3333C12.597 15.3333 12 14.7364 12 14Z"
+                                            fill="black" />
+                                    </g>
+                                    <defs>
+                                        <clipPath id="clip0_1668_5945">
+                                            <rect width="16" height="16" fill="black" />
+                                        </clipPath>
+                                    </defs>
+                                </svg>
+                                Shop Now
+                            </a>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+            <!-- mobile base navigation -->
+            <div class="lg:hidden block">
+                <div class="lg:flex bg-g-orange py-4 px-4 lg:px-0 items-center flex relative">
+                    <a class="" href="index.php">
+                        <img src="img/logo.png" alt="">
+                    </a>
+                    <button class="navTrigger" id="navTrigger">
+                        <svg viewBox="0 0 64 48">
+                            <path d="M19,15 L45,15 C70,15 58,-2 49.0177126,7 L19,37"></path>
+                            <path d="M19,24 L45,24 C61.2371586,24 57,49 41,33 L32,24"></path>
+                            <path d="M45,33 L19,33 C-8,33 6,-2 22,14 L45,37"></path>
+                        </svg>
+                    </button>
+                </div>
+
+                <!-- navigation -->
+                <div class="navMenu navfont" id="navMenu">
+                    <ul>
+                        <li>
+                            <a href="index.html"
+                                class="text-default grow px-6 py-4 text-xl be-vietnam pro-bold opacity-100">
+                                Home
+                            </a>
+                        </li>
+                        <li>
+                            <a href="about-us.html" class="text-default grow px-6 py-4 text-xl opacity-70">
+                                Shop
+                            </a>
+                        </li>
+                        <li>
+                            <a href="partners.html" class="text-default grow px-6 py-4 text-xl opacity-70">
+                                How It Works
+                            </a>
+                        </li>
+                        <li>
+                            <a href="article.html" class="text-default grow px-6 py-4 text-xl opacity-70">
+                                FAQs
+                            </a>
+                        </li>
+                        <li>
+                            <a href="contact-us.html" class="text-default grow px-6 py-4 text-xl opacity-70">
+                                About Us
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- headedr end -->
+
+
+
+    <section class="w-full pb-20 pt-20 lg:px-20">
+        <div class="container mx-auto">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="font-bold text-3xl capitalize py-20"> Berbagai Masalah Karena Buruknya Kualitas Air </h2>
+                </div>
+            </div>
+            <div class="divide-y-2 divide-gray-100">
+                <div class="container mx-auto flex px-5 pb-16 md:flex-row flex-col">
+                    <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16  mb-16 md:mb-0">
+                        <svg width="120" height="120" viewBox="0 0 120 120" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <g clip-path="url(#clip0_1809_31636)">
+                                <path
+                                    d="M68.1252 27.1017C63.1863 27.7033 58.6366 29.2644 54.2364 31.2895C52.5416 32.0681 50.9333 33.0394 49.2896 33.9281C47.3917 34.9505 45.4583 34.9479 43.4895 33.9202C35.5031 38.7294 30.1552 49.9167 32.2314 58.0251C33.1634 57.3251 33.9695 56.6802 34.8189 56.0943C38.3382 53.6563 42.0817 52.9249 46.1163 54.6983C48.5936 55.7876 50.1705 57.6436 50.3199 60.3962C50.4772 63.2904 49.0576 65.4374 46.5764 66.8137C43.1474 68.7169 39.6123 68.3512 36.1086 66.9985C35.3025 66.6878 34.5633 66.2042 33.2538 65.52C33.4583 67.5608 33.5763 69.232 33.8043 70.8875C34.229 73.9704 34.9447 77.0258 35.1374 80.1205C35.7469 89.9197 29.7934 98.1617 20.3324 100.785C19.1842 101.103 18.2955 101.398 17.7843 102.617C16.3018 106.132 13.3251 107.756 9.8568 108.877C7.03736 109.789 4.32803 111.048 1.55578 112.11C1.1311 112.271 0.612058 112.192 0.199169 112.22C-0.972647 110.619 -0.00533363 109.648 1.1075 109.093C3.10116 108.106 5.22065 107.363 7.30083 106.561C8.92485 105.936 10.6747 105.562 12.1769 104.733C13.274 104.123 14.0604 102.947 15.4524 101.559C13.6042 101.162 12.3735 101.076 11.2921 100.627C8.9052 99.6403 6.37674 98.7712 4.3005 97.2927C1.65802 95.4131 1.0721 92.4246 2.22425 89.9983C3.44719 87.4266 6.33348 85.8734 9.36133 86.2666C12.8453 86.7188 15.3816 88.6535 16.931 91.7128C17.8747 93.5728 18.4134 95.6372 19.2667 97.973C22.735 97.5522 25.6645 95.8849 27.9256 93.093C31.1068 89.1608 32.664 84.6308 32.2668 79.5464C32.1135 77.5645 31.732 75.5984 31.4253 73.6283C31.1933 72.1537 30.7647 70.6948 30.6743 69.2124C30.4108 65.0245 30.0529 60.9074 29.0069 56.7746C27.8351 52.1424 29.4434 47.6399 31.614 43.4796C33.7689 39.3468 36.7024 35.7999 40.2178 32.7445C41.1734 31.9148 42.0975 31.2188 42.0307 29.7166C41.9166 27.1174 43.3519 25.1749 45.259 23.6806C47.1151 22.2296 49.0733 20.8258 51.181 19.7955C57.0086 16.9485 63.0015 14.5145 69.5487 13.7791C70.288 13.6966 70.9761 13.0281 71.6564 12.5877C71.8451 12.4658 71.9081 12.163 72.0536 11.9624C76.1352 6.32355 80.4529 6.72464 83.5869 13.0281C83.8621 13.5825 84.1295 14.137 84.161 14.1999C90.3897 16.0952 96.2881 17.6367 102.002 19.6854C108.836 22.1391 113.747 27.0427 117.436 33.2006C119.359 36.4133 119.925 39.9248 119.563 43.6408C119.233 47.0462 117.581 49.5156 114.53 50.9784C110.299 53.0075 105.824 54.0299 101.117 53.6248C94.9 53.094 91.6244 49.8813 90.9127 43.7155C90.7004 41.8595 90.7003 39.9799 90.4487 38.1278C89.9296 34.3056 88.1601 32.0367 84.4992 30.4913C83.8386 32.0327 83.2723 33.641 82.4819 35.1314C80.9837 37.9469 79.2338 40.7624 75.506 40.3967C72.0181 40.0546 70.6065 37.2115 69.7021 34.2741C69.0139 32.0406 68.6875 29.697 68.137 27.1095L68.1252 27.1017ZM85.1795 27.1253C91.1054 30.3615 92.9929 33.3343 93.4766 39.9838C93.567 41.2225 93.6378 42.469 93.8108 43.6998C94.4242 48.0528 96.4611 50.1605 100.783 50.6638C105.226 51.1868 109.449 50.2352 113.441 48.273C115.659 47.1838 116.929 45.2019 116.815 42.8661C116.689 40.3102 116.351 37.5733 115.281 35.3005C113.193 30.8688 109.969 27.2668 105.73 24.589C100.366 21.1993 94.436 19.5085 88.3095 18.3248C87.3737 18.144 86.3985 18.1833 85.2109 18.1086C85.203 21.219 85.1952 24.0542 85.1873 27.1253H85.1795ZM82.4348 26.5315C82.2853 23.2952 82.3757 20.6645 81.9747 18.1125C81.6719 16.1975 80.9641 14.251 80.0164 12.5562C78.8878 10.5429 77.3935 10.4839 75.7538 12.0411C75.2229 12.5483 74.7353 13.15 74.3854 13.7949C70.7441 20.523 70.3312 27.5146 73.0248 34.6241C73.4534 35.7487 74.641 37.0307 75.7381 37.3531C77.3425 37.825 78.5496 36.3504 79.1473 35.0134C80.445 32.0957 81.4713 29.0599 82.4348 26.5276V26.5315ZM69.4307 16.9918C68.8881 16.9328 68.3808 16.7441 67.9443 16.8463C61.2594 18.3956 54.8302 20.6134 49.038 24.3805C47.9094 25.1159 46.8477 26.04 45.9865 27.0702C44.3703 29.0049 44.5395 29.8503 46.5528 31.9187C50.0604 30.3183 53.4696 28.4937 57.0637 27.196C60.764 25.8591 64.6451 25.0372 68.6561 23.9323C68.9077 21.6751 69.1633 19.3669 69.4268 16.9879L69.4307 16.9918ZM33.9891 61.5995C36.6316 64.6824 39.5573 65.8621 43.1907 65.0402C45.8568 64.4347 47.5673 62.6179 47.4336 60.5771C47.3038 58.5756 45.3652 56.8926 42.6441 56.692C38.818 56.4089 35.9631 58.0093 33.9891 61.6034V61.5995ZM15.5075 98.0398C15.3305 93.4981 13.2582 90.3051 10.0731 89.3102C7.95753 88.6496 5.77512 89.4242 4.95721 91.1269C4.24153 92.6212 4.77239 94.1784 6.62449 95.5546C9.18833 97.4618 12.0943 98.2404 15.5035 98.0359L15.5075 98.0398Z"
+                                    fill="black" />
+                                <path
+                                    d="M70.5006 55.921C70.0483 59.9791 66.4268 62.83 62.3805 62.303C58.4364 61.7918 55.4793 57.9657 56.0062 54.0531C56.5253 50.2231 60.0565 47.5059 64.0005 47.8991C68.094 48.3081 70.9567 51.8353 70.5006 55.917V55.921ZM67.6497 55.7361C67.9996 53.2392 66.3127 51.0292 63.8354 50.7343C61.4367 50.4512 59.2385 52.2364 58.92 54.7374C58.6212 57.0535 60.2177 59.1376 62.5849 59.5151C65.0072 59.9044 67.3075 58.1899 67.6497 55.7361Z"
+                                    fill="black" />
+                                <path
+                                    d="M79.2998 56.5785C79.7678 52.3237 83.0709 49.6891 87.3178 50.1846C91.5607 50.6761 94.2503 53.9989 93.7981 58.1828C93.3538 62.3078 89.8777 65.1194 85.7685 64.675C81.7339 64.2385 78.8516 60.6326 79.2998 56.5785ZM86.201 61.9382C88.584 62.1348 90.9512 60.1686 91.1596 57.8171C91.368 55.4735 89.3153 53.0119 87.0189 52.8546C84.6556 52.6894 82.2884 54.6988 82.0879 57.0385C81.8755 59.5277 83.7237 61.7337 86.201 61.9421V61.9382Z"
+                                    fill="black" />
+                            </g>
+                            <defs>
+                                <clipPath id="clip0_1809_31636">
+                                    <rect width="120" height="120" fill="white" />
+                                </clipPath>
+                            </defs>
+                        </svg>
+                        <div class="mt-28">
+                            <h2 class="title-font sm:text-4xl text-3xl mb-6 font-medium ">Kualitas air </h2>
+                            <p class="mb-8 leading-relaxed">Pengaruh kualitas air terhadap kondisi kulit dan rambut jauh
+                                lebih signifikan daripada yang Anda pikirkan. Penggunaan berbagai produk perawatan kulit
+                                dan
+                                rambut menjadi tidak maksimal, apabila tidak didukung oleh kualitas air yang baik dan
+                                dapat
+                                diandalkan.</p>
+                        </div>
+
+
+                    </div>
+                    <div class="lg:max-w-xl lg:w-full md:w-1/2 w-5/6">
+                        <img class="object-cover object-center rounded" alt="hero" src="img/h-1.jpg">
+                    </div>
+                </div>
+                <div class="container mx-auto flex px-5 pb-16 pt-16 md:flex-row flex-col">
+                    <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16  mb-16 md:mb-0">
+                        <svg width="120" height="120" viewBox="0 0 120 120" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <path
+                                d="M41.6884 105.914C32.7576 105.914 24.3574 102.508 18.0405 96.3261C11.7176 90.1379 8.23438 81.91 8.23438 73.1554C8.23438 66.8325 10.078 60.6958 13.5632 55.4086C16.9573 50.2639 21.7317 46.1589 27.3733 43.5411C31.8625 41.4559 36.6784 40.4004 41.6884 40.4004C49.0806 40.4004 56.0847 42.7113 61.9422 47.0837C69.774 52.9273 74.5642 61.779 75.087 71.3712C75.1207 71.9336 75.1385 72.5356 75.1385 73.1554C75.1385 78.5218 73.784 83.8467 71.2216 88.5497C68.7423 93.1023 65.1442 97.0707 60.8174 100.029C55.1956 103.879 48.5816 105.914 41.6884 105.914ZM41.6884 42.246C36.9497 42.246 32.3952 43.246 28.1496 45.2163C17.1712 50.3115 10.078 61.278 10.078 73.1554C10.078 90.2012 24.2584 104.069 41.6864 104.069C48.2054 104.069 54.4609 102.146 59.7738 98.5063C68.2393 92.7221 73.2909 83.2447 73.2909 73.1554C73.2909 72.5732 73.2751 72.0089 73.2434 71.4782C72.7503 62.4285 68.2295 54.0779 60.8373 48.5629C55.3005 44.4302 48.6786 42.246 41.6864 42.246H41.6884Z"
+                                fill="black" />
+                            <path
+                                d="M84.0228 109.245C74.9771 109.245 66.3315 105.946 59.6799 99.9534L58.8086 99.1672L59.7769 98.5059C68.2404 92.7216 73.294 83.2442 73.294 73.1549C73.294 72.5728 73.2781 72.0084 73.2464 71.4777C72.7534 62.428 68.2325 54.0774 60.8403 48.5625L59.8997 47.8615L60.8027 47.1129C63.9809 44.4792 67.5612 42.4237 71.4445 41.0039C75.4623 39.5365 79.6941 38.792 84.0228 38.792C88.0625 38.792 92.0269 39.4415 95.8052 40.7247C110.277 45.6337 120 59.0141 120 74.0183C120 78.7768 119.047 83.3907 117.17 87.7373C115.356 91.9334 112.762 95.6999 109.457 98.9356C102.663 105.585 93.6309 109.247 84.0248 109.247L84.0228 109.245ZM61.7869 99.3395C67.9731 104.546 75.8247 107.397 84.0228 107.397C102.843 107.397 118.154 92.4226 118.154 74.0163C118.154 59.8022 108.934 47.1248 95.2131 42.4693C91.6269 41.2515 87.8625 40.6336 84.0248 40.6336C76.3455 40.6336 68.884 43.1742 62.8839 47.808C70.1573 53.6457 74.589 62.1666 75.0881 71.3688C75.1217 71.9312 75.1396 72.5331 75.1396 73.153C75.1396 78.5194 73.7851 83.8442 71.2226 88.5473C68.9315 92.7553 65.684 96.4642 61.7869 99.3375V99.3395Z"
+                                fill="black" />
+                            <path
+                                d="M61.4217 48.9967L60.8395 48.563C55.3028 44.4303 48.6809 42.246 41.6887 42.246C36.95 42.246 32.3955 43.2461 28.1499 45.2164L26.938 45.7788L26.841 44.4461C26.7875 43.7194 26.7617 42.9926 26.7617 42.2837C26.7617 37.9172 27.6865 33.6796 29.5103 29.6914C31.2687 25.8458 33.7876 22.3923 36.9916 19.4298C43.5679 13.3485 52.3087 10 61.6019 10C70.8951 10 79.4141 13.2674 85.9607 19.2001C92.5173 25.1428 96.2361 33.0895 96.4302 41.5767L96.4599 42.8956L95.2104 42.4718C91.6242 41.254 87.8597 40.6361 84.0221 40.6361C75.9526 40.6361 68.1228 43.4401 61.9782 48.5333L61.4197 48.9967H61.4217ZM41.6887 40.4005C48.8374 40.4005 55.6236 42.5609 61.3603 46.658C64.398 44.2401 67.7862 42.3411 71.4437 41.0044C75.4616 39.5371 79.6933 38.7925 84.0221 38.7925C87.6082 38.7925 91.135 39.3054 94.5252 40.3173C93.4202 24.5032 78.9388 11.8455 61.6019 11.8455C43.4075 11.8455 28.6073 25.4992 28.6073 42.2837C28.6073 42.5193 28.6113 42.755 28.6172 42.9946C32.748 41.2718 37.1401 40.4005 41.6887 40.4005Z"
+                                fill="black" />
+                            <path
+                                d="M16.7734 42.0536C13.5496 42.0536 10.9277 38.8061 10.9277 34.8139C10.9277 30.8218 13.5496 27.5742 16.7734 27.5742C19.9972 27.5742 22.619 30.8218 22.619 34.8139C22.619 38.8061 19.9972 42.0536 16.7734 42.0536ZM16.7734 29.4178C14.5674 29.4178 12.7733 31.8376 12.7733 34.8139C12.7733 37.7902 14.5674 40.21 16.7734 40.21C18.9794 40.21 20.7734 37.7902 20.7734 34.8139C20.7734 31.8376 18.9794 29.4178 16.7734 29.4178Z"
+                                fill="black" />
+                            <path
+                                d="M4.19412 29.4179C1.84358 29.4179 0 26.4277 0 22.6098C0 18.792 1.8416 15.7998 4.19412 15.7998C6.54663 15.7998 8.38823 18.79 8.38823 22.6098C8.38823 26.4297 6.54663 29.4179 4.19412 29.4179ZM4.19412 17.6454C3.08519 17.6454 1.84554 19.7682 1.84554 22.6098C1.84554 25.4515 3.08519 27.5743 4.19412 27.5743C5.30304 27.5743 6.54269 25.4515 6.54269 22.6098C6.54269 19.7682 5.30304 17.6454 4.19412 17.6454Z"
+                                fill="black" />
+                            <path
+                                d="M8.60138 51.8022C6.36966 51.8022 4.62109 49.4755 4.62109 46.5051C4.62109 43.5348 6.36966 41.208 8.60138 41.208C10.8331 41.208 12.5817 43.5348 12.5817 46.5051C12.5817 49.4755 10.8331 51.8022 8.60138 51.8022ZM8.60138 43.0536C7.44492 43.0536 6.46668 44.6338 6.46668 46.5051C6.46668 48.3764 7.44492 49.9567 8.60138 49.9567C9.75783 49.9567 10.7361 48.3764 10.7361 46.5051C10.7361 44.6338 9.75783 43.0536 8.60138 43.0536Z"
+                                fill="black" />
+                            <path
+                                d="M26.8234 86.3434C20.5322 86.3434 16.4093 84.6998 16.1836 84.6087L16.8806 82.8998L16.5321 83.7533L16.8787 82.8978C16.946 82.9256 23.7956 85.6345 33.1324 83.9176C45.4989 81.6443 56.6496 72.6482 65.3785 57.8994L66.9666 58.84C61.9388 67.3332 56.1565 73.9789 49.7802 78.5908C44.6474 82.3018 39.1226 84.7117 33.3581 85.7533C31.0017 86.1791 28.8036 86.3414 26.8214 86.3414L26.8234 86.3434Z"
+                                fill="black" />
+                            <path
+                                d="M60.5178 26.6218L59.9376 24.8692C59.7198 24.9405 59.6841 25.0574 59.6821 25.0712C59.6841 25.0593 59.9019 23.9861 56.5078 20.3405L57.8583 19.083C60.6742 22.1068 61.8208 24.1544 61.4683 25.5287C61.3079 26.1544 60.8703 26.5029 60.5158 26.6198L60.5178 26.6218Z"
+                                fill="black" />
+                            <path
+                                d="M52.0073 36.0695C51.1895 36.0695 50.1558 35.3586 48.6191 33.7744L49.9439 32.4893C51.4984 34.0913 52.0271 34.22 52.0489 34.2259C52.0013 34.216 51.8291 34.218 51.6607 34.3527C51.5677 34.4279 51.4568 34.5606 51.4568 34.7606L53.3024 34.7527C53.3024 35.1982 53.0608 35.7468 52.5103 35.9705C52.3519 36.0359 52.1835 36.0695 52.0073 36.0695Z"
+                                fill="black" />
+                            <path
+                                d="M71.6688 38.0539L69.8926 37.5568C70.4074 35.7152 71.6272 34.0459 73.2411 32.9785L74.261 34.5172C73.0115 35.3449 72.0688 36.634 71.6708 38.0539H71.6688Z"
+                                fill="black" />
+                            <path
+                                d="M83.6303 59.8483L81.8164 59.5136C82.1728 57.5848 84.2105 56.169 86.1769 56.4819L85.8858 58.3037C84.9016 58.1473 83.8065 58.8978 83.6303 59.8483Z"
+                                fill="black" />
+                            <path
+                                d="M44.1445 61.6207C43.8692 61.0563 43.4138 60.5712 42.8633 60.2504L43.79 58.6543C44.6534 59.1553 45.3682 59.9216 45.8019 60.8088L44.1445 61.6207Z"
+                                fill="black" />
+                            <path
+                                d="M26.1068 71.4484L25.1543 69.8682C25.6929 69.5434 26.0612 68.9394 26.0969 68.3256C26.1325 67.7137 25.8335 67.0741 25.3384 66.6939L26.4612 65.2285C27.4434 65.981 28.0098 67.2087 27.9404 68.4305C27.8711 69.6523 27.1682 70.8068 26.1087 71.4464L26.1068 71.4484Z"
+                                fill="black" />
+                            <path
+                                d="M25.9308 80.1004C25.7129 80.1004 25.4971 80.0825 25.2812 80.0449L25.5922 78.225C26.2258 78.334 26.9407 78.1161 27.505 77.6429C28.0496 77.1874 28.3645 76.5815 28.3704 75.9795L30.216 75.9934C30.2061 77.136 29.6516 78.2528 28.6892 79.0568C27.8813 79.734 26.9031 80.0964 25.9308 80.0964V80.1004Z"
+                                fill="black" />
+                            <path
+                                d="M36.5831 98.8906C35.591 97.647 34.8445 96.253 34.3613 94.746L36.1178 94.1836C36.5316 95.4747 37.1733 96.6727 38.0248 97.7401L36.5812 98.8906H36.5831Z"
+                                fill="black" />
+                            <path
+                                d="M58.0825 86.9063L57.3301 85.2211C58.3083 84.7855 59.3281 84.4151 60.3598 84.1221L60.8648 85.8983C59.9162 86.1676 58.9816 86.5063 58.0825 86.9083V86.9063Z"
+                                fill="black" />
+                            <path
+                                d="M55.3895 57.7451L53.7578 56.8817C54.2826 55.8896 55.0569 55.0282 55.9955 54.3945L57.0292 55.9233C56.34 56.3886 55.7737 57.0183 55.3895 57.7451Z"
+                                fill="black" />
+                            <path d="M87.2727 64.5901L86.5566 66.291L88.9585 67.3021L89.6745 65.6012L87.2727 64.5901Z"
+                                fill="black" />
+                            <path d="M89.8368 89.6123L88.7656 91.1152L90.541 92.3807L91.6122 90.8778L89.8368 89.6123Z"
+                                fill="black" />
+                            <path
+                                d="M104.905 83.6206C104.487 82.7137 104.602 81.6087 105.198 80.8027L106.682 81.9018C106.487 82.1651 106.446 82.5533 106.583 82.8483L104.907 83.6206H104.905Z"
+                                fill="black" />
+                            <path
+                                d="M108.14 68.8148C107.724 68.0187 107.095 67.3434 106.324 66.8603L107.302 65.2959C108.352 65.9514 109.205 66.8722 109.774 67.9573L108.138 68.8128L108.14 68.8148Z"
+                                fill="black" />
+                            <path
+                                d="M106.241 61.3632C104.472 60.284 102.441 59.6127 100.365 59.4265L100.532 57.5889C102.888 57.8027 105.195 58.5632 107.203 59.7889L106.241 61.3632Z"
+                                fill="black" />
+                        </svg>
+
+                        <div class="mt-6">
+                            <h2 class="title-font sm:text-4xl text-3xl mb-6 font-medium ">Kulit kering </h2>
+                            <p class="mb-8 leading-relaxed">Kulit kering terjadi ketika lapisan pelindung kulit
+                                kehilangan kadar air dan minyak yang cukup. Gejalanya bisa berupa kulit bersisik,
+                                mengelupas, terasa kasar, terasa kencang setelah mandi, serta terasa gatal, bahkan
+                                hingga munculnya eczema. Kondisi ini sering kali muncul ketika kita kurang memperhatikan
+                                kualitas air yang kita gunakan.</p>
+                        </div>
+
+
+                    </div>
+                    <div class="lg:max-w-xl lg:w-full md:w-1/2 w-5/6">
+                        <img class="object-cover object-center rounded" alt="hero" src="img/h-2.jpg">
+                    </div>
+                </div>
+                <div class="container mx-auto flex px-5 pb-16 pt-16 md:flex-row flex-col">
+                    <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16  mb-16 md:mb-0">
+                        <svg width="120" height="120" viewBox="0 0 120 120" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <path
+                                d="M29.7176 64.0875C26.86 64.0875 22.5655 64.0052 18.1886 63.613C7.46316 62.6532 1.60542 60.4154 0.286335 56.7735C-0.77771 53.8419 1.11724 50.5401 6.08096 46.6843C11.1571 42.738 16.2305 40.2836 21.1641 39.3896C25.1679 38.6628 29.0759 38.9535 32.7808 40.2562C39.0746 42.4665 42.5574 46.805 42.7027 46.9887L40.7008 48.5766C40.6679 48.5354 37.4593 44.5727 31.8237 42.6311C24.3014 40.0395 16.1674 42.0826 7.64685 48.7054C3.83768 51.6645 2.07711 54.2231 2.68866 55.9069C3.11099 57.0752 5.49134 59.9136 18.4162 61.0708C25.8151 61.7345 32.981 61.4932 33.0523 61.4932L33.1401 64.0463C33.1099 64.0463 31.7936 64.0902 29.7149 64.0902L29.7176 64.0875Z"
+                                fill="black" />
+                            <path
+                                d="M78.9317 80.3694C75.1883 80.3694 70.7648 80.2706 66.2756 79.9443C59.4169 79.4479 53.7347 78.532 49.388 77.2184C43.6729 75.4907 40.1544 73.017 38.934 69.8633C38.0044 67.461 38.402 64.7378 40.1188 61.7733C41.8547 58.7731 45.0303 55.4 49.5553 51.7526C61.5011 42.1241 73.51 38.1394 85.2474 39.9083C94.9993 41.3782 102.678 46.6408 107.406 50.7982C112.128 54.9502 114.868 58.7731 115.342 59.4587C115.819 59.9496 117.895 62.2038 119.108 65.4755C120.383 68.9117 120.923 74.1195 116.258 79.4233L114.339 77.7367C117.416 74.2401 118.214 70.4145 116.711 66.3668C115.559 63.2651 113.48 61.2111 113.458 61.1919L113.365 61.1014L113.291 60.9917C113.264 60.9533 110.532 56.9439 105.653 52.6658C101.192 48.7552 93.9572 43.8052 84.8415 42.4367C73.8473 40.7858 62.513 44.5922 51.1568 53.7463C43.3136 60.0675 39.9103 65.3219 41.3144 68.9446C43.0202 73.3461 51.9412 76.349 66.4346 77.3994C77.8704 78.2276 88.8948 77.5749 89.0045 77.5694L89.1607 80.1198C89.0922 80.1253 84.8662 80.3748 78.9317 80.3748V80.3694Z"
+                                fill="black" />
+                        </svg>
+
+                        <div class="mt-2">
+                            <h2 class="title-font sm:text-4xl text-3xl mb-6 font-medium ">Rambut kusam </h2>
+                            <p class="mb-8 leading-relaxed">Masalah rambut kering muncul ketika rambut tidak dapat
+                                mempertahankan kelembapan yang cukup. Rambut menjadi terlihat kusut, kusam, dan tidak
+                                sehat. Salah satu faktor yang dapat memperburuk kondisi rambut adalah tingginya
+                                kandungan klorin dalam air yang digunakan. Kandungan klorin dapat menyebabkan rambut
+                                kehilangan kelembapan alaminya dan membuatnya semakin kering.</p>
+                        </div>
+
+
+                    </div>
+                    <div class="lg:max-w-xl lg:w-full md:w-1/2 w-5/6">
+                        <img class="object-cover object-center rounded" alt="hero" src="img/h-3.jpg">
+                    </div>
+                </div>
+                <div class="container mx-auto flex px-5 pb-16 pt-16 md:flex-row flex-col">
+                    <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16  mb-16 md:mb-0">
+                        <svg width="96" height="120" viewBox="0 0 96 120" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <path
+                                d="M85.6586 118.002L87.1797 116.32C87.0118 116.169 70.3158 101.033 53.2353 81.7454C43.2201 70.4355 35.0376 59.936 28.9117 50.5366C21.3109 38.8714 16.8959 28.9146 15.7885 20.9414L13.5421 21.2529C14.6958 29.5596 19.2299 39.8327 27.0157 51.7827C33.2025 61.2771 41.458 71.869 51.5486 83.2641C68.7094 102.642 85.4882 117.851 85.6561 118.002H85.6586Z"
+                                fill="black" />
+                            <path
+                                d="M54.634 120C57.192 120 60.6577 119.45 65.0873 118.347C70.3516 117.036 75.0878 115.385 75.1341 115.368L77.5703 114.517L75.2947 113.3C69.3805 110.136 64.2792 109.427 61.0398 109.388C56.9899 109.34 53.3952 110.318 51.178 112.066C49.3477 113.509 48.5835 115.417 49.0776 117.301C49.2967 118.136 49.8613 118.817 50.7058 119.267C51.6234 119.754 52.9279 120 54.634 120ZM71.7583 114.105C64.6126 116.383 54.6048 118.771 51.7719 117.264C51.4019 117.067 51.3094 116.872 51.2705 116.726C50.9395 115.466 51.801 114.465 52.5823 113.847C55.9531 111.187 63.5685 110.545 71.7583 114.105Z"
+                                fill="black" />
+                            <path
+                                d="M37.8262 107.212C40.4401 107.212 44.4632 104.837 50.1218 99.9548C54.1887 96.4453 57.6228 92.8749 57.6569 92.8408L59.4336 90.9887L56.8683 90.9205C50.1437 90.7428 45.2785 92.3808 42.3798 93.7876C38.7534 95.5472 36.0008 98.0175 34.8301 100.566C33.8566 102.683 34.0562 104.735 35.3777 106.198C35.9643 106.845 36.7894 107.195 37.7629 107.21C37.7824 107.21 37.8043 107.21 37.8262 107.21V107.212ZM54.0865 93.2253C48.8222 98.4021 41.0899 104.944 37.831 104.944C37.8189 104.944 37.8067 104.944 37.7969 104.944C37.354 104.937 37.1714 104.798 37.0619 104.676C36.1711 103.693 36.4778 102.413 36.8916 101.515C38.6658 97.6573 45.1544 93.6999 54.0865 93.2253Z"
+                                fill="black" />
+                            <path
+                                d="M42.8463 84.4005C43.1919 84.4005 43.4109 84.3956 43.4718 84.3932L45.543 84.3299L44.3723 82.6189C44.2652 82.4607 41.6854 78.7054 38.4484 74.9719C33.8266 69.6394 30.3705 67.2275 27.8856 67.595C26.917 67.7386 25.6173 68.3665 24.931 70.5399C23.9039 73.7866 24.2398 76.5685 25.9337 78.8076C29.9008 84.05 40.1764 84.4005 42.8463 84.4005ZM28.3846 69.8293C29.178 69.8293 31.5583 70.4888 36.7326 76.459C38.5287 78.5301 40.1399 80.6451 41.201 82.0884C37.5844 81.9156 30.5069 81.1027 27.7372 77.4398C26.4959 75.7994 26.2842 73.7672 27.0898 71.2263C27.4938 69.9485 28.0365 69.8682 28.2142 69.8414C28.2605 69.8341 28.3164 69.8293 28.3846 69.8293Z"
+                                fill="black" />
+                            <path
+                                d="M29.6733 58.6798L27.0448 56.5454C26.9304 56.4504 24.1753 54.2235 20.7802 52.0963C15.9685 49.0833 12.4979 47.881 10.1711 48.4213C9.00778 48.6914 8.12919 49.407 7.63026 50.49C7.13132 51.5731 7.17758 52.6537 7.76657 53.6126C8.95183 55.5402 12.3835 56.908 18.2538 57.7939C22.3719 58.417 26.1321 58.5557 26.2903 58.5606L29.6758 58.6823L29.6733 58.6798ZM11.3467 50.5582C14.0044 50.5582 18.8039 53.3352 22.6226 56.044C17.0711 55.5232 10.8429 54.2868 9.69656 52.4201C9.56027 52.1962 9.46291 51.9236 9.68682 51.4368C9.89369 50.989 10.2004 50.7407 10.6823 50.6288C10.8843 50.5825 11.1058 50.5582 11.3467 50.5582Z"
+                                fill="black" />
+                            <path
+                                d="M17.8906 38.0904L16.114 35.7418C12.8405 31.4145 6.02334 25.6268 2.25823 26.4884C1.0973 26.7537 0.31847 27.6031 0.0604858 28.8833C-0.10988 29.7351 0.0824032 30.6089 0.620275 31.4072C3.16848 35.1942 13.7945 37.3116 14.9968 37.5404L17.8882 38.0904H17.8906ZM3.10038 28.6643C4.89654 28.6643 8.79789 31.1102 12.1127 34.5541C8.18214 33.5222 3.66741 31.8745 2.49918 30.1391C2.23632 29.7473 2.24852 29.4893 2.28016 29.3287C2.38968 28.7835 2.61115 28.7324 2.75961 28.6983C2.86183 28.674 2.97625 28.6643 3.09794 28.6643H3.10038Z"
+                                fill="black" />
+                            <path
+                                d="M14.7734 20.6468L14.5276 17.7384C14.513 17.5802 14.1893 13.8005 13.4227 9.79683C11.9429 2.0719 10.1735 0.597012 8.9712 0.156491C8.23132 -0.113662 7.08255 -0.16722 5.80237 1.1154C4.72662 2.19358 4.19849 3.54923 4.23013 5.14825C4.35182 10.9699 12.2909 18.359 12.6292 18.6705L14.7734 20.6492V20.6468ZM8.11205 2.2739C8.13883 2.2739 8.16562 2.27878 8.18995 2.28608C8.35302 2.34449 9.82307 3.07463 11.1933 10.2227C11.4975 11.8072 11.7312 13.377 11.9015 14.6791C9.49935 12.0019 6.55687 8.04447 6.49603 5.09712C6.47656 4.12846 6.77348 3.34966 7.40627 2.71687C7.54743 2.57571 7.87597 2.2739 8.11205 2.2739Z"
+                                fill="black" />
+                            <path
+                                d="M20.9499 33.4344L22.1863 31.536C22.2593 31.424 23.9874 28.759 25.489 25.561C27.6478 20.9587 28.1905 17.7582 27.1513 15.7722C26.6864 14.8838 25.6618 13.8105 23.4324 13.7472C21.1397 13.6791 19.8863 14.7451 19.2365 15.648C17.8711 17.544 17.6302 20.7956 18.5234 25.3103C19.1586 28.5205 20.1322 31.1977 20.1735 31.3097L20.9524 33.4368L20.9499 33.4344ZM23.2256 16.0107C23.2718 16.0107 23.318 16.0107 23.3667 16.0107C24.5958 16.0448 24.9681 16.4902 25.1409 16.8212C26.1631 18.7731 23.9313 24.0788 21.5559 28.2138C20.5313 24.6532 19.4629 19.2063 21.074 16.9672C21.3734 16.551 21.921 16.0058 23.2256 16.0058V16.0107Z"
+                                fill="black" />
+                            <path
+                                d="M31.3733 53.4137L33.0428 50.9774C33.1304 50.8509 35.1919 47.8329 37.0586 44.3063C39.7456 39.2343 40.5828 35.844 39.6214 33.9456C39.2539 33.2203 38.4532 32.3466 36.7252 32.2906C35.3258 32.2468 34.087 32.7774 33.1378 33.8263C31.512 35.6249 30.6626 39.0079 30.6115 43.8829C30.5749 47.3827 30.9668 50.3592 30.9814 50.4834L31.3708 53.4113L31.3733 53.4137ZM36.5573 34.5565C36.5889 34.5565 36.6206 34.5565 36.6522 34.5565C37.4018 34.5808 37.5406 34.8534 37.599 34.9702C37.8107 35.3864 38.2488 37.2142 35.0556 43.2452C34.3449 44.5887 33.5929 45.8689 32.9455 46.93C32.7362 42.9702 32.9114 37.4576 34.822 35.3475C35.3087 34.8096 35.8637 34.5565 36.5597 34.5565H36.5573Z"
+                                fill="black" />
+                            <path
+                                d="M44.0402 71.9025L45.4299 70.1696C45.5078 70.0747 47.338 67.7821 49.0052 64.9783C51.4122 60.926 52.196 58.0079 51.4025 56.0559C51.0399 55.1627 50.1564 54.0408 48.0195 53.7803C45.8266 53.5126 44.5392 54.418 43.8431 55.2236C42.412 56.881 41.9277 59.8697 42.3974 64.1119C42.7309 67.1152 43.4244 69.6561 43.4537 69.7608L44.0427 71.9025H44.0402ZM47.2456 56C47.3989 56 47.5644 56.0097 47.7421 56.0316C49.0052 56.1849 49.2194 56.7131 49.2997 56.9102C50.0493 58.7551 47.6057 63.299 45.0989 66.8378C44.3809 63.1578 44.0573 58.4435 45.5565 56.7058C45.8291 56.3918 46.2891 56 47.2431 56H47.2456Z"
+                                fill="black" />
+                            <path
+                                d="M56.7661 84.5195L57.9635 84.0424C59.8984 83.2709 62.3395 79.3792 63.8412 76.2834C64.8634 74.1757 67.1463 68.9138 66.2774 65.5479C65.7298 63.4231 64.0067 62.379 61.5485 62.6881C59.6331 62.9291 58.1144 63.8564 57.0362 65.4457C53.3173 70.9242 56.3183 82.7696 56.4473 83.2734L56.7685 84.5219L56.7661 84.5195ZM62.4101 64.8981C63.5881 64.8981 63.9142 65.4749 64.0797 66.1125C64.5445 67.916 63.6708 71.4328 61.7992 75.2929C60.5044 77.9628 59.1974 79.8758 58.2483 80.9539C57.467 77.0014 56.6882 69.9896 58.9127 66.7185C59.6185 65.6793 60.575 65.0952 61.8308 64.937C62.045 64.9102 62.2373 64.8981 62.4125 64.8981H62.4101Z"
+                                fill="black" />
+                            <path
+                                d="M74.9433 100.992L75.8949 98.8309C75.963 98.6776 77.5718 95.0025 78.7912 90.6801C80.4948 84.6321 80.5484 80.424 78.9445 78.1751C78.2533 77.204 76.8855 76.0918 74.3056 76.3035C71.6795 76.5202 70.3969 77.8953 69.7812 79.0124C68.3988 81.5216 68.686 85.6713 70.6379 91.3421C72.0398 95.4114 73.7775 98.7579 73.8505 98.8991L74.9433 100.992ZM74.9457 78.5451C76.2551 78.5451 76.7978 79.0732 77.0948 79.4918C78.2435 81.103 78.0732 84.8511 76.6129 90.0424C76.019 92.1525 75.3157 94.1312 74.7632 95.5794C72.7091 91.0476 69.9515 83.4006 71.7647 80.1076C72.2831 79.1657 73.1495 78.6765 74.4881 78.5645C74.6488 78.5524 74.8021 78.5451 74.9433 78.5451H74.9457Z"
+                                fill="black" />
+                            <path
+                                d="M89.5519 113.852L90.6934 110.963C90.7104 110.919 92.3922 106.648 93.7429 102.053C96.3179 93.2961 95.5026 90.9256 94.6678 89.9058C94.0764 89.183 93.188 88.8885 92.1658 89.0734C90.2456 89.4215 88.7707 90.4437 87.785 92.1108C84.2973 98.008 88.3885 110.381 88.5638 110.905L89.5519 113.85V113.852ZM92.7475 91.2882C92.8643 91.2882 92.8935 91.3247 92.913 91.3466C93.1101 91.5875 93.9766 93.2085 91.5696 101.401C90.9806 103.401 90.3283 105.343 89.7831 106.884C88.7634 102.63 87.8702 96.4187 89.7369 93.2669C90.3819 92.1765 91.3091 91.5365 92.5698 91.3077C92.6453 91.2931 92.7037 91.2882 92.7475 91.2882Z"
+                                fill="black" />
+                        </svg>
+
+
+                        <div class="mt-20">
+                            <h2 class="title-font sm:text-4xl text-3xl mb-6 font-medium ">Munculnya Jerawat </h2>
+                            <p class="mb-8 leading-relaxed">Ketika kita menggunakan air yang kotor, partikel-partikel
+                                yang terkandung di dalamnya dapat menumpuk di pori-pori kulit. Hal ini dapat menyebabkan
+                                pori-pori tersumbat dan memicu timbulnya komedo atau jerawat. Jika tidak diatasi dengan
+                                baik, masalah ini dapat berkembang menjadi jerawat yang lebih besar dan meradang.</p>
+                        </div>
+
+
+                    </div>
+                    <div class="lg:max-w-xl lg:w-full md:w-1/2 w-5/6">
+                        <img class="object-cover object-center rounded" alt="hero" src="img/h-4.jpg">
+                    </div>
+                </div>
+                <div class="container mx-auto flex px-5 pb-16 pt-16 md:flex-row flex-col">
+                    <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16  mb-16 md:mb-0">
+                        <svg width="120" height="120" viewBox="0 0 120 120" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <path
+                                d="M12.2274 95.0594C9.96973 93.6059 8.00725 90.4766 6.23033 85.4916C4.88358 81.7185 3.66053 76.8909 2.59213 71.1413C0.78147 61.4047 0.027966 52.2305 0.0195312 52.1406L2.63149 51.9297C2.63992 52.0197 3.38499 61.0758 5.17035 70.683C7.45055 82.9302 10.459 90.8055 13.6445 92.858L12.2246 95.0594H12.2274Z"
+                                fill="black" />
+                            <path
+                                d="M119.397 70.6808L116.816 70.2253C118.688 59.589 115.559 49.5461 112.601 42.9951C109.368 35.8311 105.631 31.1526 105.592 31.1077L107.63 29.4629C107.79 29.6597 111.583 34.4001 114.957 41.8479C118.084 48.7504 121.39 59.3585 119.394 70.6808H119.397Z"
+                                fill="black" />
+                            <path
+                                d="M25.742 63.0751C23.5208 63.0751 21.3896 63.002 19.3625 62.8558C14.0514 62.4706 9.72717 61.5906 6.5079 60.241C2.90063 58.7284 0.766641 56.6591 0.167773 54.0893C-0.279269 52.1746 0.167771 50.1306 1.50046 48.0106C6.85091 39.4943 26.3605 30.2133 50.0481 24.9191C64.2157 21.7532 77.9419 20.4402 88.6962 21.219C94.0073 21.6042 98.3315 22.4842 101.554 23.8338C105.161 25.3464 107.295 27.4158 107.894 29.9855C108.341 31.9002 107.894 33.9443 106.561 36.0642C101.211 44.5805 81.701 53.8615 58.0134 59.1558C46.5168 61.7256 35.3098 63.0751 25.7476 63.0751H25.742ZM82.2971 23.6201C72.9345 23.6201 61.9299 24.9472 50.6161 27.4776C27.9266 32.5497 8.63908 41.5665 3.716 49.4052C2.7713 50.9094 2.43391 52.2871 2.71507 53.496C3.53605 57.0162 9.8312 59.541 19.5509 60.2467C30.0578 61.0086 43.5112 59.7153 57.437 56.6029C80.1265 51.5308 99.414 42.514 104.337 34.6753C105.282 33.1711 105.619 31.7934 105.338 30.5844C104.517 27.0643 98.2219 24.5395 88.5022 23.8338C86.5313 23.6904 84.4592 23.6201 82.2971 23.6201Z"
+                                fill="black" />
+                            <path
+                                d="M27.906 99.2774C23.7477 99.2774 20.3344 98.985 17.7337 98.4002C14.1067 97.5877 12.1189 96.2325 11.6578 94.2559C11.4132 93.2072 11.6494 92.0966 12.3635 90.9607C14.8602 86.9852 23.1179 83.0208 29.607 80.3976C38.7053 76.7173 50.4887 73.1747 62.7837 70.4277C76.912 67.2703 90.4638 65.4006 100.943 65.1616C106.102 65.0435 110.263 65.3303 113.308 66.0107C116.935 66.8233 118.923 68.1784 119.384 70.155C119.628 71.2037 119.392 72.3143 118.678 73.4502C116.181 77.4258 107.924 81.3901 101.435 84.0133C92.3363 87.6937 80.553 91.2363 68.2579 93.9832C54.1297 97.1406 40.5778 99.0103 30.099 99.2493C29.3455 99.2662 28.6145 99.2746 27.906 99.2746V99.2774ZM103.113 67.7567C102.438 67.7567 101.735 67.7652 101.002 67.782C90.6916 68.0154 77.3196 69.8654 63.3545 72.9863C51.1944 75.7051 39.56 79.1999 30.5883 82.8296C22.0495 86.2851 16.2154 89.7574 14.5819 92.3581C14.2529 92.8811 14.1292 93.3197 14.2079 93.6627C14.4947 94.8941 18.1526 96.9044 30.0372 96.6317C40.3473 96.3984 53.7192 94.5483 67.6815 91.4275C79.8416 88.7087 91.476 85.2139 100.448 81.5841C108.987 78.1287 114.821 74.6563 116.454 72.0556C116.783 71.5327 116.907 71.0941 116.828 70.751C116.558 69.5955 113.322 67.7567 103.11 67.7567H103.113Z"
+                                fill="black" />
+                            <path
+                                d="M29.0656 70.7424C13.4331 70.7424 4.01431 67.8268 3.56445 67.6834L4.35451 65.1839C4.47541 65.2233 16.7733 69.0133 36.2098 67.9168C54.1421 66.9046 81.9993 61.4023 112.879 40.9424L114.327 43.127C100.457 52.3181 86.0171 59.3302 71.4052 63.9693C59.7034 67.6862 47.8666 69.8961 36.221 70.54C33.7131 70.6777 31.3233 70.7396 29.0656 70.7396V70.7424Z"
+                                fill="black" />
+                            <path
+                                d="M18.0436 51.609L16.2695 49.6831C16.5423 49.4301 23.0792 43.461 33.4652 38.4902C39.5776 35.5661 45.7518 33.6064 51.8164 32.6702C59.4077 31.4978 66.8444 31.9335 73.9155 33.9607C75.3325 34.2475 76.8424 35.0629 76.8986 36.5024C76.9745 38.4115 74.7899 40.298 63.895 43.298C60.3046 44.2876 58.5108 45.0074 57.6195 45.4573C59.0872 45.8228 61.9044 46.1236 64.6879 46.1771C65.7928 45.9184 71.7168 44.6391 75.296 45.8818L74.4385 48.356C71.8265 47.4507 66.8444 48.342 65.1462 48.7609L64.9803 48.8031H64.8116C64.716 48.8003 62.4639 48.7609 60.1443 48.5135C56.1097 48.0861 54.4621 47.3382 54.2738 45.8509C54.0713 44.2624 55.9551 43.3514 56.6636 43.0084C58.0722 42.3252 60.2118 41.5941 63.2005 40.7704C70.8284 38.6701 73.2435 37.3065 73.9942 36.7104C73.7974 36.6317 73.5612 36.5586 73.356 36.5164L73.2463 36.4883C58.0328 32.105 43.8709 36.4208 34.6714 40.8125C24.6199 45.6091 18.1139 51.5444 18.0493 51.6034L18.0436 51.609Z"
+                                fill="black" />
+                        </svg>
+
+
+                        <div class="mt-0">
+                            <h2 class="title-font sm:text-4xl text-3xl mb-6 font-medium ">Rusaknya Nutrisi </h2>
+                            <p class="mb-8 leading-relaxed">Penting untuk disadari bahwa air yang kita gunakan tidak
+                                hanya mempengaruhi kesehatan rambut dan kulit kita, tetapi juga dapat berdampak pada
+                                makanan dan minuman yang kita konsumsi.
+
+                                Ketika menggunakan air yang kotor untuk mencuci alat makan, sayuran, dan buah-buahan,
+                                secara tidak langsung kita membawa masalah kebersihan dan kualitas air tersebut ke dalam
+                                makanan kita. Kandungan residu pipa berkarat mengandung zat-zat beracun yang dapat
+                                mencemari makanan dan berpotensi membahayakan kesehatan. Selain itu, klorin yang
+                                terdapat dalam air juga dapat meninggalkan residu pada makanan, mengubah rasa dan
+                                kualitas nutrisi yang terkandung di dalamnya.</p>
+                        </div>
+
+
+                    </div>
+                    <div class="lg:max-w-xl lg:w-full md:w-1/2 w-5/6">
+                        <img class="object-cover object-center rounded" alt="hero" src="img/h-5.jpg">
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="w-full pb-20 lg:px-20">
+        <div class="container mx-auto">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="font-bold text-3xl capitalize py-20">Bringing the Ocean's Harmony to Your Skin </h2>
+                </div>
+            </div>
+            <div class="flex flex-wrap">
+                <div class="lg:w-1/4 md:w-1/2 p-5 w-full ">
+                    <div class="rounded-2xl border border-border2 items-center p-6">
+                        <img class="my-0 mx-auto" src="img/whatsapp.png">
+                        <div class="mt-6 pb-6">
+                            <h2 class="text-center font-semibold">WhatsApp</h2>
+                        </div>
+                        <div class="flex my-0 mx-auto">
+                            <a href=""
+                                class="w-60 rounded-lg bg-btnsosmed my-0 mx-auto py-4 px-6 inline-flex items-center justify-center">
+                                Contact Us <svg class="ml-2" width="21" height="21" viewBox="0 0 21 21" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M9.91091 4.01898C10.2363 3.69354 10.764 3.69354 11.0894 4.01898L16.9228 9.85231C17.2482 10.1778 17.2482 10.7054 16.9228 11.0308L11.0894 16.8642C10.764 17.1896 10.2363 17.1896 9.91091 16.8642C9.58547 16.5387 9.58547 16.0111 9.91091 15.6856L14.3217 11.2749H4.66683C4.20659 11.2749 3.8335 10.9018 3.8335 10.4416C3.8335 9.98133 4.20659 9.60824 4.66683 9.60824H14.3217L9.91091 5.19749C9.58547 4.87205 9.58547 4.34442 9.91091 4.01898Z"
+                                        fill="#232020" />
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="lg:w-1/4 md:w-1/2 p-5 w-full rounded-2xl">
+                    <div class="rounded-2xl border border-border2 items-center p-6">
+                        <img class="my-0 mx-auto" src="img/shopee-icon.png">
+                        <div class="mt-6 pb-6">
+                            <h2 class="text-center font-semibold">Oceantial_Shopee</h2>
+                        </div>
+                        <div class="flex my-0 mx-auto">
+                            <a href=""
+                                class="w-60 rounded-lg bg-btnsosmed my-0 mx-auto py-4 px-6 inline-flex items-center justify-center">
+                                Contact Us <svg class="ml-2" width="21" height="21" viewBox="0 0 21 21" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M9.91091 4.01898C10.2363 3.69354 10.764 3.69354 11.0894 4.01898L16.9228 9.85231C17.2482 10.1778 17.2482 10.7054 16.9228 11.0308L11.0894 16.8642C10.764 17.1896 10.2363 17.1896 9.91091 16.8642C9.58547 16.5387 9.58547 16.0111 9.91091 15.6856L14.3217 11.2749H4.66683C4.20659 11.2749 3.8335 10.9018 3.8335 10.4416C3.8335 9.98133 4.20659 9.60824 4.66683 9.60824H14.3217L9.91091 5.19749C9.58547 4.87205 9.58547 4.34442 9.91091 4.01898Z"
+                                        fill="#232020" />
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="lg:w-1/4 md:w-1/2 p-5 w-full rounded-2xl ">
+                    <div class="rounded-2xl border border-border2 items-center p-6">
+                        <img class="my-0 mx-auto" src="img/whatsapp.png">
+                        <div class="mt-6 pb-6">
+                            <h2 class="text-center font-semibold">Oceantial_Tokopedia</h2>
+                        </div>
+                        <div class="flex my-0 mx-auto">
+                            <a href=""
+                                class="w-60 rounded-lg bg-btnsosmed my-0 mx-auto py-4 px-6 inline-flex items-center justify-center">
+                                Contact Us <svg class="ml-2" width="21" height="21" viewBox="0 0 21 21" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M9.91091 4.01898C10.2363 3.69354 10.764 3.69354 11.0894 4.01898L16.9228 9.85231C17.2482 10.1778 17.2482 10.7054 16.9228 11.0308L11.0894 16.8642C10.764 17.1896 10.2363 17.1896 9.91091 16.8642C9.58547 16.5387 9.58547 16.0111 9.91091 15.6856L14.3217 11.2749H4.66683C4.20659 11.2749 3.8335 10.9018 3.8335 10.4416C3.8335 9.98133 4.20659 9.60824 4.66683 9.60824H14.3217L9.91091 5.19749C9.58547 4.87205 9.58547 4.34442 9.91091 4.01898Z"
+                                        fill="#232020" />
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="lg:w-1/4 md:w-1/2 p-5 w-full rounded-2xl">
+                    <div class="rounded-2xl border border-border2 items-center p-6">
+                        <img class="my-0 mx-auto" src="img/whatsapp.png">
+                        <div class="mt-6 pb-6">
+                            <h2 class="text-center font-semibold">WhatsApp</h2>
+                        </div>
+                        <div class="flex my-0 mx-auto">
+                            <a href=""
+                                class="w-60 rounded-lg bg-btnsosmed my-0 mx-auto py-4 px-6 inline-flex items-center justify-center">
+                                Contact Us <svg class="ml-2" width="21" height="21" viewBox="0 0 21 21" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M9.91091 4.01898C10.2363 3.69354 10.764 3.69354 11.0894 4.01898L16.9228 9.85231C17.2482 10.1778 17.2482 10.7054 16.9228 11.0308L11.0894 16.8642C10.764 17.1896 10.2363 17.1896 9.91091 16.8642C9.58547 16.5387 9.58547 16.0111 9.91091 15.6856L14.3217 11.2749H4.66683C4.20659 11.2749 3.8335 10.9018 3.8335 10.4416C3.8335 9.98133 4.20659 9.60824 4.66683 9.60824H14.3217L9.91091 5.19749C9.58547 4.87205 9.58547 4.34442 9.91091 4.01898Z"
+                                        fill="#232020" />
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="w-full lg:pb-5 lg:px-20 desktop-only"
+        style="background-image: url(img/section-2.png); background-repeat: no-repeat; background-size: cover;">
+        <div class="w-full py-36">
+            <div class="w-full lg:pb-5">
+                <div class="container lg:text-left text-center">
+                    <h3 class="text-5xl text-white font-bold pb-6 lg:text-left text-center">Join Our <br>
+                        Reseller Program
+                    </h3>
+                    <p class="text-lg pb-10 text-white font-normal lg:text-left text-center">Become part of the reseller
+                        network
+                        and benefit from our
+                        products.</p>
+                    <a class="text-white border inline-flex items-center md:mb-2 lg:mb-0 py-4 px-6 rounded-lg">Contact
+                        Us<svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                            stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                            <path d="M5 12h14M12 5l7 7-7 7"></path>
+                        </svg></a>
+
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <section class="w-full lg:pb-5 lg:px-20 mobile-only"
+        style="background-image: url(img/section-2-mobile.png); background-repeat: no-repeat; background-size: cover;">
+        <div class="w-full py-36">
+            <div class="w-full lg:pb-5">
+                <div class="container lg:text-left text-center">
+                    <h3 class="text-5xl text-white font-bold pb-6 lg:text-left text-center">Join Our <br>
+                        Reseller Program
+                    </h3>
+                    <p class="text-lg pb-10 text-white font-normal lg:text-left text-center">Become part of the reseller
+                        network
+                        and benefit from our
+                        products.</p>
+                    <a class="text-white border inline-flex items-center md:mb-2 lg:mb-0 py-4 px-6 rounded-lg">Contact
+                        Us<svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                            stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                            <path d="M5 12h14M12 5l7 7-7 7"></path>
+                        </svg></a>
+
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- footer -->
+    <div w3-include-html="footer.html"></div>
+
+
+    <button id="btt" class="fixed right-4 bottom-4 z-50 bg-red-800 rounded-full p-5" title="Return To Top">
+        <svg class="fill-white" width="18" height="18" viewBox="0 0 320 512">
+            <path
+                d="M168.5 84.2l148 146.8c4.7 4.7 4.7 12.3 0 17l-19.8 19.8c-4.7 4.7-12.3 4.7-17 0L160 149.3 40.3 267.8c-4.7 4.7-12.3 4.7-17 0L3.5 248c-4.7-4.7-4.7-12.3 0-17l148-146.8c4.7-4.7 12.3-4.7 17 0zm-17 160L3.5 391c-4.7 4.7-4.7 12.3 0 17l19.8 19.8c4.7 4.7 12.3 4.7 17 0L160 309.3l119.7 118.5c4.7 4.7 12.3 4.7 17 0l19.8-19.8c4.7-4.7 4.7-12.3 0-17l-148-146.8c-4.7-4.7-12.3-4.7-17 0z" />
+        </svg>
+    </button>
+
+
+    <!-- pemanggilan html -->
+    <script>
+        includeHTML();
+    </script>
+
+
+    <!-- jQuery JS -->
+    <script src="js/jquery.min.js"></script>
+    <!-- Oceantial JS -->
+    <script src="js/oceantial.js"></script>
+    <script src="js/select-open.js"></script>
+
+
+
+</body>
+
+</html>
