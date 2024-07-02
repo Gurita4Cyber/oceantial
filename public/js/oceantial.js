@@ -10,6 +10,8 @@ var all_scroll = function(){
       $('html').addClass('nosmoth');
       $('header').addClass('fixed-head');
       $('.logodefault').addClass('showlogo');
+      $('.navTrigger').addClass('burgermenu');
+      
       
 
     }
@@ -18,7 +20,8 @@ var all_scroll = function(){
       $('#btt').hide();
       $('html').removeClass('nosmoth');
       $('header').removeClass('fixed-head');
-      $('.logodefault').removeClass('showlogo');     
+      $('.logodefault').removeClass('showlogo');
+      $('.navTrigger').removeClass('burgermenu');        
     }
   });  
 };

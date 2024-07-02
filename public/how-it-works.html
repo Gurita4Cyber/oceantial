@@ -85,6 +85,7 @@
                     <a class="block lg:pb-5" href="#">
                         <img class="logodefault" src="img/logo2.png" alt="">
                         <img class="hidden logodefault" src="img/logo.png" alt="">
+                        <img class="hidden logodark" src="img/logo2.png" alt="">
                     </a>
                     <!-- navigation desktop -->
                     <div class="flex items-center nav-header black">
@@ -115,9 +116,6 @@
                                                 </ul>
                                             </div>
                                         </div>
-
-
-
                                     </div>
                                     <div class="px-4 w-[858px] pb-6 pt-6 lg:pt-3">
                                         <!-- Tab Contents -->
@@ -349,8 +347,9 @@
             <!-- mobile base navigation -->
             <div class="lg:hidden block">
                 <div class="lg:flex bg-g-orange py-4 px-4 lg:px-0 items-center flex relative">
-                    <a class="" href="index.php">
-                        <img src="img/logo.png" alt="">
+                    <a class="" href="index.html">
+                        <img class="logodefault" src="img/logo2.png" alt="">
+                        <img class="hidden logodefault" src="img/logo.png" alt="">
                     </a>
                     <button class="navTrigger" id="navTrigger">
                         <svg viewBox="0 0 64 48">
@@ -371,22 +370,22 @@
                             </a>
                         </li>
                         <li>
-                            <a href="about-us.html" class="text-default grow px-6 py-4 text-xl opacity-70">
+                            <a href="#" class="text-default grow px-6 py-4 text-xl opacity-70">
                                 Shop
                             </a>
                         </li>
                         <li>
-                            <a href="partners.html" class="text-default grow px-6 py-4 text-xl opacity-70">
+                            <a href="how-it-works.html" class="text-default grow px-6 py-4 text-xl opacity-70">
                                 How It Works
                             </a>
                         </li>
                         <li>
-                            <a href="article.html" class="text-default grow px-6 py-4 text-xl opacity-70">
+                            <a href="faqs.html" class="text-default grow px-6 py-4 text-xl opacity-70">
                                 FAQs
                             </a>
                         </li>
                         <li>
-                            <a href="contact-us.html" class="text-default grow px-6 py-4 text-xl opacity-70">
+                            <a href="about-us.html" class="text-default grow px-6 py-4 text-xl opacity-70">
                                 About Us
                             </a>
                         </li>
@@ -403,12 +402,15 @@
         <div class="container mx-auto">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="font-bold text-3xl capitalize py-20"> Berbagai Masalah Karena Buruknya Kualitas Air </h2>
+                    <h2 class="font-bold lg:text-3xl text-2xl capitalize lg:py-20 py-10">
+                        Berbagai Masalah Karena Buruknya Kualitas
+                        Air </h2>
                 </div>
             </div>
-            <div class="divide-y-2 divide-gray-100">
-                <div class="container mx-auto flex px-5 pb-16 md:flex-row flex-col">
-                    <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16  mb-16 md:mb-0">
+            <div class="divide-y-2 divide-gray-100 mx-5 lg:mx-0 ">
+                <div class="container mx-auto flex lg:px-5 lg:pb-16 pb-6 md:flex-row flex-col">
+                    <div
+                        class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 lg:mb-16 md:mb-0 lg:border-t-0 border-t-2 border-gray-100 iconmobile">
                         <svg width="120" height="120" viewBox="0 0 120 120" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <g clip-path="url(#clip0_1809_31636)">
@@ -428,9 +430,11 @@
                                 </clipPath>
                             </defs>
                         </svg>
-                        <div class="mt-28">
-                            <h2 class="title-font sm:text-4xl text-3xl mb-6 font-medium ">Kualitas air </h2>
-                            <p class="mb-8 leading-relaxed">Pengaruh kualitas air terhadap kondisi kulit dan rambut jauh
+                        <div class="lg:mt-28 mt-6">
+                            <h2 class="title-font  lg:text-3xl text-lg mb-6 font-semibold ">Kualitas air </h2>
+                            <p class="lg:mb-8 mb-6 leading-relaxed text-sm lg:text-lg">Pengaruh kualitas air terhadap
+                                kondisi
+                                kulit dan rambut jauh
                                 lebih signifikan daripada yang Anda pikirkan. Penggunaan berbagai produk perawatan kulit
                                 dan
                                 rambut menjadi tidak maksimal, apabila tidak didukung oleh kualitas air yang baik dan
@@ -440,12 +444,13 @@
 
 
                     </div>
-                    <div class="lg:max-w-xl lg:w-full md:w-1/2 w-5/6">
-                        <img class="object-cover object-center rounded" alt="hero" src="img/h-1.jpg">
+                    <div class="lg:max-w-xl lg:w-full ">
+                        <img class="desktop-only object-center rounded" alt="hero" src="img/h-1.jpg">
+                        <img class="mobile-only object-center rounded" alt="hero" src="img/m-1.jpg">
                     </div>
                 </div>
-                <div class="container mx-auto flex px-5 pb-16 pt-16 md:flex-row flex-col">
-                    <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16  mb-16 md:mb-0">
+                <div class="container mx-auto flex lg:px-5 lg:pb-16 pb-6 lg:pt-16 md:flex-row flex-col">
+                    <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 lg:mb-16 md:mb-0 iconmobile">
                         <svg width="120" height="120" viewBox="0 0 120 120" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -515,8 +520,9 @@
                         </svg>
 
                         <div class="mt-6">
-                            <h2 class="title-font sm:text-4xl text-3xl mb-6 font-medium ">Kulit kering </h2>
-                            <p class="mb-8 leading-relaxed">Kulit kering terjadi ketika lapisan pelindung kulit
+                            <h2 class="title-font lg:text-3xl text-lg mb-6 font-semibold ">Kulit kering </h2>
+                            <p class="mb-8 leading-relaxed text-sm lg:text-lg">Kulit kering terjadi ketika lapisan
+                                pelindung kulit
                                 kehilangan kadar air dan minyak yang cukup. Gejalanya bisa berupa kulit bersisik,
                                 mengelupas, terasa kasar, terasa kencang setelah mandi, serta terasa gatal, bahkan
                                 hingga munculnya eczema. Kondisi ini sering kali muncul ketika kita kurang memperhatikan
@@ -525,12 +531,13 @@
 
 
                     </div>
-                    <div class="lg:max-w-xl lg:w-full md:w-1/2 w-5/6">
-                        <img class="object-cover object-center rounded" alt="hero" src="img/h-2.jpg">
+                    <div class="lg:max-w-xl lg:w-full">
+                        <img class="desktop-only object-center rounded" alt="hero" src="img/h-2.jpg">
+                        <img class="mobile-only object-center rounded" alt="hero" src="img/m-2.jpg">
                     </div>
                 </div>
-                <div class="container mx-auto flex px-5 pb-16 pt-16 md:flex-row flex-col">
-                    <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16  mb-16 md:mb-0">
+                <div class="container mx-auto flex lg:px-5 lg:pb-16 pb-6 lg:pt-16 md:flex-row flex-col">
+                    <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 lg:mb-16 md:mb-0 iconmobile">
                         <svg width="120" height="120" viewBox="0 0 120 120" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -541,9 +548,10 @@
                                 fill="black" />
                         </svg>
 
-                        <div class="mt-2">
-                            <h2 class="title-font sm:text-4xl text-3xl mb-6 font-medium ">Rambut kusam </h2>
-                            <p class="mb-8 leading-relaxed">Masalah rambut kering muncul ketika rambut tidak dapat
+                        <div class="lg:mt-2 mt-6">
+                            <h2 class="title-font lg:text-3xl text-lg mb-6 font-semibold ">Rambut kusam </h2>
+                            <p class="mb-8 leading-relaxed text-sm lg:text-lg">Masalah rambut kering muncul ketika
+                                rambut tidak dapat
                                 mempertahankan kelembapan yang cukup. Rambut menjadi terlihat kusut, kusam, dan tidak
                                 sehat. Salah satu faktor yang dapat memperburuk kondisi rambut adalah tingginya
                                 kandungan klorin dalam air yang digunakan. Kandungan klorin dapat menyebabkan rambut
@@ -552,12 +560,13 @@
 
 
                     </div>
-                    <div class="lg:max-w-xl lg:w-full md:w-1/2 w-5/6">
-                        <img class="object-cover object-center rounded" alt="hero" src="img/h-3.jpg">
+                    <div class="lg:max-w-xl lg:w-full">
+                        <img class="desktop-only object-center rounded" alt="hero" src="img/h-3.jpg">
+                        <img class="mobile-only object-center rounded" alt="hero" src="img/m-3.jpg">
                     </div>
                 </div>
-                <div class="container mx-auto flex px-5 pb-16 pt-16 md:flex-row flex-col">
-                    <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16  mb-16 md:mb-0">
+                <div class="container mx-auto flex lg:px-5 lg:pb-16 pb-6 lg:pt-16 md:flex-row flex-col">
+                    <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 lg:mb-16 md:mb-0 iconmobile">
                         <svg width="96" height="120" viewBox="0 0 96 120" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -602,9 +611,10 @@
                         </svg>
 
 
-                        <div class="mt-20">
-                            <h2 class="title-font sm:text-4xl text-3xl mb-6 font-medium ">Munculnya Jerawat </h2>
-                            <p class="mb-8 leading-relaxed">Ketika kita menggunakan air yang kotor, partikel-partikel
+                        <div class="lg:mt-20 mt-6">
+                            <h2 class="title-font lg:text-3xl text-lg mb-6 font-semibold ">Munculnya Jerawat </h2>
+                            <p class="mb-8 leading-relaxed text-sm lg:text-lg">Ketika kita menggunakan air yang kotor,
+                                partikel-partikel
                                 yang terkandung di dalamnya dapat menumpuk di pori-pori kulit. Hal ini dapat menyebabkan
                                 pori-pori tersumbat dan memicu timbulnya komedo atau jerawat. Jika tidak diatasi dengan
                                 baik, masalah ini dapat berkembang menjadi jerawat yang lebih besar dan meradang.</p>
@@ -612,12 +622,13 @@
 
 
                     </div>
-                    <div class="lg:max-w-xl lg:w-full md:w-1/2 w-5/6">
-                        <img class="object-cover object-center rounded" alt="hero" src="img/h-4.jpg">
+                    <div class="lg:max-w-xl lg:w-full">
+                        <img class="desktop-only object-center rounded" alt="hero" src="img/h-4.jpg">
+                        <img class="mobile-only object-center rounded" alt="hero" src="img/m-4.jpg">
                     </div>
                 </div>
-                <div class="container mx-auto flex px-5 pb-16 pt-16 md:flex-row flex-col">
-                    <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16  mb-16 md:mb-0">
+                <div class="container mx-auto flex lg:px-5 lg:pb-16 pb-6 lg:pt-16 md:flex-row flex-col">
+                    <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 lg:mb-16 md:mb-0 iconmobile">
                         <svg width="120" height="120" viewBox="0 0 120 120" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
                             <path
@@ -641,9 +652,10 @@
                         </svg>
 
 
-                        <div class="mt-0">
-                            <h2 class="title-font sm:text-4xl text-3xl mb-6 font-medium ">Rusaknya Nutrisi </h2>
-                            <p class="mb-8 leading-relaxed">Penting untuk disadari bahwa air yang kita gunakan tidak
+                        <div class="lg:mt-0 mt-6">
+                            <h2 class="title-font lg:text-3xl text-lg mb-6 font-semibold ">Rusaknya Nutrisi </h2>
+                            <p class="mb-8 leading-relaxed text-sm lg:text-lg">Penting untuk disadari bahwa air yang
+                                kita gunakan tidak
                                 hanya mempengaruhi kesehatan rambut dan kulit kita, tetapi juga dapat berdampak pada
                                 makanan dan minuman yang kita konsumsi.
 
@@ -657,12 +669,150 @@
 
 
                     </div>
-                    <div class="lg:max-w-xl lg:w-full md:w-1/2 w-5/6">
-                        <img class="object-cover object-center rounded" alt="hero" src="img/h-5.jpg">
+                    <div class="lg:max-w-xl lg:w-full">
+                        <img class="desktop-only object-center rounded" alt="hero" src="img/h-5.jpg">
+                        <img class="mobile-only object-center rounded" alt="hero" src="img/m-5.jpg">
                     </div>
                 </div>
             </div>
 
+        </div>
+    </section>
+
+
+    <section class="w-full lg:px-20 bg-bg-section">
+        <div class="container mx-auto flex lg:px-5 lg:py-24 pb-6 md:flex-row flex-col items-center">
+            <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
+                <img class="object-cover object-center rounded" alt="hero" src="img/how.jpg">
+            </div>
+            <div
+                class="lg:flex-grow md:w-1/2 lg:pl-10 md:pl-10 flex flex-col md:items-start md:text-left items-center text-center">
+                <h2 class="title-font lg:text-3xl text-lg mb-6 font-semibold">How does chlorine affect the
+                    skin?</h2>
+
+                <p class=" mb-8 leading-relaxed">Every day, the water we use for bathing, washing our faces, and
+                    brushing
+                    our teeth contains chlorine. This component can impact our skin and hair, leading to dryness that
+                    can trigger acne, skin rashes, itching due to dry skin, skin redness, and even eczema.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="w-full lg:px-20">
+        <div class="container mx-auto">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="font-bold text-3xl capitalize py-20">How Ocential Protect You</h2>
+                </div>
+            </div>
+            <!-- slide -->
+            <div>SLIDE</div>
+        </div>
+    </section>
+
+    <section class="w-full pb-20 lg:px-20">
+        <!-- kanan -->
+        <div class="container mx-auto flex p-5 py-2  md:pb-6 lg:flex-row flex-col items-center">
+            <div
+                class="lg:flex-grow md:w-1/2 lg:pr-10 md:pr-10 flex flex-col md:items-start md:text-left items-center text-center">
+                <h3 class="title-font sm:text-4xl text-3xl mb-8 font-bold">Neutralize chlorine
+                </h3>
+                <p class="mb-8 leading-relaxed text-sm lg:text-lg">Vitamin C, or ascorbic acid, has been proven
+                    effective in neutralizing
+                    chlorine in water. When chlorine comes into contact with vitamin C, they react and form safer
+                    hydrochloric acid for the skin and hair. Chlorine in water can cause dryness and damage to the skin
+                    and hair, while vitamin C can bind to chlorine and transform it into a safer compound, making the
+                    water gentler and less harmful to the skin and hair.</p>
+            </div>
+            <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
+                <img class="object-cover object-center rounded" alt="hero" src="img/n-1.jpg">
+            </div>
+        </div>
+        <!-- kiri -->
+        <div class="container mx-auto flex p-5 py-2  md:pb-6 lg:flex-row flex-col items-center">
+            <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
+                <img class="object-cover object-center rounded" alt="hero" src="img/n-2.jpg">
+            </div>
+            <div
+                class="lg:flex-grow md:w-1/2 lg:pl-10 md:pl-10 flex flex-col md:items-start md:text-left items-center text-center">
+                <h3 class="title-font sm:text-4xl text-3xl mb-8 font-bold">Remove dirt and rust residues
+                </h3>
+                <p class="mb-8 leading-relaxed text-sm lg:text-lg">Oceantial products are equipped with a Micro Fiber
+                    filter that prevents
+                    water from being contaminated by unwanted pipe residue. The anti-bacterial ceramic balls inside also
+                    help prevent bacterial growth. Through this technology, the water flows free from harmful particles
+                    for the skin and hair. The filter and anti-bacterial properties also protect the nutrients in food
+                    and utensils used by families on a daily basis.</p>
+            </div>
+        </div>
+        <!-- kanan -->
+        <div class="container mx-auto flex p-5 py-2  md:pb-6 lg:flex-row flex-col items-center">
+            <div
+                class="lg:flex-grow md:w-1/2 lg:pr-10 md:pr-10 flex flex-col md:items-start md:text-left items-center text-center">
+                <h3 class="title-font sm:text-4xl text-3xl mb-8 font-bold">Help restore skin's natural moisture
+                </h3>
+                <p class="mb-8 leading-relaxed text-sm lg:text-lg">In addition to neutralize chlorine, vitamin C also
+                    provides nourishment
+                    to the hair and restores moisture to the skin, keeping it hydrated and preventing dehydration.
+                    Moreover, the use of vitamin C can boost collagen production, keeping the skin youthful and free
+                    from wrinkles.</p>
+            </div>
+            <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
+                <img class="object-cover object-center rounded" alt="hero" src="img/n-3.jpg">
+            </div>
+        </div>
+        <!-- kiri -->
+        <div class="container mx-auto flex p-5 py-2  md:pb-6 lg:flex-row flex-col items-center">
+            <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
+                <img class="object-cover object-center rounded" alt="hero" src="img/n-4.jpg">
+            </div>
+            <div
+                class="lg:flex-grow md:w-1/2 lg:pl-10 md:pl-10 flex flex-col md:items-start md:text-left items-center text-center">
+                <h3 class="title-font sm:text-4xl text-3xl mb-8 font-bold">Provide negative ion benefits
+                </h3>
+                <p class="mb-8 leading-relaxed text-sm lg:text-lg">Oceantial introduces a technology that generates
+                    negative ions through
+                    the Lenard effect produced by triangular-shaped water spray nozzles on the showerhead plate. This
+                    effect occurs when water molecules attached to oxygen or carbon dioxide experience friction with the
+                    colliding water surface, resulting in millions of negative ions. Scientifically, negative ions have
+                    been proven to alleviate stress, improve blood circulation, balance pH, optimize respiratory
+                    function, and provide a truly refreshing bathing experience.</p>
+            </div>
+        </div>
+        <!-- kanan -->
+        <div class="container mx-auto flex p-5 py-2  md:pb-6 lg:flex-row flex-col items-center">
+            <div
+                class="lg:flex-grow md:w-1/2 lg:pr-10 md:pr-10 flex flex-col md:items-start md:text-left items-center text-center">
+                <h3 class="title-font sm:text-4xl text-3xl mb-8 font-bold">Reduce water consumption
+                </h3>
+                <p class="mb-8 leading-relaxed text-sm lg:text-lg">Unlike regular showerheads that can only spray water
+                    up to a maximum
+                    height of 0.8 meters, Oceantial showerheads are designed with the ability to spray water up to a
+                    height of 2.5 meters. Through advanced technology that increases water pressure by 1.5 times
+                    compared to regular showerheads, Oceantial provides a thorough cleansing shower experience that
+                    remains gentle and soothing. Additionally, Oceantial is equipped with triangular-shaped water spray
+                    plate holes that conserve water and energy by reducing water consumption.</p>
+            </div>
+            <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
+                <img class="object-cover object-center rounded" alt="hero" src="img/n-5.jpg">
+            </div>
+        </div>
+    </section>
+
+    <section class="w-full lg:px-20 bg-bg-section">
+        <div class="container mx-auto flex lg:px-5 lg:py-24 pb-6 md:flex-row flex-col items-center">
+            <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
+                <img class="object-cover object-center rounded" alt="hero" src="img/n-6.jpg">
+            </div>
+            <div
+                class="lg:flex-grow md:w-1/2 lg:pl-10 md:pl-10 flex flex-col md:items-start md:text-left items-center text-center">
+                <h3 class="title-font sm:text-4xl text-3xl mb-8 font-bold">Safe for all skin types
+                </h3>
+                <p class="mb-8 leading-relaxed text-sm lg:text-lg">Oceantial products are designed to be safe for all
+                    skin types. By using
+                    Oceantial, we can effectively care for our skin and body by cleansing impurities, neutralizing
+                    chlorine in the water, and nourishing our skin with vitamin C.</p>
+            </div>
         </div>
     </section>
 
