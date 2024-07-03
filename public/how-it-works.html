@@ -345,53 +345,24 @@
 
             </div>
             <!-- mobile base navigation -->
-            <div class="lg:hidden block">
-                <div class="lg:flex bg-g-orange py-4 px-4 lg:px-0 items-center flex relative">
-                    <a class="" href="index.html">
-                        <img class="logodefault" src="img/logo2.png" alt="">
-                        <img class="hidden logodefault" src="img/logo.png" alt="">
-                    </a>
-                    <button class="navTrigger" id="navTrigger">
-                        <svg viewBox="0 0 64 48">
-                            <path d="M19,15 L45,15 C70,15 58,-2 49.0177126,7 L19,37"></path>
-                            <path d="M19,24 L45,24 C61.2371586,24 57,49 41,33 L32,24"></path>
-                            <path d="M45,33 L19,33 C-8,33 6,-2 22,14 L45,37"></path>
-                        </svg>
-                    </button>
-                </div>
-
-                <!-- navigation -->
-                <div class="navMenu navfont" id="navMenu">
-                    <ul>
-                        <li>
-                            <a href="index.html"
-                                class="text-default grow px-6 py-4 text-xl be-vietnam pro-bold opacity-100">
-                                Home
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" class="text-default grow px-6 py-4 text-xl opacity-70">
-                                Shop
-                            </a>
-                        </li>
-                        <li>
-                            <a href="how-it-works.html" class="text-default grow px-6 py-4 text-xl opacity-70">
-                                How It Works
-                            </a>
-                        </li>
-                        <li>
-                            <a href="faqs.html" class="text-default grow px-6 py-4 text-xl opacity-70">
-                                FAQs
-                            </a>
-                        </li>
-                        <li>
-                            <a href="about-us.html" class="text-default grow px-6 py-4 text-xl opacity-70">
-                                About Us
-                            </a>
-                        </li>
-                    </ul>
-                </div>
+            <div class="header-mobile mobile-only">
+                <a href="" class="logo">
+                    <img class="logodefault" src="img/logo2.png" alt="">
+                    <img class="hidden logodefault" src="img/logo2.png" alt="">
+                    <img class="hidden logodark" src="img/logo2.png" alt="">
+                </a>
+                <input class="menu-btn" type="checkbox" id="menu-btn" />
+                <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+                <ul class="menu text-black">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="shop">Shop</a></li>
+                    <li><a href="#careers">How it Works</a></li>
+                    <li><a href="#contact">FAQs</a></li>
+                    <li><a href="#contact">About Us</a></li>
+                </ul>
             </div>
+            <!-- mobile base navigation -->
+
         </div>
     </header>
     <!-- headedr end -->
@@ -1021,6 +992,58 @@
     <script src="js/owl.carousel.js"></script>
 
     <script>
+
+        let tabsContainer2 = document.querySelector("#tabsnav");
+        let tabTogglers2 = tabsContainer2.querySelectorAll("#tabsnav a");
+        tabTogglers2.forEach(function (toggler2) {
+            toggler2.addEventListener("click", function (c) {
+                c.preventDefault();
+                let tabName2 = this.getAttribute("href");
+
+                let tabContents2 = document.querySelector("#tab-contentsnav");
+
+                for (let b = 0; b < tabContents2.children.length; b++) {
+
+                    tabTogglers2[b].parentElement.classList.remove("bordercustom");
+                    tabContents2.children[b].classList.remove("hidden");
+                    if ("#" + tabContents2.children[b].id === tabName2) {
+                        continue;
+                    }
+                    tabContents2.children[b].classList.add("hidden");
+
+                }
+                c.target.parentElement.classList.add("bordercustom");
+            });
+        });
+
+
+
+
+        // Get the button
+        const menuHead = document.getElementById("menuHead");
+
+        // When the user scrolls down 20px from the top of the document, show the button
+
+        const scrollFunction = () => {
+            if (
+                document.body.scrollTop > 20 ||
+                document.documentElement.scrollTop > 20
+            ) {
+                mybutton.classList.remove("hidden");
+                menuHead.classList.add("bg-default");
+                menuHead.classList.add("drop-shadow-lg");
+
+            } else {
+                mybutton.classList.add("hidden");
+                menuHead.classList.remove("bg-default");
+                menuHead.classList.remove("drop-shadow-lg");
+
+            }
+        };
+
+    </script>
+    <script>
+
         $(document).ready(function () {
             var owl = $('.owl-carousel');
             owl.owlCarousel({
