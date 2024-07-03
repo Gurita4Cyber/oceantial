@@ -93,6 +93,11 @@ html.nosmoth {scroll-behavior: unset; }
   border-right: 1px solid #f4f4f4;
   text-decoration: none;
 }
+.header-mobile .collapsible{
+  padding: 20px 20px;
+  width: 100%;
+  text-align: left;
+}
 
 .header-mobile li a:hover,
 .header-mobile .menu-btn:hover {
@@ -161,7 +166,10 @@ html.nosmoth {scroll-behavior: unset; }
 }
 
 .header-mobile .menu-btn:checked ~ .menu {
-  max-height: 240px;
+  max-height: 800px;
+  font-size: 14px;
+    color: #232020;
+    overflow: scroll;
 }
 
 .header-mobile .menu-btn:checked ~ .menu-icon .navicon {
@@ -181,26 +189,19 @@ html.nosmoth {scroll-behavior: unset; }
   top: 0;
 }
 
-/* 48em = 768px */
-
-@media (min-width: 48em) {
-  .header-mobile li {
-    float: left;
-  }
-  .header-mobile li a {
-    padding: 20px 30px;
-  }
-  .header-mobile .menu {
-    clear: none;
-    float: right;
-    max-height: none;
-  }
-  .header-mobile .menu-icon {
-    display: none;
-  }
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+}
+button.collapsible.second {
+  padding: 20px 0;
 }
 
-
+.content .navmenubig a {
+  padding: 10px 0;
+  border-right: 0;
+}
 
 /* Mobile  Base*/
 @media screen and (min-width: 0px) and (max-width: 1023px) {

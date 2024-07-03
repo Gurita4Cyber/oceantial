@@ -355,7 +355,73 @@
                 <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
                 <ul class="menu text-black">
                     <li><a href="#">Home</a></li>
-                    <li><a href="shop">Shop</a></li>
+                    <li>
+                        <button type="button" class="collapsible relative">
+                            shop
+                            <svg class="absolute top-5 right-7" width="20" height="20" viewBox="0 0 20 20" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M8.0886 4.41107C7.76317 4.08563 7.23553 4.08563 6.91009 4.41107C6.58466 4.73651 6.58466 5.26414 6.91009 5.58958L11.3208 10.0003L6.91009 14.4111C6.58466 14.7365 6.58466 15.2641 6.91009 15.5896C7.23553 15.915 7.76317 15.915 8.0886 15.5896L13.0886 10.5896C13.414 10.2641 13.414 9.73651 13.0886 9.41107L8.0886 4.41107Z"
+                                    fill="#232020" />
+                            </svg>
+                        </button>
+                        <div class="content">
+                            <button type="button" class="collapsible second relative">
+                                Showerhead
+                                <svg class="absolute top-5 right-2" width="20" height="20" viewBox="0 0 20 20"
+                                    fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M8.0886 4.41107C7.76317 4.08563 7.23553 4.08563 6.91009 4.41107C6.58466 4.73651 6.58466 5.26414 6.91009 5.58958L11.3208 10.0003L6.91009 14.4111C6.58466 14.7365 6.58466 15.2641 6.91009 15.5896C7.23553 15.915 7.76317 15.915 8.0886 15.5896L13.0886 10.5896C13.414 10.2641 13.414 9.73651 13.0886 9.41107L8.0886 4.41107Z"
+                                        fill="#232020" />
+                                </svg>
+                            </button>
+                            <div class="content">
+                                <div class="inline-flex items-center pb-2">
+                                    <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma
+                                        Sense
+                                    </h2>
+                                    <svg width="20" height="21" viewBox="0 0 20 21" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <path
+                                            d="M7.16683 19.1914L5.5835 16.5247L2.5835 15.8581L2.87516 12.7747L0.833496 10.4414L2.87516 8.10807L2.5835 5.02474L5.5835 4.35807L7.16683 1.69141L10.0002 2.89974L12.8335 1.69141L14.4168 4.35807L17.4168 5.02474L17.1252 8.10807L19.1668 10.4414L17.1252 12.7747L17.4168 15.8581L14.4168 16.5247L12.8335 19.1914L10.0002 17.9831L7.16683 19.1914ZM9.12516 13.3997L13.8335 8.69141L12.6668 7.48307L9.12516 11.0247L7.3335 9.27474L6.16683 10.4414L9.12516 13.3997Z"
+                                            fill="#004E98"></path>
+                                    </svg>
+                                </div>
+                                <ul class="navmenubig">
+                                    <li>
+                                        <a class="block py-4" href="">
+                                            Showerhead Handheld - Medium AS9000 Vitamin C
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="block py-4" href="">Showerhead Handheld -
+                                            Showerhead Mist
+                                            Vitamin C</a>
+                                    </li>
+                                    <li>
+                                        <a class="block py-4" href="">Shower Head Wall -
+                                            Arofix</a>
+                                    </li>
+                                    <li>
+                                        <a class="block py-4" href="">Showerhead Handheld -
+                                            Showerhead
+                                            701</a>
+                                    </li>
+                                    <li>
+                                        <a class="block py-4" href="">Showerhead Handheld -
+                                            Showerhead
+                                            801</a>
+                                    </li>
+                                    <li>
+                                        <a class="block py-4" href="">Showerhead Handheld -Super
+                                            Jet
+                                            Wide
+                                            PR-SJW</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
                     <li><a href="#careers">How it Works</a></li>
                     <li><a href="#contact">FAQs</a></li>
                     <li><a href="#contact">About Us</a></li>
@@ -1041,6 +1107,22 @@
             }
         };
 
+    </script>
+    <script>
+        var coll = document.getElementsByClassName("collapsible");
+        var i;
+
+        for (i = 0; i < coll.length; i++) {
+            coll[i].addEventListener("click", function () {
+                this.classList.toggle("active");
+                var content = this.nextElementSibling;
+                if (content.style.display === "block") {
+                    content.style.display = "none";
+                } else {
+                    content.style.display = "block";
+                }
+            });
+        }
     </script>
     <script>
 
