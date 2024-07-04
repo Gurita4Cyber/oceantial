@@ -616,28 +616,16 @@ body {
   left: 0px;
 }
 
+.right-2 {
+  right: 0.5rem;
+}
+
 .right-4 {
   right: 1rem;
 }
 
-.top-0 {
-  top: 0px;
-}
-
-.right-7 {
-  right: 1.75rem;
-}
-
 .top-5 {
   top: 1.25rem;
-}
-
-.right-0 {
-  right: 0px;
-}
-
-.right-2 {
-  right: 0.5rem;
 }
 
 .z-10 {
@@ -1111,6 +1099,10 @@ body {
   padding-bottom: 2.5rem;
 }
 
+.pb-2 {
+  padding-bottom: 0.5rem;
+}
+
 .pb-20 {
   padding-bottom: 5rem;
 }
@@ -1151,8 +1143,12 @@ body {
   padding-top: 1.5rem;
 }
 
-.pb-2 {
-  padding-bottom: 0.5rem;
+.pt-2 {
+  padding-top: 0.5rem;
+}
+
+.pb-0 {
+  padding-bottom: 0px;
 }
 
 .text-left {
