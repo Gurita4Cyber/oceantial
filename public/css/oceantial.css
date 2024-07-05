@@ -628,6 +628,14 @@ body {
   top: 1.25rem;
 }
 
+.left-2 {
+  left: 0.5rem;
+}
+
+.left-14 {
+  left: 3.5rem;
+}
+
 .z-10 {
   z-index: 10;
 }

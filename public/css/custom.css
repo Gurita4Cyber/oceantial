@@ -234,6 +234,16 @@ button.collapsible.second {
 .menu.text-black .menu__button::before {
   content: "Shop";
 }
+.menu.text-black .menu__button::after{
+  content: "";
+    background-image: url(../img/icon/right.png);
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    right: 0;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
 
 
 .menu.text-black .menu__close {
