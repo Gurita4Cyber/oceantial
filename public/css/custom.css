@@ -360,6 +360,7 @@ button.collapsible.second {
 .toggle-input:checked + label { color: #232020; font-weight: bold; }
 .toggle-input:checked ~ label:after { content: ""; background-image: url(../img/up.png); background-repeat: no-repeat; background-position: center; margin-left: 10px; position: relative; top: -1px; padding: 10px; }
 .toggleable label:after { content: ""; background-image: url(../img/down.png); background-repeat: no-repeat; background-position: center; margin-left: 10px; position: relative; top: -1px; padding: 10px; }
+.toggleable.blacktogle label:after{background-image: url(../img/down2.png);}
 .logodefault.none { display: none; }
 .logodark.show { display: block; }
 
