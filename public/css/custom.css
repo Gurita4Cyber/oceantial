@@ -162,6 +162,8 @@ button.collapsible.second { padding: 20px 20px; }
 .toggle-input:checked ~ label:after { content: ""; background-image: url(../img/up.png); background-repeat: no-repeat; background-position: center; margin-left: 10px; position: relative; top: -1px; padding: 10px; }
 .toggleable label:after { content: ""; background-image: url(../img/down.png); background-repeat: no-repeat; background-position: center; margin-left: 10px; position: relative; top: -1px; padding: 10px; }
 .toggleable.blacktogle label:after{background-image: url(../img/down2.png);}
+.fixed-head .toggleable.blacktogle label:after { background-image: url(../img/down.png); }
+.fixed-head .nav-header.black>.nav-a:after{border-bottom: solid 3px #fff;}
 .logodefault.none { display: none; }
 .logodark.show { display: block; }
 
