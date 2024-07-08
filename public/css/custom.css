@@ -122,6 +122,71 @@ button.collapsible.second { padding: 20px 20px; }
 .menu.text-black .menu nav a:hover { background: #A44537; }
 
 
+/* Core styles/functionality */
+.tab input {
+  position: absolute;
+  opacity: 0;
+  z-index: -1;
+}
+.tab__content {
+  max-height: 0;
+  overflow: hidden;
+  transition: all 0.35s;
+}
+.tab input:checked ~ .tab__content {
+  max-height: 16rem;
+  background: #fff;
+    box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+    color: #333;
+    border: 1px solid #ccc;
+}
+.tab input:checked ~ .tab__content a:hover{background: #ccc;}
+
+/* Visual styles */
+.accordion {
+  border: 2px solid;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+.tab__label,
+.tab__close {
+  display: flex;
+  color: white;
+  background: ;
+  cursor: pointer;
+}
+.tab__label {
+  padding: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+.tab__label::after {
+  content: "\276F";
+  width: 1em;
+  height: 1em;
+  text-align: center;
+  transform: rotate(90deg);
+  transition: all 0.35s;
+  margin-left: 10px;
+}
+.tab input:checked + .tab__label::after {
+  transform: rotate(270deg);
+}
+.tab__content p {
+  margin: 0;
+  padding: 1rem;
+}
+.tab__close {
+  justify-content: flex-end;
+  padding: 0.5rem 1rem;
+  font-size: 0.75rem;
+}
+.accordion--radio {
+  --theme: var(--secondary);
+}
+
+
+
 /* Mobile  Base*/
 @media screen and (min-width: 0px) and (max-width: 1023px) {
 .desktop-only, .desktop-onlyflex{ display: none !important; }
