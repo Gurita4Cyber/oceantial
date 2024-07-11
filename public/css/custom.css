@@ -249,7 +249,12 @@ button.collapsible.second { padding: 20px 20px; }
 #item10:checked ~ #content10,
 #item11:checked ~ #content11,
 #item12:checked ~ #content12,
-#item13:checked ~ #content13 {
+#item13:checked ~ #content13,
+#item14:checked ~ #content14,
+#item15:checked ~ #content15,
+#item16:checked ~ #content16,
+#item17:checked ~ #content17,
+#item18:checked ~ #content18 {
   max-height: 350px;
   transform: scaleY(1);
 }
@@ -257,8 +262,12 @@ button.collapsible.second { padding: 20px 20px; }
   padding: 10px 0;
   margin: 0;
 }
-label[for=item1],label[for=item5],label[for=item6]{
+label[for=item1],label[for=item5],label[for=item6],label[for=item11],label[for=item18]{
   border-top: 0 !important;
+}
+small.form-text.text-muted {
+  position: absolute;
+  bottom: -40px;
 }
 
 
@@ -275,6 +284,9 @@ label[for=item1],label[for=item5],label[for=item6]{
 .crousel-mobile > div > ul > li:first-child{ margin-left: 0; } 
 .headbase-one{ padding-top: 144px; }
 .iconmobile > svg{width: 64px;height: 64px;margin-top: 24px;}
+.accordion2 input + label { padding: 10px 55px 0px 0;}
+.accordion2 label svg{width: 20px;top: 5px;}
+.accordion2 .item{padding: 10px 0 10px 0;}
 
 
 }

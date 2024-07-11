@@ -592,6 +592,18 @@ body {
   }
 }
 
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
 .fixed {
   position: fixed;
 }
@@ -616,6 +628,10 @@ body {
   left: 0px;
 }
 
+.left-7 {
+  left: 1.75rem;
+}
+
 .right-2 {
   right: 0.5rem;
 }
@@ -632,8 +648,20 @@ body {
   top: 1.25rem;
 }
 
-.left-6 {
-  left: 1.5rem;
+.left-8 {
+  left: 2rem;
+}
+
+.left-9 {
+  left: 2.25rem;
+}
+
+.left-10 {
+  left: 2.5rem;
+}
+
+.left-20 {
+  left: 5rem;
 }
 
 .z-10 {
@@ -656,8 +684,8 @@ body {
   order: 3;
 }
 
-.-m-12 {
-  margin: -3rem;
+.-m-5 {
+  margin: -1.25rem;
 }
 
 .m-2 {
@@ -672,8 +700,8 @@ body {
   margin: auto;
 }
 
-.-m-5 {
-  margin: -1.25rem;
+.-m-2 {
+  margin: -0.5rem;
 }
 
 .mx-3 {
@@ -852,20 +880,12 @@ body {
   width: 1.75rem;
 }
 
-.w-96 {
-  width: 24rem;
-}
-
 .w-\[858px\] {
   width: 858px;
 }
 
 .w-full {
   width: 100%;
-}
-
-.w-\[621px\] {
-  width: 621px;
 }
 
 .flex-shrink-0 {
@@ -967,6 +987,10 @@ body {
   border-radius: 1rem;
 }
 
+.rounded-3xl {
+  border-radius: 1.5rem;
+}
+
 .rounded-full {
   border-radius: 9999px;
 }
@@ -981,10 +1005,6 @@ body {
 
 .rounded-xl {
   border-radius: 0.75rem;
-}
-
-.rounded-3xl {
-  border-radius: 1.5rem;
 }
 
 .border {
@@ -1081,10 +1101,6 @@ body {
   padding: 2.5rem;
 }
 
-.p-12 {
-  padding: 3rem;
-}
-
 .p-2 {
   padding: 0.5rem;
 }
@@ -1110,9 +1126,9 @@ body {
   padding-right: 2.5rem;
 }
 
-.px-3 {
-  padding-left: 0.75rem;
-  padding-right: 0.75rem;
+.px-16 {
+  padding-left: 4rem;
+  padding-right: 4rem;
 }
 
 .px-4 {
@@ -1180,9 +1196,9 @@ body {
   padding-bottom: 1.5rem;
 }
 
-.px-16 {
-  padding-left: 4rem;
-  padding-right: 4rem;
+.py-16 {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
 }
 
 .pb-0 {
@@ -1600,8 +1616,16 @@ body {
 }
 
 @media (min-width: 1024px) {
+  .lg\:left-6 {
+    left: 1.5rem;
+  }
+
   .lg\:m-0 {
     margin: 0px;
+  }
+
+  .lg\:-m-5 {
+    margin: -1.25rem;
   }
 
   .lg\:-mx-4 {
@@ -1697,6 +1721,10 @@ body {
     width: 66.666667%;
   }
 
+  .lg\:w-\[621px\] {
+    width: 621px;
+  }
+
   .lg\:w-full {
     width: 100%;
   }
@@ -1725,12 +1753,25 @@ body {
     border-top-width: 0px;
   }
 
+  .lg\:border-b-2 {
+    border-bottom-width: 2px;
+  }
+
+  .lg\:border-gray-100 {
+    --tw-border-opacity: 1;
+    border-color: rgb(243 244 246 / var(--tw-border-opacity));
+  }
+
   .lg\:p-0 {
     padding: 0px;
   }
 
   .lg\:p-6 {
     padding: 1.5rem;
+  }
+
+  .lg\:p-5 {
+    padding: 1.25rem;
   }
 
   .lg\:px-0 {
