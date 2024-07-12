@@ -255,7 +255,7 @@ button.collapsible.second { padding: 20px 20px; }
 #item16:checked ~ #content16,
 #item17:checked ~ #content17,
 #item18:checked ~ #content18 {
-  max-height: 350px;
+  max-height: 100%;
   transform: scaleY(1);
 }
 .accordion2 .item p {
@@ -269,7 +269,7 @@ small.form-text.text-muted {
   position: absolute;
   bottom: -40px;
 }
-
+.videowrapper { float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0; } .videowrapper iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 
 
 /* Mobile  Base*/
