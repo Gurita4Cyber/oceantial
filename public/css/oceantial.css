@@ -628,6 +628,10 @@ body {
   left: 0px;
 }
 
+.left-1\/2 {
+  left: 50%;
+}
+
 .left-20 {
   left: 5rem;
 }
@@ -644,24 +648,12 @@ body {
   top: 0px;
 }
 
-.top-5 {
-  top: 1.25rem;
-}
-
-.left-1\/2 {
-  left: 50%;
-}
-
 .top-1\/2 {
   top: 50%;
 }
 
-.right-1\/2 {
-  right: 50%;
-}
-
-.bottom-1\/2 {
-  bottom: 50%;
+.top-5 {
+  top: 1.25rem;
 }
 
 .z-10 {
@@ -872,16 +864,16 @@ body {
   width: 1.75rem;
 }
 
+.w-96 {
+  width: 24rem;
+}
+
 .w-\[858px\] {
   width: 858px;
 }
 
 .w-full {
   width: 100%;
-}
-
-.w-96 {
-  width: 24rem;
 }
 
 .flex-shrink-0 {
@@ -1215,6 +1207,10 @@ body {
   padding-bottom: 2.5rem;
 }
 
+.pb-2 {
+  padding-bottom: 0.5rem;
+}
+
 .pb-20 {
   padding-bottom: 5rem;
 }
@@ -1231,12 +1227,20 @@ body {
   padding-bottom: 1.5rem;
 }
 
+.pb-8 {
+  padding-bottom: 2rem;
+}
+
 .pl-4 {
   padding-left: 1rem;
 }
 
 .pr-0 {
   padding-right: 0px;
+}
+
+.pt-10 {
+  padding-top: 2.5rem;
 }
 
 .pt-2 {
@@ -1257,22 +1261,6 @@ body {
 
 .pt-6 {
   padding-top: 1.5rem;
-}
-
-.pb-5 {
-  padding-bottom: 1.25rem;
-}
-
-.pb-8 {
-  padding-bottom: 2rem;
-}
-
-.pb-2 {
-  padding-bottom: 0.5rem;
-}
-
-.pt-10 {
-  padding-top: 2.5rem;
 }
 
 .text-left {
@@ -1303,6 +1291,10 @@ body {
   line-height: 1;
 }
 
+.text-\[40px\] {
+  font-size: 40px;
+}
+
 .text-base {
   font-size: 1rem;
   line-height: 1.5rem;
@@ -1321,19 +1313,6 @@ body {
 .text-xl {
   font-size: 1.25rem;
   line-height: 1.75rem;
-}
-
-.text-7xl {
-  font-size: 4.5rem;
-  line-height: 1;
-}
-
-.text-\[80px\] {
-  font-size: 80px;
-}
-
-.text-\[40px\] {
-  font-size: 40px;
 }
 
 .font-bold {
@@ -1736,12 +1715,12 @@ body {
     height: 560px;
   }
 
-  .lg\:h-screen {
-    height: 100vh;
-  }
-
   .lg\:h-auto {
     height: auto;
+  }
+
+  .lg\:h-screen {
+    height: 100vh;
   }
 
   .lg\:w-1\/2 {
@@ -1853,11 +1832,6 @@ body {
     padding-bottom: 2rem;
   }
 
-  .lg\:py-6 {
-    padding-top: 1.5rem;
-    padding-bottom: 1.5rem;
-  }
-
   .lg\:pb-0 {
     padding-bottom: 0px;
   }
@@ -1926,10 +1900,6 @@ body {
     padding-top: 1rem;
   }
 
-  .lg\:pb-10 {
-    padding-bottom: 2.5rem;
-  }
-
   .lg\:text-left {
     text-align: left;
   }
@@ -1953,6 +1923,15 @@ body {
     line-height: 1;
   }
 
+  .lg\:text-8xl {
+    font-size: 6rem;
+    line-height: 1;
+  }
+
+  .lg\:text-\[80px\] {
+    font-size: 80px;
+  }
+
   .lg\:text-base {
     font-size: 1rem;
     line-height: 1.5rem;
@@ -1961,14 +1940,5 @@ body {
   .lg\:text-lg {
     font-size: 1.125rem;
     line-height: 1.75rem;
-  }
-
-  .lg\:text-8xl {
-    font-size: 6rem;
-    line-height: 1;
-  }
-
-  .lg\:text-\[80px\] {
-    font-size: 80px;
   }
 }
