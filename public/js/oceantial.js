@@ -52,12 +52,6 @@ var chekbox = function(){
 };
 
 
-var boxtogle = function(){
-  "use strict";
-$(".boxkategori").click(function(){
-  $(".vfb-checkbox input").toggle(this.checked);
-});
-};
 
 
 
@@ -71,6 +65,5 @@ $(document).ready(function(){
   all_scroll();
   back_to_top();
   chekbox();
-  boxtogle();
   
 });
