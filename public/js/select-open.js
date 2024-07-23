@@ -8,7 +8,7 @@
       var img = $(this).attr("data-thumbnail");
       var text = this.innerText;
       var value = $(this).val();
-      var item = '<li><img src="' + img + '" alt="" value="' + value + '"/><span>' + text + '</span></li>';
+      var item = '<li><a href="'+ value +'.html"><img src="' + img + '" alt="" /><span>' + text + '</span></a></li>';
       langArray.push(item);
     })
 
@@ -23,7 +23,7 @@
       var img = $(this).find('img').attr("src");
       var value = $(this).find('img').attr('value');
       var text = this.innerText;
-      var item = '<li><img src="' + img + '" alt="" /><span>' + text + '</span></li>';
+      var item = '<li><a href="'+ value +'.html"><img src="' + img + '" alt="" /><span>' + text + '</span></a></li>';
       $('.btn-select').html(item);
       $('.btn-select').attr('value', value);
       $(".b").toggle();

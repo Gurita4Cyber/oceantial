@@ -270,7 +270,15 @@ small.form-text.text-muted {
   bottom: -40px;
 }
 .videowrapper { float: none; clear: both; width: 100%; position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0; } .videowrapper iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-
+.sel li a { width: 111%; display: block; }
+button.btn-select.blackbtn li a {
+  width: unset;
+  height: unset;
+  display: contents;
+  opacity: 0;
+  text-decoration: none;
+  pointer-events: none;
+}
 
 /* Mobile  Base*/
 @media screen and (min-width: 0px) and (max-width: 1023px) {
