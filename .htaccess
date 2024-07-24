@@ -3,5 +3,4 @@ Options +FollowSymLinks -MultiViews
 RewriteEngine On
 
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^directory/(.*)$ public/index.php?id=$1 [L,QSA,NC]
-ErrorDocument 403 https://oceantial.com/public
+RewriteRule ^directory/(.*)$ public/
