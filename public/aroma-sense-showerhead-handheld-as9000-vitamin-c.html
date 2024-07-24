@@ -18,35 +18,7 @@
     <link href="css/owl.theme.default.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.css">
 
-    <script>
-        function includeHTML() {
-            var z, i, elmnt, file, xhttp;
-            /*loop through a collection of all HTML elements:*/
-            z = document.getElementsByTagName("*");
-            for (i = 0; i < z.length; i++) {
-                elmnt = z[i];
-                /*search for elements with a certain atrribute:*/
-                file = elmnt.getAttribute("w3-include-html");
-                if (file) {
-                    /*make an HTTP request using the attribute value as the file name:*/
-                    xhttp = new XMLHttpRequest();
-                    xhttp.onreadystatechange = function () {
-                        if (this.readyState == 4) {
-                            if (this.status == 200) { elmnt.innerHTML = this.responseText; }
-                            if (this.status == 404) { elmnt.innerHTML = "Page not found."; }
-                            /*remove the attribute, and call this function once more:*/
-                            elmnt.removeAttribute("w3-include-html");
-                            includeHTML();
-                        }
-                    }
-                    xhttp.open("GET", file, true);
-                    xhttp.send();
-                    /*exit the function:*/
-                    return;
-                }
-            }
-        };
-    </script>
+
 
 </head>
 
@@ -1267,18 +1239,19 @@
 
                 </div>
                 <p class="pb-4">Bring home the luxury and enjoyment before only experienced in five-star resorts. The
-                    Aroma Sense
-                    AS-9000 Vitamin C Showerhead, the first of its kind, emits Vitamin C, aromatherapy, and negative
-                    ions during your shower to rejuvenate your mind and body. The secret is the replaceable Vitamin C
-                    filter cartridge that promotes healthier skin and hair, and removes chlorine and other contaminants.
-                    The cartridge also contains natural aroma oils, which release an aromatherapy effect to relieve
-                    stress and relax your mind.
+                    Aroma Sense AS-9000 Vitamin C Showerhead, the first of its kind, emits Vitamin C, aromatherapy, and
+                    negative ions during your shower to rejuvenate your mind and body. The secret is the replaceable
+                    Vitamin C filter cartridge that promotes healthier skin and hair, and removes chlorine and other
+                    contaminants. The cartridge also contains natural aroma oils, which release an aromatherapy effect
+                    to relieve stress and relax your mind.
+
 
                 </p>
                 <p class="pb-4">This shower head offers 1.5x the water pressure of ordinary showerheads, while reducing
-                    water
-                    consumption by 25%. The light and elegant design with a perfect-size grip enables an unbeatable
-                    handheld experience. The grip handle can be easily disassembled for cartridge replacement.</p>
+                    water consumption by 25%. The light and elegant design with a perfect-size grip enables an
+                    unbeatable handheld experience. The grip handle can be easily disassembled for cartridge
+                    replacement.
+                </p>
 
                 <section
                     class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">

@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c> 
+# Itu HANYA untuk melindungi Anda dari 500 kesalahan 
+# jika server Anda tidak mengaktifkan mod_rewrite
+RewriteEngine On 
+# RewriteBase / 
+# TIDAK diperlukan kecuali Anda menggunakan mod_alias untuk mengalihkan
+RewriteCond %{REQUEST_URI} !/public 
+RewriteRule ^(.*)$ public/$1 [L] 
+# Arahkan semua permintaan ke folder /public
+</JikaModul>
