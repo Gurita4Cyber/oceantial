@@ -1,6 +1,3 @@
-<!doctype html>
-<html>
-
 <head>
 
     <?php if ($page == 'home') { ?>

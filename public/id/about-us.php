@@ -1,14 +1,13 @@
 <?php
 $page = 'about-us';
-require('../base.php')
+require('../inc/root.php')
 ?>
+<?php require($_SERVER['PUBLIC'] . 'base.php') ?>
 
 <body>
 
     <!-- header -->
-    <?php
-    require('../inc/header-white.php')
-    ?>
+    <?php require($_SERVER['PUBLIC'] . 'inc/header-white.php') ?>
     <!-- headedr end -->
 
 
@@ -84,5 +83,5 @@ require('../base.php')
 
     <!-- footer -->
     <?php
-    require('../footer.php')
+    require($_SERVER['PUBLIC'] . 'footer.php')
     ?>
