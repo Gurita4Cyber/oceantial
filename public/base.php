@@ -12,7 +12,7 @@
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="HandheldFriendly" content="true" />
     <meta name="apple-touch-fullscreen" content="yes" />
-    <title>Oceantial</title>
+    <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
     <!-- Facebook Meta Tags -->
     <meta property="og:url" content="https://ocential.id/">
