@@ -1,13 +1,13 @@
 <?php
 $page = 'about-us';
-require('base.php')
+require('../base.php')
 ?>
 
 <body>
 
     <!-- header -->
     <?php
-    require('inc/header-white.php')
+    require('../inc/header-white.php')
     ?>
     <!-- headedr end -->
 
