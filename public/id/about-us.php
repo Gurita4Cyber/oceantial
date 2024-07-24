@@ -47,8 +47,8 @@ require('../base.php')
         </div>
     </section>
     <section class="relative">
-        <img class="w-full desktop-only" src="img/about-us.jpg" alt="">
-        <img class="w-full mobile-only" src="img/about-us-mobile.jpg" alt="">
+        <img class="w-full desktop-only" src="../img/about-us.jpg" alt="">
+        <img class="w-full mobile-only" src="../img/about-us-mobile.jpg" alt="">
 
         <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 font-semibold  text-white text-center lg:w-full w-96">
             <h3 class="">Our Tagline</h3>
@@ -77,7 +77,7 @@ require('../base.php')
                     aims to deliver an
                     experience that awakens the senses.</p>
             </div>
-            <img class="lg:w-1/2 w-full lg:h-auto object-cover object-center" src="img/mission.jpg" alt="">
+            <img class="lg:w-1/2 w-full lg:h-auto object-cover object-center" src="../img/mission.jpg" alt="">
         </div>
     </section>
 
