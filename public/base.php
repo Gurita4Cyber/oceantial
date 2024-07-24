@@ -17,7 +17,7 @@
     <!-- Facebook Meta Tags -->
     <meta property="og:url" content="https://ocential.id/">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Isi Title Disini">
+    <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
     <meta property="og:description" content="Isi Descripsi disini">
     <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
 
@@ -25,7 +25,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta property="twitter:domain" content="ocential.id">
     <meta property="twitter:url" content="https://ocential.id/">
-    <meta name="twitter:title" content="Isi Title Disini">
+    <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
     <meta name="twitter:description" content="Isi Descripsi disini">
     <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
 
