@@ -1,6 +1,7 @@
-Options +FollowSymLinks -MultiViews
-# Turn mod_rewrite on
 RewriteEngine On
+RewriteBase /
 
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^directory/(.*)$ public/
+RewriteCond %{THE_REQUEST} /public/([^\s?]*) [NC]
+RewriteRule ^ %1 [L,NE,R=302]
+
+RewriteRule ^((?!public/).*)$ public/$1 [L,NC]
