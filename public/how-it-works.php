@@ -1,5 +1,5 @@
 <?php
-$page = 'how-it-work';
+$page = 'how-it-works';
 require('base.php')
 ?>
 
