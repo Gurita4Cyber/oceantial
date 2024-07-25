@@ -1,15 +1,13 @@
 <?php
 $page = 'how-it-works';
-require('base.php')
+require('../inc/base.php')
 ?>
-
+<?php require($_SERVER['PUBLIC'] . 'inc/meta.php') ?>
 
 <body>
 
     <!-- header -->
-    <?php
-    require('inc/header-white.php')
-    ?>
+    <?php require($_SERVER['PUBLIC'] . 'inc/header-white.php') ?>
     <!-- headedr end -->
 
 
@@ -369,7 +367,6 @@ require('base.php')
         </div>
     </section>
 
+
     <!-- footer -->
-    <?php
-    require('footer.php')
-    ?>
+    <?php require($_SERVER['PUBLIC'] . 'inc/footer.php') ?>
