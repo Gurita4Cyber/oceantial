@@ -1307,10 +1307,10 @@
                         <li class="pb-6 pt-6 flex">
                             <div class="w-32">Size</div>
                             <div class="">:</div>
-                            <div class="w-full">&nbsp;W 8.0cm x L 6.3cm x H 27.8cm / Head diameter : 8cm</div>
+                            <div class="w-full">&nbsp;W 8.0 cm x L 6.3 cm x H 27.8 cm</div>
                         </li>
                         <li class="pb-6 flex">
-                            <div class="w-32">Diameter</div>
+                            <div class="w-32">Head Diameter</div>
                             <div class="">:</div>
                             <div class="w-full">&nbsp;8 cm</div>
                         </li>

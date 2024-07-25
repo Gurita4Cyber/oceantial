@@ -1235,7 +1235,7 @@
                             fill="#004E98"></path>
                     </svg>
                 </div>
-                <h1 class="text-2xl font-bold py-4">Showerhead Handheld - Medium AS9000 Vitamin C</h1>
+                <h1 class="text-2xl font-bold py-4">Aroma Sense - Spare parts - Anti bakteri AS9000 Medium</h1>
                 <div class="flex mb-4"><span class="flex items-center"><svg fill="currentColor" stroke="currentColor"
                             stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 text-bgstart"
                             viewBox="0 0 24 24">
@@ -1266,19 +1266,10 @@
                         <span class="text-gray-600 ml-3">4 Reviews</span></span>
 
                 </div>
-                <p class="pb-4">Bring home the luxury and enjoyment before only experienced in five-star resorts. The
-                    Aroma Sense
-                    AS-9000 Vitamin C Showerhead, the first of its kind, emits Vitamin C, aromatherapy, and negative
-                    ions during your shower to rejuvenate your mind and body. The secret is the replaceable Vitamin C
-                    filter cartridge that promotes healthier skin and hair, and removes chlorine and other contaminants.
-                    The cartridge also contains natural aroma oils, which release an aromatherapy effect to relieve
-                    stress and relax your mind.
+                <p class="pb-4">Keep your Aroma Sense shower head functioning at its best with our antibacterial ceramic beads! These beads effectively absorb chemical particles and contaminants that may be present in your water supply, ensuring that your shower water is clean and healthy.
 
                 </p>
-                <p class="pb-4">This shower head offers 1.5x the water pressure of ordinary showerheads, while reducing
-                    water
-                    consumption by 25%. The light and elegant design with a perfect-size grip enables an unbeatable
-                    handheld experience. The grip handle can be easily disassembled for cartridge replacement.</p>
+                <p class="pb-4">It is recommended to check and replace your antibacterial ceramic beads every time you check your refill cartridges, which is typically every 2-3 months. This will help ensure that your shower head continues to work optimally and that you enjoy the full benefits of its features.</p>
 
                 <section
                     class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
@@ -1291,16 +1282,16 @@
                                 <div class="iconbuy mr-3"><img src="img/icon/whatsapp.png" alt=""></div>
                                 Shop via WhatsApp
                             </a>
-                            <a class="flex p-4" href="https://shopee.co.id/aromasenseofficial
+                            <a class="flex p-4" href="https://shopee.co.id/Antibacterial-Ceramic-Balls-i.193319332.13466107571?sp_atk=7db30a61-ae51-44be-91aa-f0cd710b45c7&xptdk=7db30a61-ae51-44be-91aa-f0cd710b45c7
                             ">
                                 <div class="iconbuy mr-3"><img src="img/icon/shopee.png" alt=""></div>
                                 Shop via Shopee
                             </a>
-                            <a class="flex p-4" href="https://www.tokopedia.com/aromasense?source=universe&st=product">
+                            <a class="flex p-4" href="https://www.tokopedia.com/oceantial/antibacterial-ceramic-balls-as9000?extParam=src%3Dshop">
                                 <div class="iconbuy mr-3"><img src="img/icon/tokopedia.png" alt=""></div>
                                 Shop via Tokopedia
                             </a>
-                            <a class="flex p-4" href="https://www.tiktok.com/@aromasense ">
+                            <a class="flex p-4" href="https://www.tiktok.com/@oceantial">
                                 <div class="iconbuy mr-3"><img src="img/icon/tiktok.png" alt=""></div>
                                 Shop via TikTok Shop
                             </a>
@@ -1309,59 +1300,7 @@
                 </section>
             </div>
     </section>
-    <section class="w-full lg:pb-20 lg:px-20 relative">
-        <div class="lg:py-8 border-b-2 border-t-2 border-gray-10 mx-3">
-            <h2>Specification</h2>
-            <div class="mx-auto flex justify-start flex-wrap">
-                <div class="lg:w-1/2 lg:pr-4 w-full">
-                    <ul>
-                        <li class="pb-6 pt-6 flex">
-                            <div class="w-32">Type</div>
-                            <div class="">:</div>
-                            <div class="w-full">&nbsp;Aroma Sense Shower Head</div>
-                        </li>
-                        <li class="pb-6 flex">
-                            <div class="w-32">Model</div>
-                            <div class="">:</div>
-                            <div class="w-full">&nbsp;No. AS-9000</div>
-                        </li>
-                        <li class="pb-6 flex">
-                            <div class="w-32">Color</div>
-                            <div class="">:</div>
-                            <div class="w-full">&nbsp;Metallic silver</div>
-                        </li>
-                        <li class="pb-6 flex">
-                            <div class="w-32">Filters</div>
-                            <div class="">:</div>
-                            <div class="w-full">&nbsp;Aroma Vitamin C filter (ASS filter), Anti bacteria
-                                Ceramic ball filter, Micro fabric filter</div>
-                        </li>
-                    </ul>
-                </div>
-                <div class="lg:w-1/2 lg:pl-4 w-full">
-                    <ul>
-                        <li class="pb-6 pt-6 flex">
-                            <div class="w-32">Size</div>
-                            <div class="">:</div>
-                            <div class="w-full">&nbsp;W 8.0cm x L 6.3cm x H 27.8cm / Head diameter : 8cm</div>
-                        </li>
-                        <li class="pb-6 flex">
-                            <div class="w-32">Diameter</div>
-                            <div class="">:</div>
-                            <div class="w-full">&nbsp;8 cm</div>
-                        </li>
-                        <li class="pb-6 flex">
-                            <div class="w-32">Height</div>
-                            <div class="">:</div>
-                            <div class="w-full">&nbsp;360 g</div>
-                        </li>
-
-                    </ul>
-                </div>
-            </div>
-        </div>
-
-    </section>
+    
 
     <section class="w-full desktop-only lg:pb-40 lg:pt-20 lg:px-20">
         <div class="container mx-auto">
