@@ -8,7 +8,7 @@
       var img = $(this).attr("data-thumbnail");
       var text = this.innerText;
       var value = $(this).val();
-      var item = '<li><a href="'+ value +'.php"><img src="' + img + '" alt="" /><span>' + text + '</span></a></li>';
+      var item = '<li><a href="'+ value +'"><img src="' + img + '" alt="" /><span>' + text + '</span></a></li>';
       langArray.push(item);
     })
 
@@ -23,7 +23,7 @@
       var img = $(this).find('img').attr("src");
       var value = $(this).find('img').attr('value');
       var text = this.innerText;
-      var item = '<li><a href="'+ value +'.php"><img src="' + img + '" alt="" /><span>' + text + '</span></a></li>';
+      var item = '<li><a href="'+ value +'"><img src="' + img + '" alt="" /><span>' + text + '</span></a></li>';
       $('.btn-select').html(item);
       $('.btn-select').attr('value', value);
       $(".b").toggle();
@@ -43,7 +43,7 @@
       $('.btn-select').attr('value', sessionLang);
     } else {
       var langIndex = langArray.indexOf('ch');
-      console.log(langIndex);
+      // console.log(langIndex);
       $('.btn-select').html(langArray[langIndex]);
       //$('.btn-select').attr('value', 'en');
     }
@@ -94,7 +94,7 @@
       $('.btn-select2').attr('value', sessionLang);
     } else {
       var langIndex = langArray.indexOf('ch');
-      console.log(langIndex);
+      // console.log(langIndex);
       $('.btn-select2').html(langArray[langIndex]);
       //$('.btn-select').attr('value', 'en');
     }
