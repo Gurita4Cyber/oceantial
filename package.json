@@ -4,7 +4,7 @@
   "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
   "main": "index.js",
   "scripts": {
-    "cuan": "npx tailwindcss -i ./input.css -o ./public/css/oceantial.css --watch",
+    "cuan": "npx tailwindcss -i ./input.css -o ./css/oceantial.css --watch",
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "tw-patch"
   },

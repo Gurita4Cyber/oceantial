@@ -1,8 +1,8 @@
 <?php
-$page = 'about-us';
-require('../inc/root.php')
+$page = 'about-us-indo';
+require('../inc/base.php')
 ?>
-<?php require($_SERVER['PUBLIC'] . 'base.php') ?>
+<?php require($_SERVER['PUBLIC'] . 'inc/meta.php') ?>
 
 <body>
 
@@ -82,6 +82,4 @@ require('../inc/root.php')
 
 
     <!-- footer -->
-    <?php
-    require($_SERVER['PUBLIC'] . 'footer.php')
-    ?>
+    <?php require($_SERVER['PUBLIC'] . 'inc/footer.php') ?>

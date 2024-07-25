@@ -11,7 +11,7 @@
                 <!-- navigation desktop -->
                 <div class="flex items-center nav-header">
                     <div class="nav-a">
-                        <a href="index.php" class="p-5 text-base inline-flex items-center">
+                        <a href=" " class="p-5 text-base inline-flex items-center">
                             Home
                         </a>
                     </div>
@@ -508,18 +508,18 @@
                         </div>
                     </div>
                     <div class="nav-a">
-                        <a href="how-it-works.php" class="p-5 text-base inline-flex items-center">
+                        <a href="how-it-works" class="p-5 text-base inline-flex items-center">
                             How it Works
                         </a>
                     </div>
                     <div class="nav-a">
-                        <a href="faqs.php" class="p-5 text-base inline-flex items-center">
+                        <a href="faqs" class="p-5 text-base inline-flex items-center">
                             FAQs
                         </a>
                     </div>
 
                     <div class="nav-a">
-                        <a href="about-us.php" class="p-5 text-base inline-flex items-center">
+                        <a href="about-us" class="p-5 text-base inline-flex items-center">
                             About Us
                         </a>
                     </div>

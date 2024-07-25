@@ -11,7 +11,7 @@
                 <!-- navigation desktop -->
                 <div class="flex items-center nav-header black">
                     <div class="nav-a">
-                        <a href="index.php" class="p-5 text-base inline-flex items-center">
+                        <a href=" " class="p-5 text-base inline-flex items-center">
                             Home
                         </a>
                     </div>
@@ -536,18 +536,18 @@
                         </div>
                     </div>
                     <div class="nav-a <?php if ($page == 'how-it-works') { ?>active <?php } ?>">
-                        <a href="how-it-works.php" class="p-5 text-base inline-flex items-center">
+                        <a href="how-it-works" class="p-5 text-base inline-flex items-center">
                             How it Works
                         </a>
                     </div>
                     <div class="nav-a <?php if ($page == 'faqs') { ?>active <?php } ?>">
-                        <a href="faqs.php" class="p-5 text-base inline-flex items-center">
+                        <a href="faqs" class="p-5 text-base inline-flex items-center">
                             FAQs
                         </a>
                     </div>
 
                     <div class="nav-a <?php if ($page == 'about-us') { ?>active <?php } ?>">
-                        <a href="about-us.php" class="p-5 text-base inline-flex items-center">
+                        <a href="about-us" class="p-5 text-base inline-flex items-center">
                             About Us
                         </a>
                     </div>
@@ -559,10 +559,18 @@
                         <div class="flex ml-6 items-center">
 
                             <div class="relative">
-                                <select class="vodiapicker">
-                                    <option value="<?php if ($page == 'about-us') { ?>about-us<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
-                                    <option value="<?php if ($page == 'about-us') { ?>about-us-indo<?php } ?>" data-thumbnail="img/in.png"> IN</option>
-                                </select>
+                                <?php if ($page == 'about-us') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'about-us') { ?>about-us<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'about-us') { ?>id/<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'about-us-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'about-us-indo') { ?>id/<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'about-us-indo') { ?>about-us<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
                                 <div class="lang-select">
                                     <button class="btn-select blackbtn" value=""></button>
                                     <div class="b blacklanguage">
