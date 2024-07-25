@@ -1300,59 +1300,6 @@
                 </section>
             </div>
     </section>
-    <section class="w-full lg:pb-20 lg:px-20 relative">
-        <div class="lg:py-8 border-b-2 border-t-2 border-gray-10 mx-3">
-            <h2>Specification</h2>
-            <div class="mx-auto flex justify-start flex-wrap">
-                <div class="lg:w-1/2 lg:pr-4 w-full">
-                    <ul>
-                        <li class="pb-6 pt-6 flex">
-                            <div class="w-32">Type</div>
-                            <div class="">:</div>
-                            <div class="w-full">&nbsp;Aroma Sense Shower Head</div>
-                        </li>
-                        <li class="pb-6 flex">
-                            <div class="w-32">Model</div>
-                            <div class="">:</div>
-                            <div class="w-full">&nbsp;No. AS-9000</div>
-                        </li>
-                        <li class="pb-6 flex">
-                            <div class="w-32">Color</div>
-                            <div class="">:</div>
-                            <div class="w-full">&nbsp;Metallic silver</div>
-                        </li>
-                        <li class="pb-6 flex">
-                            <div class="w-32">Filters</div>
-                            <div class="">:</div>
-                            <div class="w-full">&nbsp;Aroma Vitamin C filter (ASS filter), Anti bacteria
-                                Ceramic ball filter, Micro fabric filter</div>
-                        </li>
-                    </ul>
-                </div>
-                <div class="lg:w-1/2 lg:pl-4 w-full">
-                    <ul>
-                        <li class="pb-6 pt-6 flex">
-                            <div class="w-32">Size</div>
-                            <div class="">:</div>
-                            <div class="w-full">&nbsp;W 8.0cm x L 6.3cm x H 27.8cm / Head diameter : 8cm</div>
-                        </li>
-                        <li class="pb-6 flex">
-                            <div class="w-32">Diameter</div>
-                            <div class="">:</div>
-                            <div class="w-full">&nbsp;8 cm</div>
-                        </li>
-                        <li class="pb-6 flex">
-                            <div class="w-32">Height</div>
-                            <div class="">:</div>
-                            <div class="w-full">&nbsp;360 g</div>
-                        </li>
-
-                    </ul>
-                </div>
-            </div>
-        </div>
-
-    </section>
 
     <section class="w-full desktop-only lg:pb-40 lg:pt-20 lg:px-20">
         <div class="container mx-auto">

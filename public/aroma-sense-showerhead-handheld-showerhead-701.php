@@ -1235,7 +1235,7 @@
                             fill="#004E98"></path>
                     </svg>
                 </div>
-                <h1 class="text-2xl font-bold py-4">Showerhead Handheld - Medium AS9000 Vitamin C</h1>
+                <h1 class="text-2xl font-bold py-4">Aroma Sense - Showerhead Handheld - Showerhead 701</h1>
                 <div class="flex mb-4"><span class="flex items-center"><svg fill="currentColor" stroke="currentColor"
                             stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 text-bgstart"
                             viewBox="0 0 24 24">
@@ -1266,20 +1266,8 @@
                         <span class="text-gray-600 ml-3">4 Reviews</span></span>
 
                 </div>
-                <p class="pb-4">Bring home the luxury and enjoyment before only experienced in five-star resorts. The
-                    Aroma Sense
-                    AS-9000 Vitamin C Showerhead, the first of its kind, emits Vitamin C, aromatherapy, and negative
-                    ions during your shower to rejuvenate your mind and body. The secret is the replaceable Vitamin C
-                    filter cartridge that promotes healthier skin and hair, and removes chlorine and other contaminants.
-                    The cartridge also contains natural aroma oils, which release an aromatherapy effect to relieve
-                    stress and relax your mind.
-
+                <p class="pb-4">The Aroma Sense 701 Showerhead delivers an exceptionally abundant and refreshing shower experience, thanks to its extra-large spray plate that mimics the sensation of standing in a gentle rain. This premium model boasts a full-chrome body design, offering a luxurious European-inspired showering ritual complete with a wonderful aroma and vitamin C-infused water. Whether you're seeking a revitalizing rinse or a moment of indulgence, the Aroma Sense 701 provides an unparalleled, spa-like shower that elevates your daily routine.
                 </p>
-                <p class="pb-4">This shower head offers 1.5x the water pressure of ordinary showerheads, while reducing
-                    water
-                    consumption by 25%. The light and elegant design with a perfect-size grip enables an unbeatable
-                    handheld experience. The grip handle can be easily disassembled for cartridge replacement.</p>
-
                 <section
                     class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
@@ -1291,16 +1279,16 @@
                                 <div class="iconbuy mr-3"><img src="img/icon/whatsapp.png" alt=""></div>
                                 Shop via WhatsApp
                             </a>
-                            <a class="flex p-4" href="https://shopee.co.id/aromasenseofficial
+                            <a class="flex p-4" href="https://shopee.co.id/Aroma-Sense-AS-701ST-Aromatherapy-and-Vitamin-C-Shower-head-i.193319332.8547237588?sp_atk=5a357a00-1b7c-44ed-a1ed-9a1e59b38ba2
                             ">
                                 <div class="iconbuy mr-3"><img src="img/icon/shopee.png" alt=""></div>
                                 Shop via Shopee
                             </a>
-                            <a class="flex p-4" href="https://www.tokopedia.com/aromasense?source=universe&st=product">
+                            <a class="flex p-4" href="https://tokopedia.link/EuvNo4bBhLb">
                                 <div class="iconbuy mr-3"><img src="img/icon/tokopedia.png" alt=""></div>
                                 Shop via Tokopedia
                             </a>
-                            <a class="flex p-4" href="https://www.tiktok.com/@aromasense ">
+                            <a class="flex p-4" href="https://www.tiktok.com/@oceantial">
                                 <div class="iconbuy mr-3"><img src="img/icon/tiktok.png" alt=""></div>
                                 Shop via TikTok Shop
                             </a>
@@ -1323,18 +1311,17 @@
                         <li class="pb-6 flex">
                             <div class="w-32">Model</div>
                             <div class="">:</div>
-                            <div class="w-full">&nbsp;No. AS-9000</div>
+                            <div class="w-full">&nbsp;No. AS-701</div>
                         </li>
                         <li class="pb-6 flex">
                             <div class="w-32">Color</div>
                             <div class="">:</div>
-                            <div class="w-full">&nbsp;Metallic silver</div>
+                            <div class="w-full">&nbsp;Metallic Silver</div>
                         </li>
                         <li class="pb-6 flex">
                             <div class="w-32">Filters</div>
                             <div class="">:</div>
-                            <div class="w-full">&nbsp;Aroma Vitamin C filter (ASS filter), Anti bacteria
-                                Ceramic ball filter, Micro fabric filter</div>
+                            <div class="w-full">&nbsp;Aroma Vitamin C filter (ASS filter), Anti bacteria Ceramic ball filter, Micro fabric filter</div>
                         </li>
                     </ul>
                 </div>
@@ -1343,17 +1330,17 @@
                         <li class="pb-6 pt-6 flex">
                             <div class="w-32">Size</div>
                             <div class="">:</div>
-                            <div class="w-full">&nbsp;W 8.0cm x L 6.3cm x H 27.8cm / Head diameter : 8cm</div>
+                            <div class="w-full">&nbsp;W 12.0cm x L 6.5cm x H 31.0cm</div>
                         </li>
                         <li class="pb-6 flex">
-                            <div class="w-32">Diameter</div>
+                            <div class="w-32">Head Diameter</div>
                             <div class="">:</div>
-                            <div class="w-full">&nbsp;8 cm</div>
+                            <div class="w-full">&nbsp;11.5 cm</div>
                         </li>
                         <li class="pb-6 flex">
                             <div class="w-32">Height</div>
                             <div class="">:</div>
-                            <div class="w-full">&nbsp;360 g</div>
+                            <div class="w-full">&nbsp;520.5 g</div>
                         </li>
 
                     </ul>

@@ -1235,7 +1235,7 @@
                             fill="#004E98"></path>
                     </svg>
                 </div>
-                <h1 class="text-2xl font-bold py-4">Showerhead Handheld - Medium AS9000 Vitamin C</h1>
+                <h1 class="text-2xl font-bold py-4">Aroma Sense - Showerhead Handheld - Mist Vitamin C</h1>
                 <div class="flex mb-4"><span class="flex items-center"><svg fill="currentColor" stroke="currentColor"
                             stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 text-bgstart"
                             viewBox="0 0 24 24">
@@ -1266,20 +1266,8 @@
                         <span class="text-gray-600 ml-3">4 Reviews</span></span>
 
                 </div>
-                <p class="pb-4">Bring home the luxury and enjoyment before only experienced in five-star resorts. The
-                    Aroma Sense
-                    AS-9000 Vitamin C Showerhead, the first of its kind, emits Vitamin C, aromatherapy, and negative
-                    ions during your shower to rejuvenate your mind and body. The secret is the replaceable Vitamin C
-                    filter cartridge that promotes healthier skin and hair, and removes chlorine and other contaminants.
-                    The cartridge also contains natural aroma oils, which release an aromatherapy effect to relieve
-                    stress and relax your mind.
-
+                <p class="pb-4">The Aroma Sense Showerhead Mist Vitamin C offers a multifunctional and rejuvenating shower experience. It features a 2-way mode with a normal spray and a mist shower, providing an aromatherapeutic effect with natural aroma oils to enhance relaxation and alleviate stress. The mist shower gently and effectively cleanses the skin, offering a spa-like experience. The showerhead also neutralizes chlorine from unfiltered water, replenishes skin and hair with vitamin C, and optimizes water pressure while saving up to 30% of water usage. Additionally, the microfiber filter traps any residual rust, dirt, and contaminants, and the negative ionizer produces up to four times the amount of negative ions, which are scientifically proven to aid in breathing, increase blood flow, and alleviate stress.
                 </p>
-                <p class="pb-4">This shower head offers 1.5x the water pressure of ordinary showerheads, while reducing
-                    water
-                    consumption by 25%. The light and elegant design with a perfect-size grip enables an unbeatable
-                    handheld experience. The grip handle can be easily disassembled for cartridge replacement.</p>
-
                 <section
                     class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
@@ -1291,16 +1279,16 @@
                                 <div class="iconbuy mr-3"><img src="img/icon/whatsapp.png" alt=""></div>
                                 Shop via WhatsApp
                             </a>
-                            <a class="flex p-4" href="https://shopee.co.id/aromasenseofficial
+                            <a class="flex p-4" href="https://shopee.co.id/Showerhead-Aromatherapy-Vitamin-C-Aroma-Sense-Mist-i.193319332.4778116557?sp_atk=736b2fe9-5924-48c5-adb6-04ef159ceb4e
                             ">
                                 <div class="iconbuy mr-3"><img src="img/icon/shopee.png" alt=""></div>
                                 Shop via Shopee
                             </a>
-                            <a class="flex p-4" href="https://www.tokopedia.com/aromasense?source=universe&st=product">
+                            <a class="flex p-4" href="https://tokopedia.link/CwrECSIAhLb">
                                 <div class="iconbuy mr-3"><img src="img/icon/tokopedia.png" alt=""></div>
                                 Shop via Tokopedia
                             </a>
-                            <a class="flex p-4" href="https://www.tiktok.com/@aromasense ">
+                            <a class="flex p-4" href="https://www.tiktok.com/@oceantial">
                                 <div class="iconbuy mr-3"><img src="img/icon/tiktok.png" alt=""></div>
                                 Shop via TikTok Shop
                             </a>
@@ -1323,18 +1311,17 @@
                         <li class="pb-6 flex">
                             <div class="w-32">Model</div>
                             <div class="">:</div>
-                            <div class="w-full">&nbsp;No. AS-9000</div>
+                            <div class="w-full">&nbsp;No. AS-MIST</div>
                         </li>
                         <li class="pb-6 flex">
                             <div class="w-32">Color</div>
                             <div class="">:</div>
-                            <div class="w-full">&nbsp;Metallic silver</div>
+                            <div class="w-full">&nbsp;White</div>
                         </li>
                         <li class="pb-6 flex">
                             <div class="w-32">Filters</div>
                             <div class="">:</div>
-                            <div class="w-full">&nbsp;Aroma Vitamin C filter (ASS filter), Anti bacteria
-                                Ceramic ball filter, Micro fabric filter</div>
+                            <div class="w-full">&nbsp;Aroma Vitamin C filter (ASS filter), Micro fabric filter</div>
                         </li>
                     </ul>
                 </div>
@@ -1343,7 +1330,7 @@
                         <li class="pb-6 pt-6 flex">
                             <div class="w-32">Size</div>
                             <div class="">:</div>
-                            <div class="w-full">&nbsp;W 8.0cm x L 6.3cm x H 27.8cm / Head diameter : 8cm</div>
+                            <div class="w-full">&nbsp;W 8.0cm x L 8.7cm x H 27.0cm / Head Diameter : 8.0cm</div>
                         </li>
                         <li class="pb-6 flex">
                             <div class="w-32">Diameter</div>
@@ -1353,7 +1340,7 @@
                         <li class="pb-6 flex">
                             <div class="w-32">Height</div>
                             <div class="">:</div>
-                            <div class="w-full">&nbsp;360 g</div>
+                            <div class="w-full">&nbsp;317 g</div>
                         </li>
 
                     </ul>
