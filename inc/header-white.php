@@ -3,7 +3,7 @@
     <div class="lg:container lg:mx-auto">
         <div class="hidden lg:flex justify-between items-center lg:h-[88px]">
             <div class="order-1 justify-between flex gap-16 items-center">
-                <a class="block" href="index.php">
+                <a class="block" href=" ">
                     <img class="logodefault" src="img/logo2.png" alt="">
                     <img class="hidden logodefault" src="img/logo.png" alt="">
                     <img class="hidden logodark" src="img/logo2.png" alt="">
@@ -604,7 +604,7 @@
         </div>
         <!-- mobile menu navigation -->
         <div class="header-mobile mobile-only">
-            <a href="index.php" class="logo">
+            <a href=" " class="logo">
                 <img class="logodefault" src="img/logo2.png" alt="">
                 <img class="hidden logodefault" src="img/logo2.png" alt="">
                 <img class="hidden logodark" src="img/logo2.png" alt="">
@@ -612,7 +612,7 @@
             <input class="menu-btn" type="checkbox" id="menu-btn" />
             <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
             <ul class="menu text-black">
-                <li><a href="index.php">Home</a></li>
+                <li><a href=" ">Home</a></li>
                 <li>
 
                     <input type="checkbox" id="menuBtn" />

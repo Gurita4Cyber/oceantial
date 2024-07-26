@@ -509,8 +509,100 @@
 
 <?php } ?>
 
+<?php if ($page == 'how-it-works') { ?>
+
+    <script>
+        let tabsContainer2 = document.querySelector("#tabsnav");
+        let tabTogglers2 = tabsContainer2.querySelectorAll("#tabsnav a");
+        tabTogglers2.forEach(function(toggler2) {
+            toggler2.addEventListener("click", function(c) {
+                c.preventDefault();
+                let tabName2 = this.getAttribute("href");
+
+                let tabContents2 = document.querySelector("#tab-contentsnav");
+
+                for (let b = 0; b < tabContents2.children.length; b++) {
+
+                    tabTogglers2[b].parentElement.classList.remove("bordercustom");
+                    tabContents2.children[b].classList.remove("hidden");
+                    if ("#" + tabContents2.children[b].id === tabName2) {
+                        continue;
+                    }
+                    tabContents2.children[b].classList.add("hidden");
+
+                }
+                c.target.parentElement.classList.add("bordercustom");
+            });
+        });
+
+
+
+
+        // Get the button
+        const menuHead = document.getElementById("menuHead");
+
+        // When the user scrolls down 20px from the top of the document, show the button
+
+        const scrollFunction = () => {
+            if (
+                document.body.scrollTop > 20 ||
+                document.documentElement.scrollTop > 20
+            ) {
+                mybutton.classList.remove("hidden");
+                menuHead.classList.add("bg-default");
+                menuHead.classList.add("drop-shadow-lg");
+
+            } else {
+                mybutton.classList.add("hidden");
+                menuHead.classList.remove("bg-default");
+                menuHead.classList.remove("drop-shadow-lg");
+
+            }
+        };
+    </script>
+    <script>
+        var coll = document.getElementsByClassName("collapsible");
+        var i;
+
+        for (i = 0; i < coll.length; i++) {
+            coll[i].addEventListener("click", function() {
+                this.classList.toggle("active");
+                var content = this.nextElementSibling;
+                if (content.style.display === "block") {
+                    content.style.display = "none";
+                } else {
+                    content.style.display = "block";
+                }
+            });
+        }
+    </script>
+    <script>
+        $(document).ready(function() {
+            var owl = $('.owl-carousel');
+            owl.owlCarousel({
+                margin: 10,
+                nav: true,
+                dots: false,
+                loop: false,
+                responsive: {
+                    0: {
+                        items: 1
+                    },
+                    600: {
+                        items: 1
+                    },
+                    1000: {
+                        items: 1
+                    }
+                }
+            })
+        })
+    </script>
+
+<?php } ?>
+
 <!-- =========================== -->
-<?php if ($page == 'home' || $page == 'how-it-works' || $page == 'about-us') { ?>
+<?php if ($page == 'home' || $page == 'about-us') { ?>
     <script>
         let tabsContainer = document.querySelector("#tabs");
         let tabTogglers = tabsContainer.querySelectorAll("#tabs a");
