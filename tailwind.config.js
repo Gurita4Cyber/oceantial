@@ -5,7 +5,8 @@ module.exports = {
     './about/*.{php,js,html}',
     './inc/*.{php,js,html}',
     './id/*.{php,js,html}',
-    './how-it-works/*.{php,js,html}'
+    './how-it-works/*.{php,js,html}',
+    './faqs/*.{php,js,html}'
   ],
   theme: {
     extend: {

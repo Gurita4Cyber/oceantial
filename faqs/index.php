@@ -20,7 +20,7 @@ require('../inc/base.php')
             </div>
         </div>
         <div>
-            <div class="relative lg:w-[621px] flex justify-center items-center mx-auto rounded-3xl">
+            <div class="relative lg:w-[620px] flex justify-center items-center mx-auto rounded-3xl">
                 <label for="filterList" class="sr-only">Filter</label>
                 <input type="text" id="filterList" value="" name="footer-field" placeholder="Search questions" class="lg:w-full bg-gray-100 bg-opacity-50 rounded-3xl border border-gray-300 focus:ring-2 focus:bg-transparent focus:ring-indigo-200 focus:border-indigo-500 text-base outline-none text-gray-700 py-1 px-16 leading-8 transition-colors duration-200 ease-in-out">
 
