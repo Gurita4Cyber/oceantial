@@ -1,5 +1,5 @@
 <?php
-$page = 'faqs';
+$page = 'detail13';
 require('inc/base.php')
 ?>
 <?php require($_SERVER['PUBLIC'] . 'inc/meta.php') ?>
@@ -9,7 +9,6 @@ require('inc/base.php')
     <!-- header -->
     <?php require($_SERVER['PUBLIC'] . 'inc/header-white.php') ?>
     <!-- headedr end -->
-
 
 
 

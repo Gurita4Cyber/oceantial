@@ -586,16 +586,681 @@
 
                                 <?php if ($page == 'detail3') { ?>
                                     <select class="vodiapicker">
-                                        <option value="<?php if ($page == 'detail3') { ?>aroma-sense-microfiber-filter-801<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
-                                        <option value="<?php if ($page == 'detail3') { ?>id/aroma-sense-microfiber-filter-801<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail3') { ?>aroma-sense-microfiber-filter-arofix-grand-shower<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail3') { ?>id/aroma-sense-microfiber-filter-arofix-grand-shower<?php } ?>" data-thumbnail="img/in.png"> IN</option>
                                     </select>
                                 <?php } ?>
                                 <?php if ($page == 'detail3-indo') { ?>
                                     <select class="vodiapicker">
-                                        <option value="<?php if ($page == 'detail3-indo') { ?>id/aroma-sense-microfiber-filter-801<?php } ?>" data-thumbnail="img/in.png"> IN</option>
-                                        <option value="<?php if ($page == 'detail3-indo') { ?>aroma-sense-microfiber-filter-801<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail3-indo') { ?>id/aroma-sense-microfiber-filter-arofix-grand-shower<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail3-indo') { ?>aroma-sense-microfiber-filter-arofix-grand-shower<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
                                     </select>
                                 <?php } ?>
+
+                                <?php if ($page == 'detail4') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail4') { ?>aroma-sense-microfiber-filter-arofix<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail4') { ?>id/aroma-sense-microfiber-filter-arofix<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail4-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail4-indo') { ?>id/aroma-sense-microfiber-filter-arofix<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail4-indo') { ?>aroma-sense-microfiber-filter-arofix<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail5') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail5') { ?>aroma-sense-microfiber-filter-as9000<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail5') { ?>id/aroma-sense-microfiber-filter-as9000<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail5-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail5-indo') { ?>id/aroma-sense-microfiber-filter-as9000<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail5-indo') { ?>aroma-sense-microfiber-filter-as9000<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail6') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail6') { ?>aroma-sense-microfiber-filter-kids&tulip<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail6') { ?>id/aroma-sense-microfiber-filter-kids&tulip<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail6-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail6-indo') { ?>id/aroma-sense-microfiber-filter-kids&tulip<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail6-indo') { ?>aroma-sense-microfiber-filter-kids&tulip<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail7') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail7') { ?>aroma-sense-microfiber-filter-prestiges<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail7') { ?>id/aroma-sense-microfiber-filter-prestiges<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail7-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail7-indo') { ?>id/aroma-sense-microfiber-filter-prestiges<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail7-indo') { ?>aroma-sense-microfiber-filter-prestiges<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail8') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail8') { ?>aroma-sense-microfiber-mist<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail8') { ?>id/aroma-sense-microfiber-mist<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail8-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail8-indo') { ?>id/aroma-sense-microfiber-mist<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail8-indo') { ?>aroma-sense-microfiber-mist<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail9') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail9') { ?>aroma-sense-microfiber-super-jet<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail9') { ?>id/aroma-sense-microfiber-super-jet<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail9-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail9-indo') { ?>id/aroma-sense-microfiber-super-jet<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail9-indo') { ?>aroma-sense-microfiber-super-jet<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail10') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail10') { ?>aroma-sense-showerhead-handheld-as9000-vitamin-c<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail10') { ?>id/aroma-sense-showerhead-handheld-as9000-vitamin-c<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail10-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail10-indo') { ?>id/aroma-sense-showerhead-handheld-as9000-vitamin-c<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail10-indo') { ?>aroma-sense-showerhead-handheld-as9000-vitamin-c<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail11') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail11') { ?>aroma-sense-showerhead-handheld-mist-vitamin-c<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail11') { ?>id/aroma-sense-showerhead-handheld-mist-vitamin-c<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail11-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail11-indo') { ?>id/aroma-sense-showerhead-handheld-mist-vitamin-c<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail11-indo') { ?>aroma-sense-showerhead-handheld-mist-vitamin-c<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail12') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail12') { ?>aroma-sense-showerhead-handheld-showerhead-701<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail12') { ?>id/aroma-sense-showerhead-handheld-showerhead-701<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail12-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail12-indo') { ?>id/aroma-sense-showerhead-handheld-showerhead-701<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail12-indo') { ?>aroma-sense-showerhead-handheld-showerhead-701<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail13') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail13') { ?>aroma-sense-showerhead-handheld-showerhead-801<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail13') { ?>id/aroma-sense-showerhead-handheld-showerhead-801<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail13-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail13-indo') { ?>id/aroma-sense-showerhead-handheld-showerhead-801<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail13-indo') { ?>aroma-sense-showerhead-handheld-showerhead-801<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail14') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail14') { ?>aroma-sense-spare-parts-anti-bakteri-as-701<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail14') { ?>id/aroma-sense-spare-parts-anti-bakteri-as-701<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail14-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail14-indo') { ?>id/aroma-sense-spare-parts-anti-bakteri-as-701<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail14-indo') { ?>aroma-sense-spare-parts-anti-bakteri-as-701<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail15') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail15') { ?>aroma-sense-spare-parts-anti-bakteri-as-801<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail15') { ?>id/aroma-sense-spare-parts-anti-bakteri-as-801<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail15-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail15-indo') { ?>id/aroma-sense-spare-parts-anti-bakteri-as-801<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail15-indo') { ?>aroma-sense-spare-parts-anti-bakteri-as-801<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail16') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail16') { ?>aroma-sense-spare-parts-anti-bakteri-as9000-medium<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail16') { ?>id/aroma-sense-spare-parts-anti-bakteri-as9000-medium<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail16-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail16-indo') { ?>id/aroma-sense-spare-parts-anti-bakteri-as9000-medium<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail16-indo') { ?>aroma-sense-spare-parts-anti-bakteri-as9000-medium<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail17') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail17') { ?>aroma-sense-spare-parts-anti-bakteri-kids<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail17') { ?>id/aroma-sense-spare-parts-anti-bakteri-kids<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail17-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail17-indo') { ?>id/aroma-sense-spare-parts-anti-bakteri-kids<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail17-indo') { ?>aroma-sense-spare-parts-anti-bakteri-kids<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail18') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail18') { ?>aroma-sense-spare-parts-anti-bakteri-prestiges<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail18') { ?>id/aroma-sense-spare-parts-anti-bakteri-prestiges<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail18-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail18-indo') { ?>id/aroma-sense-spare-parts-anti-bakteri-prestiges<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail18-indo') { ?>aroma-sense-spare-parts-anti-bakteri-prestiges<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail19') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail19') { ?>aroma-sense-spare-parts-anti-bakteri-tulip<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail19') { ?>id/aroma-sense-spare-parts-anti-bakteri-tulip<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail19-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail19-indo') { ?>id/aroma-sense-spare-parts-anti-bakteri-tulip<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail19-indo') { ?>aroma-sense-spare-parts-anti-bakteri-tulip<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail20') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail20') { ?>aroma-sense-spare-parts-chrome-handle<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail20') { ?>id/aroma-sense-spare-parts-chrome-handle<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail20-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail20-indo') { ?>id/aroma-sense-spare-parts-chrome-handle<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail20-indo') { ?>aroma-sense-spare-parts-chrome-handle<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail21') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail21') { ?>aroma-sense-spare-parts-white-handle<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail21') { ?>id/aroma-sense-spare-parts-white-handle<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail21-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail21-indo') { ?>id/aroma-sense-spare-parts-white-handle<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail21-indo') { ?>aroma-sense-spare-parts-white-handle<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail22') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail22') { ?>aroma-sense-spare-partsanti-bakteri-arofix-01<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail22') { ?>id/aroma-sense-spare-partsanti-bakteri-arofix-01<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail22-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail22-indo') { ?>id/aroma-sense-spare-partsanti-bakteri-arofix-01<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail22-indo') { ?>aroma-sense-spare-partsanti-bakteri-arofix-01<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail23') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail23') { ?>aroma-sense-vita<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail23') { ?>id/aroma-sense-vita<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail23-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail23-indo') { ?>id/aroma-sense-vita<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail23-indo') { ?>aroma-sense-vita<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail24') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail24') { ?>aroma-sense-vitamin-c-cartidges-neutral<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail24') { ?>id/aroma-sense-vitamin-c-cartidges-neutral<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail24-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail24-indo') { ?>id/aroma-sense-vitamin-c-cartidges-neutral<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail24-indo') { ?>aroma-sense-vitamin-c-cartidges-neutral<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail25') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail25') { ?>aroma-sense-vitamin-c-cartidges-vanilla-coconut<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail25') { ?>id/aroma-sense-vitamin-c-cartidges-vanilla-coconut<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail25-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail25-indo') { ?>id/aroma-sense-vitamin-c-cartidges-vanilla-coconut<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail25-indo') { ?>aroma-sense-vitamin-c-cartidges-vanilla-coconut<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail26') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail26') { ?>aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-eucalyptus<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail26') { ?>id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-eucalyptus<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail26-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail26-indo') { ?>id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-eucalyptus<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail26-indo') { ?>aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-eucalyptus<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail27') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail27') { ?>aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lavender<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail27') { ?>id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lavender<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail27-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail27-indo') { ?>id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lavender<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail27-indo') { ?>aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lavender<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail28') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail28') { ?>aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lemon<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail28') { ?>id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lemon<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail28-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail28-indo') { ?>id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lemon<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail28-indo') { ?>aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lemon<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail29') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail29') { ?>aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-neutral<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail29') { ?>id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-neutral<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail29-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail29-indo') { ?>id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-neutral<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail29-indo') { ?>aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-neutral<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail30') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail30') { ?>aroma-sense-vitamin-c-cartidges-eucalyptus<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail30') { ?>id/aroma-sense-vitamin-c-cartidges-eucalyptus<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail30-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail30-indo') { ?>id/aroma-sense-vitamin-c-cartidges-eucalyptus<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail30-indo') { ?>aroma-sense-vitamin-c-cartidges-eucalyptus<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail31') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail31') { ?>aroma-sense-vitamin-c-cartidges-jasmine<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail31') { ?>id/aroma-sense-vitamin-c-cartidges-jasmine<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail31-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail31-indo') { ?>id/aroma-sense-vitamin-c-cartidges-jasmine<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail31-indo') { ?>aroma-sense-vitamin-c-cartidges-jasmine<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail32') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail32') { ?>aroma-sense-vitamin-c-cartidges-lavender<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail32') { ?>id/aroma-sense-vitamin-c-cartidges-lavender<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail32-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail32-indo') { ?>id/aroma-sense-vitamin-c-cartidges-lavender<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail32-indo') { ?>aroma-sense-vitamin-c-cartidges-lavender<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail33') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail33') { ?>aroma-sense-vitamin-c-cartidges-lemon-mango<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail33') { ?>id/aroma-sense-vitamin-c-cartidges-lemon-mango<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail33-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail33-indo') { ?>id/aroma-sense-vitamin-c-cartidges-lemon-mango<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail33-indo') { ?>aroma-sense-vitamin-c-cartidges-lemon-mango<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail34') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail34') { ?>aroma-sense-vitamin-c-cartidges-lemon<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail34') { ?>id/aroma-sense-vitamin-c-cartidges-lemon<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail34-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail34-indo') { ?>id/aroma-sense-vitamin-c-cartidges-lemon<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail34-indo') { ?>aroma-sense-vitamin-c-cartidges-lemon<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail35') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail35') { ?>aroma-sense-vitamin-c-cartidges-phytoncide<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail35') { ?>id/aroma-sense-vitamin-c-cartidges-phytoncide<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail35-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail35-indo') { ?>id/aroma-sense-vitamin-c-cartidges-phytoncide<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail35-indo') { ?>aroma-sense-vitamin-c-cartidges-phytoncide<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail36') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail36') { ?>aroma-sense-vitamin-c-cartidges-pine<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail36') { ?>id/aroma-sense-vitamin-c-cartidges-pine<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail36-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail36-indo') { ?>id/aroma-sense-vitamin-c-cartidges-pine<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail36-indo') { ?>aroma-sense-vitamin-c-cartidges-pine<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail37') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail37') { ?>aroma-sense-vitamin-c-cartidges-rose<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail37') { ?>id/aroma-sense-vitamin-c-cartidges-rose<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail37-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail37-indo') { ?>id/aroma-sense-vitamin-c-cartidges-rose<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail37-indo') { ?>aroma-sense-vitamin-c-cartidges-rose<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail38') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail38') { ?>aroma-sense-wall-shower-arofix-grand<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail38') { ?>id/aroma-sense-wall-shower-arofix-grand<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail38-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail38-indo') { ?>id/aroma-sense-wall-shower-arofix-grand<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail38-indo') { ?>aroma-sense-wall-shower-arofix-grand<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail39') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail39') { ?>aroma-sense-wall-shower-arofix<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail39') { ?>id/aroma-sense-wall-shower-arofix<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail39-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail39-indo') { ?>id/aroma-sense-wall-shower-arofix<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail39-indo') { ?>aroma-sense-wall-shower-arofix<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail40') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail40') { ?>aromica-microfiber-filter-luxe<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail40') { ?>id/aromica-microfiber-filter-luxe<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail40-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail40-indo') { ?>id/aromica-microfiber-filter-luxe<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail40-indo') { ?>aromica-microfiber-filter-luxe<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail41') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail41') { ?>aromica-showerhead-handheld-luxe-black<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail41') { ?>id/aromica-showerhead-handheld-luxe-black<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail41-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail41-indo') { ?>id/aromica-showerhead-handheld-luxe-black<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail41-indo') { ?>aromica-showerhead-handheld-luxe-black<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail42') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail42') { ?>aromica-showerhead-handheld-luxe-chrome<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail42') { ?>id/aromica-showerhead-handheld-luxe-chrome<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail42-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail42-indo') { ?>id/aromica-showerhead-handheld-luxe-chrome<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail42-indo') { ?>aromica-showerhead-handheld-luxe-chrome<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail43') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail43') { ?>pure-rain-acf-filter-carbon<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail43') { ?>id/pure-rain-acf-filter-carbon<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail43-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail43-indo') { ?>id/pure-rain-acf-filter-carbon<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail43-indo') { ?>pure-rain-acf-filter-carbon<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail44') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail44') { ?>pure-rain-carbon-prc<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail44') { ?>id/pure-rain-carbon-prc<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail44-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail44-indo') { ?>id/pure-rain-carbon-prc<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail44-indo') { ?>pure-rain-carbon-prc<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail45') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail45') { ?>pure-rain-microfiber-prm<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail45') { ?>id/pure-rain-microfiber-prm<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail45-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail45-indo') { ?>id/pure-rain-microfiber-prm<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail45-indo') { ?>pure-rain-microfiber-prm<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail46') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail46') { ?>pure-rain-microfiber-tap-water-filter-pr100-(bathroom)<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail46') { ?>id/pure-rain-microfiber-tap-water-filter-pr100-(bathroom)<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail46-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail46-indo') { ?>id/pure-rain-microfiber-tap-water-filter-pr100-(bathroom)<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail46-indo') { ?>pure-rain-microfiber-tap-water-filter-pr100-(bathroom)<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail47') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail47') { ?>pure-rain-microfiber-tap-water-filter-pr303-(kitchen)<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail47') { ?>id/pure-rain-microfiber-tap-water-filter-pr303-(kitchen)<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail47-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail47-indo') { ?>id/pure-rain-microfiber-tap-water-filter-pr303-(kitchen)<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail47-indo') { ?>pure-rain-microfiber-tap-water-filter-pr303-(kitchen)<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail48') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail48') { ?>pure-rain-showerhead-handheld-showerhead-kids-shark-blue-vitamin-c<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail48') { ?>id/pure-rain-showerhead-handheld-showerhead-kids-shark-blue-vitamin-c<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail48-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail48-indo') { ?>id/pure-rain-showerhead-handheld-showerhead-kids-shark-blue-vitamin-c<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail48-indo') { ?>pure-rain-showerhead-handheld-showerhead-kids-shark-blue-vitamin-c<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail49') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail49') { ?>pure-rain-showerhead-handheld-showerhead-kids-shark-pink-vitamin-c<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail49') { ?>id/pure-rain-showerhead-handheld-showerhead-kids-shark-pink-vitamin-c<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail49-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail49-indo') { ?>id/pure-rain-showerhead-handheld-showerhead-kids-shark-pink-vitamin-c<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail49-indo') { ?>pure-rain-showerhead-handheld-showerhead-kids-shark-pink-vitamin-c<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail50') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail50') { ?>pure-rain-showerhead-handheld-showerhead-kids-turtle-vitamin-c<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail50') { ?>id/pure-rain-showerhead-handheld-showerhead-kids-turtle-vitamin-c<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail50-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail50-indo') { ?>id/pure-rain-showerhead-handheld-showerhead-kids-turtle-vitamin-c<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail50-indo') { ?>pure-rain-showerhead-handheld-showerhead-kids-turtle-vitamin-c<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail51') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail51') { ?>pure-rain-showerhead-handheld<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail51') { ?>id/pure-rain-showerhead-handheld<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail51-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail51-indo') { ?>id/pure-rain-showerhead-handheld<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail51-indo') { ?>pure-rain-showerhead-handheld<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail52') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail52') { ?>pure-rain-tap-water-filter-pr100(bathroom)<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail52') { ?>id/pure-rain-tap-water-filter-pr100(bathroom)<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail52-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail52-indo') { ?>id/pure-rain-tap-water-filter-pr100(bathroom)<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail52-indo') { ?>pure-rain-tap-water-filter-pr100(bathroom)<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail53') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail53') { ?>pure-rain-tap-water-filter-pr303-(kitchen)<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail53') { ?>id/pure-rain-tap-water-filter-pr303-(kitchen)<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail53-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail53-indo') { ?>id/pure-rain-tap-water-filter-pr303-(kitchen)<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail53-indo') { ?>pure-rain-tap-water-filter-pr303-(kitchen)<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail54') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail54') { ?>water-lab-acf-filter<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail54') { ?>id/water-lab-acf-filter<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail54-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail54-indo') { ?>id/water-lab-acf-filter<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail54-indo') { ?>water-lab-acf-filter<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+
 
 
 
