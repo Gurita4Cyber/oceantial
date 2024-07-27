@@ -1,6 +1,6 @@
 <?php
-$page = 'detail2';
-require('inc/base.php')
+$page = 'detail1-indo';
+require('../inc/base.php')
 ?>
 <?php require($_SERVER['PUBLIC'] . 'inc/meta.php') ?>
 
@@ -9,6 +9,7 @@ require('inc/base.php')
     <!-- header -->
     <?php require($_SERVER['PUBLIC'] . 'inc/header-white.php') ?>
     <!-- headedr end -->
+
 
 
     <section class="w-full pb-20 pt-20 lg:px-20 relative">
@@ -28,7 +29,7 @@ require('inc/base.php')
                         <path d="M7.16683 19.1914L5.5835 16.5247L2.5835 15.8581L2.87516 12.7747L0.833496 10.4414L2.87516 8.10807L2.5835 5.02474L5.5835 4.35807L7.16683 1.69141L10.0002 2.89974L12.8335 1.69141L14.4168 4.35807L17.4168 5.02474L17.1252 8.10807L19.1668 10.4414L17.1252 12.7747L17.4168 15.8581L14.4168 16.5247L12.8335 19.1914L10.0002 17.9831L7.16683 19.1914ZM9.12516 13.3997L13.8335 8.69141L12.6668 7.48307L9.12516 11.0247L7.3335 9.27474L6.16683 10.4414L9.12516 13.3997Z" fill="#004E98"></path>
                     </svg>
                 </div>
-                <h1 class="text-2xl font-bold py-4">Aroma Sense - Microfiber Filter 801</h1>
+                <h1 class="text-2xl font-bold py-4">Aroma Sense - Microfiber Filter 701</h1>
                 <div class="flex mb-4"><span class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 text-bgstart" viewBox="0 0 24 24">
                             <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
                             </path>
@@ -63,12 +64,12 @@ require('inc/base.php')
                                 <div class="iconbuy mr-3"><img src="img/icon/whatsapp.png" alt=""></div>
                                 Shop via WhatsApp
                             </a>
-                            <a class="flex p-4" href="https://shopee.co.id/Aroma-Sense-Microfiber-Filter-AS-801-5pcs-i.193319332.2969928020?sp_atk=fba4a2d8-c552-4eda-82e1-74748af9fa01&xptdk=fba4a2d8-c552-4eda-82e1-74748af9fa01
+                            <a class="flex p-4" href="https://shopee.co.id/Aroma-Sense-Microfabric-Filter-AS-Arofix-01-dan-AS-701ST-%E2%80%93-5-Pcs-i.193319332.5678139195?sp_atk=9e757fa9-8702-43cf-a8e7-3976949e5c8d&xptdk=9e757fa9-8702-43cf-a8e7-3976949e5c8d
                             ">
                                 <div class="iconbuy mr-3"><img src="img/icon/shopee.png" alt=""></div>
                                 Shop via Shopee
                             </a>
-                            <a class="flex p-4" href="https://www.tokopedia.com/oceantial/aroma-sense-microfiber-filter-as-801-5pcs?extParam=src%3Dshop%26whid%3D7243527">
+                            <a class="flex p-4" href="https://www.tokopedia.com/oceantial/microfiber-filter-as-arofix-as-701-5-pcs?extParam=src%3Dshop%26whid%3D7243527">
                                 <div class="iconbuy mr-3"><img src="img/icon/tokopedia.png" alt=""></div>
                                 Shop via Tokopedia
                             </a>

@@ -602,7 +602,7 @@
 <?php } ?>
 
 <!-- =========================== -->
-<?php if ($page == 'home' || $page == 'about-us') { ?>
+<?php if ($page == 'home' || $page == 'about-us' || $page == 'detail') { ?>
     <script>
         let tabsContainer = document.querySelector("#tabs");
         let tabTogglers = tabsContainer.querySelectorAll("#tabs a");

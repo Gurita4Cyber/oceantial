@@ -531,10 +531,18 @@
                         <div class="flex ml-6 items-center">
 
                             <div class="relative">
-                                <select class="vodiapicker">
-                                    <option value="en" class="test" data-thumbnail="img/en.png"> EN </option>
-                                    <option value="au" data-thumbnail="img/in.png"> IN</option>
-                                </select>
+                                <?php if ($page == 'home') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'home') { ?> <?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'home') { ?>id/home<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'home-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'home-indo') { ?>id/home<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'home-indo') { ?> <?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
                                 <div class="lang-select">
                                     <button class="btn-select" value=""></button>
                                     <div class="b">

@@ -945,10 +945,10 @@ require('inc/base.php')
           </div>
         </div>
         <div class="flex flex-wrap w-full">
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          <a href="aroma-sense-showerhead-handheld-showerhead-801" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/1.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
@@ -961,11 +961,11 @@ require('inc/base.php')
                 801</h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          </a>
+          <a href="aroma-sense-showerhead-handheld-showerhead-701" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/2.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
@@ -978,11 +978,11 @@ require('inc/base.php')
                 701</h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          </a>
+          <a href="aroma-sense-showerhead-handheld-as9000-vitamin-c" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/3.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aromica</h2>
@@ -997,11 +997,11 @@ require('inc/base.php')
               </h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          </a>
+          <a href="aroma-sense-showerhead-handheld-mist-vitamin-c" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/4.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
@@ -1015,7 +1015,7 @@ require('inc/base.php')
                 C</h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
+          </a>
         </div>
       </div>
       <!-- home -->
@@ -1026,10 +1026,10 @@ require('inc/base.php')
           </div>
         </div>
         <div class="flex flex-wrap w-full">
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          <a href="pure-rain-tap-water-filter-pr100(bathroom)" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/1.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
@@ -1042,11 +1042,11 @@ require('inc/base.php')
                 (Bathroom) </h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          </a>
+          <a href="pure-rain-microfiber-tap-water-filter-pr303-(kitchen)" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/2.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
@@ -1060,11 +1060,11 @@ require('inc/base.php')
                 (Kitchen) </h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          </a>
+          <a href="pure-rain-microfiber-tap-water-filter-pr100-(bathroom)" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/3.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
@@ -1079,11 +1079,11 @@ require('inc/base.php')
               </h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          </a>
+          <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/4.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
@@ -1098,7 +1098,7 @@ require('inc/base.php')
               </h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
+          </a>
 
 
         </div>
@@ -1111,10 +1111,10 @@ require('inc/base.php')
           </div>
         </div>
         <div class="flex flex-wrap w-full">
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/1.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
@@ -1130,11 +1130,11 @@ require('inc/base.php')
                 Arofix - Neutral (1 pcs)</h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          </a>
+          <a href="aroma-sense-vitamin-c-cartidges -vanilla-coconut" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/2.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
@@ -1149,11 +1149,11 @@ require('inc/base.php')
               </h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          </a>
+          <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/3.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
@@ -1169,11 +1169,11 @@ require('inc/base.php')
                 Arofix - Lavender (1 pcs)</h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          </a>
+          <a href="aroma-sense-vitamin-c-cartidges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/4.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
@@ -1187,7 +1187,7 @@ require('inc/base.php')
                 (1 pcs)</h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
+          </a>
 
         </div>
       </div>
@@ -1199,10 +1199,10 @@ require('inc/base.php')
           </div>
         </div>
         <div class="flex flex-wrap w-full">
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          <a href="pure-rain-showerhead-handheld-showerhead-kids-shark-pink-vitamin-c" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/shower-kids/1.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
@@ -1217,11 +1217,11 @@ require('inc/base.php')
                 Vitamin C</h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          </a>
+          <a href="pure-rain-showerhead-handheld-showerhead-kids-shark-blue-vitamin-c" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/shower-kids/2.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
@@ -1235,11 +1235,11 @@ require('inc/base.php')
                 Vitamin C</h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          </a>
+          <a href="pure-rain-showerhead-handheld-showerhead-kids-turtle-vitamin-c" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/shower-kids/3.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
@@ -1254,7 +1254,7 @@ require('inc/base.php')
                 C</h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
+          </a>
 
 
         </div>
@@ -1284,10 +1284,10 @@ require('inc/base.php')
       <div class="product-list">
 
         <div class="flex flex-wrap w-full">
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          <a href="aroma-sense-showerhead-handheld-showerhead-801" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/1.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
@@ -1300,11 +1300,11 @@ require('inc/base.php')
                 801</h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          </a>
+          <a href="aroma-sense-showerhead-handheld-showerhead-701" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/2.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
@@ -1317,11 +1317,11 @@ require('inc/base.php')
                 701</h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          </a>
+          <a href="aroma-sense-spare-parts-anti-bakteri-as9000-medium" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/3.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aromica</h2>
@@ -1336,11 +1336,11 @@ require('inc/base.php')
               </h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          </a>
+          <a href="aroma-sense-showerhead-handheld-mist-vitamin-c" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/4.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
@@ -1354,7 +1354,7 @@ require('inc/base.php')
                 C</h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
+          </a>
         </div>
       </div>
     </div>
@@ -1363,10 +1363,10 @@ require('inc/base.php')
       <div class="product-list">
 
         <div class="flex flex-wrap w-full">
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          <a href="pure-rain-microfiber-tap-water-filter-pr100-(bathroom)" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/1.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
@@ -1375,15 +1375,14 @@ require('inc/base.php')
                 </svg>
               </div>
 
-              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Alat Tap Water Filter PR100
-                (Bathroom) </h2>
+              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Microfiber Tap Water Filter PR100 (bathroom) </h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          </a>
+          <a href="pure-rain-microfiber-tap-water-filter-pr303-(kitchen)" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/2.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
@@ -1393,15 +1392,14 @@ require('inc/base.php')
 
               </div>
 
-              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Alat Tap Water Filter PR303
-                (Kitchen) </h2>
+              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Pure Rain Microfiber Tap Water Filter PR303 (kitchen) </h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          </a>
+          <a href="pure-rain-microfiber-tap-water-filter-pr100-(bathroom)" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/3.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
@@ -1416,11 +1414,11 @@ require('inc/base.php')
               </h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          </a>
+          <a href="pure-rain-tap-water-filter-pr303-(kitchen)" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/4.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
@@ -1435,7 +1433,7 @@ require('inc/base.php')
               </h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
+          </a>
 
 
         </div>
@@ -1446,10 +1444,10 @@ require('inc/base.php')
       <div class="product-list">
 
         <div class="flex flex-wrap w-full">
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/1.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
@@ -1465,11 +1463,11 @@ require('inc/base.php')
                 Arofix - Neutral (1 pcs)</h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          </a>
+          <a href="aroma-sense-vitamin-c-cartidges -vanilla-coconut" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/2.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
@@ -1484,11 +1482,11 @@ require('inc/base.php')
               </h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          </a>
+          <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/3.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
@@ -1504,11 +1502,11 @@ require('inc/base.php')
                 Arofix - Lavender (1 pcs)</h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          </a>
+          <a href="aroma-sense-vitamin-c-cartidges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/4.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
@@ -1522,7 +1520,7 @@ require('inc/base.php')
                 (1 pcs)</h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
+          </a>
 
         </div>
       </div>
@@ -1532,10 +1530,10 @@ require('inc/base.php')
       <div class="product-list">
 
         <div class="flex flex-wrap w-full">
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          <a href="pure-rain-showerhead-handheld-showerhead-kids-shark-pink-vitamin-c" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/shower-kids/1.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
@@ -1550,11 +1548,11 @@ require('inc/base.php')
                 Vitamin C</h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          </a>
+          <a href="pure-rain-showerhead-handheld-showerhead-kids-turtle-vitamin-c" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/shower-kids/2.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
@@ -1568,11 +1566,11 @@ require('inc/base.php')
                 Vitamin C</h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
-          <div class="lg:w-1/4 w-1/2 p-5">
-            <a class="block relative rounded overflow-hidden">
+          </a>
+          <a href="pure-rain-showerhead-handheld-showerhead-kids-turtle-vitamin-c" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/shower-kids/3.jpg">
-            </a>
+            </div>
             <div class="mt-8">
               <div class="inline-flex items-center">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
@@ -1587,7 +1585,7 @@ require('inc/base.php')
                 C</h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
             </div>
-          </div>
+          </a>
 
 
         </div>

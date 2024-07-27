@@ -559,15 +559,68 @@
                         <div class="flex ml-6 items-center">
 
                             <div class="relative">
+                                <?php if ($page == 'detail1') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail1') { ?>aroma-sense-microfiber-filter-701<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail1') { ?>id/aroma-sense-microfiber-filter-701<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail1-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail1-indo') { ?>id/aroma-sense-microfiber-filter-701<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail1-indo') { ?>aroma-sense-microfiber-filter-701<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail2') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail2') { ?>aroma-sense-microfiber-filter-801<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail2') { ?>id/aroma-sense-microfiber-filter-801<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail2-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail2-indo') { ?>id/aroma-sense-microfiber-filter-801<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail2-indo') { ?>aroma-sense-microfiber-filter-801<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'detail3') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail3') { ?>aroma-sense-microfiber-filter-801<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'detail3') { ?>id/aroma-sense-microfiber-filter-801<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'detail3-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'detail3-indo') { ?>id/aroma-sense-microfiber-filter-801<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'detail3-indo') { ?>aroma-sense-microfiber-filter-801<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+
+
+                                <?php if ($page == 'home') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'about-us') { ?> <?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'about-us') { ?>id/home<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+                                <?php if ($page == 'home-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'about-us-indo') { ?>id/home<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'about-us-indo') { ?> <?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
                                 <?php if ($page == 'about-us') { ?>
                                     <select class="vodiapicker">
                                         <option value="<?php if ($page == 'about-us') { ?>about-us<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
-                                        <option value="<?php if ($page == 'about-us') { ?>id/<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'about-us') { ?>id/about-us<?php } ?>" data-thumbnail="img/in.png"> IN</option>
                                     </select>
                                 <?php } ?>
                                 <?php if ($page == 'about-us-indo') { ?>
                                     <select class="vodiapicker">
-                                        <option value="<?php if ($page == 'about-us-indo') { ?>id/<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'about-us-indo') { ?>id/about-us<?php } ?>" data-thumbnail="img/in.png"> IN</option>
                                         <option value="<?php if ($page == 'about-us-indo') { ?>about-us<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
                                     </select>
                                 <?php } ?>
