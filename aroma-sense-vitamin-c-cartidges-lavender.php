@@ -29,7 +29,7 @@ require('inc/base.php')
                         <path d="M7.16683 19.1914L5.5835 16.5247L2.5835 15.8581L2.87516 12.7747L0.833496 10.4414L2.87516 8.10807L2.5835 5.02474L5.5835 4.35807L7.16683 1.69141L10.0002 2.89974L12.8335 1.69141L14.4168 4.35807L17.4168 5.02474L17.1252 8.10807L19.1668 10.4414L17.1252 12.7747L17.4168 15.8581L14.4168 16.5247L12.8335 19.1914L10.0002 17.9831L7.16683 19.1914ZM9.12516 13.3997L13.8335 8.69141L12.6668 7.48307L9.12516 11.0247L7.3335 9.27474L6.16683 10.4414L9.12516 13.3997Z" fill="#004E98"></path>
                     </svg>
                 </div>
-                <h1 class="text-2xl font-bold py-4">Showerhead Handheld - Medium AS9000 Vitamin C</h1>
+                <h1 class="text-2xl font-bold py-4">Aroma Sense - Vitamin C Cartidges - Lavender</h1>
                 <div class="flex mb-4"><span class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 text-bgstart" viewBox="0 0 24 24">
                             <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
                             </path>
@@ -73,16 +73,16 @@ require('inc/base.php')
                                 <div class="iconbuy mr-3"><img src="img/icon/whatsapp.png" alt=""></div>
                                 Shop via WhatsApp
                             </a>
-                            <a class="flex p-4" href="https://shopee.co.id/aromasenseofficial
+                            <a class="flex p-4" href="https://shopee.co.id/Aroma-Sense-Handheld-Vitamin-C-Cartridges-%E2%80%93-Lavender-i.193319332.4518990410?sp_atk=239c8325-f1a2-4f76-9dd3-c1c2c25886cc&xptdk=239c8325-f1a2-4f76-9dd3-c1c2c25886cc
                             ">
                                 <div class="iconbuy mr-3"><img src="img/icon/shopee.png" alt=""></div>
                                 Shop via Shopee
                             </a>
-                            <a class="flex p-4" href="https://www.tokopedia.com/aromasense?source=universe&st=product">
+                            <a class="flex p-4" href="https://www.tokopedia.com/oceantial/aromatherapy-vitamin-c-aroma-sense-lavender-1pcs?extParam=src%3Dshop%26whid%3D7243527">
                                 <div class="iconbuy mr-3"><img src="img/icon/tokopedia.png" alt=""></div>
                                 Shop via Tokopedia
                             </a>
-                            <a class="flex p-4" href="https://www.tiktok.com/@aromasense ">
+                            <a class="flex p-4" href="https://www.tiktok.com/@oceantial">
                                 <div class="iconbuy mr-3"><img src="img/icon/tiktok.png" alt=""></div>
                                 Shop via TikTok Shop
                             </a>
@@ -91,59 +91,7 @@ require('inc/base.php')
                 </section>
             </div>
     </section>
-    <section class="w-full lg:pb-20 lg:px-20 relative">
-        <div class="lg:py-8 border-b-2 border-t-2 border-gray-10 mx-3">
-            <h2>Specification</h2>
-            <div class="mx-auto flex justify-start flex-wrap">
-                <div class="lg:w-1/2 lg:pr-4 w-full">
-                    <ul>
-                        <li class="pb-6 pt-6 flex">
-                            <div class="w-32">Type</div>
-                            <div class="">:</div>
-                            <div class="w-full">&nbsp;Aroma Sense Shower Head</div>
-                        </li>
-                        <li class="pb-6 flex">
-                            <div class="w-32">Model</div>
-                            <div class="">:</div>
-                            <div class="w-full">&nbsp;No. AS-9000</div>
-                        </li>
-                        <li class="pb-6 flex">
-                            <div class="w-32">Color</div>
-                            <div class="">:</div>
-                            <div class="w-full">&nbsp;Metallic silver</div>
-                        </li>
-                        <li class="pb-6 flex">
-                            <div class="w-32">Filters</div>
-                            <div class="">:</div>
-                            <div class="w-full">&nbsp;Aroma Vitamin C filter (ASS filter), Anti bacteria
-                                Ceramic ball filter, Micro fabric filter</div>
-                        </li>
-                    </ul>
-                </div>
-                <div class="lg:w-1/2 lg:pl-4 w-full">
-                    <ul>
-                        <li class="pb-6 pt-6 flex">
-                            <div class="w-32">Size</div>
-                            <div class="">:</div>
-                            <div class="w-full">&nbsp;W 8.0cm x L 6.3cm x H 27.8cm / Head diameter : 8cm</div>
-                        </li>
-                        <li class="pb-6 flex">
-                            <div class="w-32">Diameter</div>
-                            <div class="">:</div>
-                            <div class="w-full">&nbsp;8 cm</div>
-                        </li>
-                        <li class="pb-6 flex">
-                            <div class="w-32">Height</div>
-                            <div class="">:</div>
-                            <div class="w-full">&nbsp;360 g</div>
-                        </li>
-
-                    </ul>
-                </div>
-            </div>
-        </div>
-
-    </section>
+    
 
     <section class="w-full desktop-only lg:pb-40 lg:pt-20 lg:px-20">
         <div class="container mx-auto">
