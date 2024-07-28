@@ -29,7 +29,7 @@ require('inc/base.php')
                         <path d="M7.16683 19.1914L5.5835 16.5247L2.5835 15.8581L2.87516 12.7747L0.833496 10.4414L2.87516 8.10807L2.5835 5.02474L5.5835 4.35807L7.16683 1.69141L10.0002 2.89974L12.8335 1.69141L14.4168 4.35807L17.4168 5.02474L17.1252 8.10807L19.1668 10.4414L17.1252 12.7747L17.4168 15.8581L14.4168 16.5247L12.8335 19.1914L10.0002 17.9831L7.16683 19.1914ZM9.12516 13.3997L13.8335 8.69141L12.6668 7.48307L9.12516 11.0247L7.3335 9.27474L6.16683 10.4414L9.12516 13.3997Z" fill="#004E98"></path>
                     </svg>
                 </div>
-                <h1 class="text-2xl font-bold py-4">Showerhead Handheld - Medium AS9000 Vitamin C</h1>
+                <h1 class="text-2xl font-bold py-4">Pure Rain - Showerhead Handheld (Super Jet Wide PR-SJW)</h1>
                 <div class="flex mb-4"><span class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 text-bgstart" viewBox="0 0 24 24">
                             <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
                             </path>
@@ -49,19 +49,8 @@ require('inc/base.php')
                         <span class="text-gray-600 ml-3">4 Reviews</span></span>
 
                 </div>
-                <p class="pb-4">Bring home the luxury and enjoyment before only experienced in five-star resorts. The
-                    Aroma Sense
-                    AS-9000 Vitamin C Showerhead, the first of its kind, emits Vitamin C, aromatherapy, and negative
-                    ions during your shower to rejuvenate your mind and body. The secret is the replaceable Vitamin C
-                    filter cartridge that promotes healthier skin and hair, and removes chlorine and other contaminants.
-                    The cartridge also contains natural aroma oils, which release an aromatherapy effect to relieve
-                    stress and relax your mind.
-
-                </p>
-                <p class="pb-4">This shower head offers 1.5x the water pressure of ordinary showerheads, while reducing
-                    water
-                    consumption by 25%. The light and elegant design with a perfect-size grip enables an unbeatable
-                    handheld experience. The grip handle can be easily disassembled for cartridge replacement.</p>
+                <p class="pb-4">The Aroma Sense Super Jet Wide PR-SJW Showerhead is the market's best water-saving option. Made with durable, high-quality materials, it enhances water pressure while significantly reducing consumption. Delivering a refreshing, waterfall-like shower experience at an affordable price, this exceptional value-for-money showerhead is a popular choice for public facilities and commercial settings. Featuring patented technology, it increases flow rate by up to 400% and doubles the cleaning power, all while saving over 40% on water and energy usage. The showerhead also effectively filters out lime, metals, and other impurities, preventing them from staining your bathroom. Aroma Sense Super Jet Wide PR-SJW is the ultimate water-saving solution.</p>
+                
 
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
@@ -73,16 +62,16 @@ require('inc/base.php')
                                 <div class="iconbuy mr-3"><img src="img/icon/whatsapp.png" alt=""></div>
                                 Shop via WhatsApp
                             </a>
-                            <a class="flex p-4" href="https://shopee.co.id/aromasenseofficial
+                            <a class="flex p-4" href="https://shopee.co.id/Aroma-Sense-Shower-Head-PR-SJW-(Super-Jet-Wide)-i.193319332.13524775053?sp_atk=44d3cae6-df52-4d0a-8eeb-5eb590c97971&xptdk=44d3cae6-df52-4d0a-8eeb-5eb590c97971
                             ">
                                 <div class="iconbuy mr-3"><img src="img/icon/shopee.png" alt=""></div>
                                 Shop via Shopee
                             </a>
-                            <a class="flex p-4" href="https://www.tokopedia.com/aromasense?source=universe&st=product">
+                            <a class="flex p-4" href="https://tokopedia.link/7oAC68SBhLb">
                                 <div class="iconbuy mr-3"><img src="img/icon/tokopedia.png" alt=""></div>
                                 Shop via Tokopedia
                             </a>
-                            <a class="flex p-4" href="https://www.tiktok.com/@aromasense ">
+                            <a class="flex p-4" href="https://www.tiktok.com/@oceantial">
                                 <div class="iconbuy mr-3"><img src="img/icon/tiktok.png" alt=""></div>
                                 Shop via TikTok Shop
                             </a>
@@ -100,23 +89,22 @@ require('inc/base.php')
                         <li class="pb-6 pt-6 flex">
                             <div class="w-32">Type</div>
                             <div class="">:</div>
-                            <div class="w-full">&nbsp;Aroma Sense Shower Head</div>
+                            <div class="w-full">&nbsp;Pure Rain Shower Head</div>
                         </li>
                         <li class="pb-6 flex">
                             <div class="w-32">Model</div>
                             <div class="">:</div>
-                            <div class="w-full">&nbsp;No. AS-9000</div>
+                            <div class="w-full">&nbsp;No. PR-SJW</div>
                         </li>
                         <li class="pb-6 flex">
                             <div class="w-32">Color</div>
                             <div class="">:</div>
-                            <div class="w-full">&nbsp;Metallic silver</div>
+                            <div class="w-full">&nbsp;Metallic Silver</div>
                         </li>
                         <li class="pb-6 flex">
                             <div class="w-32">Filters</div>
                             <div class="">:</div>
-                            <div class="w-full">&nbsp;Aroma Vitamin C filter (ASS filter), Anti bacteria
-                                Ceramic ball filter, Micro fabric filter</div>
+                            <div class="w-full">&nbsp;Micro fabric filter</div>
                         </li>
                     </ul>
                 </div>
@@ -125,17 +113,17 @@ require('inc/base.php')
                         <li class="pb-6 pt-6 flex">
                             <div class="w-32">Size</div>
                             <div class="">:</div>
-                            <div class="w-full">&nbsp;W 8.0cm x L 6.3cm x H 27.8cm / Head diameter : 8cm</div>
+                            <div class="w-full">&nbsp;W 8.0cm x L 5.5cm x H 21.0cm</div>
                         </li>
                         <li class="pb-6 flex">
-                            <div class="w-32">Diameter</div>
+                            <div class="w-32">Head Diameter</div>
                             <div class="">:</div>
-                            <div class="w-full">&nbsp;8 cm</div>
+                            <div class="w-full">&nbsp;8cm</div>
                         </li>
                         <li class="pb-6 flex">
                             <div class="w-32">Height</div>
                             <div class="">:</div>
-                            <div class="w-full">&nbsp;360 g</div>
+                            <div class="w-full">&nbsp;230g</div>
                         </li>
 
                     </ul>
