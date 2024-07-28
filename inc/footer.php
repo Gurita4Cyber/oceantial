@@ -200,31 +200,31 @@
             </div>
             <div class="flex-grow flex flex-wrap md:pl-10 -mb-10 md:mt-0 mt-10 text-left">
                 <div class="lg:w-1/3 md:w-1/2 w-full lg:px-4">
-                    <h2 class="title-font font-medium text-btnbg capitalize  tracking-normal text-xl mb-8">Shop</h2>
+                    <h2 class="title-font font-medium text-btnbg capitalize tracking-normal text-xl mb-8">Shop</h2>
                     <ul class="list-none desktop-only">
                         <li class="pb-4">
                             <input type="checkbox" value="selected" id="toggle-one" class="toggle-input">
-                            <label for="toggle-one" class="block cursor-pointer text-sm lg:text-base">Showerhead
+                            <label for="toggle-one" class="block cursor-pointer text-sm lg:text-base text-font-small">Showerhead
                                 Handheld</label>
                         </li>
                         <li class="pb-4">
                             <input type="checkbox" value="selected" id="toggle-one" class="toggle-input">
-                            <label for="toggle-one" class="block cursor-pointer text-sm lg:text-base">Showerhead Kids
+                            <label for="toggle-one" class="block cursor-pointer text-sm lg:text-base text-font-small">Showerhead Kids
                                 Series
                                 Handheld</label>
                         </li>
                         <li class="pb-4">
                             <input type="checkbox" value="selected" id="toggle-one" class="toggle-input">
-                            <label for="toggle-one" class="block cursor-pointer text-sm lg:text-base">Aroma Tube</label>
+                            <label for="toggle-one" class="block cursor-pointer text-sm lg:text-base text-font-small">Aroma Tube</label>
                         </li>
                         <li class="pb-4">
                             <input type="checkbox" value="selected" id="toggle-one" class="toggle-input">
-                            <label for="toggle-one" class="block cursor-pointer text-sm lg:text-base">Showerhead
+                            <label for="toggle-one" class="block cursor-pointer text-sm lg:text-base text-font-small">Showerhead
                                 Wall</label>
                         </li>
                         <li class="pb-4">
                             <input type="checkbox" value="selected" id="toggle-one" class="toggle-input">
-                            <label for="toggle-one" class="block cursor-pointer text-sm lg:text-base">Filter</label>
+                            <label for="toggle-one" class="block cursor-pointer text-sm lg:text-base text-font-small">Filter</label>
                         </li>
                     </ul>
                     <ul class="list-none mobile-only pb-4">
@@ -264,13 +264,13 @@
                     <h2 class="title-font font-medium text-btnbg capitalize  tracking-normal text-xl mb-8">Help</h2>
                     <ul class="list-none">
                         <li class="pb-4">
-                            <a href="how-it-works.html" class="text-gray-600 hover:text-gray-800">How it Works</a>
+                            <a href="how-it-works.html" class="text-font-small hover:text-gray-800">How it Works</a>
                         </li>
                         <li class="pb-4">
-                            <a href="faqs.html" class="text-gray-600 hover:text-gray-800">FAQs</a>
+                            <a href="faqs.html" class="text-font-small hover:text-gray-800">FAQs</a>
                         </li>
                         <li class="pb-4">
-                            <a href="about-us.html" class="text-gray-600 hover:text-gray-800">Contact Us</a>
+                            <a href="about-us.html" class="text-font-small hover:text-gray-800">Contact Us</a>
                         </li>
                     </ul>
                 </div>
@@ -279,12 +279,12 @@
                         us</h2>
                     <ul class="list-none">
                         <li class="pb-4">
-                            <a href="https://shopee.co.id/aromasenseofficial" class="text-gray-600 hover:text-gray-800 flex items-center">
+                            <a href="https://shopee.co.id/aromasenseofficial" class="text-font-small hover:text-gray-800 flex items-center">
                                 <img src="img/shopee-small.png" alt=""> <span>Oceantial_Shoppe</span>
                             </a>
                         </li>
                         <li class="pb-4">
-                            <a href="https://www.tokopedia.com/aromasense?source=universe&st=product" class="text-gray-600 hover:text-gray-800 flex items-center">
+                            <a href="https://www.tokopedia.com/aromasense?source=universe&st=product" class="text-font-small hover:text-gray-800 flex items-center">
                                 <img src="img/tokopedia-small.png" alt=""><span>Oceantial_Tokopedia</span>
                             </a>
                         </li>

@@ -36,7 +36,7 @@ require('inc/base.php')
         <div class="w-full bg-gray-100 relative mb-8 rounded-xl overflow-hidden group">
           <img alt="gallery" class="w-full object-cover lg:h-[560px] h-full object-center block rounded-[32px] group-hover:stroke-white" src="img/sample/1.jpg">
           <div class="text-left left-0 absolute z-10 w-full hbox bottom-0 p-10">
-            <div class="flex items-center">
+            <div class="flex items-center gap-2">
               <h2 class="text-4xl text-white font-medium title-font mb-2">Aroma Sense</h2>
               <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M11.5607 9.43934C10.9749 8.85355 10.0251 8.85355 9.43934 9.43934C8.85355 10.0251 8.85355 10.9749 9.43934 11.5607L21.8787 24H10.5C9.67157 24 9 24.6716 9 25.5C9 26.3284 9.67157 27 10.5 27H25.5C26.3284 27 27 26.3284 27 25.5V10.5C27 9.67157 26.3284 9 25.5 9C24.6716 9 24 9.67157 24 10.5V21.8787L11.5607 9.43934Z" fill="white" />
@@ -53,7 +53,7 @@ require('inc/base.php')
             <div class="w-full bg-gray-100 relative mb-8 rounded-xl overflow-hidden group">
               <img alt="gallery" class="w-full object-cover lg:h-[560px] h-full object-center block rounded-[32px]" src="img/sample/2.jpg">
               <div class="text-left left-0 absolute z-10 w-full hbox bottom-0 p-10">
-                <div class="flex items-center">
+                <div class="flex items-center gap-2">
                   <h2 class="text-4xl text-white font-medium title-font mb-2">Aroma Sense</h2>
                   <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M11.5607 9.43934C10.9749 8.85355 10.0251 8.85355 9.43934 9.43934C8.85355 10.0251 8.85355 10.9749 9.43934 11.5607L21.8787 24H10.5C9.67157 24 9 24.6716 9 25.5C9 26.3284 9.67157 27 10.5 27H25.5C26.3284 27 27 26.3284 27 25.5V10.5C27 9.67157 26.3284 9 25.5 9C24.6716 9 24 9.67157 24 10.5V21.8787L11.5607 9.43934Z" fill="white" />
@@ -71,7 +71,7 @@ require('inc/base.php')
             <div class="w-full bg-gray-100 relative mb-8 rounded-xl overflow-hidden group">
               <img alt="gallery" class="w-full object-cover lg:h-[560px] h-full object-center block rounded-[32px]" src="img/sample/3.jpg">
               <div class="text-left left-0 absolute z-10 w-full hbox bottom-0 p-10">
-                <div class="flex items-center">
+                <div class="flex items-center gap-2">
                   <h2 class="text-4xl text-white font-medium title-font mb-2">Aroma Sense</h2>
                   <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M11.5607 9.43934C10.9749 8.85355 10.0251 8.85355 9.43934 9.43934C8.85355 10.0251 8.85355 10.9749 9.43934 11.5607L21.8787 24H10.5C9.67157 24 9 24.6716 9 25.5C9 26.3284 9.67157 27 10.5 27H25.5C26.3284 27 27 26.3284 27 25.5V10.5C27 9.67157 26.3284 9 25.5 9C24.6716 9 24 9.67157 24 10.5V21.8787L11.5607 9.43934Z" fill="white" />
@@ -89,7 +89,7 @@ require('inc/base.php')
         <div class="w-full bg-gray-100 relative mb-8 rounded-xl overflow-hidden group">
           <img alt="gallery" class="w-full object-cover lg:h-[560px] h-full object-center block rounded-[32px]" src="img/sample/4.jpg">
           <div class="text-left left-0 absolute z-10 w-full hbox bottom-0 p-10">
-            <div class="flex items-center">
+            <div class="flex items-center gap-2">
               <h2 class="text-4xl text-white font-medium title-font mb-2">Aroma Sense</h2>
               <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M11.5607 9.43934C10.9749 8.85355 10.0251 8.85355 9.43934 9.43934C8.85355 10.0251 8.85355 10.9749 9.43934 11.5607L21.8787 24H10.5C9.67157 24 9 24.6716 9 25.5C9 26.3284 9.67157 27 10.5 27H25.5C26.3284 27 27 26.3284 27 25.5V10.5C27 9.67157 26.3284 9 25.5 9C24.6716 9 24 9.67157 24 10.5V21.8787L11.5607 9.43934Z" fill="white" />
@@ -311,7 +311,7 @@ require('inc/base.php')
       <div class="flex flex-wrap desktop-onlyflex">
         <div class="p-3 md:w-1/3">
           <div class="flex rounded-lg h-full p-2 flex-col">
-            <div class="flex items-center mb-3">
+            <div class="flex items-center mb-6">
               <div class="mr-3 inline-flex items-center justify-center ">
                 <img src="img/bazar.png" alt="">
               </div>
@@ -331,7 +331,7 @@ require('inc/base.php')
         </div>
         <div class="p-3 md:w-1/3">
           <div class="flex rounded-lg h-full p-2 flex-col">
-            <div class="flex items-center mb-3">
+            <div class="flex items-center mb-6">
               <div class="mr-3 inline-flex items-center justify-center ">
                 <img src="img/cosmopolitan.png" alt="">
               </div>
@@ -349,7 +349,7 @@ require('inc/base.php')
         </div>
         <div class="p-3 md:w-1/3">
           <div class="flex rounded-lg h-full p-2 flex-col">
-            <div class="flex items-center mb-3">
+            <div class="flex items-center mb-6">
               <div class="mr-3 inline-flex items-center justify-center ">
                 <img src="img/female-daily.png" alt="">
               </div>
@@ -474,7 +474,7 @@ require('inc/base.php')
         <div class="flex flex-wrap">
           <div class="p-3 md:w-1/3">
             <div class="flex rounded-lg h-full p-2 flex-col">
-              <div class="flex items-center mb-3">
+              <div class="flex items-center mb-6">
                 <div class="mr-3 inline-flex items-center justify-center ">
                   <img class="mr-4" src="img/icon-shopee.png" alt="">
                   <h3 class="text-xl font-bold">Bearcupz</h3>
@@ -508,7 +508,7 @@ require('inc/base.php')
 
           <div class="p-3 md:w-1/3">
             <div class="flex rounded-lg h-full p-2 flex-col">
-              <div class="flex items-center mb-3">
+              <div class="flex items-center mb-6">
                 <div class="mr-3 inline-flex items-center justify-center ">
                   <img class="mr-4" src="img/icon-tokopedia.png" alt="">
                   <h3 class="text-xl font-bold">Vino</h3>
@@ -541,7 +541,7 @@ require('inc/base.php')
 
           <div class="p-3 md:w-1/3">
             <div class="flex rounded-lg h-full p-2 flex-col">
-              <div class="flex items-center mb-3">
+              <div class="flex items-center mb-6">
                 <div class="mr-3 inline-flex items-center justify-center ">
                   <img class="mr-4" src="img/icon-shopee.png" alt="">
                   <h3 class="text-xl font-bold">Shabrinakh</h3>
@@ -574,7 +574,7 @@ require('inc/base.php')
           </div>
           <div class="p-3 md:w-1/3">
             <div class="flex rounded-lg h-full p-2 flex-col">
-              <div class="flex items-center mb-3">
+              <div class="flex items-center mb-6">
                 <div class="mr-3 inline-flex items-center justify-center ">
                   <img class="mr-4" src="img/icon-shopee.png" alt="">
                   <h3 class="text-xl font-bold">Bearcupz</h3>
@@ -608,7 +608,7 @@ require('inc/base.php')
 
           <div class="p-3 md:w-1/3">
             <div class="flex rounded-lg h-full p-2 flex-col">
-              <div class="flex items-center mb-3">
+              <div class="flex items-center mb-6">
                 <div class="mr-3 inline-flex items-center justify-center ">
                   <img class="mr-4" src="img/icon-tokopedia.png" alt="">
                   <h3 class="text-xl font-bold">Vino</h3>
@@ -641,7 +641,7 @@ require('inc/base.php')
 
           <div class="p-3 md:w-1/3">
             <div class="flex rounded-lg h-full p-2 flex-col">
-              <div class="flex items-center mb-3">
+              <div class="flex items-center mb-6">
                 <div class="mr-3 inline-flex items-center justify-center ">
                   <img class="mr-4" src="img/icon-shopee.png" alt="">
                   <h3 class="text-xl font-bold">Shabrinakh</h3>
@@ -950,7 +950,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/1.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
@@ -967,7 +967,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/2.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
@@ -984,7 +984,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/3.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aromica</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
@@ -1003,7 +1003,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/4.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
@@ -1031,7 +1031,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/1.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#F4CF7A" />
@@ -1048,7 +1048,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/2.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#F4CF7A" />
@@ -1066,7 +1066,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/3.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#F4CF7A" />
@@ -1085,7 +1085,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/4.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#F4CF7A" />
@@ -1116,7 +1116,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/1.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
@@ -1136,7 +1136,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/2.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
@@ -1155,7 +1155,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/3.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
@@ -1175,7 +1175,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/4.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
@@ -1204,7 +1204,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/shower-kids/1.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16671 19.1914L5.58337 16.5247L2.58337 15.8581L2.87504 12.7747L0.833374 10.4414L2.87504 8.10807L2.58337 5.02474L5.58337 4.35807L7.16671 1.69141L10 2.89974L12.8334 1.69141L14.4167 4.35807L17.4167 5.02474L17.125 8.10807L19.1667 10.4414L17.125 12.7747L17.4167 15.8581L14.4167 16.5247L12.8334 19.1914L10 17.9831L7.16671 19.1914ZM9.12504 13.3997L13.8334 8.69141L12.6667 7.48307L9.12504 11.0247L7.33337 9.27474L6.16671 10.4414L9.12504 13.3997Z" fill="#01ADEF" />
@@ -1223,7 +1223,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/shower-kids/2.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16671 19.1914L5.58337 16.5247L2.58337 15.8581L2.87504 12.7747L0.833374 10.4414L2.87504 8.10807L2.58337 5.02474L5.58337 4.35807L7.16671 1.69141L10 2.89974L12.8334 1.69141L14.4167 4.35807L17.4167 5.02474L17.125 8.10807L19.1667 10.4414L17.125 12.7747L17.4167 15.8581L14.4167 16.5247L12.8334 19.1914L10 17.9831L7.16671 19.1914ZM9.12504 13.3997L13.8334 8.69141L12.6667 7.48307L9.12504 11.0247L7.33337 9.27474L6.16671 10.4414L9.12504 13.3997Z" fill="#01ADEF" />
@@ -1241,7 +1241,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/shower-kids/3.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16671 19.1914L5.58337 16.5247L2.58337 15.8581L2.87504 12.7747L0.833374 10.4414L2.87504 8.10807L2.58337 5.02474L5.58337 4.35807L7.16671 1.69141L10 2.89974L12.8334 1.69141L14.4167 4.35807L17.4167 5.02474L17.125 8.10807L19.1667 10.4414L17.125 12.7747L17.4167 15.8581L14.4167 16.5247L12.8334 19.1914L10 17.9831L7.16671 19.1914ZM9.12504 13.3997L13.8334 8.69141L12.6667 7.48307L9.12504 11.0247L7.33337 9.27474L6.16671 10.4414L9.12504 13.3997Z" fill="#01ADEF" />
@@ -1289,7 +1289,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/1.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
@@ -1306,7 +1306,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/2.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
@@ -1323,7 +1323,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/3.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aromica</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
@@ -1342,7 +1342,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/4.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
@@ -1368,7 +1368,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/1.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#F4CF7A" />
@@ -1384,7 +1384,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/2.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#F4CF7A" />
@@ -1401,7 +1401,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/3.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#F4CF7A" />
@@ -1420,7 +1420,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/4.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#F4CF7A" />
@@ -1449,7 +1449,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/1.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
@@ -1469,7 +1469,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/2.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
@@ -1488,7 +1488,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/3.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
@@ -1508,7 +1508,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/4.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
@@ -1535,7 +1535,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/shower-kids/1.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16671 19.1914L5.58337 16.5247L2.58337 15.8581L2.87504 12.7747L0.833374 10.4414L2.87504 8.10807L2.58337 5.02474L5.58337 4.35807L7.16671 1.69141L10 2.89974L12.8334 1.69141L14.4167 4.35807L17.4167 5.02474L17.125 8.10807L19.1667 10.4414L17.125 12.7747L17.4167 15.8581L14.4167 16.5247L12.8334 19.1914L10 17.9831L7.16671 19.1914ZM9.12504 13.3997L13.8334 8.69141L12.6667 7.48307L9.12504 11.0247L7.33337 9.27474L6.16671 10.4414L9.12504 13.3997Z" fill="#01ADEF" />
@@ -1554,7 +1554,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/shower-kids/2.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16671 19.1914L5.58337 16.5247L2.58337 15.8581L2.87504 12.7747L0.833374 10.4414L2.87504 8.10807L2.58337 5.02474L5.58337 4.35807L7.16671 1.69141L10 2.89974L12.8334 1.69141L14.4167 4.35807L17.4167 5.02474L17.125 8.10807L19.1667 10.4414L17.125 12.7747L17.4167 15.8581L14.4167 16.5247L12.8334 19.1914L10 17.9831L7.16671 19.1914ZM9.12504 13.3997L13.8334 8.69141L12.6667 7.48307L9.12504 11.0247L7.33337 9.27474L6.16671 10.4414L9.12504 13.3997Z" fill="#01ADEF" />
@@ -1572,7 +1572,7 @@ require('inc/base.php')
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/shower-kids/3.jpg">
             </div>
             <div class="mt-8">
-              <div class="inline-flex items-center">
+              <div class="inline-flex items-center gap-1">
                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16671 19.1914L5.58337 16.5247L2.58337 15.8581L2.87504 12.7747L0.833374 10.4414L2.87504 8.10807L2.58337 5.02474L5.58337 4.35807L7.16671 1.69141L10 2.89974L12.8334 1.69141L14.4167 4.35807L17.4167 5.02474L17.125 8.10807L19.1667 10.4414L17.125 12.7747L17.4167 15.8581L14.4167 16.5247L12.8334 19.1914L10 17.9831L7.16671 19.1914ZM9.12504 13.3997L13.8334 8.69141L12.6667 7.48307L9.12504 11.0247L7.33337 9.27474L6.16671 10.4414L9.12504 13.3997Z" fill="#01ADEF" />
