@@ -189,7 +189,7 @@ button.collapsible.second { padding: 20px 20px; }
 .accordion2 {
   max-width: 100%;
   margin: 0 auto;
-  border-bottom:1px solid #efefef;
+  /* border-bottom:1px solid #efefef; */
 }
 .accordion2 input{
   display: none;
@@ -224,18 +224,7 @@ button.collapsible.second { padding: 20px 20px; }
  -o-transform: rotate(180deg);
  transform: rotate(180deg);
 }
-.accordion2 .item {
-  transform: scaleY(0);
-  transform-origin: top;
-  max-height: 0px;
-  overflow: hidden;
-  position: relative;
-  padding: 10px 0 25px 0;
-  font-weight: normal;
-  font-size: 16px;
-  color: #333333;
-  transition: all 0.3s ease-in-out;
-}
+.accordion2 .item { transform: scaleY(0); transform-origin: top; max-height: 0px; overflow: hidden; position: relative; padding: 0px 0 10px 0; font-weight: normal; font-size: 16px; color: #333333; transition: all 0.3s ease-in-out; }
 #item1:checked ~ #content1,
 #item2:checked ~ #content2,
 #item3:checked ~ #content3,
@@ -295,7 +284,7 @@ button.btn-select li a {
 .headbase-one{ padding-top: 144px; }
 .iconmobile > svg{width: 64px;height: 64px;margin-top: 24px;}
 .accordion2 input + label { padding: 10px 55px 0px 0;}
-.accordion2 label svg{width: 20px;top: 5px;}
+.accordion2 label svg{width: 20px;top: 10px;}
 .accordion2 .item{padding: 10px 0 10px 0;}
 .list-none.mobile-only input { display: none; }
 

@@ -226,7 +226,7 @@ require('../inc/base.php')
                 <h2 class="title-font lg:text-3xl text-lg mb-5 font-semibold">How does chlorine affect the
                     skin?</h2>
 
-                <p class=" mb-8 leading-relaxed">Every day, the water we use for bathing, washing our faces, and
+                <p class="leading-relaxed">Every day, the water we use for bathing, washing our faces, and
                     brushing
                     our teeth contains chlorine. This component can impact our skin and hair, leading to dryness that
                     can trigger acne, skin rashes, itching due to dry skin, skin redness, and even eczema.</p>

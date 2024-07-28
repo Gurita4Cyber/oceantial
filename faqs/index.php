@@ -12,7 +12,7 @@ require('../inc/base.php')
 
 
 
-    <section class="w-full lg:pb-20 pt-20 lg:px-20 relative">
+    <section class="w-full pt-20 lg:px-20 relative">
 
         <div class="container">
             <div class="text-center">
