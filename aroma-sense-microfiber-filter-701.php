@@ -16,8 +16,8 @@ require('inc/base.php')
         <div class="container px-5 pt-20 mx-auto flex sm:flex-nowrap flex-wrap">
             <div class="lg:w-2/3 rounded-lg overflow-hidden flex items-end justify-start relative">
                 <div class="relative">
-                    <img src="img/product/1.jpg" alt="">
-                    <img class="absolute top-0 left-0 w-20 border border-btnbg rounded-md" src="img/showerhead/1.jpg" alt="">
+                    <img src="img/Aroma-Sense---Microfiber-Filter-701.jpg" alt="Aroma Sense - Microfiber Filter 701">
+                    <img class="absolute top-0 left-0 w-20 border border-btnbg rounded-md" src="img/Aroma-Sense---Microfiber-Filter-701.jpg" alt="Aroma Sense - Microfiber Filter 701">
                 </div>
             </div>
             <div class="lg:w-1/3 md:w-1/2 bg-white flex flex-col md:ml-auto w-full">
@@ -53,7 +53,7 @@ require('inc/base.php')
                     </div>
                 </div>
                 <div class="price pb-8">
-                    <h2 class="font-semibold text-2xl">IDR 299,000</h2>
+                    <h2 class="font-semibold text-2xl">IDR 145,000</h2>
                 </div>
 
 
@@ -103,7 +103,7 @@ require('inc/base.php')
                 <div class="flex flex-wrap w-full">
                     <div class="lg:w-1/4 w-1/2 p-5">
                         <a class="block relative rounded overflow-hidden">
-                            <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/1.jpg">
+                            <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Aroma-Sense---Microfiber-Filter-701.jpg">
                         </a>
                         <div class="mt-8">
                             <div class="inline-flex items-center">
@@ -116,7 +116,7 @@ require('inc/base.php')
                             <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Showerhead Handheld -
                                 Showerhead
                                 801</h2>
-                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 145,000</p>
                         </div>
                     </div>
                     <div class="lg:w-1/4 w-1/2 p-5">
