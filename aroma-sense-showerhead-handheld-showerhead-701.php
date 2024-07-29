@@ -52,7 +52,7 @@ require('inc/base.php')
                     </div>
                 </div>
                 <div class="price pb-8">
-                    <h2 class="font-semibold text-2xl">IDR 299,000</h2>
+                    <h2 class="font-semibold text-2xl">IDR 890,000</h2>
                 </div>
                 <p class="pb-4">The Aroma Sense 701 Showerhead delivers an exceptionally abundant and refreshing shower experience, thanks to its extra-large spray plate that mimics the sensation of standing in a gentle rain. This premium model boasts a full-chrome body design, offering a luxurious European-inspired showering ritual complete with a wonderful aroma and vitamin C-infused water. Whether you're seeking a revitalizing rinse or a moment of indulgence, the Aroma Sense 701 provides an unparalleled, spa-like shower that elevates your daily routine.
                 </p>
