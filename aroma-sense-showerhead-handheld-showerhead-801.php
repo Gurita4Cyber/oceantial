@@ -16,8 +16,8 @@ require('inc/base.php')
         <div class="container px-5 pt-20 mx-auto flex sm:flex-nowrap flex-wrap">
             <div class="lg:w-2/3 rounded-lg overflow-hidden flex items-end justify-start relative">
                 <div class="relative">
-                    <img src="img/product/1.jpg" alt="">
-                    <img class="absolute top-0 left-0 w-20 border border-btnbg rounded-md" src="img/showerhead/1.jpg" alt="">
+                    <img src="img/AS-801.jpg" alt="Aroma Sense - Showerhead Handheld - Showerhead 801">
+                    <img class="absolute top-0 left-0 w-20 border border-btnbg rounded-md" src="img/AS-801.jpg" alt="Aroma Sense - Showerhead Handheld - Showerhead 801">
                 </div>
             </div>
             <div class="lg:w-1/3 md:w-1/2 bg-white flex flex-col md:ml-auto w-full">
@@ -52,7 +52,7 @@ require('inc/base.php')
                     </div>
                 </div>
                 <div class="price pb-8">
-                    <h2 class="font-semibold text-2xl">IDR 299,000</h2>
+                    <h2 class="font-semibold text-2xl">IDR 690,000</h2>
                 </div>
                 <p class="pb-4">The Aroma Sense 801 Showerhead delivers a shower experience like no other, with a cascading water flow that feels as soft and luxurious as silk. Featuring a medium-to-large curved spray plate, this premium model boasts a refined, full-chrome body design that not only enhances water pressure but also conserves water usage. Elevating your daily routine into a spa-like retreat, the Aroma Sense 801 infuses each shower with a wonderful aroma and vitamin C-enriched water, providing an unparalleled sense of relaxation and rejuvenation in the comfort of your own home.
                 </p>
