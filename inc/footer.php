@@ -120,7 +120,7 @@
 </section>
 
 <footer class="w-full">
-    <div class="w-full lg:pb-20 lg:pt-20 lg:px-20">
+    <div class="w-full lg:pb-20 lg:pt-20 lg:px-20 p-4">
         <div class="container mx-auto flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
             <div class="w- flex-shrink-0 md:mx-0 lg:mx-auto lg:text-center md:text-left lg:pr-7">
                 <a href="" class="flex title-font font-medium items-center  text-gray-900">
@@ -198,7 +198,7 @@
                     </li>
                 </ul>
             </div>
-            <div class="flex-grow flex flex-wrap md:pl-10 -mb-10 md:mt-0 mt-10 text-left">
+            <div class="flex-grow flex flex-wrap md:pl-10 lg:-mb-10 md:mt-0 lg:mt-10 text-left">
                 <div class="lg:w-1/3 md:w-1/2 w-full lg:px-4">
                     <h2 class="title-font font-medium text-btnbg capitalize tracking-normal text-xl mb-8">Shop</h2>
                     <ul class="list-none desktop-only">
@@ -260,7 +260,7 @@
                     </ul>
 
                 </div>
-                <div class="lg:w-1/3 md:w-1/2 w-full lg:px-4">
+                <div class="lg:w-1/3 md:w-1/2  w-full lg:px-4">
                     <h2 class="title-font font-medium text-btnbg capitalize  tracking-normal text-xl mb-8">Help</h2>
                     <ul class="list-none">
                         <li class="pb-4">

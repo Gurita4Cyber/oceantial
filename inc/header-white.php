@@ -1370,31 +1370,31 @@
                                 </div>
                                 <ul class="navmenubig">
                                     <li>
-                                        <a class="block py-4" href="detail-product.php">
+                                        <a class="block py-4" href="aroma-sense-showerhead-handheld-as9000-vitamin-c">
                                             Showerhead Handheld - Medium AS9000 Vitamin C
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="detail-product.php">Showerhead Handheld -
+                                        <a class="block py-4" href="aroma-sense-showerhead-handheld-mist-vitamin-c">Showerhead Handheld -
                                             Showerhead Mist
                                             Vitamin C</a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="detail-product.php">Shower Head Wall -
+                                        <a class="block py-4" href="aroma-sense-spare-parts-anti-bakteri-arofix-01">Shower Head Wall -
                                             Arofix</a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="detail-product.php">Showerhead Handheld -
+                                        <a class="block py-4" href="aroma-sense-spare-parts-anti-bakteri-as-701">Showerhead Handheld -
                                             Showerhead
                                             701</a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="detail-product.php">Showerhead Handheld -
+                                        <a class="block py-4" href="aroma-sense-spare-parts-anti-bakteri-as-801">Showerhead Handheld -
                                             Showerhead
                                             801</a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="detail-product.php">Showerhead Handheld -Super
+                                        <a class="block py-4" href="aroma-sense-microfiber-super-jet-wide">Showerhead Handheld -Super
                                             Jet
                                             Wide
                                             PR-SJW</a>
