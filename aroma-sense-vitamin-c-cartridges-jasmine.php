@@ -30,7 +30,7 @@ require('inc/base.php')
                             <path d="M7.16683 19.1914L5.5835 16.5247L2.5835 15.8581L2.87516 12.7747L0.833496 10.4414L2.87516 8.10807L2.5835 5.02474L5.5835 4.35807L7.16683 1.69141L10.0002 2.89974L12.8335 1.69141L14.4168 4.35807L17.4168 5.02474L17.1252 8.10807L19.1668 10.4414L17.1252 12.7747L17.4168 15.8581L14.4168 16.5247L12.8335 19.1914L10.0002 17.9831L7.16683 19.1914ZM9.12516 13.3997L13.8335 8.69141L12.6668 7.48307L9.12516 11.0247L7.3335 9.27474L6.16683 10.4414L9.12516 13.3997Z" fill="#004E98"></path>
                         </svg>
                     </div>
-                    <h1 class="text-2xl font-bold pb-4 capitalize">Aroma Sense - Vitamin C Cartridges -  Jasmine</h1>
+                    <h1 class="text-2xl font-bold pb-4 capitalize">Aroma Sense - Vitamin C Cartridges - Jasmine</h1>
                     <div class="flex"><span class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 text-bgstart" viewBox="0 0 24 24">
                                 <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
                                 </path>
@@ -86,7 +86,7 @@ require('inc/base.php')
     </section>
 
 
-    <section class="w-full desktop-only lg:pb-40 lg:pt-20 lg:px-20">
+    <section class="w-full lg:pb-40 lg:pt-20 lg:px-20">
         <div class="container mx-auto">
             <!-- Related Products -->
             <div class="product-list">

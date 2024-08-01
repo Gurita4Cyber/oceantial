@@ -150,7 +150,7 @@ require('inc/base.php')
 
     </section>
 
-    <section class="w-full desktop-only lg:pb-40 lg:pt-20 lg:px-20">
+    <section class="w-full lg:pb-40 lg:pt-20 lg:px-20">
         <div class="container mx-auto">
             <!-- Related Products -->
             <div class="product-list">
