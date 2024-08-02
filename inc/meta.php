@@ -14,19 +14,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
 
@@ -44,19 +44,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'faqs') { ?>
@@ -73,19 +73,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'about-us') { ?>
@@ -102,19 +102,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
 
@@ -133,19 +133,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail2') { ?>
@@ -162,19 +162,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail3') { ?>
@@ -191,19 +191,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
 
@@ -221,19 +221,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail5') { ?>
@@ -250,19 +250,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail6') { ?>
@@ -279,19 +279,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail7') { ?>
@@ -308,19 +308,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail8') { ?>
@@ -337,19 +337,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail9') { ?>
@@ -366,19 +366,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
 
@@ -396,19 +396,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail11') { ?>
@@ -425,19 +425,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail12') { ?>
@@ -454,19 +454,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail13') { ?>
@@ -483,19 +483,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail14') { ?>
@@ -512,19 +512,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail15') { ?>
@@ -541,19 +541,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail16') { ?>
@@ -570,19 +570,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail17') { ?>
@@ -599,19 +599,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail18') { ?>
@@ -628,19 +628,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail19') { ?>
@@ -657,19 +657,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail20') { ?>
@@ -686,19 +686,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail21') { ?>
@@ -715,19 +715,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail22') { ?>
@@ -744,19 +744,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail23') { ?>
@@ -773,19 +773,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail24') { ?>
@@ -802,19 +802,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail25') { ?>
@@ -831,19 +831,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail26') { ?>
@@ -860,19 +860,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail27') { ?>
@@ -889,19 +889,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail28') { ?>
@@ -918,19 +918,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail29') { ?>
@@ -947,19 +947,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail30') { ?>
@@ -976,19 +976,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail31') { ?>
@@ -1005,19 +1005,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail32') { ?>
@@ -1034,19 +1034,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail33') { ?>
@@ -1063,19 +1063,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail34') { ?>
@@ -1092,19 +1092,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail35') { ?>
@@ -1121,19 +1121,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail36') { ?>
@@ -1150,19 +1150,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail37') { ?>
@@ -1179,19 +1179,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail38') { ?>
@@ -1208,19 +1208,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail39') { ?>
@@ -1237,19 +1237,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail40') { ?>
@@ -1266,19 +1266,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail41') { ?>
@@ -1295,19 +1295,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail42') { ?>
@@ -1324,19 +1324,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail43') { ?>
@@ -1353,19 +1353,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail44') { ?>
@@ -1382,19 +1382,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail45') { ?>
@@ -1411,19 +1411,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail46') { ?>
@@ -1440,19 +1440,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail47') { ?>
@@ -1469,19 +1469,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail48') { ?>
@@ -1498,19 +1498,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail49') { ?>
@@ -1527,19 +1527,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail50') { ?>
@@ -1556,19 +1556,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail51') { ?>
@@ -1585,19 +1585,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail52') { ?>
@@ -1614,19 +1614,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail53') { ?>
@@ -1643,19 +1643,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <?php if ($page == 'detail54') { ?>
@@ -1672,19 +1672,19 @@
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
-        <meta property="og:url" content="https://ocential.id/">
+        <meta property="og:url" content="https://oceantial.id/">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta property="og:description" content="Isi Descripsi disini">
-        <meta property="og:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta property="og:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
 
         <!-- Twitter Meta Tags -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta property="twitter:domain" content="ocential.id">
-        <meta property="twitter:url" content="https://ocential.id/">
+        <meta property="twitter:domain" content="oceantial.id">
+        <meta property="twitter:url" content="https://oceantial.id/">
         <meta name="twitter:title" content="Oceantial - Inspired By The Ocean, Crafted For You">
         <meta name="twitter:description" content="Isi Descripsi disini">
-        <meta name="twitter:image" content="https://ocential-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-ocential.webp">
+        <meta name="twitter:image" content="https://oceantial-push6355610-eb2c50248b11672420d01c5a187f8bed92d51e9cb9b7.gitlab.io/img/logo-oceantial.webp">
     <?php } ?>
 
     <!-- favicon -->
