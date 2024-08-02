@@ -16,8 +16,7 @@ require('inc/base.php')
         <div class="container px-5 pt-20 mx-auto flex sm:flex-nowrap flex-wrap">
             <div class="lg:w-2/3 rounded-lg overflow-hidden flex items-end justify-start relative">
                 <div class="relative">
-                    <img src="img/product/1.jpg" alt="">
-                    <img class="absolute top-0 left-0 w-20 border border-btnbg rounded-md" src="img/showerhead/1.jpg" alt="">
+                    <img src="img/Water-Lab---ACF-Filter.jpg" alt="Water Lab - ACF Filter">
                 </div>
             </div>
             <div class="lg:w-1/3 md:w-1/2 bg-white flex flex-col md:ml-auto w-full">
@@ -30,7 +29,7 @@ require('inc/base.php')
                             <path d="M7.16683 19.1914L5.5835 16.5247L2.5835 15.8581L2.87516 12.7747L0.833496 10.4414L2.87516 8.10807L2.5835 5.02474L5.5835 4.35807L7.16683 1.69141L10.0002 2.89974L12.8335 1.69141L14.4168 4.35807L17.4168 5.02474L17.1252 8.10807L19.1668 10.4414L17.1252 12.7747L17.4168 15.8581L14.4168 16.5247L12.8335 19.1914L10.0002 17.9831L7.16683 19.1914ZM9.12516 13.3997L13.8335 8.69141L12.6668 7.48307L9.12516 11.0247L7.3335 9.27474L6.16683 10.4414L9.12516 13.3997Z" fill="#004E98"></path>
                         </svg>
                     </div>
-                    <h1 class="text-2xl font-bold pb-4 capitalize">Aroma Sense - water lab acf filter</h1>
+                    <h1 class="text-2xl font-bold pb-4 capitalize">Water Lab - ACF Filter</h1>
                     <div class="flex"><span class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 text-bgstart" viewBox="0 0 24 24">
                                 <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
                                 </path>
@@ -47,26 +46,14 @@ require('inc/base.php')
                                 <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
                                 </path>
                             </svg>
-                            <span class="text-gray-600 ml-3">4 Reviews</span></span>
+                            <span class="text-gray-600 ml-3">5 Reviews</span></span>
 
                     </div>
                 </div>
                 <div class="price pb-8">
-                    <h2 class="font-semibold text-2xl">IDR 299,000</h2>
+                    <h2 class="font-semibold text-2xl">IDR 155,000</h2>
                 </div>
-                <p class="pb-4">Bring home the luxury and enjoyment before only experienced in five-star resorts. The
-                    Aroma Sense
-                    AS-9000 Vitamin C Showerhead, the first of its kind, emits Vitamin C, aromatherapy, and negative
-                    ions during your shower to rejuvenate your mind and body. The secret is the replaceable Vitamin C
-                    filter cartridge that promotes healthier skin and hair, and removes chlorine and other contaminants.
-                    The cartridge also contains natural aroma oils, which release an aromatherapy effect to relieve
-                    stress and relax your mind.
-
-                </p>
-                <p class="pb-4">This shower head offers 1.5x the water pressure of ordinary showerheads, while reducing
-                    water
-                    consumption by 25%. The light and elegant design with a perfect-size grip enables an unbeatable
-                    handheld experience. The grip handle can be easily disassembled for cartridge replacement.</p>
+                <p class="pb-4">The Water Lab ACF (Activated Carbon Fiber) Filter is a revolutionary water purification system that utilizes a patented design to remove even the most elusive contaminants. With its activated carbon fiber core, this filter effectively eliminates tap water odors, residual chlorine, and 99.9% of harmful heavy metals and chemical byproducts such as lead and nickel. Featuring a unique rolling method to maximize the surface area for enhanced adsorption, as well as a specialized micropore configuration for faster adsorption, the Water Lab ACF Filter delivers clean, fresh, and odor-free water. Moreover, it helps prevent sensitive skin issues and hair loss by removing residual chlorine and compounds, providing a comprehensive solution for better water quality and overall well-being.</p>
 
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">

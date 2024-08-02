@@ -16,8 +16,7 @@ require('inc/base.php')
         <div class="container px-5 pt-20 mx-auto flex sm:flex-nowrap flex-wrap">
             <div class="lg:w-2/3 rounded-lg overflow-hidden flex items-end justify-start relative">
                 <div class="relative">
-                    <img src="img/product/1.jpg" alt="">
-                    <img class="absolute top-0 left-0 w-20 border border-btnbg rounded-md" src="img/showerhead/1.jpg" alt="">
+                    <img src="img/Refill-PR-303/c1a682797965284fe0f1e4481997dd0d.jpeg" alt="Pure Rain - Microfiber Tap Water Filter PR303 (Kitchen)">
                 </div>
             </div>
             <div class="lg:w-1/3 md:w-1/2 bg-white flex flex-col md:ml-auto w-full">
@@ -30,7 +29,7 @@ require('inc/base.php')
                             <path d="M7.16683 19.1914L5.5835 16.5247L2.5835 15.8581L2.87516 12.7747L0.833496 10.4414L2.87516 8.10807L2.5835 5.02474L5.5835 4.35807L7.16683 1.69141L10.0002 2.89974L12.8335 1.69141L14.4168 4.35807L17.4168 5.02474L17.1252 8.10807L19.1668 10.4414L17.1252 12.7747L17.4168 15.8581L14.4168 16.5247L12.8335 19.1914L10.0002 17.9831L7.16683 19.1914ZM9.12516 13.3997L13.8335 8.69141L12.6668 7.48307L9.12516 11.0247L7.3335 9.27474L6.16683 10.4414L9.12516 13.3997Z" fill="#004E98"></path>
                         </svg>
                     </div>
-                    <h1 class="text-2xl font-bold pb-4 capitalize">Aroma Sense - pure rain microfiber tap water filter pr303 (kitchen)</h1>
+                    <h1 class="text-2xl font-bold pb-4 capitalize">Pure Rain - Microfiber Tap Water Filter PR303 (Kitchen)</h1>
                     <div class="flex"><span class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 text-bgstart" viewBox="0 0 24 24">
                                 <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
                                 </path>
@@ -47,12 +46,12 @@ require('inc/base.php')
                                 <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
                                 </path>
                             </svg>
-                            <span class="text-gray-600 ml-3">4 Reviews</span></span>
+                            <span class="text-gray-600 ml-3">5 Reviews</span></span>
 
                     </div>
                 </div>
                 <div class="price pb-8">
-                    <h2 class="font-semibold text-2xl">IDR 299,000</h2>
+                    <h2 class="font-semibold text-2xl">IDR 120,000</h2>
                 </div>
                 <p class="pb-4">Bring the invigorating essence of a pure mountain spring to your kitchen sink with the Pure Rain PR303 - a masterfully engineered water filtration system that transforms ordinary tap water into a crisp, clean, and rejuvenating elixir. Its dual-stage filtration process first traps debris, rust, and other contaminants, then infuses the water with the revitalizing power of Vitamin C to neutralize lingering chlorine. Harnessing the innovative triangular water plate design, the PR303 delivers a powerful, yet water-efficient stream that elevates your daily hydration and enhances the cleaning performance of your kitchen tasks.</p>
 

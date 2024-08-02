@@ -17,7 +17,6 @@ require('inc/base.php')
             <div class="lg:w-2/3 rounded-lg overflow-hidden flex items-end justify-start relative">
                 <div class="relative">
                     <img src="img/ACTIVED-CARBON/sub_00.jpg" alt="Pure Rain - Carbon PRC">
-                    <img class="absolute top-0 left-0 w-20 border border-btnbg rounded-md" src="img/ACTIVED-CARBON/sub_00.jpg" alt="Pure Rain - Carbon PRC">
                 </div>
             </div>
             <div class="lg:w-1/3 md:w-1/2 bg-white flex flex-col md:ml-auto w-full">
@@ -47,12 +46,12 @@ require('inc/base.php')
                                 <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
                                 </path>
                             </svg>
-                            <span class="text-gray-600 ml-3">4 Reviews</span></span>
+                            <span class="text-gray-600 ml-3">5 Reviews</span></span>
 
                     </div>
                 </div>
                 <div class="price pb-8">
-                    <h2 class="font-semibold text-2xl">IDR 299,000</h2>
+                    <h2 class="font-semibold text-2xl">IDR 170,000</h2>
                 </div>
                 <p class="pb-4">This Carbon PRC filter is compatible with all Aroma Sense shower head models, including Kids, AS9000 Medium, Mist, and Tulip. Containing only the microfiber component, it is specifically designed to tackle severely contaminated water, addressing issues like discoloration and odor.</p>
                 <p class="pb-4">For optimal performance, it is recommended to replace the microfiber element every 1-2 months, depending on the water quality in your home. Enjoy a refreshing, purified shower experience with the Activated Carbon PRC Filter.</p>

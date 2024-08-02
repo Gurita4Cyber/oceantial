@@ -17,7 +17,6 @@ require('inc/base.php')
             <div class="lg:w-2/3 rounded-lg overflow-hidden flex items-end justify-start relative">
                 <div class="relative">
                     <img src="img/Microfiber-Pure-Rain/PRM-FILTER_F.jpg" alt="Pure Rain - Microfiber PRM">
-                    <img class="absolute top-0 left-0 w-20 border border-btnbg rounded-md" src="img/Microfiber-Pure-Rain/PRM-FILTER_F.jpg" alt="Pure Rain - Microfiber PRM">
                 </div>
             </div>
             <div class="lg:w-1/3 md:w-1/2 bg-white flex flex-col md:ml-auto w-full">
@@ -47,7 +46,7 @@ require('inc/base.php')
                                 <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
                                 </path>
                             </svg>
-                            <span class="text-gray-600 ml-3">4 Reviews</span></span>
+                            <span class="text-gray-600 ml-3">5 Reviews</span></span>
 
                     </div>
                 </div>
