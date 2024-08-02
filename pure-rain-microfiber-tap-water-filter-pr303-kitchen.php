@@ -66,8 +66,7 @@ require('inc/base.php')
                                 <div class="iconbuy mr-3"><img src="img/icon/whatsapp.png" alt=""></div>
                                 Shop via WhatsApp
                             </a>
-                            <a class="flex p-4" href="https://shopee.co.id/Aroma-Sense-Alat-Filter-Keran-Dapur-PR-303-i.193319332.6878133441?sp_atk=26d5d971-f37c-40fc-a805-4d6fb5bfa9d1&xptdk=26d5d971-f37c-40fc-a805-4d6fb5bfa9d1
-                            ">
+                            <a class="flex p-4" href="https://s.shopee.co.id/AKGh779koj">
                                 <div class="iconbuy mr-3"><img src="img/icon/shopee.png" alt=""></div>
                                 Shop via Shopee
                             </a>

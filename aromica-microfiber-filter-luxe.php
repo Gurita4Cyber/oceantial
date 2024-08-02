@@ -65,8 +65,7 @@ require('inc/base.php')
                                 <div class="iconbuy mr-3"><img src="img/icon/whatsapp.png" alt=""></div>
                                 Shop via WhatsApp
                             </a>
-                            <a class="flex p-4" href="https://shopee.co.id/Aromica-Microfabric-Filter-Luxe-%E2%80%93-5-Pcs-i.193319332.24574857148?sp_atk=312679dd-7490-49b5-9d68-2436b75fc1e6&xptdk=312679dd-7490-49b5-9d68-2436b75fc1e6
-                            ">
+                            <a class="flex p-4" href="https://s.shopee.co.id/7fFvvfpEsY">
                                 <div class="iconbuy mr-3"><img src="img/icon/shopee.png" alt=""></div>
                                 Shop via Shopee
                             </a>

@@ -66,8 +66,7 @@ require('inc/base.php')
                                 <div class="iconbuy mr-3"><img src="img/icon/whatsapp.png" alt=""></div>
                                 Shop via WhatsApp
                             </a>
-                            <a class="flex p-4" href="https://shopee.co.id/Aroma-Sense-Handheld-Vitamin-C-Cartridges-%E2%80%93-Lemon-Mango-i.193319332.5704430068?sp_atk=2267aee7-57d7-45a5-ab17-45b7208c84cd
-                            ">
+                            <a class="flex p-4" href="https://s.shopee.co.id/3L6wlIkpWo">
                                 <div class="iconbuy mr-3"><img src="img/icon/shopee.png" alt=""></div>
                                 Shop via Shopee
                             </a>
