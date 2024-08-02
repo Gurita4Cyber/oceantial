@@ -17,7 +17,6 @@ require('inc/base.php')
             <div class="lg:w-2/3 rounded-lg overflow-hidden flex items-end justify-start relative">
                 <div class="relative">
                     <img src="img/Lavender/MG_9476_3_2__54213.1490047346_720x.jpg" alt="Aroma Sense - Vitamin C Cartridges Aroma Therapy for Shower Arofix - Lavender">
-                    <img class="absolute top-0 left-0 w-20 border border-btnbg rounded-md" src="img/Lavender/MG_9476_3_2__54213.1490047346_720x.jpg" alt="Aroma Sense - Vitamin C Cartridges Aroma Therapy for Shower Arofix - Lavender">
                 </div>
             </div>
             <div class="lg:w-1/3 md:w-1/2 bg-white flex flex-col md:ml-auto w-full">
