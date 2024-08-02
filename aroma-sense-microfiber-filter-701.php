@@ -32,9 +32,9 @@ require('inc/base.php')
                     </div>
                     <h1 class="text-2xl font-bold pb-4 capitalize">Aroma Sense - Microfiber Filter 701</h1>
                     <div class="flex">
-                        <!-- header -->
+                        <!-- rating -->
                         <?php require($_SERVER['PUBLIC'] . 'inc/rating.php') ?>
-                        <!-- headedr end -->
+                        <!-- rating end -->
 
                     </div>
                 </div>
