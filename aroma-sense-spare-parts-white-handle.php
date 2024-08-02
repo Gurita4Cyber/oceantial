@@ -46,7 +46,7 @@ require('inc/base.php')
                                 <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
                                 </path>
                             </svg>
-                            <span class="text-gray-600 ml-3">5 Reviews</span></span>
+                            <span class="text-gray-600 ml-3">4 Reviews</span></span>
 
                     </div>
                 </div>
@@ -66,8 +66,7 @@ require('inc/base.php')
                                 <div class="iconbuy mr-3"><img src="img/icon/whatsapp.png" alt=""></div>
                                 Shop via WhatsApp
                             </a>
-                            <a class="flex p-4" href="https://shopee.co.id/Parts-Shower-Handle-i.193319332.11583886287?sp_atk=eb7a43d4-4de1-4076-af4c-9b60e6d91d36
-                            ">
+                            <a class="flex p-4" href="https://s.shopee.co.id/7Kd5UO4u7Q">
                                 <div class="iconbuy mr-3"><img src="img/icon/shopee.png" alt=""></div>
                                 Shop via Shopee
                             </a>

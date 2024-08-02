@@ -68,8 +68,7 @@ require('inc/base.php')
                                 <div class="iconbuy mr-3"><img src="img/icon/whatsapp.png" alt=""></div>
                                 Shop via WhatsApp
                             </a>
-                            <a class="flex p-4" href="https://shopee.co.id/Antibacterial-Ceramic-Balls-i.193319332.13466107571?sp_atk=7db30a61-ae51-44be-91aa-f0cd710b45c7&xptdk=7db30a61-ae51-44be-91aa-f0cd710b45c7
-                            ">
+                            <a class="flex p-4" href="https://s.shopee.co.id/9A4jf17Ma8">
                                 <div class="iconbuy mr-3"><img src="img/icon/shopee.png" alt=""></div>
                                 Shop via Shopee
                             </a>

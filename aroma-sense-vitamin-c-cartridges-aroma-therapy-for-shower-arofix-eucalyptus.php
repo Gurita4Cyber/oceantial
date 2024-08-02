@@ -66,8 +66,7 @@ require('inc/base.php')
                                 <div class="iconbuy mr-3"><img src="img/icon/whatsapp.png" alt=""></div>
                                 Shop via WhatsApp
                             </a>
-                            <a class="flex p-4" href="https://shopee.co.id/Vitamin-C-Cartidges-Aroma-Therapy-for-Shower-Arofix-01-i.193319332.5678156937?sp_atk=5d78da71-b9d6-49b7-97ec-340cecf84271&xptdk=5d78da71-b9d6-49b7-97ec-340cecf84271
-                            ">
+                            <a class="flex p-4" href="https://s.shopee.co.id/7fFvt03dRW">
                                 <div class="iconbuy mr-3"><img src="img/icon/shopee.png" alt=""></div>
                                 Shop via Shopee
                             </a>

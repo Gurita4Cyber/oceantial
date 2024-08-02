@@ -65,8 +65,7 @@ require('inc/base.php')
                                 <div class="iconbuy mr-3"><img src="img/icon/whatsapp.png" alt=""></div>
                                 Shop via WhatsApp
                             </a>
-                            <a class="flex p-4" href="https://shopee.co.id/Aroma-Sense-Microfiber-Filter-Super-Jet-3pcs-i.193319332.12733600554?sp_atk=72528419-5110-4427-ab1f-d94795164228&xptdk=72528419-5110-4427-ab1f-d94795164228
-                            ">
+                            <a class="flex p-4" href="https://s.shopee.co.id/6fNOfxkC5M">
                                 <div class="iconbuy mr-3"><img src="img/icon/shopee.png" alt=""></div>
                                 Shop via Shopee
                             </a>
