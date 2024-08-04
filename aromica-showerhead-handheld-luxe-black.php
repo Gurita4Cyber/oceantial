@@ -1,5 +1,5 @@
 <?php
-$page = 'detail41';
+$page = 'detail42';
 require('inc/base.php')
 ?>
 <?php require($_SERVER['PUBLIC'] . 'inc/meta.php') ?>
