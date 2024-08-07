@@ -1,6 +1,6 @@
 <?php
-$page = 'detail54';
-require('inc/base.php')
+$page = 'detail54-indo';
+require('../inc/base.php')
 ?>
 <?php require($_SERVER['PUBLIC'] . 'inc/meta.php') ?>
 

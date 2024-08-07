@@ -15,9 +15,8 @@ require('../inc/base.php')
     <section class="w-full pb-20 pt-20 lg:px-20 relative">
         <div class="container px-5 pt-20 mx-auto flex sm:flex-nowrap flex-wrap">
             <div class="lg:w-2/3 rounded-lg overflow-hidden flex items-end justify-start relative">
-                <div class="relative">
-                    <img src="img/product/1.jpg" alt="">
-                    <img class="absolute top-0 left-0 w-20 border border-btnbg rounded-md" src="img/showerhead/1.jpg" alt="">
+            <div class="relative">
+                    <img src="img/CARTRIDGES-EUCALYPTUS/eucalyptus-vitamin-c-cartridge4.jpg" alt="Aroma Sense - Vitamin C Cartridges -  Eucalyptus">
                 </div>
             </div>
             <div class="lg:w-1/3 md:w-1/2 bg-white flex flex-col md:ml-auto w-full">
@@ -39,42 +38,29 @@ require('../inc/base.php')
                     </div>
                 </div>
                 <div class="price pb-8">
-                    <h2 class="font-semibold text-2xl">IDR 299,000</h2>
+                    <h2 class="font-semibold text-2xl">IDR 170,000</h2>
                 </div>
-                <p class="pb-4">Bring home the luxury and enjoyment before only experienced in five-star resorts. The
-                    Aroma Sense
-                    AS-9000 Vitamin C Showerhead, the first of its kind, emits Vitamin C, aromatherapy, and negative
-                    ions during your shower to rejuvenate your mind and body. The secret is the replaceable Vitamin C
-                    filter cartridge that promotes healthier skin and hair, and removes chlorine and other contaminants.
-                    The cartridge also contains natural aroma oils, which release an aromatherapy effect to relieve
-                    stress and relax your mind.
-
-                </p>
-                <p class="pb-4">This shower head offers 1.5x the water pressure of ordinary showerheads, while reducing
-                    water
-                    consumption by 25%. The light and elegant design with a perfect-size grip enables an unbeatable
-                    handheld experience. The grip handle can be easily disassembled for cartridge replacement.</p>
-
+                <p class="pb-4">Dapatkan manfaat menyegarkan dari aroma eucalyptus yang dapat memberikan efek relaksasi untuk mengatasi kelelahan dan rasa mual.</p>
+                
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
                         <input type="checkbox" name="accordion-1" id="cb2">
-                        <label for="cb2" class="tab__label">Beli Sekarang</label>
+                        <label for="cb2" class="tab__label">Buy Now</label>
                         <div class="tab__content">
                             <a class="flex p-4" href="http://bit.ly/aromasenseindo
                             ">
                                 <div class="iconbuy mr-3"><img src="img/icon/whatsapp.png" alt=""></div>
                                 Tersedia di WhatsApp
                             </a>
-                            <a class="flex p-4" href="https://shopee.co.id/aromasenseofficial
-                            ">
+                            <a class="flex p-4" href="https://s.shopee.co.id/2qAgANmjXf">
                                 <div class="iconbuy mr-3"><img src="img/icon/shopee.png" alt=""></div>
                                 Tersedia di Shopee
                             </a>
-                            <a class="flex p-4" href="https://www.tokopedia.com/aromasense?source=universe&st=product">
+                            <a class="flex p-4" href="https://www.tokopedia.com/oceantial/aromatherapy-vitamin-c-aroma-sense-eucalyptus-1pcs?extParam=src%3Dshop">
                                 <div class="iconbuy mr-3"><img src="img/icon/tokopedia.png" alt=""></div>
                                 Tersedia di Tokopedia
                             </a>
-                            <a class="flex p-4" href="https://www.tiktok.com/@aromasense ">
+                            <a class="flex p-4" href="https://www.tiktok.com/@oceantial">
                                 <div class="iconbuy mr-3"><img src="img/icon/tiktok.png" alt=""></div>
                                 Tersedia di TikTok Shop
                             </a>

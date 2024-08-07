@@ -1,5 +1,5 @@
 <?php
-$page = 'detail25-indo';
+$page = 'detail26-indo';
 require('../inc/base.php')
 ?>
 <?php require($_SERVER['PUBLIC'] . 'inc/meta.php') ?>
@@ -15,9 +15,8 @@ require('../inc/base.php')
     <section class="w-full pb-20 pt-20 lg:px-20 relative">
         <div class="container px-5 pt-20 mx-auto flex sm:flex-nowrap flex-wrap">
             <div class="lg:w-2/3 rounded-lg overflow-hidden flex items-end justify-start relative">
-                <div class="relative">
-                    <img src="img/product/1.jpg" alt="">
-                    <img class="absolute top-0 left-0 w-20 border border-btnbg rounded-md" src="img/showerhead/1.jpg" alt="">
+            <div class="relative">
+                    <img src="img/Lavender/MG_9476_3_2__54213.1490047346_720x.jpg" alt="Aroma Sense - Vitamin C Cartridges Aroma Therapy for Shower Arofix - Lavender">
                 </div>
             </div>
             <div class="lg:w-1/3 md:w-1/2 bg-white flex flex-col md:ml-auto w-full">
@@ -39,7 +38,7 @@ require('../inc/base.php')
                     </div>
                 </div>
                 <div class="price pb-8">
-                    <h2 class="font-semibold text-2xl">IDR 299,000</h2>
+                    <h2 class="font-semibold text-2xl">IDR 240,000</h2>
                 </div>
                 <p class="pb-4">Cartridge Arofix Lavender tidak hanya menghilangkan klorin dari air, tetapi juga menyegarkan dengan aroma terapi yang dapat mengurangi kecemasan, meningkatkan kualitas tidur, dan memperbaiki sirkulasi darah.</p>
                 <p class="pb-4">Diperkaya dengan kandungan vitamin C, filter AROFIX akan memelihara kesehatan rambut dan kulit, memberikan pengalaman menyeluruh. Nikmati sampai 9.000 liter air yang dimurnikan dan menyegarkan per cartridge.</p>            

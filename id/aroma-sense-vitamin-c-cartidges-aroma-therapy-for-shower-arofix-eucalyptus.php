@@ -1,5 +1,5 @@
 <?php
-$page = 'detail24-indo';
+$page = 'detail25-indo';
 require('../inc/base.php')
 ?>
 <?php require($_SERVER['PUBLIC'] . 'inc/meta.php') ?>
@@ -15,9 +15,8 @@ require('../inc/base.php')
     <section class="w-full pb-20 pt-20 lg:px-20 relative">
         <div class="container px-5 pt-20 mx-auto flex sm:flex-nowrap flex-wrap">
             <div class="lg:w-2/3 rounded-lg overflow-hidden flex items-end justify-start relative">
-                <div class="relative">
-                    <img src="img/product/1.jpg" alt="">
-                    <img class="absolute top-0 left-0 w-20 border border-btnbg rounded-md" src="img/showerhead/1.jpg" alt="">
+            <div class="relative">
+                    <img src="img/Eucalyptus/Eucalyptus_WM_e3b11a3f-e397-45bd-81cd-e2a01119968f_720x.jpeg" alt="Aroma Sense - Vitamin C Cartridges Aroma Therapy for Shower Arofix - Eucalyptus">
                 </div>
             </div>
             <div class="lg:w-1/3 md:w-1/2 bg-white flex flex-col md:ml-auto w-full">
@@ -39,7 +38,7 @@ require('../inc/base.php')
                     </div>
                 </div>
                 <div class="price pb-8">
-                    <h2 class="font-semibold text-2xl">IDR 299,000</h2>
+                    <h2 class="font-semibold text-2xl">IDR 240,000</h2>
                 </div>
                 <p class="pb-4">Dapatkan pengalaman yang menyegarkan dan menenangkan dengan menggunakan cartridge Vitamin C Aroma Eucalyptus AROFIX. Cartridge ini dirancang untuk bertahan hingga 9.000 liter atau 90 hari pemakaian, dan diperkaya dengan campuran minyak aromatik alami yang memberikan pengalaman aromaterapi yang menenangkan.</p>
                 <p class="pb-4">Aroma eucalyptus yang terkandung di dalamnya tidak hanya membantu menurunkan stres, tetapi juga membawa manfaat antibakteri, dekongestan, dan anti-inflamasi yang efektif mengatasi masalah pernapasan. Selain itu, aroma eucalyptus juga dapat memperbaiki sirkulasi darah, dan mengurangi rasa mual.</p>
