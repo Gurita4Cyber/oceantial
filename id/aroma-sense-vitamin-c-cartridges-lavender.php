@@ -40,41 +40,29 @@ require('inc/base.php')
                 <div class="price pb-8">
                     <h2 class="font-semibold text-2xl">IDR 170,000</h2>
                 </div>
-                <p class="pb-4">Bring home the luxury and enjoyment before only experienced in five-star resorts. The
-                    Aroma Sense
-                    AS-9000 Vitamin C Showerhead, the first of its kind, emits Vitamin C, aromatherapy, and negative
-                    ions during your shower to rejuvenate your mind and body. The secret is the replaceable Vitamin C
-                    filter cartridge that promotes healthier skin and hair, and removes chlorine and other contaminants.
-                    The cartridge also contains natural aroma oils, which release an aromatherapy effect to relieve
-                    stress and relax your mind.
-
-                </p>
-                <p class="pb-4">This shower head offers 1.5x the water pressure of ordinary showerheads, while reducing
-                    water
-                    consumption by 25%. The light and elegant design with a perfect-size grip enables an unbeatable
-                    handheld experience. The grip handle can be easily disassembled for cartridge replacement.</p>
-
+                <p class="pb-4">Indulge in a soothing, lavender-infused hydration experience that helps promote better sleep and clearer skin. This filter's refreshing floral scent creates a calming oasis, allowing you to recharge and rejuvenate.</p>
+                
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
                         <input type="checkbox" name="accordion-1" id="cb2">
-                        <label for="cb2" class="tab__label">Beli Sekarang</label>
+                        <label for="cb2" class="tab__label">Buy Now</label>
                         <div class="tab__content">
                             <a class="flex p-4" href="http://bit.ly/aromasenseindo
                             ">
                                 <div class="iconbuy mr-3"><img src="img/icon/whatsapp.png" alt=""></div>
-                                Tersedia di WhatsApp
+                                Shop via WhatsApp
                             </a>
                             <a class="flex p-4" href="https://s.shopee.co.id/3q3DMDivVt">
                                 <div class="iconbuy mr-3"><img src="img/icon/shopee.png" alt=""></div>
-                                Tersedia di Shopee
+                                Shop via Shopee
                             </a>
                             <a class="flex p-4" href="https://www.tokopedia.com/oceantial/aromatherapy-vitamin-c-aroma-sense-lavender-1pcs?extParam=src%3Dshop%26whid%3D7243527">
                                 <div class="iconbuy mr-3"><img src="img/icon/tokopedia.png" alt=""></div>
-                                Tersedia di Tokopedia
+                                Shop via Tokopedia
                             </a>
                             <a class="flex p-4" href="https://www.tiktok.com/@oceantial">
                                 <div class="iconbuy mr-3"><img src="img/icon/tiktok.png" alt=""></div>
-                                Tersedia di TikTok Shop
+                                Shop via TikTok Shop
                             </a>
                         </div>
                     </div>
@@ -85,11 +73,11 @@ require('inc/base.php')
 
     <section class="w-full lg:pb-40 lg:pt-20 lg:px-20">
         <div class="container mx-auto">
-            <!-- Produk Terkait-->
+            <!-- Related Products -->
             <div class="product-list">
                 <div class="container pl-4 pb-6">
                     <div class="text-left">
-                        <h2 class="font-bold text-3xl capitalize">Produk Terkait</h2>
+                        <h2 class="font-bold text-3xl capitalize">Related Products </h2>
                     </div>
                 </div>
                 <?php require($_SERVER['PUBLIC'] . 'inc/related-product.php') ?>
