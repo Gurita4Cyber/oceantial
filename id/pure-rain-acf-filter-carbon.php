@@ -40,9 +40,8 @@ require('../inc/base.php')
                 <div class="price pb-8">
                     <h2 class="font-semibold text-2xl">IDR 299,000</h2>
                 </div>
-                <p class="pb-4">The ACF Filter utilizes advanced activated carbon fiber technology, renowned for its exceptional adsorption capabilities. As water passes through the filter, the activated carbon fibers trap and eliminate chlorine, resulting in water that is gentle on your skin and hair. Say goodbye to dryness and irritation caused by chlorine and enjoy the rejuvenating effects of pure water.</p>
-                <p class="pb-4">To maintain optimal performance, it is recommended to replace the ACF Filter every 2 to 4 months. This regular replacement schedule ensures that the filter continues to effectively remove impurities from your water, providing you with consistently clean and revitalizing showers.</p>
-
+                <p class="pb-4">Filter ACF memanfaatkan teknologi serat karbon aktif canggih yang dikenal dengan kemampuan penyerapannya yang luar biasa. Saat air mengalir melalui filter, serat karbon aktif akan menyerap dan menghilangkan klorin, menghasilkan air yang lembut bagi kulit dan rambut Anda. Ucapkan selamat tinggal pada kulit kering dan iritasi yang disebabkan oleh klorin.</p>
+                <p class="pb-4">Untuk menjaga performa optimal, disarankan untuk mengganti Filter ACF setiap 2 hingga 4 bulan. Jadwal penggantian berkala ini memastikan filter dapat secara efektif menyingkirkan kotoran dari air, memberikan sensasi mandi yang bersih dan menyegarkan.</p>
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
                         <input type="checkbox" name="accordion-1" id="cb2">

@@ -39,9 +39,8 @@ require('../inc/base.php')
                 <div class="price pb-8">
                     <h2 class="font-semibold text-2xl">IDR 850,000</h2>
                 </div>
-                <p class="pb-4">The Aromica Luxe Black Showerhead elevates your daily shower into a truly indulgent experience. Crafted for those who prioritize luxury, this showerhead immerses you in a soothing, rejuvenating cascade of water, blending the pleasures of a lavish showering ritual with skin-pampering benefits. Delivering an incredibly soft and gentle flow, the Aromica Luxe helps address dry skin and scalp concerns, leaving you feeling refreshed and renewed. Upgrade your daily routine with the unparalleled luxury and captivating aesthetic of the Aromica Luxe Black Showerhead.</p>
-
-
+                <p class="pb-4">Showerhead Aromica Luxe Black mengubah rutinitas mandi Anda menjadi pengalaman memanjakan diri yang sesungguhnya. Dirancang untuk mereka yang mengutamakan kemewahan, produk ini memadukan kenikmatan ritual mandi mewah dengan manfaat perawatan kulit.</p>
+                <p class="pb-4">Dengan aliran air yang lembut, Aromica Luxe membantu mengatasi masalah kulit kering dan kulit kepala, membuat Anda merasakan kesegaran luar biasa. Tingkatkan rutinitas mandi dengan kemewahan tak tertandingi dan tampilan memukau dari Showerhead Aromica Luxe Black.</p>
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
                         <input type="checkbox" name="accordion-1" id="cb2">

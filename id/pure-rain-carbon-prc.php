@@ -40,9 +40,8 @@ require('../inc/base.php')
                 <div class="price pb-8">
                     <h2 class="font-semibold text-2xl">IDR 170,000</h2>
                 </div>
-                <p class="pb-4">This Carbon PRC filter is compatible with all Aroma Sense shower head models, including Kids, AS9000 Medium, Mist, and Tulip. Containing only the microfiber component, it is specifically designed to tackle severely contaminated water, addressing issues like discoloration and odor.</p>
-                <p class="pb-4">For optimal performance, it is recommended to replace the microfiber element every 1-2 months, depending on the water quality in your home. Enjoy a refreshing, purified shower experience with the Activated Carbon PRC Filter.</p>
-
+                <p class="pb-4">Filter Karbon PRC ini kompatibel dengan semua model Showerhead Aroma Sense, termasuk Kids, AS9000 Medium, Mist, dan Tulip. Filter ini terdiri dari komponen mikrofiber dan dirancang khusus untuk mengatasi air yang sangat terkontaminasi, menangani masalah seperti perubahan warna dan bau.</p>
+                <p class="pb-4">Untuk kinerja optimal, disarankan untuk mengganti mikrofiber setiap 1-2 bulan, tergantung pada kualitas air di rumah Anda. Nikmati pengalaman mandi yang menyegarkan dan terpurifikasi dengan Filter Karbon Aktif PRC.</p>
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
                         <input type="checkbox" name="accordion-1" id="cb2">

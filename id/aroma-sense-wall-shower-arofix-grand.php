@@ -1,5 +1,5 @@
 <?php
-$page = 'detail39';
+$page = 'detail39-indo';
 require('../inc/base.php')
 ?>
 <?php require($_SERVER['PUBLIC'] . 'inc/meta.php') ?>
@@ -40,9 +40,8 @@ require('../inc/base.php')
                 <div class="price pb-8">
                     <h2 class="font-semibold text-2xl">IDR 990,000</h2>
                 </div>
-                <p class="pb-4">The Arofix Grand Showerhead offers a revitalizing rainfall shower experience. It features an aromatherapeutic effect with natural aroma oils to enhance relaxation and alleviate stress. The showerhead also neutralizes chlorine from unfiltered water, replenishes skin and hair with vitamin C concentrate, and traps any residual rust, dirt, and contaminants through its microfiber filter. Additionally, the negative ionizer produces up to four times the amount of negative ions, which are scientifically proven to aid in breathing, increase blood flow, and alleviate stress, providing a soothing and rejuvenating shower experience.</p>
-
-
+                <p class="pb-4">Showerhead Arofix Grand memberikan pengalaman mandi bak terapi hujan yang menyegarkan. Dilengkapi dengan efek aromaterapi menggunakan minyak esensial alami, memberikan ketenangan dan mengurangi stres. Tak hanya itu, showerhead ini juga mampu menetralisir klorin, serta memperkaya kulit dan rambut dengan kandungan Vitamin C.</p>
+                <p class="pb-4">Bahkan, filter mikrofiber mampu menyaring sisa-sisa karat, kotoran, dan kontaminan lain. Lebih istimewa lagi, ionizer negatif pada Arofix Grand mampu menghasilkan hingga empat kali lipat ion negatif, yang terbukti secara ilmiah dapat membantu pernapasan, meningkatkan sirkulasi darah, dan mengurangi stres.</p>
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
                         <input type="checkbox" name="accordion-1" id="cb2">

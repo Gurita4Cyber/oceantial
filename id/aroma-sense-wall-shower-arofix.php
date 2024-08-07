@@ -1,5 +1,5 @@
 <?php
-$page = 'detail40';
+$page = 'detail40-indo';
 require('../inc/base.php')
 ?>
 <?php require($_SERVER['PUBLIC'] . 'inc/meta.php') ?>
@@ -40,9 +40,8 @@ require('../inc/base.php')
                 <div class="price pb-8">
                     <h2 class="font-semibold text-2xl">IDR 790,000</h2>
                 </div>
-                <p class="pb-4">The Arofix shower head wall is designed with over 300 spray plate holes, it provides a spa-inspired experience, infused with refreshing and relaxing aromatherapy in your own shower. The Vitamin C filtration technology effectively neutralizes chlorine to promote healthy skin and hair, while the microfiber filtration removes additional contaminants from your piping system. The laser-cut spray plate boosts weak water pressure, giving you a therapeutic shower experience. Enjoy the benefits of aromatherapy and Vitamin C to rejuvenate your mind and body with this luxurious shower head.</p>
-
-
+                <p class="pb-4">Showerhead Arofix dirancang dengan 300 lubang semprot yang akan memberikan pengalaman mandi bak di spa, dilengkapi dengan aroma terapi yang menyegarkan dan menenangkan. Teknologi filtrasi Vitamin C di dalam showerhead secara efektif menetralisir klorin dalam air, sehingga kulit dan rambut akan tetap sehat dan terjaga.</p>
+                <p class="pb-4">Di dalamnya terdapat filter microfiber untuk menyaring kontaminan lain dari sistem perpipaan Anda. Tidak hanya di situ, pelat semprotnya mampu meningkatkan tekanan air yang lemah agar Anda bisa menikmati pengalaman mandi yang mewah dan memanjakan.</p>
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
                         <input type="checkbox" name="accordion-1" id="cb2">

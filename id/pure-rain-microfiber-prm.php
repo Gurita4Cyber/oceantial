@@ -40,10 +40,9 @@ require('../inc/base.php')
                 <div class="price pb-8">
                     <h2 class="font-semibold text-2xl">IDR 185,000</h2>
                 </div>
-                <p class="pb-4">Each microfiber PRM comes in a set of 3.</p>
-                <p class="pb-4">The PRM filter is compatible with all Aroma Sense shower head models, including Kids, AS9000 Medium, Mist, and Tulip. Containing only the microfiber component, this filter is designed to effectively remove rust residue, dirt, and other contaminants that may accumulate in your plumbing.</p>
-                <p class="pb-4">For those with sensitivities to vitamin C or fragrances, the PRM filter provides a scent-free alternative to the Aroma Therapy cartridges.</p>
-                <p class="pb-4">The microfiber filter's color will gradually turn brown, depending on the cleanliness and quality of your water. Since water conditions can vary by location, it is essential to regularly inspect the microfiber filter and replace it every 1-2 months for optimal performance.</p>
+                <p class="pb-4">Setiap set terdiri dari 3 buah Mikrofiber PRM.</p>
+                <p class="pb-4">Mikrofiber PRM ini kompatibel dengan seluruh model Showerhead Aroma Sense, termasuk Kids, AS9000 Medium, Mist, dan Tulip. Filter ini berisi komponen mikrofiber yang dirancang untuk secara efektif menyingkirkan endapan karat, kotoran, dan kontaminan lain yang mungkin terakumulasi di sistem pipa Anda.</p>
+                <p class="pb-4">Bagi Anda yang sensitif terhadap vitamin C atau aroma, filter PRM ini menyediakan alternatif bebas aroma. Warna filter mikrofiber akan berangsur-angsur berubah menjadi cokelat, tergantung pada kebersihan dan kualitas air Anda. Karena kondisi air dapat bervariasi tergantung lokasi, penting untuk memeriksa filter mikrofiber secara rutin dan menggantinya setiap 1-2 bulan untuk kinerja optimal.</p>
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
                         <input type="checkbox" name="accordion-1" id="cb2">

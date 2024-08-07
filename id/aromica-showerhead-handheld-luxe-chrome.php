@@ -39,9 +39,8 @@ require('../inc/base.php')
                 <div class="price pb-8">
                     <h2 class="font-semibold text-2xl">IDR 850,000</h2>
                 </div>
-                <p class="pb-4">The Aromica Luxe Chrome Showerhead transforms your daily shower into a luxurious experience. This exceptional shower invites you to relax and indulge, blending the pleasures of a lavish showering experience with skin-pampering benefits. Designed for those who prioritize indulgence, the Aromica Luxe delivers an incredibly soft, soothing, and rejuvenating shower, helping to address dry skin and scalp issues. Elevate your daily routine with the unparalleled luxury of the Aromica Luxe Chrome Showerhead.</p>
-
-
+                <p class="pb-4">Showerhead Aromica Luxe Chrome mengubah rutinitas mandi menjadi pengalaman mewah setiap harinya. Produk ini mengajak Anda untuk bersantai dan memanjakan diri, dengan memadukan kenikmatan mandi dengan manfaat perawatan kulit.</p>
+                <p class="pb-4">Aromica Luxe tidak hanya memberikan sensasi mandi yang menenangkan, dan menyegarkan, namun mampu mengatasi masalah kulit kering dan masalah pada kulit kepala.</p>
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
                         <input type="checkbox" name="accordion-1" id="cb2">
