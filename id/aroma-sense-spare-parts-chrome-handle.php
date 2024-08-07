@@ -40,8 +40,7 @@ require('inc/base.php')
                 <div class="price pb-8">
                     <h2 class="font-semibold text-2xl">IDR 90,000</h2>
                 </div>
-                <p class="pb-4">The handheld shower holder is used to connect the shower head to the shower hose. It is also used to insert each of the vitamin c handheld cartridges. If the handheld shower holder cracks or breaks, you may need to replace it. Find the replacement here.</p>
-
+                <p class="pb-4">Pegangan shower ini digunakan untuk menghubungkan kepala shower dengan selang shower. Pegangan ini juga digunakan untuk memasukkan cartridge vitamin C. Jika pegangan shower retak atau rusak, Anda dapat menemukan pengganti pegangan shower di sini.</p>
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
                         <input type="checkbox" name="accordion-1" id="cb2">

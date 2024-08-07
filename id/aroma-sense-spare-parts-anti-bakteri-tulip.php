@@ -40,11 +40,8 @@ require('inc/base.php')
                 <div class="price pb-8">
                     <h2 class="font-semibold text-2xl">IDR 110,000</h2>
                 </div>
-                <p class="pb-4">Keep your Aroma Sense shower head functioning at its best with our antibacterial ceramic beads! These beads effectively absorb chemical particles and contaminants that may be present in your water supply, ensuring that your shower water is clean and healthy.
-
-                </p>
-                <p class="pb-4">It is recommended to check and replace your antibacterial ceramic beads every time you check your refill cartridges, which is typically every 2-3 months. This will help ensure that your shower head continues to work optimally and that you enjoy the full benefits of its features.</p>
-
+                <p class="pb-4">Jaga kinerja showerhead Aroma Sense tetap optimal dengan menggunakan butiran keramik antibakteri kami! Butiran ini secara efektif menyerap partikel kimia dan kontaminan yang mungkin terdapat dalam pasokan air, memastikan air yang keluar dari showerhead bersih dan sehat.</p>
+                <p class="pb-4">Kami sarankan untuk memeriksa dan mengganti butiran keramik antibakteri setiap kali Anda memeriksa cartridge isi ulang, biasanya setiap 2-3 bulan. Hal ini akan membantu memastikan bahwa showerhead berfungsi optimal dan Anda dapat menikmati manfaat penuh dari fitur-fiturnya.</p>
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
                         <input type="checkbox" name="accordion-1" id="cb2">

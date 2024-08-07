@@ -40,8 +40,8 @@ require('inc/base.php')
                 <div class="price pb-8">
                     <h2 class="font-semibold text-2xl">IDR 690,000</h2>
                 </div>
-                <p class="pb-4">The Aroma Sense 801 Showerhead delivers a shower experience like no other, with a cascading water flow that feels as soft and luxurious as silk. Featuring a medium-to-large curved spray plate, this premium model boasts a refined, full-chrome body design that not only enhances water pressure but also conserves water usage. Elevating your daily routine into a spa-like retreat, the Aroma Sense 801 infuses each shower with a wonderful aroma and vitamin C-enriched water, providing an unparalleled sense of relaxation and rejuvenation in the comfort of your own home.
-                </p>
+                <p class="pb-4">Showerhead Aroma Sense 801 menghadirkan pengalaman mandi yang tak tertandingi, dengan aliran air yang mengalir bagaikan sutra yang lembut dan mewah. Dilengkapi dengan pelat semprotan berukuran sedang hingga besar, model premium ini memiliki desain bodi full-chrome yang tidak hanya meningkatkan tekanan air, tapi juga menghemat penggunaan air.</p>
+                <p class="pb-4">Aroma Sense 801 menyempurnakan setiap mandi dengan aroma yang memanjakan serta air yang diperkaya dengan Vitamin C. Memberikan Anda pengalaman relaksasi dan kesegaran yang tiada tara dalam kenyamanan dari rumah sendiri.</p>
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
                         <input type="checkbox" name="accordion-1" id="cb2">

@@ -40,7 +40,7 @@ require('inc/base.php')
                 <div class="price pb-8">
                     <h2 class="font-semibold text-2xl">IDR 105,000</h2>
                 </div>
-                <p class="pb-4">Our microfiber filter effectively traps any lingering rust, dirt, or contaminants in your water, providing consistent purification. The filter's color will gradually change to brown, indicating when it's time for replacement, which should be done every 2-3 months or with each refill cartridge check. As water quality varies by location, it's important to monitor your filter's condition regularly.
+                <p class="pb-4">Filter mikrofiber kami secara efektif menyaring sisa-sisa karat, kotoran, atau kontaminan dalam air. Warna filter akan berangsur-angsur berubah menjadi cokelat setelah penggunaan. Karena kualitas air bervariasi berdasarkan lokasi, penting untuk memantau kondisi filter secara rutin. Kami sarankan untuk mengganti filter setelah 2-3 bulan penggunaan.
                 </p>
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">

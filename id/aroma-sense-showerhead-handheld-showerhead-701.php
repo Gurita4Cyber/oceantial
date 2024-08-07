@@ -40,8 +40,7 @@ require('inc/base.php')
                 <div class="price pb-8">
                     <h2 class="font-semibold text-2xl">IDR 765,000</h2>
                 </div>
-                <p class="pb-4">The Aroma Sense 701 Showerhead delivers an exceptionally abundant and refreshing shower experience, thanks to its extra-large spray plate that mimics the sensation of standing in a gentle rain. This premium model boasts a full-chrome body design, offering a luxurious European-inspired showering ritual complete with a wonderful aroma and vitamin C-infused water. Whether you're seeking a revitalizing rinse or a moment of indulgence, the Aroma Sense 701 provides an unparalleled, spa-like shower that elevates your daily routine.
-                </p>
+                <p class="pb-4">Showerhead Aroma Sense 701 memberikan pengalaman mandi yang luar biasa dan menyegarkan. Semua ini berkat pelat semprotnya yang ekstra lebar, menciptakan sensasi mandi di bawah guyuran hujan gerimis yang lembut. Model premium dengan desain bodi full-chrome yang memberikan kesan mewah, bak ritual mandi bergaya Eropa. Ditambah dengan aroma yang memanjakan serta air yang kaya akan Vitamin C,showerhead Aroma Sense 701 menghadirkan pengalaman mandi seperti di spa.</p>
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
                         <input type="checkbox" name="accordion-1" id="cb2">

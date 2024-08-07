@@ -40,9 +40,8 @@ require('inc/base.php')
                 <div class="price pb-8">
                     <h2 class="font-semibold text-2xl">IDR 490,000</h2>
                 </div>
-                <p class="pb-4">The Aroma Sense Vita is the perfect solution for customers who want to enhance their existing shower experience without the need to replace their current shower head. This versatile product seamlessly integrates with standard shower hoses, providing a dual-purpose upgrade that combines advanced water filtration and aromatic therapy.</p>
-                <p class="pb-4">By simply attaching the Aroma Sense Vita to your existing shower setup, you can enjoy the benefits of cleaner, purified water while indulging in the soothing and rejuvenating properties of the custom aroma infusion. This innovative product allows you to elevate your daily shower routine, transforming it into a spa-like experience without the hassle of a complete shower head replacement.</p>
-
+                <p class="pb-4">Aroma Sense Vita merupakan solusi sempurna untuk meningkatkan pengalaman mandi tanpa harus mengganti showerhead. Produk serba guna ini dengan mudah terintegrasi dengan selang shower standar, memberikan peningkatan dual-purpose yang menggabungkan penyaringan air canggih dan terapi aroma.</p>
+                <p class="pb-4">Cukup dengan memasang Aroma Sense Vita pada pengaturan shower yang ada, Anda dapat menikmati manfaat air yang lebih bersih dan murni sembari memanjakan diri dengan sifat menenangkan dan menyegarkan dari infusi aroma khusus. Produk inovatif ini memungkinkan Anda untuk meningkatkan rutinitas mandi Anda, nikmati pengalaman mandi spa tanpa repot mengganti showerhead sepenuhnya.</p>
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
                         <input type="checkbox" name="accordion-1" id="cb2">

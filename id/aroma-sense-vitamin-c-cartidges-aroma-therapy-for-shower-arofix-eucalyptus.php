@@ -41,20 +41,8 @@ require('../inc/base.php')
                 <div class="price pb-8">
                     <h2 class="font-semibold text-2xl">IDR 299,000</h2>
                 </div>
-                <p class="pb-4">Bring home the luxury and enjoyment before only experienced in five-star resorts. The
-                    Aroma Sense
-                    AS-9000 Vitamin C Showerhead, the first of its kind, emits Vitamin C, aromatherapy, and negative
-                    ions during your shower to rejuvenate your mind and body. The secret is the replaceable Vitamin C
-                    filter cartridge that promotes healthier skin and hair, and removes chlorine and other contaminants.
-                    The cartridge also contains natural aroma oils, which release an aromatherapy effect to relieve
-                    stress and relax your mind.
-
-                </p>
-                <p class="pb-4">This shower head offers 1.5x the water pressure of ordinary showerheads, while reducing
-                    water
-                    consumption by 25%. The light and elegant design with a perfect-size grip enables an unbeatable
-                    handheld experience. The grip handle can be easily disassembled for cartridge replacement.</p>
-
+                <p class="pb-4">Dapatkan pengalaman yang menyegarkan dan menenangkan dengan menggunakan cartridge Vitamin C Aroma Eucalyptus AROFIX. Cartridge ini dirancang untuk bertahan hingga 9.000 liter atau 90 hari pemakaian, dan diperkaya dengan campuran minyak aromatik alami yang memberikan pengalaman aromaterapi yang menenangkan.</p>
+                <p class="pb-4">Aroma eucalyptus yang terkandung di dalamnya tidak hanya membantu menurunkan stres, tetapi juga membawa manfaat antibakteri, dekongestan, dan anti-inflamasi yang efektif mengatasi masalah pernapasan. Selain itu, aroma eucalyptus juga dapat memperbaiki sirkulasi darah, dan mengurangi rasa mual.</p>
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
                         <input type="checkbox" name="accordion-1" id="cb2">
