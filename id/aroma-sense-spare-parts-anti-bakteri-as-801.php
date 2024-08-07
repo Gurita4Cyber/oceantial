@@ -1,6 +1,6 @@
 <?php
-$page = 'detail16-indo';
-require('../inc/base.php')
+$page = 'detail17';
+require('inc/base.php')
 ?>
 <?php require($_SERVER['PUBLIC'] . 'inc/meta.php') ?>
 
@@ -15,8 +15,7 @@ require('../inc/base.php')
         <div class="container px-5 pt-20 mx-auto flex sm:flex-nowrap flex-wrap">
             <div class="lg:w-2/3 rounded-lg overflow-hidden flex items-end justify-start relative">
                 <div class="relative">
-                    <img src="img/product/1.jpg" alt="">
-                    <img class="absolute top-0 left-0 w-20 border border-btnbg rounded-md" src="img/showerhead/1.jpg" alt="">
+                    <img src="img/Aroma-Sense---Spare-parts---Anti-bakteri-AS-801-.jpg" alt="Aroma Sense - Spare parts - Anti bakteri AS 801">
                 </div>
             </div>
             <div class="lg:w-1/3 md:w-1/2 bg-white flex flex-col md:ml-auto w-full">
@@ -29,7 +28,7 @@ require('../inc/base.php')
                             <path d="M7.16683 19.1914L5.5835 16.5247L2.5835 15.8581L2.87516 12.7747L0.833496 10.4414L2.87516 8.10807L2.5835 5.02474L5.5835 4.35807L7.16683 1.69141L10.0002 2.89974L12.8335 1.69141L14.4168 4.35807L17.4168 5.02474L17.1252 8.10807L19.1668 10.4414L17.1252 12.7747L17.4168 15.8581L14.4168 16.5247L12.8335 19.1914L10.0002 17.9831L7.16683 19.1914ZM9.12516 13.3997L13.8335 8.69141L12.6668 7.48307L9.12516 11.0247L7.3335 9.27474L6.16683 10.4414L9.12516 13.3997Z" fill="#004E98"></path>
                         </svg>
                     </div>
-                    <h1 class="text-2xl font-bold pb-4 capitalize">Aroma Sense - spare parts anti bakteri as 801</h1>
+                    <h1 class="text-2xl font-bold pb-4 capitalize">Aroma Sense - Spare parts - Anti bakteri AS 801</h1>
                     <div class="flex">
                         <!-- rating -->
                         <?php require($_SERVER['PUBLIC'] . 'inc/rating.php') ?>
@@ -38,7 +37,7 @@ require('../inc/base.php')
                     </div>
                 </div>
                 <div class="price pb-8">
-                    <h2 class="font-semibold text-2xl">IDR 299,000</h2>
+                    <h2 class="font-semibold text-2xl">IDR 110,000</h2>
                 </div>
                 <p class="pb-4">Keep your Aroma Sense shower head functioning at its best with our antibacterial ceramic beads! These beads effectively absorb chemical particles and contaminants that may be present in your water supply, ensuring that your shower water is clean and healthy.
 
@@ -55,8 +54,7 @@ require('../inc/base.php')
                                 <div class="iconbuy mr-3"><img src="img/icon/whatsapp.png" alt=""></div>
                                 Shop via WhatsApp
                             </a>
-                            <a class="flex p-4" href="https://shopee.co.id/Antibacterial-Ceramic-Balls-i.193319332.13466107571?sp_atk=7db30a61-ae51-44be-91aa-f0cd710b45c7&xptdk=7db30a61-ae51-44be-91aa-f0cd710b45c7
-                            ">
+                            <a class="flex p-4" href="https://s.shopee.co.id/9A4jf17Ma8">
                                 <div class="iconbuy mr-3"><img src="img/icon/shopee.png" alt=""></div>
                                 Shop via Shopee
                             </a>

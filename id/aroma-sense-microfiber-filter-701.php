@@ -1,6 +1,6 @@
 <?php
-$page = 'detail1-indo';
-require('../inc/base.php')
+$page = 'detail1';
+require('inc/base.php')
 ?>
 <?php require($_SERVER['PUBLIC'] . 'inc/meta.php') ?>
 
@@ -16,11 +16,11 @@ require('../inc/base.php')
         <div class="container px-5 pt-20 mx-auto flex sm:flex-nowrap flex-wrap">
             <div class="lg:w-2/3 rounded-lg overflow-hidden flex items-end justify-start relative">
                 <div class="relative">
-                    <img src="img/product/1.jpg" alt="">
-                    <img class="absolute top-0 left-0 w-20 border border-btnbg rounded-md" src="img/showerhead/1.jpg" alt="">
+                    <img src="img/Aroma-Sense---Microfiber-Filter-701.jpg" alt="Aroma Sense - Microfiber Filter 701">
                 </div>
             </div>
             <div class="lg:w-1/3 md:w-1/2 bg-white flex flex-col md:ml-auto w-full">
+
                 <div class="pb-8">
                     <div class="inline-flex items-center gap-1 pb-4">
                         <h2 class="text-title2 text-lg font-semibold">Aroma
@@ -39,8 +39,10 @@ require('../inc/base.php')
                     </div>
                 </div>
                 <div class="price pb-8">
-                    <h2 class="font-semibold text-2xl">IDR 299,000</h2>
+                    <h2 class="font-semibold text-2xl">IDR 145,000</h2>
                 </div>
+
+
                 <p class="pb-4">Each microfiber pack comes in a set of 5.
 
                 </p>
@@ -56,8 +58,7 @@ require('../inc/base.php')
                                 <div class="iconbuy mr-3"><img src="img/icon/whatsapp.png" alt=""></div>
                                 Shop via WhatsApp
                             </a>
-                            <a class="flex p-4" href="https://shopee.co.id/Aroma-Sense-Microfabric-Filter-AS-Arofix-01-dan-AS-701ST-%E2%80%93-5-Pcs-i.193319332.5678139195?sp_atk=9e757fa9-8702-43cf-a8e7-3976949e5c8d&xptdk=9e757fa9-8702-43cf-a8e7-3976949e5c8d
-                            ">
+                            <a class="flex p-4" href="https://s.shopee.co.id/AUa7E9rHiy">
                                 <div class="iconbuy mr-3"><img src="img/icon/shopee.png" alt=""></div>
                                 Shop via Shopee
                             </a>

@@ -1,6 +1,6 @@
 <?php
-$page = 'detail40-indo';
-require('../inc/base.php')
+$page = 'detail40';
+require('inc/base.php')
 ?>
 <?php require($_SERVER['PUBLIC'] . 'inc/meta.php') ?>
 
@@ -16,8 +16,7 @@ require('../inc/base.php')
         <div class="container px-5 pt-20 mx-auto flex sm:flex-nowrap flex-wrap">
             <div class="lg:w-2/3 rounded-lg overflow-hidden flex items-end justify-start relative">
                 <div class="relative">
-                    <img src="img/product/1.jpg" alt="">
-                    <img class="absolute top-0 left-0 w-20 border border-btnbg rounded-md" src="img/showerhead/1.jpg" alt="">
+                    <img src="img/AromaSense-WallShower-Arofix.jpg" alt="Aroma Sense - Wall Shower - Arofix">
                 </div>
             </div>
             <div class="lg:w-1/3 md:w-1/2 bg-white flex flex-col md:ml-auto w-full">
@@ -30,7 +29,7 @@ require('../inc/base.php')
                             <path d="M7.16683 19.1914L5.5835 16.5247L2.5835 15.8581L2.87516 12.7747L0.833496 10.4414L2.87516 8.10807L2.5835 5.02474L5.5835 4.35807L7.16683 1.69141L10.0002 2.89974L12.8335 1.69141L14.4168 4.35807L17.4168 5.02474L17.1252 8.10807L19.1668 10.4414L17.1252 12.7747L17.4168 15.8581L14.4168 16.5247L12.8335 19.1914L10.0002 17.9831L7.16683 19.1914ZM9.12516 13.3997L13.8335 8.69141L12.6668 7.48307L9.12516 11.0247L7.3335 9.27474L6.16683 10.4414L9.12516 13.3997Z" fill="#004E98"></path>
                         </svg>
                     </div>
-                    <h1 class="text-2xl font-bold pb-4 capitalize">Aroma Sense - wall shower arofix</h1>
+                    <h1 class="text-2xl font-bold pb-4 capitalize">Aroma Sense - Wall Shower - Arofix</h1>
                     <div class="flex">
                         <!-- rating -->
                         <?php require($_SERVER['PUBLIC'] . 'inc/rating.php') ?>
@@ -39,21 +38,10 @@ require('../inc/base.php')
                     </div>
                 </div>
                 <div class="price pb-8">
-                    <h2 class="font-semibold text-2xl">IDR 299,000</h2>
+                    <h2 class="font-semibold text-2xl">IDR 790,000</h2>
                 </div>
-                <p class="pb-4">Bring home the luxury and enjoyment before only experienced in five-star resorts. The
-                    Aroma Sense
-                    AS-9000 Vitamin C Showerhead, the first of its kind, emits Vitamin C, aromatherapy, and negative
-                    ions during your shower to rejuvenate your mind and body. The secret is the replaceable Vitamin C
-                    filter cartridge that promotes healthier skin and hair, and removes chlorine and other contaminants.
-                    The cartridge also contains natural aroma oils, which release an aromatherapy effect to relieve
-                    stress and relax your mind.
+                <p class="pb-4">The Arofix shower head wall is designed with over 300 spray plate holes, it provides a spa-inspired experience, infused with refreshing and relaxing aromatherapy in your own shower. The Vitamin C filtration technology effectively neutralizes chlorine to promote healthy skin and hair, while the microfiber filtration removes additional contaminants from your piping system. The laser-cut spray plate boosts weak water pressure, giving you a therapeutic shower experience. Enjoy the benefits of aromatherapy and Vitamin C to rejuvenate your mind and body with this luxurious shower head.</p>
 
-                </p>
-                <p class="pb-4">This shower head offers 1.5x the water pressure of ordinary showerheads, while reducing
-                    water
-                    consumption by 25%. The light and elegant design with a perfect-size grip enables an unbeatable
-                    handheld experience. The grip handle can be easily disassembled for cartridge replacement.</p>
 
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
@@ -65,16 +53,15 @@ require('../inc/base.php')
                                 <div class="iconbuy mr-3"><img src="img/icon/whatsapp.png" alt=""></div>
                                 Shop via WhatsApp
                             </a>
-                            <a class="flex p-4" href="https://shopee.co.id/aromasenseofficial
-                            ">
+                            <a class="flex p-4" href="https://s.shopee.co.id/7UwVjMpsDV">
                                 <div class="iconbuy mr-3"><img src="img/icon/shopee.png" alt=""></div>
                                 Shop via Shopee
                             </a>
-                            <a class="flex p-4" href="https://www.tokopedia.com/aromasense?source=universe&st=product">
+                            <a class="flex p-4" href="https://tokopedia.link/iWDiu2DBhLb">
                                 <div class="iconbuy mr-3"><img src="img/icon/tokopedia.png" alt=""></div>
                                 Shop via Tokopedia
                             </a>
-                            <a class="flex p-4" href="https://www.tiktok.com/@aromasense ">
+                            <a class="flex p-4" href="https://www.tiktok.com/@oceantial">
                                 <div class="iconbuy mr-3"><img src="img/icon/tiktok.png" alt=""></div>
                                 Shop via TikTok Shop
                             </a>
@@ -97,18 +84,17 @@ require('../inc/base.php')
                         <li class="pb-6 flex">
                             <div class="w-32">Model</div>
                             <div class="">:</div>
-                            <div class="w-full">&nbsp;No. AS-9000</div>
+                            <div class="w-full">&nbsp;AS-Arofix</div>
                         </li>
                         <li class="pb-6 flex">
                             <div class="w-32">Color</div>
                             <div class="">:</div>
-                            <div class="w-full">&nbsp;Metallic silver</div>
+                            <div class="w-full">&nbsp;Chrome</div>
                         </li>
                         <li class="pb-6 flex">
                             <div class="w-32">Filters</div>
                             <div class="">:</div>
-                            <div class="w-full">&nbsp;Aroma Vitamin C filter (ASS filter), Anti bacteria
-                                Ceramic ball filter, Micro fabric filter</div>
+                            <div class="w-full">&nbsp;Aroma Vitamin C filter (Aroma filter), Micro fabric filter</div>
                         </li>
                     </ul>
                 </div>
@@ -117,17 +103,17 @@ require('../inc/base.php')
                         <li class="pb-6 pt-6 flex">
                             <div class="w-32">Size</div>
                             <div class="">:</div>
-                            <div class="w-full">&nbsp;W 8.0cm x L 6.3cm x H 27.8cm / Head diameter : 8cm</div>
+                            <div class="w-full">&nbsp;-</div>
                         </li>
                         <li class="pb-6 flex">
                             <div class="w-32">Diameter</div>
                             <div class="">:</div>
-                            <div class="w-full">&nbsp;8 cm</div>
+                            <div class="w-full">&nbsp;11.5cm</div>
                         </li>
                         <li class="pb-6 flex">
                             <div class="w-32">Height</div>
                             <div class="">:</div>
-                            <div class="w-full">&nbsp;360 g</div>
+                            <div class="w-full">&nbsp;578g</div>
                         </li>
 
                     </ul>
