@@ -43,32 +43,32 @@ require('inc/base.php')
                 </div>
 
 
-                <p class="pb-4">Each microfiber pack comes in a set of 5.
+                <p class="pb-4">Setiap set terdiri dari 5 buah Mikrofiber.
 
                 </p>
-                <p class="pb-4">Our microfiber filter effectively traps any lingering rust, dirt, or contaminants in your water, providing consistent purification. The filter's color will gradually change to brown, indicating when it's time for replacement, which should be done every 2-3 months or with each refill cartridge check. As water quality varies by location, it's important to monitor your filter's condition regularly.</p>
+                <p class="pb-4">Filter mikrofiber kami secara efektif menyaring sisa-sisa karat, kotoran, atau kontaminan dalam air. Warna filter akan berangsur-angsur berubah menjadi cokelat setelah penggunaan. Karena kualitas air bervariasi berdasarkan lokasi, penting untuk memantau kondisi filter secara rutin. Kami sarankan untuk mengganti filter setelah 2-3 bulan penggunaan.</p>
 
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
                         <input type="checkbox" name="accordion-1" id="cb2">
-                        <label for="cb2" class="tab__label">Buy Now</label>
+                        <label for="cb2" class="tab__label">Beli Sekarang</label>
                         <div class="tab__content">
                             <a class="flex p-4" href="http://bit.ly/aromasenseindo
                             ">
                                 <div class="iconbuy mr-3"><img src="img/icon/whatsapp.png" alt=""></div>
-                                Shop via WhatsApp
+                                Tersedia di WhatsApp
                             </a>
                             <a class="flex p-4" href="https://s.shopee.co.id/AUa7E9rHiy">
                                 <div class="iconbuy mr-3"><img src="img/icon/shopee.png" alt=""></div>
-                                Shop via Shopee
+                                Tersedia di Shopee
                             </a>
                             <a class="flex p-4" href="https://www.tokopedia.com/oceantial/microfiber-filter-as-arofix-as-701-5-pcs?extParam=src%3Dshop%26whid%3D7243527">
                                 <div class="iconbuy mr-3"><img src="img/icon/tokopedia.png" alt=""></div>
-                                Shop via Tokopedia
+                                Tersedia di Tokopedia
                             </a>
                             <a class="flex p-4" href="https://www.tiktok.com/@oceantial">
                                 <div class="iconbuy mr-3"><img src="img/icon/tiktok.png" alt=""></div>
-                                Shop via TikTok Shop
+                                Tersedia di TikTok Shop
                             </a>
                         </div>
                     </div>
@@ -82,7 +82,7 @@ require('inc/base.php')
             <div class="product-list">
                 <div class="container pl-4 pb-6">
                     <div class="text-left">
-                        <h2 class="font-bold text-3xl capitalize">Related Products </h2>
+                        <h2 class="font-bold text-3xl capitalize">Produk Terkait</h2>
                     </div>
                 </div>
                 <?php require($_SERVER['PUBLIC'] . 'inc/related-product.php') ?>

@@ -47,24 +47,24 @@ require('inc/base.php')
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
                         <input type="checkbox" name="accordion-1" id="cb2">
-                        <label for="cb2" class="tab__label">Buy Now</label>
+                        <label for="cb2" class="tab__label">Beli Sekarang</label>
                         <div class="tab__content">
                             <a class="flex p-4" href="http://bit.ly/aromasenseindo
                             ">
                                 <div class="iconbuy mr-3"><img src="img/icon/whatsapp.png" alt=""></div>
-                                Shop via WhatsApp
+                                Tersedia di WhatsApp
                             </a>
                             <a class="flex p-4" href="https://s.shopee.co.id/9A4jf17Ma8">
                                 <div class="iconbuy mr-3"><img src="img/icon/shopee.png" alt=""></div>
-                                Shop via Shopee
+                                Tersedia di Shopee
                             </a>
                             <a class="flex p-4" href="https://www.tokopedia.com/oceantial">
                                 <div class="iconbuy mr-3"><img src="img/icon/tokopedia.png" alt=""></div>
-                                Shop via Tokopedia
+                                Tersedia di Tokopedia
                             </a>
                             <a class="flex p-4" href="https://www.tiktok.com/@oceantial">
                                 <div class="iconbuy mr-3"><img src="img/icon/tiktok.png" alt=""></div>
-                                Shop via TikTok Shop
+                                Tersedia di TikTok Shop
                             </a>
                         </div>
                     </div>
@@ -74,11 +74,11 @@ require('inc/base.php')
 
     <section class="w-full lg:pb-40 lg:pt-20 lg:px-20">
         <div class="container mx-auto">
-            <!-- Related Products -->
+            <!-- Produk Terkait-->
             <div class="product-list">
                 <div class="container pl-4 pb-6">
                     <div class="text-left">
-                        <h2 class="font-bold text-3xl capitalize">Related Products </h2>
+                        <h2 class="font-bold text-3xl capitalize">Produk Terkait</h2>
                     </div>
                 </div>
                 <?php require($_SERVER['PUBLIC'] . 'inc/related-product.php') ?>
