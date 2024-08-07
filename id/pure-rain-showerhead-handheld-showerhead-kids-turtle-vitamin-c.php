@@ -1,5 +1,5 @@
 <?php
-$page = 'detail51';
+$page = 'detail51-indo';
 require('../inc/base.php')
 ?>
 <?php require($_SERVER['PUBLIC'] . 'inc/meta.php') ?>
@@ -40,9 +40,8 @@ require('../inc/base.php')
                 <div class="price pb-8">
                     <h2 class="font-semibold text-2xl">IDR 500,000</h2>
                 </div>
-                <p class="pb-4">The Pure Rain Kids Turtle Showerhead transforms bath time into a magical aquatic adventure. Featuring dual microfiber filters to purify the water of rust, pollutants, and lime, as well as an antibacterial ceramic ball to ward off germs, this innovative fixture ensures little ones enjoy a clean, rejuvenating rinse. But the real delight lies in its captivating design and performance - the showerhead's unique spray plate creates a cascade that mimics a gentle ocean current, alternating between powerful and soft bursts that thrill and soothe. </p>
-
-
+                <p class="pb-4">Showerhead Pure Rain Turtle mengubah waktu mandi menjadi petualangan akuatik yang magis bagi si kecil. Dilengkapi dengan dua filter microfiber untuk menyaring karat, polutan, dan kerak, serta bola keramik antibakteri untuk mencegah kuman, perangkat inovatif ini menjamin anak-anak menikmati mandi yang bersih dan menyegarkan.</p>
+                <p class="pb-4">Namun, kesenangan sesungguhnya terletak pada desain dan kinerjanya yang memukau. Pelat semprot unik pada kepala shower ini menciptakan aliran air yang meniru arus laut yang lembut, bergantian antara semprotan kuat dan lembut yang membersihkan secara maksimal sekaligus menenangkan.</p>
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
                         <input type="checkbox" name="accordion-1" id="cb2">

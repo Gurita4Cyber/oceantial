@@ -1,5 +1,5 @@
 <?php
-$page = 'detail52';
+$page = 'detail52-indo';
 require('../inc/base.php')
 ?>
 <?php require($_SERVER['PUBLIC'] . 'inc/meta.php') ?>
@@ -40,9 +40,9 @@ require('../inc/base.php')
                 <div class="price pb-8">
                     <h2 class="font-semibold text-2xl">IDR 360,000</h2>
                 </div>
-                <p class="pb-4">The Aroma Sense Super Jet Wide PR-SJW Showerhead is the market's best water-saving option. Made with durable, high-quality materials, it enhances water pressure while significantly reducing consumption. Delivering a refreshing, waterfall-like shower experience at an affordable price, this exceptional value-for-money showerhead is a popular choice for public facilities and commercial settings. Featuring patented technology, it increases flow rate by up to 400% and doubles the cleaning power, all while saving over 40% on water and energy usage. The showerhead also effectively filters out lime, metals, and other impurities, preventing them from staining your bathroom. Aroma Sense Super Jet Wide PR-SJW is the ultimate water-saving solution.</p>
-
-
+                <p class="pb-4">Showerhead Aroma Sense Super Jet Wide PR-SJW adalah pilihan terbaik untuk menghemat penggunaan air. Dibuat dari bahan berkualitas tinggi yang tahan lama, produk ini mampu meningkatkan tekanan air sekaligus secara signifikan mengurangi konsumsi air.</p>
+                <p class="pb-4">Menghadirkan pengalaman shower yang menyegarkan bagaikan air terjun dengan harga terjangkau, showerhead ini menjadi pilihan tepat untuk fasilitas umum dan penggunaan komersial.</p>
+                <p class="pb-4">Berkat teknologi canggih yang dipatenkan, produk ini mampu meningkatkan laju aliran air hingga 400% dan menggandakan kemampuan pembersihan, seraya menghemat penggunaan air dan energi hingga lebih dari 40%. Kepala shower ini juga secara efektif menyaring kerak, logam, dan pengotor lain, mencegah mereka menodai kamar mandi Anda. Aroma Sense Super Jet Wide PR-SJW adalah solusi hemat air terbaik yang wajib Anda miliki.</p>
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
                         <input type="checkbox" name="accordion-1" id="cb2">

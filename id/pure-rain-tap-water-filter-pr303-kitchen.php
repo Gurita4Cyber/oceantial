@@ -40,9 +40,8 @@ require('../inc/base.php')
                 <div class="price pb-8">
                     <h2 class="font-semibold text-2xl">IDR 290,000</h2>
                 </div>
-                <p class="pb-4">Bring the invigorating essence of a pure mountain spring to your kitchen sink with the Pure Rain PR303 - a masterfully engineered water filtration system that transforms ordinary tap water into a crisp, clean, and rejuvenating elixir. Its dual-stage filtration process first traps debris, rust, and other contaminants, then infuses the water with the revitalizing power of Vitamin C to neutralize lingering chlorine. Harnessing the innovative triangular water plate design, the PR303 delivers a powerful, yet water-efficient stream that elevates your daily hydration and enhances the cleaning performance of your kitchen tasks.</p>
-
-
+                <p class="pb-4">Bawa kesegaran murni mata air pegunungan ke wastafel dapur Anda dengan Pure Rain PR303 sistem filtrasi air yang dirancang untuk mengubah air keran biasa menjadi air yang bersih, dan menyegarkan.</p>
+                <p class="pb-4">Proses filtrasi dua-tahap pertama-tama menyaring serpihan, karat, dan kontaminan lain, kemudian memperkaya air dengan kekuatan revitalisasi vitamin C untuk menetralisir sisa klorin. Dengan memanfaatkan desain pelat air segitiga inovatif, filter keran PR303 menghadirkan aliran kuat namun hemat air yang memaksimalkan kebersihan bahan makanan, serta alat makan sehari-hari.</p>
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
                         <input type="checkbox" name="accordion-1" id="cb2">

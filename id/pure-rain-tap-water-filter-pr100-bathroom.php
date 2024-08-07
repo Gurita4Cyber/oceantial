@@ -40,9 +40,8 @@ require('../inc/base.php')
                 <div class="price pb-8">
                     <h2 class="font-semibold text-2xl">IDR 120,000</h2>
                 </div>
-                <p class="pb-4">Enjoy the purity of fresh rainfall with the Pure Rain PR100 - a sleek, two-stage filter that transforms ordinary tap water into a healthier, better-tasting hydration experience. Its advanced filtration system first traps sediment, rust, and other contaminants, then infuses the water with the rejuvenating power of Vitamin C to neutralize lingering chlorine. Say goodbye to the harsh chemical aftertaste and hello to clean, crisp water that's bursting with natural refreshment. The Pure Rain PR100 - bringing the revitalizing essence of nature straight to your fingertips.</p>
-
-
+                <p class="pb-4">Rasakan kemurnian air hujan dengan Pure Rain PR100. Sistem filtrasinya yang canggih mampu menyaring sedimen, karat, dan kontaminan lainnya, lalu memperkaya air dengan kekuatan penyegaran vitamin C untuk menetralisir sisa klorin.</p>
+                <p class="pb-4">Ucapkan selamat tinggal pada rasa kimiawi pada air yang menyengat, dan saatnya menikmati air bersih, serta penuh kesegaran alami. Filter keran Pure Rain PR100 membawa inti revitalisasi alam langsung ke ujung jari Anda.</p>
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
                         <input type="checkbox" name="accordion-1" id="cb2">

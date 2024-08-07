@@ -1,5 +1,5 @@
 <?php
-$page = 'detail50';
+$page = 'detail50-indo';
 require('../inc/base.php')
 ?>
 <?php require($_SERVER['PUBLIC'] . 'inc/meta.php') ?>
@@ -40,9 +40,8 @@ require('../inc/base.php')
                 <div class="price pb-8">
                     <h2 class="font-semibold text-2xl">IDR 500,000</h2>
                 </div>
-                <p class="pb-4">The Pure Rain Kids Shark Pink Showerhead provides a safe and enjoyable shower experience for little ones. Featuring dual microfiber filters to remove rust, pollutants, and lime, as well as an antibacterial ceramic ball filter to prevent germs, this showerhead ensures clean, healthy water. Additionally, the innovative design boosts water pressure while conserving usage, delivering a powerful yet luxuriously soft spray that kids are sure to love. Designed with safety and fun in mind, the Pure Rain Kids Shark Pink Showerhead makes bath time a fun experience.</p>
-
-
+                <p class="pb-4">Showerhead Pure Rain Kids Shark Pink memberikan pengalaman mandi yang aman dan menyenangkan bagi anak-anak. Dilengkapi dengan dua filter microfiber untuk menyaring karat, polutan, dan kerak, serta filter bola keramik antibakteri untuk mencegah kuman, kepala shower ini memastikan air yang bersih dan sehat.</p>
+                <p class="pb-4">Selain itu, desain inovatifnya mampu meningkatkan tekanan air sekaligus menghemat pemakaian air, memberikan semprotan yang kuat namun lembut yang cocok untuk anak-anak. Dirancang dengan fokus pada keamanan dan kesenangan, Showerhead Kids Pure Rain Shark Pink membuat waktu mandi menjadi pengalaman yang menyenangkan.</p>
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
                         <input type="checkbox" name="accordion-1" id="cb2">

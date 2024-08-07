@@ -15,9 +15,8 @@ require('../inc/base.php')
     <section class="w-full pb-20 pt-20 lg:px-20 relative">
         <div class="container px-5 pt-20 mx-auto flex sm:flex-nowrap flex-wrap">
             <div class="lg:w-2/3 rounded-lg overflow-hidden flex items-end justify-start relative">
-                <div class="relative">
-                    <img src="img/product/1.jpg" alt="">
-                    <img class="absolute top-0 left-0 w-20 border border-btnbg rounded-md" src="img/showerhead/1.jpg" alt="">
+            <div class="relative">
+                    <img src="img/Water-Lab---ACF-Filter.jpg" alt="Water Lab - ACF Filter">
                 </div>
             </div>
             <div class="lg:w-1/3 md:w-1/2 bg-white flex flex-col md:ml-auto w-full">
@@ -39,22 +38,10 @@ require('../inc/base.php')
                     </div>
                 </div>
                 <div class="price pb-8">
-                    <h2 class="font-semibold text-2xl">IDR 299,000</h2>
+                    <h2 class="font-semibold text-2xl">IDR 155,000</h2>
                 </div>
-                <p class="pb-4">Bring home the luxury and enjoyment before only experienced in five-star resorts. The
-                    Aroma Sense
-                    AS-9000 Vitamin C Showerhead, the first of its kind, emits Vitamin C, aromatherapy, and negative
-                    ions during your shower to rejuvenate your mind and body. The secret is the replaceable Vitamin C
-                    filter cartridge that promotes healthier skin and hair, and removes chlorine and other contaminants.
-                    The cartridge also contains natural aroma oils, which release an aromatherapy effect to relieve
-                    stress and relax your mind.
-
-                </p>
-                <p class="pb-4">This shower head offers 1.5x the water pressure of ordinary showerheads, while reducing
-                    water
-                    consumption by 25%. The light and elegant design with a perfect-size grip enables an unbeatable
-                    handheld experience. The grip handle can be easily disassembled for cartridge replacement.</p>
-
+                <p class="pb-4">Filter ACF (Activated Carbon Fiber) Water Lab merupakan sistem pemurnian air revolusioner yang memanfaatkan desain paten untuk menyingkirkan kontaminan paling sulit ditangani. Dengan inti serat karbon aktifnya, filter ini secara efektif menghilangkan bau air keran, sisa klorin, serta 99,9% logam berat dan produk sampingan bahan kimia berbahaya seperti timbal dan nikel.</p>
+                <p class="pb-4">Dengan metode pengulingan unik untuk memaksimalkan luas permukaan demi penyerapan yang lebih baik, serta konfigurasi mikropori khusus untuk penyerapan yang lebih cepat, Filter ACF Water Lab menghadirkan air bersih, segar, dan bebas bau. Selain itu, filter ini membantu mencegah masalah kulit sensitif dan kerontokan rambut dengan menyingkirkan sisa klorin dan senyawa kimia berbahaya, memberikan solusi lengkap untuk kualitas air yang lebih baik.</p>
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
                         <input type="checkbox" name="accordion-1" id="cb2">
