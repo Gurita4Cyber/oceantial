@@ -13,12 +13,15 @@
                     <?php require('menu-desktop.php') ?>
                 </div>
             </div>
+            <!-- translate -->
             <div class="navfont order-3 lg:flex hidden sm:hidden text-biru">
                 <div class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
                     <div class="text-xl font-thin flex items-center">
                         <div class="flex ml-6 items-center">
 
                             <div class="relative">
+
+
                                 <?php if ($page == 'detail1') { ?>
                                     <select class="vodiapicker">
                                         <option value="<?php if ($page == 'detail1') { ?>aroma-sense-microfiber-filter-701<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
@@ -749,6 +752,38 @@
                                         <option value="<?php if ($page == 'about-us-indo') { ?>about-us<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
                                     </select>
                                 <?php } ?>
+
+                                <?php if ($page == 'how-it-works') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'how-it-works') { ?>how-it-works<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'how-it-works') { ?>id/how-it-works<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'how-it-works-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'how-it-works-indo') { ?>id/how-it-works<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'how-it-works-indo') { ?>how-it-works<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+
+                                <?php if ($page == 'faqs') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'faqs') { ?>faqs<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                        <option value="<?php if ($page == 'faqs') { ?>id/faqs<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                    </select>
+                                <?php } ?>
+
+                                <?php if ($page == 'faqs-indo') { ?>
+                                    <select class="vodiapicker">
+                                        <option value="<?php if ($page == 'faqs-indo') { ?>id/faqs<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'faqs-indo') { ?>faqs<?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
+                                    </select>
+                                <?php } ?>
+
+
+
                                 <div class="lang-select">
                                     <button class="btn-select blackbtn" value=""></button>
                                     <div class="b blacklanguage">
@@ -778,6 +813,7 @@
                 </div>
 
             </div>
+            <!-- translate end -->
 
         </div>
         <!-- mobile menu navigation -->

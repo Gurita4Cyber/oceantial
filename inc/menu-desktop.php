@@ -499,18 +499,18 @@
         </div>
     </div>
 </div>
-<div class="nav-a <?php if ($page == 'how-it-works') { ?>active <?php } ?>">
+<div class="nav-a <?php if ($page == 'how-it-works' || $page == 'how-it-works-indo') { ?>active <?php } ?>">
     <a href="how-it-works" class="p-5 text-base inline-flex items-center">
         How it Works
     </a>
 </div>
-<div class="nav-a <?php if ($page == 'faqs') { ?>active <?php } ?>">
+<div class="nav-a <?php if ($page == 'faqs' || $page == 'faqs-indo') { ?>active <?php } ?>">
     <a href="faqs" class="p-5 text-base inline-flex items-center">
         FAQs
     </a>
 </div>
 
-<div class="nav-a <?php if ($page == 'about-us') { ?>active <?php } ?>">
+<div class="nav-a <?php if ($page == 'about-us' || $page == 'about-us-indo') { ?>active <?php } ?>">
     <a href="about-us" class="p-5 text-base inline-flex items-center">
         About Us
     </a>
