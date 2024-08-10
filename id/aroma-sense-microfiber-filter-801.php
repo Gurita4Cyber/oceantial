@@ -81,7 +81,8 @@ require('../inc/base.php')
                         <h2 class="font-bold text-3xl capitalize">Produk Terkait</h2>
                     </div>
                 </div>
-                <?php require($_SERVER['PUBLIC'] . 'inc/related-product.php') ?>
+                <?php
+                require($_SERVER['PUBLIC'] . 'inc/related-product.php') ?>
             </div>
 
         </div>
