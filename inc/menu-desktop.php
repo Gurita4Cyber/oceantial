@@ -3,7 +3,7 @@
         Home
     </a>
 </div>
-<div class="nav-a toggleable blacktogle vfb-checkbox">
+<div class="nav-a toggleable <?php if ($page != 'home') { ?>blacktogle <?php } ?> vfb-checkbox">
     <input type="checkbox" value="selected" id="toggle-one" class="toggle-input">
     <label for="toggle-one" class="block cursor-pointer p-5 text-sm lg:text-base">Shop</label>
     <div role="toggle" class="p-6 mega-menu mb-16 sm:mb-0 shadow-xl bg-white">
