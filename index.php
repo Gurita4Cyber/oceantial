@@ -87,7 +87,7 @@ require('inc/base.php')
           </div>
         </div>
         <div class="w-full bg-gray-100 relative mb-8 rounded-xl overflow-hidden group">
-          <img alt="gallery" class="w-full object-cover lg:h-[560px] h-full object-center block rounded-[32px]" src="img/sample/4.jpg">
+          <img alt="gallery" class="w-full object-cover lg:h-[560px] h-full object-center block rounded-[32px]" src="img/Oceantial_PureRain_Final.jpg">
           <div class="text-left left-0 absolute z-10 w-full hbox bottom-0 p-10">
             <div class="flex items-center gap-2">
               <h2 class="text-4xl text-white font-medium title-font mb-2">Aroma Sense</h2>

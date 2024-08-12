@@ -20,7 +20,7 @@
                             <li><a href="#tree"> Aroma Tube </a></li>
                             <li><a href="#four"> Filter </a></li>
                             <li><a href="#five"> Home </a></li>
-                            <li><a href="#six"> orther </a></li>
+                            <li><a href="#six"> Other </a></li>
                         </ul>
                     </div>
                 </div>
@@ -378,9 +378,9 @@
 
                         </div>
                     </div>
-                    <!-- orther -->
+                    <!-- Other -->
                     <div id="six" class="hidden p-4">
-                        <h2 class="text-2xl text-font-nav pb-6">Orther</h2>
+                        <h2 class="text-2xl text-font-nav pb-6">Other</h2>
                         <div class="flex justify-between">
                             <div class="p-6">
                                 <div class="inline-flex items-center pb-6">
