@@ -335,6 +335,7 @@ button.btn-select li a {
 .crousel-desktop li a:hover{background:#e0ded454;}
 .crousel-desktop li a{ padding:20px 10px; border-radius: 8px; display: block; }
 .navmenubig li a{font-weight:  400 !important;}
+.container.px-5.pt-20.mx-auto.flex.sm\:flex-nowrap.flex-wrap { gap: 40px; }
 
 
 
