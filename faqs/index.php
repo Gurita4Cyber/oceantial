@@ -38,7 +38,7 @@ require('../inc/base.php')
         <div class="container mx-auto lg:border-b-2 lg:border-gray-100 lg:py-20 py-16">
             <div class="flex flex-wrap lg:-m-5">
                 <div class="lg:p-5 p-2 lg:w-1/3 flex flex-col items-start">
-                    <h2 class="lg:text-3xl text-2xl font-semibold">Showehead</h2>
+                    <h2 class="lg:text-3xl text-2xl font-semibold">Showerhead</h2>
                 </div>
                 <div class="lg:p-5 p-2 lg:w-2/3 flex flex-col items-start">
 
