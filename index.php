@@ -1401,8 +1401,7 @@ require('inc/base.php')
 
               </div>
 
-              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Microfiber Tap Water Filter
-                (Bathroom) PR100
+              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Microfiber Tap Water Filter (Bathroom) PR100
               </h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
             </div>
@@ -1417,14 +1416,13 @@ require('inc/base.php')
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#F4CF7A" />
                 </svg>
-
               </div>
 
-              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Microfiber Tap Water Filter PR300 (Kitchen)
-              </h2>
+              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Microfiber Tap Water Filter PR300 (Kitchen)</h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
             </div>
           </a>
+          
 
 
         </div>
