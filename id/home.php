@@ -1018,91 +1018,86 @@ require('../inc/base.php')
                     </a>
                 </div>
             </div>
-            <!-- home -->
-            <div class="product-list">
-                <div class="container pb-6 pt-20 pl-4">
-                    <div class="text-left">
-                        <h2 class="font-bold text-3xl capitalize">Home </h2>
-                    </div>
-                </div>
-                <div class="flex flex-wrap w-full">
-                    <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
-                        <div class="block relative rounded overflow-hidden">
-                            <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/1.jpg">
-                        </div>
-                        <div class="mt-8">
-                            <div class="inline-flex items-center">
-                                <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
-                                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#F4CF7A" />
-                                </svg>
-                            </div>
-
-                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Alat Tap Water Filter PR100
-                                (Bathroom) </h2>
-                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
-                        </div>
-                    </a>
-                    <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
-                        <div class="block relative rounded overflow-hidden">
-                            <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/2.jpg">
-                        </div>
-                        <div class="mt-8">
-                            <div class="inline-flex items-center">
-                                <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
-                                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#F4CF7A" />
-                                </svg>
-
-                            </div>
-
-                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Alat Tap Water Filter PR303
-                                (Kitchen) </h2>
-                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
-                        </div>
-                    </a>
-                    <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
-                        <div class="block relative rounded overflow-hidden">
-                            <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/3.jpg">
-                        </div>
-                        <div class="mt-8">
-                            <div class="inline-flex items-center">
-                                <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
-                                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#F4CF7A" />
-                                </svg>
-
-                            </div>
-
-                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Microfiber Tap Water Filter
-                                (Bathroom) PR100
-                            </h2>
-                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
-                        </div>
-                    </a>
-                    <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
-                        <div class="block relative rounded overflow-hidden">
-                            <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/4.jpg">
-                        </div>
-                        <div class="mt-8">
-                            <div class="inline-flex items-center">
-                                <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
-                                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#F4CF7A" />
-                                </svg>
-
-                            </div>
-
-                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Microfiber Tap Water Filter PR300
-                                (Kitchen)
-                            </h2>
-                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
-                        </div>
-                    </a>
-
-
-                </div>
+            <<!-- home -->
+      <div class="product-list">
+        <div class="container pb-6 pt-20 pl-4">
+          <div class="text-left">
+            <h2 class="font-bold text-3xl capitalize">Home </h2>
+          </div>
+        </div>
+        <div class="flex flex-wrap w-full">
+          <a href="pure-rain-tap-water-filter-pr100-bathroom" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/1.jpg">
             </div>
+            <div class="mt-8">
+              <div class="inline-flex items-center gap-1">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#F4CF7A" />
+                </svg>
+              </div>
+
+              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Alat Tap Water Filter PR100 (Bathroom) </h2>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
+            </div>
+          </a>
+          <a href="pure-rain-tap-water-filter-pr303-kitchen" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/2.jpg">
+            </div>
+            <div class="mt-8">
+              <div class="inline-flex items-center gap-1">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#F4CF7A" />
+                </svg>
+
+              </div>
+
+              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Alat Tap Water Filter PR303 (Kitchen) </h2>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 290,000</p>
+            </div>
+          </a>
+          <a href="pure-rain-microfiber-tap-water-filter-pr100-bathroom" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/3.jpg">
+            </div>
+            <div class="mt-8">
+              <div class="inline-flex items-center gap-1">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#F4CF7A" />
+                </svg>
+
+              </div>
+
+              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Microfiber Tap Water Filter (Bathroom) PR100
+              </h2>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
+            </div>
+          </a>
+          <a href="pure-rain-microfiber-tap-water-filter-pr303-kitchen" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+            <div class="block relative rounded overflow-hidden">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/4.jpg">
+            </div>
+            <div class="mt-8">
+              <div class="inline-flex items-center gap-1">
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#F4CF7A" />
+                </svg>
+
+              </div>
+
+              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Microfiber Tap Water Filter PR300 (Kitchen)</h2>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
+            </div>
+          </a>
+          
+
+        </div>
+      </div>
             <!-- Aromatube -->
             <div class="product-list">
                 <div class="container pb-6 pt-20 pl-4">
@@ -1125,7 +1120,7 @@ require('../inc/base.php')
 
                             </div>
 
-                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartidges Aroma Therapy
+                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartridges Aroma Therapy
                                 for Shower
                                 Arofix - Neutral (1 pcs)</h2>
                             <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
@@ -1144,7 +1139,7 @@ require('../inc/base.php')
 
                             </div>
 
-                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartidges - Vanilla
+                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartridges - Vanilla
                                 Coconut (1 pcs)
                             </h2>
                             <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
@@ -1164,7 +1159,7 @@ require('../inc/base.php')
 
                             </div>
 
-                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartidges Aroma Therapy
+                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartridges Aroma Therapy
                                 for Shower
                                 Arofix - Lavender (1 pcs)</h2>
                             <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
@@ -1183,7 +1178,7 @@ require('../inc/base.php')
 
                             </div>
 
-                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartidges - Pine
+                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartridges - Pine
                                 (1 pcs)</h2>
                             <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
                         </div>
@@ -1458,7 +1453,7 @@ require('../inc/base.php')
 
                             </div>
 
-                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartidges Aroma Therapy
+                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartridges Aroma Therapy
                                 for Shower
                                 Arofix - Neutral (1 pcs)</h2>
                             <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
@@ -1477,7 +1472,7 @@ require('../inc/base.php')
 
                             </div>
 
-                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartidges - Vanilla
+                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C cartridges - Vanilla
                                 Coconut (1 pcs)
                             </h2>
                             <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
@@ -1497,7 +1492,7 @@ require('../inc/base.php')
 
                             </div>
 
-                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartidges Aroma Therapy
+                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C cartridges Aroma Therapy
                                 for Shower
                                 Arofix - Lavender (1 pcs)</h2>
                             <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
@@ -1516,7 +1511,7 @@ require('../inc/base.php')
 
                             </div>
 
-                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartidges - Pine
+                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C cartridges - Pine
                                 (1 pcs)</h2>
                             <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
                         </div>

@@ -1100,11 +1100,11 @@ require('inc/base.php')
       <div class="product-list">
         <div class="container pb-6 pt-20 pl-4">
           <div class="text-left">
-            <h2 class="font-bold text-3xl capitalize">aromatube </h2>
+            <h2 class="font-bold text-3xl capitalize">Aromatube</h2>
           </div>
         </div>
         <div class="flex flex-wrap w-full">
-          <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+          <a href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/1.jpg">
             </div>
@@ -1118,13 +1118,12 @@ require('inc/base.php')
 
               </div>
 
-              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartidges Aroma Therapy
-                for Shower
+              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartridges Aroma Therapy for Shower
                 Arofix - Neutral (1 pcs)</h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
           </a>
-          <a href="aroma-sense-vitamin-c-cartidges -vanilla-coconut" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+          <a href="aroma-sense-vitamin-c-cartridges-vanilla-coconut" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/2.jpg">
             </div>
@@ -1137,13 +1136,13 @@ require('inc/base.php')
 
               </div>
 
-              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartidges - Vanilla
+              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartridges - Vanilla
                 Coconut (1 pcs)
               </h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
           </a>
-          <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+          <a href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/3.jpg">
             </div>
@@ -1157,13 +1156,13 @@ require('inc/base.php')
 
               </div>
 
-              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartidges Aroma Therapy
+              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartridges Aroma Therapy
                 for Shower
                 Arofix - Lavender (1 pcs)</h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
           </a>
-          <a href="aroma-sense-vitamin-c-cartidges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+          <a href="aroma-sense-vitamin-c-cartridges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/4.jpg">
             </div>
@@ -1176,7 +1175,7 @@ require('inc/base.php')
 
               </div>
 
-              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartidges - Pine
+              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartridges - Pine
                 (1 pcs)</h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
@@ -1432,7 +1431,7 @@ require('inc/base.php')
       <div class="product-list">
 
         <div class="flex flex-wrap w-full">
-          <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+          <a href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/1.jpg">
             </div>
@@ -1446,13 +1445,13 @@ require('inc/base.php')
 
               </div>
 
-              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartidges Aroma Therapy
+              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C cartridges Aroma Therapy
                 for Shower
                 Arofix - Neutral (1 pcs)</h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
           </a>
-          <a href="aroma-sense-vitamin-c-cartidges -vanilla-coconut" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+          <a href="aroma-sense-vitamin-c-cartridges -vanilla-coconut" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/2.jpg">
             </div>
@@ -1465,13 +1464,13 @@ require('inc/base.php')
 
               </div>
 
-              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartidges - Vanilla
+              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartridges - Vanilla
                 Coconut (1 pcs)
               </h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
           </a>
-          <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+          <a href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/3.jpg">
             </div>
@@ -1485,13 +1484,13 @@ require('inc/base.php')
 
               </div>
 
-              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartidges Aroma Therapy
+              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartridges Aroma Therapy
                 for Shower
                 Arofix - Lavender (1 pcs)</h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
           </a>
-          <a href="aroma-sense-vitamin-c-cartidges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+          <a href="aroma-sense-vitamin-c-cartridges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/4.jpg">
             </div>
@@ -1504,7 +1503,7 @@ require('inc/base.php')
 
               </div>
 
-              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartidges - Pine
+              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartridges - Pine
                 (1 pcs)</h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
