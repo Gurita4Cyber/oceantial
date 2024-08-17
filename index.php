@@ -959,7 +959,7 @@ require('inc/base.php')
 
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Showerhead Handheld - Showerhead
                 801</h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
             </div>
           </a>
           <a href="aroma-sense-showerhead-handheld-showerhead-701" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
@@ -976,7 +976,7 @@ require('inc/base.php')
 
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Showerhead Handheld - Showerhead
                 701</h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 145,000</p>
             </div>
           </a>
           <a href="aroma-sense-showerhead-handheld-as9000-vitamin-c" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
@@ -995,7 +995,7 @@ require('inc/base.php')
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Showerhead Handheld - Medium AS9000
                 Vitamin C
               </h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 690,000</p>
             </div>
           </a>
           <a href="aroma-sense-showerhead-handheld-mist-vitamin-c" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
@@ -1013,7 +1013,7 @@ require('inc/base.php')
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Showerhead Handheld - Showerhead
                 Mist Vitamin
                 C</h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 890,000</p>
             </div>
           </a>
         </div>
@@ -1038,9 +1038,8 @@ require('inc/base.php')
                 </svg>
               </div>
 
-              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Alat Tap Water Filter PR100
-                (Bathroom) </h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Microfiber Tap Water Filter PR100 (bathroom) </h2>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
             </div>
           </a>
           <a href="pure-rain-microfiber-tap-water-filter-pr303-(kitchen)" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
@@ -1058,7 +1057,7 @@ require('inc/base.php')
 
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Alat Tap Water Filter PR303
                 (Kitchen) </h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 290,000</p>
             </div>
           </a>
           <a href="pure-rain-microfiber-tap-water-filter-pr100-(bathroom)" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
@@ -1077,7 +1076,7 @@ require('inc/base.php')
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Microfiber Tap Water Filter
                 (Bathroom) PR100
               </h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
             </div>
           </a>
           <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
@@ -1096,7 +1095,7 @@ require('inc/base.php')
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Microfiber Tap Water Filter PR300
                 (Kitchen)
               </h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
             </div>
           </a>
 
@@ -1128,7 +1127,7 @@ require('inc/base.php')
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartidges Aroma Therapy
                 for Shower
                 Arofix - Neutral (1 pcs)</h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
           </a>
           <a href="aroma-sense-vitamin-c-cartidges -vanilla-coconut" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
@@ -1147,7 +1146,7 @@ require('inc/base.php')
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartidges - Vanilla
                 Coconut (1 pcs)
               </h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
           </a>
           <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
@@ -1167,7 +1166,7 @@ require('inc/base.php')
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartidges Aroma Therapy
                 for Shower
                 Arofix - Lavender (1 pcs)</h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
           </a>
           <a href="aroma-sense-vitamin-c-cartidges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
@@ -1185,7 +1184,7 @@ require('inc/base.php')
 
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartidges - Pine
                 (1 pcs)</h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
           </a>
 
@@ -1215,7 +1214,7 @@ require('inc/base.php')
 
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">SH - Showerhead Kids Shark Pink
                 Vitamin C</h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 500,000</p>
             </div>
           </a>
           <a href="pure-rain-showerhead-handheld-showerhead-kids-shark-blue-vitamin-c" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
@@ -1233,7 +1232,7 @@ require('inc/base.php')
 
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">SH - Showerhead Kids Shark Blue
                 Vitamin C</h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 500,000</p>
             </div>
           </a>
           <a href="pure-rain-showerhead-handheld-showerhead-kids-turtle-vitamin-c" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
@@ -1252,7 +1251,7 @@ require('inc/base.php')
 
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">SH - Showerhead Kids Turtle Vitamin
                 C</h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 500,000</p>
             </div>
           </a>
 
@@ -1298,7 +1297,7 @@ require('inc/base.php')
 
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Showerhead Handheld - Showerhead
                 801</h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
             </div>
           </a>
           <a href="aroma-sense-showerhead-handheld-showerhead-701" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
@@ -1315,7 +1314,7 @@ require('inc/base.php')
 
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Showerhead Handheld - Showerhead
                 701</h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 145,000</p>
             </div>
           </a>
           <a href="aroma-sense-spare-parts-anti-bakteri-as9000-medium" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
@@ -1334,7 +1333,7 @@ require('inc/base.php')
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Showerhead Handheld - Medium AS9000
                 Vitamin C
               </h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 690,000</p>
             </div>
           </a>
           <a href="aroma-sense-showerhead-handheld-mist-vitamin-c" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
@@ -1352,7 +1351,7 @@ require('inc/base.php')
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Showerhead Handheld - Showerhead
                 Mist Vitamin
                 C</h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 890,000</p>
             </div>
           </a>
         </div>
@@ -1376,7 +1375,7 @@ require('inc/base.php')
               </div>
 
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Microfiber Tap Water Filter PR100 (bathroom) </h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
             </div>
           </a>
           <a href="pure-rain-microfiber-tap-water-filter-pr303-(kitchen)" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
@@ -1393,7 +1392,7 @@ require('inc/base.php')
               </div>
 
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Pure Rain Microfiber Tap Water Filter PR303 (kitchen) </h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
             </div>
           </a>
           <a href="pure-rain-microfiber-tap-water-filter-pr100-(bathroom)" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
@@ -1412,7 +1411,7 @@ require('inc/base.php')
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Microfiber Tap Water Filter
                 (Bathroom) PR100
               </h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
             </div>
           </a>
           <a href="pure-rain-tap-water-filter-pr303-(kitchen)" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
@@ -1431,7 +1430,7 @@ require('inc/base.php')
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Microfiber Tap Water Filter PR300
                 (Kitchen)
               </h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
             </div>
           </a>
 
@@ -1461,7 +1460,7 @@ require('inc/base.php')
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartidges Aroma Therapy
                 for Shower
                 Arofix - Neutral (1 pcs)</h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
           </a>
           <a href="aroma-sense-vitamin-c-cartidges -vanilla-coconut" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
@@ -1480,7 +1479,7 @@ require('inc/base.php')
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartidges - Vanilla
                 Coconut (1 pcs)
               </h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
           </a>
           <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
@@ -1500,7 +1499,7 @@ require('inc/base.php')
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartidges Aroma Therapy
                 for Shower
                 Arofix - Lavender (1 pcs)</h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
           </a>
           <a href="aroma-sense-vitamin-c-cartidges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
@@ -1518,7 +1517,7 @@ require('inc/base.php')
 
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartidges - Pine
                 (1 pcs)</h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
           </a>
 
@@ -1546,7 +1545,7 @@ require('inc/base.php')
 
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">SH - Showerhead Kids Shark Pink
                 Vitamin C</h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 500,000</p>
             </div>
           </a>
           <a href="pure-rain-showerhead-handheld-showerhead-kids-turtle-vitamin-c" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
@@ -1564,7 +1563,7 @@ require('inc/base.php')
 
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">SH - Showerhead Kids Shark Blue
                 Vitamin C</h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 500,000</p>
             </div>
           </a>
           <a href="pure-rain-showerhead-handheld-showerhead-kids-turtle-vitamin-c" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
@@ -1583,7 +1582,7 @@ require('inc/base.php')
 
               <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">SH - Showerhead Kids Turtle Vitamin
                 C</h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 500,000</p>
             </div>
           </a>
 
