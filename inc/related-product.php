@@ -1718,10 +1718,10 @@
     </div>
 <?php } ?>
 
-<!-- cartidges -->
+<!-- cartridges -->
 <?php if ($page == 'detail25') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Eucalyptus/Eucalyptus_WM_e3b11a3f-e397-45bd-81cd-e2a01119968f_720x.jpeg">
             </div>
@@ -1733,11 +1733,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix eucalyptus</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix eucalyptus</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lavender/MG_9476_3_2__54213.1490047346_720x.jpg">
             </div>
@@ -1749,11 +1749,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix lavender</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix lavender</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 249,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lemon/lemon-wm__81216_720x.jpeg">
             </div>
@@ -1766,12 +1766,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix lemon
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix lemon
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Neutral/AR-Neutral_540x540.jpeg">
             </div>
@@ -1783,7 +1783,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix neutral</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix neutral</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
@@ -1792,7 +1792,7 @@
 
 <?php if ($page == 'detail26') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="aroma-sense-vitamin-c-cartidges-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-EUCALYPTUS/eucalyptus-vitamin-c-cartridge4.jpg">
             </div>
@@ -1804,11 +1804,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges eucalyptus</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges eucalyptus</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-jasmine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-jasmine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-JASMINE/jasmine-vitamin-c-cartridges.jpg">
             </div>
@@ -1820,11 +1820,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges jasmine</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges jasmine</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lavender.jpg">
             </div>
@@ -1837,12 +1837,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges lavender
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges lavender
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-lemon-mango" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-lemon-mango" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="Aroma Sense - Vitamin C Cartridges - Lemon Mango" class="object-cover object-center w-full h-full block" src="img/Lemon-Mango.jpg">
             </div>
@@ -1854,7 +1854,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges lemon mango</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges lemon mango</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
@@ -1864,7 +1864,7 @@
 
 <?php if ($page == 'detail27') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="aroma-sense-vitamin-c-cartidges-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/1.jpg">
             </div>
@@ -1876,11 +1876,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges lemon</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges lemon</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Neutral.jpg">
             </div>
@@ -1892,11 +1892,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges neutral</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges neutral</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="Aroma Sense - Vitamin C Cartridges -  Phytoncide" class="object-cover object-center w-full h-full block" src="img/Phytoncide.jpg">
             </div>
@@ -1909,12 +1909,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges phytoncide
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges phytoncide
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-PINE/pine3in1abcd.jpg" alt="Aroma Sense - Vitamin C Cartridges -  Pine">
             </div>
@@ -1926,7 +1926,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges pine</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges pine</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
@@ -1936,7 +1936,7 @@
 
 <?php if ($page == 'detail28') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="aroma-sense-vitamin-c-cartidges-rose" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-rose" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-ROSE/rose_cartridge_aromasense_3.jpg" alt="Aroma Sense - Vitamin C Cartridges - Rose">
             </div>
@@ -1948,11 +1948,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges rose</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges rose</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-vanilla-coconut" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-vanilla-coconut" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Vanilla-Coconut.jpg" alt="Aroma Sense - Vitamin C Cartridges -  Vanilla Coconut">
             </div>
@@ -1968,7 +1968,7 @@
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Eucalyptus/Eucalyptus_WM_e3b11a3f-e397-45bd-81cd-e2a01119968f_720x.jpeg" alt="Aroma Sense - Vitamin C Cartridges Aroma Therapy for Shower Arofix - Eucalyptus>
             </div>
@@ -1981,12 +1981,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix eucalyptus
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix eucalyptus
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lavender/MG_9476_3_2__54213.1490047346_720x.jpg" alt="Aroma Sense - Vitamin C Cartridges Aroma Therapy for Shower Arofix - Lavender">
             </div>
@@ -1998,7 +1998,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix lavender</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix lavender</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
@@ -2008,7 +2008,7 @@
 
 <?php if ($page == 'detail29') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Eucalyptus/Eucalyptus_WM_e3b11a3f-e397-45bd-81cd-e2a01119968f_720x.jpeg">
             </div>
@@ -2020,11 +2020,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix eucalyptus</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix eucalyptus</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lavender/MG_9476_3_2__54213.1490047346_720x.jpg">
             </div>
@@ -2036,11 +2036,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix lavender</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix lavender</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 249,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lemon/lemon-wm__81216_720x.jpeg">
             </div>
@@ -2053,12 +2053,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix lemon
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix lemon
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Neutral/AR-Neutral_540x540.jpeg">
             </div>
@@ -2070,7 +2070,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix neutral</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix neutral</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
@@ -2080,7 +2080,7 @@
 
 <?php if ($page == 'detail30') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="aroma-sense-vitamin-c-cartidges-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-EUCALYPTUS/eucalyptus-vitamin-c-cartridge4.jpg">
             </div>
@@ -2092,11 +2092,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges eucalyptus</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges eucalyptus</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-jasmine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-jasmine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-JASMINE/jasmine-vitamin-c-cartridges.jpg">
             </div>
@@ -2108,11 +2108,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges jasmine</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges jasmine</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lavender.jpg">
             </div>
@@ -2125,12 +2125,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges lavender
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges lavender
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-lemon-mango" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-lemon-mango" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="Aroma Sense - Vitamin C Cartridges - Lemon Mango" class="object-cover object-center w-full h-full block" src="img/Lemon-Mango.jpg">
             </div>
@@ -2142,7 +2142,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges lemon mango</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges lemon mango</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
@@ -2152,7 +2152,7 @@
 
 <?php if ($page == 'detail31') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="aroma-sense-vitamin-c-cartidges-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/1.jpg">
             </div>
@@ -2164,11 +2164,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges lemon</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges lemon</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Neutral.jpg">
             </div>
@@ -2180,11 +2180,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges neutral</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges neutral</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="Aroma Sense - Vitamin C Cartridges -  Phytoncide" class="object-cover object-center w-full h-full block" src="img/Phytoncide.jpg">
             </div>
@@ -2197,12 +2197,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges phytoncide
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges phytoncide
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-PINE/pine3in1abcd.jpg" alt="Aroma Sense - Vitamin C Cartridges -  Pine">
             </div>
@@ -2214,7 +2214,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges pine</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges pine</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
@@ -2224,7 +2224,7 @@
 
 <?php if ($page == 'detail32') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="aroma-sense-vitamin-c-cartidges-rose" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-rose" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-ROSE/rose_cartridge_aromasense_3.jpg" alt="Aroma Sense - Vitamin C Cartridges - Rose">
             </div>
@@ -2236,11 +2236,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges rose</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges rose</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-vanilla-coconut" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-vanilla-coconut" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Vanilla-Coconut.jpg" alt="Aroma Sense - Vitamin C Cartridges -  Vanilla Coconut">
             </div>
@@ -2256,7 +2256,7 @@
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Eucalyptus/Eucalyptus_WM_e3b11a3f-e397-45bd-81cd-e2a01119968f_720x.jpeg" alt="Aroma Sense - Vitamin C Cartridges Aroma Therapy for Shower Arofix - Eucalyptus>
             </div>
@@ -2269,12 +2269,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix eucalyptus
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix eucalyptus
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lavender/MG_9476_3_2__54213.1490047346_720x.jpg" alt="Aroma Sense - Vitamin C Cartridges Aroma Therapy for Shower Arofix - Lavender">
             </div>
@@ -2286,7 +2286,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix lavender</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix lavender</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
@@ -2296,7 +2296,7 @@
 
 <?php if ($page == 'detail33') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Eucalyptus/Eucalyptus_WM_e3b11a3f-e397-45bd-81cd-e2a01119968f_720x.jpeg">
             </div>
@@ -2308,11 +2308,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix eucalyptus</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix eucalyptus</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lavender/MG_9476_3_2__54213.1490047346_720x.jpg">
             </div>
@@ -2324,11 +2324,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix lavender</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix lavender</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 249,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lemon/lemon-wm__81216_720x.jpeg">
             </div>
@@ -2341,12 +2341,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix lemon
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix lemon
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Neutral/AR-Neutral_540x540.jpeg">
             </div>
@@ -2358,7 +2358,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix neutral</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix neutral</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
@@ -2368,7 +2368,7 @@
 
 <?php if ($page == 'detail34') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="aroma-sense-vitamin-c-cartidges-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-EUCALYPTUS/eucalyptus-vitamin-c-cartridge4.jpg">
             </div>
@@ -2380,11 +2380,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges eucalyptus</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges eucalyptus</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-jasmine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-jasmine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-JASMINE/jasmine-vitamin-c-cartridges.jpg">
             </div>
@@ -2396,11 +2396,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges jasmine</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges jasmine</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lavender.jpg">
             </div>
@@ -2413,12 +2413,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges lavender
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges lavender
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-lemon-mango" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-lemon-mango" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="Aroma Sense - Vitamin C Cartridges - Lemon Mango" class="object-cover object-center w-full h-full block" src="img/Lemon-Mango.jpg">
             </div>
@@ -2430,7 +2430,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges lemon mango</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges lemon mango</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
@@ -2441,7 +2441,7 @@
 
 <?php if ($page == 'detail35') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="aroma-sense-vitamin-c-cartidges-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/1.jpg">
             </div>
@@ -2453,11 +2453,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges lemon</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges lemon</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Neutral.jpg">
             </div>
@@ -2469,11 +2469,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges neutral</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges neutral</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="Aroma Sense - Vitamin C Cartridges -  Phytoncide" class="object-cover object-center w-full h-full block" src="img/Phytoncide.jpg">
             </div>
@@ -2486,12 +2486,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges phytoncide
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges phytoncide
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-PINE/pine3in1abcd.jpg" alt="Aroma Sense - Vitamin C Cartridges -  Pine">
             </div>
@@ -2503,7 +2503,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges pine</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges pine</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
@@ -2513,7 +2513,7 @@
 
 <?php if ($page == 'detail36') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="aroma-sense-vitamin-c-cartidges-rose" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-rose" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-ROSE/rose_cartridge_aromasense_3.jpg" alt="Aroma Sense - Vitamin C Cartridges - Rose">
             </div>
@@ -2525,11 +2525,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges rose</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges rose</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-vanilla-coconut" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-vanilla-coconut" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Vanilla-Coconut.jpg" alt="Aroma Sense - Vitamin C Cartridges -  Vanilla Coconut">
             </div>
@@ -2545,7 +2545,7 @@
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Eucalyptus/Eucalyptus_WM_e3b11a3f-e397-45bd-81cd-e2a01119968f_720x.jpeg" alt="Aroma Sense - Vitamin C Cartridges Aroma Therapy for Shower Arofix - Eucalyptus>
             </div>
@@ -2558,12 +2558,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix eucalyptus
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix eucalyptus
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lavender/MG_9476_3_2__54213.1490047346_720x.jpg" alt="Aroma Sense - Vitamin C Cartridges Aroma Therapy for Shower Arofix - Lavender">
             </div>
@@ -2575,7 +2575,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix lavender</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix lavender</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
@@ -2585,7 +2585,7 @@
 
 <?php if ($page == 'detail37') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Eucalyptus/Eucalyptus_WM_e3b11a3f-e397-45bd-81cd-e2a01119968f_720x.jpeg">
             </div>
@@ -2597,11 +2597,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix eucalyptus</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix eucalyptus</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lavender/MG_9476_3_2__54213.1490047346_720x.jpg">
             </div>
@@ -2613,11 +2613,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix lavender</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix lavender</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 249,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lemon/lemon-wm__81216_720x.jpeg">
             </div>
@@ -2630,12 +2630,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix lemon
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix lemon
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Neutral/AR-Neutral_540x540.jpeg">
             </div>
@@ -2647,7 +2647,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix neutral</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix neutral</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
@@ -2657,7 +2657,7 @@
 
 <?php if ($page == 'detail38') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="aroma-sense-vitamin-c-cartidges-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/1.jpg">
             </div>
@@ -2669,11 +2669,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges lemon</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges lemon</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Neutral.jpg">
             </div>
@@ -2685,11 +2685,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges neutral</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges neutral</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="Aroma Sense - Vitamin C Cartridges -  Phytoncide" class="object-cover object-center w-full h-full block" src="img/Phytoncide.jpg">
             </div>
@@ -2702,12 +2702,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges phytoncide
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges phytoncide
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-PINE/pine3in1abcd.jpg" alt="Aroma Sense - Vitamin C Cartridges -  Pine">
             </div>
@@ -2719,13 +2719,13 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges pine</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges pine</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
     </div>
 <?php } ?>
-<!-- cartidges end -->
+<!-- cartridges end -->
 
 <!-- arofix -->
 <?php if ($page == 'detail39') { ?>
@@ -2762,7 +2762,7 @@
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 790,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="Aroma Sense - Vitamin C Cartridges -  Phytoncide" class="object-cover object-center w-full h-full block" src="img/Phytoncide.jpg">
             </div>
@@ -2775,12 +2775,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges phytoncide
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges phytoncide
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-PINE/pine3in1abcd.jpg" alt="Aroma Sense - Vitamin C Cartridges -  Pine">
             </div>
@@ -2792,7 +2792,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges pine</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges pine</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
@@ -2833,7 +2833,7 @@
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 790,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="Aroma Sense - Vitamin C Cartridges -  Phytoncide" class="object-cover object-center w-full h-full block" src="img/Phytoncide.jpg">
             </div>
@@ -2846,12 +2846,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges phytoncide
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges phytoncide
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-PINE/pine3in1abcd.jpg" alt="Aroma Sense - Vitamin C Cartridges -  Pine">
             </div>
@@ -2863,7 +2863,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges pine</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges pine</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
@@ -2906,7 +2906,7 @@
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 790,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="Aroma Sense - Vitamin C Cartridges -  Phytoncide" class="object-cover object-center w-full h-full block" src="img/Phytoncide.jpg">
             </div>
@@ -2919,12 +2919,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges phytoncide
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges phytoncide
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-PINE/pine3in1abcd.jpg" alt="Aroma Sense - Vitamin C Cartridges -  Pine">
             </div>
@@ -2936,7 +2936,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges pine</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges pine</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
@@ -2980,7 +2980,7 @@
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 790,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="Aroma Sense - Vitamin C Cartridges -  Phytoncide" class="object-cover object-center w-full h-full block" src="img/Phytoncide.jpg">
             </div>
@@ -2993,12 +2993,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges phytoncide
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges phytoncide
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-PINE/pine3in1abcd.jpg" alt="Aroma Sense - Vitamin C Cartridges -  Pine">
             </div>
@@ -3010,7 +3010,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges pine</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges pine</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
@@ -3051,7 +3051,7 @@
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 790,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="Aroma Sense - Vitamin C Cartridges -  Phytoncide" class="object-cover object-center w-full h-full block" src="img/Phytoncide.jpg">
             </div>
@@ -3064,12 +3064,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges phytoncide
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges phytoncide
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="aroma-sense-vitamin-c-cartidges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="aroma-sense-vitamin-c-cartridges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-PINE/pine3in1abcd.jpg" alt="Aroma Sense - Vitamin C Cartridges -  Pine">
             </div>
@@ -3081,7 +3081,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges pine</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges pine</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
@@ -5878,10 +5878,10 @@
     </div>
 <?php } ?>
 
-<!-- cartidges -->
+<!-- cartridges -->
 <?php if ($page == 'detail25-indo') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Eucalyptus/Eucalyptus_WM_e3b11a3f-e397-45bd-81cd-e2a01119968f_720x.jpeg">
             </div>
@@ -5893,11 +5893,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix eucalyptus</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix eucalyptus</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lavender/MG_9476_3_2__54213.1490047346_720x.jpg">
             </div>
@@ -5909,11 +5909,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix lavender</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix lavender</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 249,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lemon/lemon-wm__81216_720x.jpeg">
             </div>
@@ -5926,12 +5926,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix lemon
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix lemon
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Neutral/AR-Neutral_540x540.jpeg">
             </div>
@@ -5943,7 +5943,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix neutral</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix neutral</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
@@ -5952,7 +5952,7 @@
 
 <?php if ($page == 'detail26-indo') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="id/aroma-sense-vitamin-c-cartidges-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-EUCALYPTUS/eucalyptus-vitamin-c-cartridge4.jpg">
             </div>
@@ -5964,11 +5964,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges eucalyptus</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges eucalyptus</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-jasmine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-jasmine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-JASMINE/jasmine-vitamin-c-cartridges.jpg">
             </div>
@@ -5980,11 +5980,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges jasmine</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges jasmine</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lavender.jpg">
             </div>
@@ -5997,12 +5997,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges lavender
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges lavender
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-lemon-mango" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-lemon-mango" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="Aroma Sense - Vitamin C Cartridges - Lemon Mango" class="object-cover object-center w-full h-full block" src="img/Lemon-Mango.jpg">
             </div>
@@ -6014,7 +6014,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges lemon mango</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges lemon mango</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
@@ -6024,7 +6024,7 @@
 
 <?php if ($page == 'detail27-indo') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="id/aroma-sense-vitamin-c-cartidges-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/1.jpg">
             </div>
@@ -6036,11 +6036,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges lemon</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges lemon</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Neutral.jpg">
             </div>
@@ -6052,11 +6052,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges neutral</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges neutral</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="Aroma Sense - Vitamin C Cartridges -  Phytoncide" class="object-cover object-center w-full h-full block" src="img/Phytoncide.jpg">
             </div>
@@ -6069,12 +6069,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges phytoncide
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges phytoncide
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-PINE/pine3in1abcd.jpg" alt="Aroma Sense - Vitamin C Cartridges -  Pine">
             </div>
@@ -6086,7 +6086,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges pine</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges pine</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
@@ -6096,7 +6096,7 @@
 
 <?php if ($page == 'detail28-indo') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="id/aroma-sense-vitamin-c-cartidges-rose" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-rose" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-ROSE/rose_cartridge_aromasense_3.jpg" alt="Aroma Sense - Vitamin C Cartridges - Rose">
             </div>
@@ -6108,11 +6108,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges rose</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges rose</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-vanilla-coconut" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-vanilla-coconut" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Vanilla-Coconut.jpg" alt="Aroma Sense - Vitamin C Cartridges -  Vanilla Coconut">
             </div>
@@ -6128,7 +6128,7 @@
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Eucalyptus/Eucalyptus_WM_e3b11a3f-e397-45bd-81cd-e2a01119968f_720x.jpeg" alt="Aroma Sense - Vitamin C Cartridges Aroma Therapy for Shower Arofix - Eucalyptus>
             </div>
@@ -6141,12 +6141,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix eucalyptus
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix eucalyptus
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lavender/MG_9476_3_2__54213.1490047346_720x.jpg" alt="Aroma Sense - Vitamin C Cartridges Aroma Therapy for Shower Arofix - Lavender">
             </div>
@@ -6158,7 +6158,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix lavender</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix lavender</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
@@ -6168,7 +6168,7 @@
 
 <?php if ($page == 'detail29-indo') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Eucalyptus/Eucalyptus_WM_e3b11a3f-e397-45bd-81cd-e2a01119968f_720x.jpeg">
             </div>
@@ -6180,11 +6180,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix eucalyptus</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix eucalyptus</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lavender/MG_9476_3_2__54213.1490047346_720x.jpg">
             </div>
@@ -6196,11 +6196,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix lavender</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix lavender</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 249,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lemon/lemon-wm__81216_720x.jpeg">
             </div>
@@ -6213,12 +6213,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix lemon
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix lemon
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Neutral/AR-Neutral_540x540.jpeg">
             </div>
@@ -6230,7 +6230,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix neutral</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix neutral</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
@@ -6240,7 +6240,7 @@
 
 <?php if ($page == 'detail30-indo') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="id/aroma-sense-vitamin-c-cartidges-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-EUCALYPTUS/eucalyptus-vitamin-c-cartridge4.jpg">
             </div>
@@ -6252,11 +6252,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges eucalyptus</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges eucalyptus</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-jasmine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-jasmine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-JASMINE/jasmine-vitamin-c-cartridges.jpg">
             </div>
@@ -6268,11 +6268,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges jasmine</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges jasmine</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lavender.jpg">
             </div>
@@ -6285,12 +6285,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges lavender
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges lavender
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-lemon-mango" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-lemon-mango" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="Aroma Sense - Vitamin C Cartridges - Lemon Mango" class="object-cover object-center w-full h-full block" src="img/Lemon-Mango.jpg">
             </div>
@@ -6302,7 +6302,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges lemon mango</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges lemon mango</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
@@ -6312,7 +6312,7 @@
 
 <?php if ($page == 'detail31-indo') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="id/aroma-sense-vitamin-c-cartidges-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/1.jpg">
             </div>
@@ -6324,11 +6324,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges lemon</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges lemon</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Neutral.jpg">
             </div>
@@ -6340,11 +6340,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges neutral</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges neutral</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="Aroma Sense - Vitamin C Cartridges -  Phytoncide" class="object-cover object-center w-full h-full block" src="img/Phytoncide.jpg">
             </div>
@@ -6357,12 +6357,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges phytoncide
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges phytoncide
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-PINE/pine3in1abcd.jpg" alt="Aroma Sense - Vitamin C Cartridges -  Pine">
             </div>
@@ -6374,7 +6374,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges pine</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges pine</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
@@ -6384,7 +6384,7 @@
 
 <?php if ($page == 'detail32-indo') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="id/aroma-sense-vitamin-c-cartidges-rose" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-rose" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-ROSE/rose_cartridge_aromasense_3.jpg" alt="Aroma Sense - Vitamin C Cartridges - Rose">
             </div>
@@ -6396,11 +6396,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges rose</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges rose</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-vanilla-coconut" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-vanilla-coconut" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Vanilla-Coconut.jpg" alt="Aroma Sense - Vitamin C Cartridges -  Vanilla Coconut">
             </div>
@@ -6416,7 +6416,7 @@
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Eucalyptus/Eucalyptus_WM_e3b11a3f-e397-45bd-81cd-e2a01119968f_720x.jpeg" alt="Aroma Sense - Vitamin C Cartridges Aroma Therapy for Shower Arofix - Eucalyptus>
             </div>
@@ -6429,12 +6429,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix eucalyptus
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix eucalyptus
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lavender/MG_9476_3_2__54213.1490047346_720x.jpg" alt="Aroma Sense - Vitamin C Cartridges Aroma Therapy for Shower Arofix - Lavender">
             </div>
@@ -6446,7 +6446,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix lavender</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix lavender</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
@@ -6456,7 +6456,7 @@
 
 <?php if ($page == 'detail33-indo') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Eucalyptus/Eucalyptus_WM_e3b11a3f-e397-45bd-81cd-e2a01119968f_720x.jpeg">
             </div>
@@ -6468,11 +6468,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix eucalyptus</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix eucalyptus</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lavender/MG_9476_3_2__54213.1490047346_720x.jpg">
             </div>
@@ -6484,11 +6484,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix lavender</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix lavender</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 249,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lemon/lemon-wm__81216_720x.jpeg">
             </div>
@@ -6501,12 +6501,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix lemon
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix lemon
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Neutral/AR-Neutral_540x540.jpeg">
             </div>
@@ -6518,7 +6518,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix neutral</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix neutral</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
@@ -6528,7 +6528,7 @@
 
 <?php if ($page == 'detail34-indo') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="id/aroma-sense-vitamin-c-cartidges-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-EUCALYPTUS/eucalyptus-vitamin-c-cartridge4.jpg">
             </div>
@@ -6540,11 +6540,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges eucalyptus</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges eucalyptus</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-jasmine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-jasmine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-JASMINE/jasmine-vitamin-c-cartridges.jpg">
             </div>
@@ -6556,11 +6556,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges jasmine</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges jasmine</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lavender.jpg">
             </div>
@@ -6573,12 +6573,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges lavender
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges lavender
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-lemon-mango" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-lemon-mango" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="Aroma Sense - Vitamin C Cartridges - Lemon Mango" class="object-cover object-center w-full h-full block" src="img/Lemon-Mango.jpg">
             </div>
@@ -6590,7 +6590,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges lemon mango</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges lemon mango</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
@@ -6601,7 +6601,7 @@
 
 <?php if ($page == 'detail35-indo') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="id/aroma-sense-vitamin-c-cartidges-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/1.jpg">
             </div>
@@ -6613,11 +6613,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges lemon</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges lemon</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Neutral.jpg">
             </div>
@@ -6629,11 +6629,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges neutral</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges neutral</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="Aroma Sense - Vitamin C Cartridges -  Phytoncide" class="object-cover object-center w-full h-full block" src="img/Phytoncide.jpg">
             </div>
@@ -6646,12 +6646,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges phytoncide
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges phytoncide
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-PINE/pine3in1abcd.jpg" alt="Aroma Sense - Vitamin C Cartridges -  Pine">
             </div>
@@ -6663,7 +6663,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges pine</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges pine</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
@@ -6673,7 +6673,7 @@
 
 <?php if ($page == 'detail36-indo') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="id/aroma-sense-vitamin-c-cartidges-rose" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-rose" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-ROSE/rose_cartridge_aromasense_3.jpg" alt="Aroma Sense - Vitamin C Cartridges - Rose">
             </div>
@@ -6685,11 +6685,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges rose</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges rose</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-vanilla-coconut" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-vanilla-coconut" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Vanilla-Coconut.jpg" alt="Aroma Sense - Vitamin C Cartridges -  Vanilla Coconut">
             </div>
@@ -6705,7 +6705,7 @@
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Eucalyptus/Eucalyptus_WM_e3b11a3f-e397-45bd-81cd-e2a01119968f_720x.jpeg" alt="Aroma Sense - Vitamin C Cartridges Aroma Therapy for Shower Arofix - Eucalyptus>
             </div>
@@ -6718,12 +6718,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix eucalyptus
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix eucalyptus
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lavender/MG_9476_3_2__54213.1490047346_720x.jpg" alt="Aroma Sense - Vitamin C Cartridges Aroma Therapy for Shower Arofix - Lavender">
             </div>
@@ -6735,7 +6735,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix lavender</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix lavender</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
@@ -6745,7 +6745,7 @@
 
 <?php if ($page == 'detail37-indo') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-eucalyptus" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Eucalyptus/Eucalyptus_WM_e3b11a3f-e397-45bd-81cd-e2a01119968f_720x.jpeg">
             </div>
@@ -6757,11 +6757,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix eucalyptus</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix eucalyptus</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lavender/MG_9476_3_2__54213.1490047346_720x.jpg">
             </div>
@@ -6773,11 +6773,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix lavender</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix lavender</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 249,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Lemon/lemon-wm__81216_720x.jpeg">
             </div>
@@ -6790,12 +6790,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix lemon
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix lemon
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Neutral/AR-Neutral_540x540.jpeg">
             </div>
@@ -6807,7 +6807,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges aroma therapy for shower arofix neutral</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges aroma therapy for shower arofix neutral</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
             </div>
         </a>
@@ -6817,7 +6817,7 @@
 
 <?php if ($page == 'detail38-indo') { ?>
     <div class="flex flex-wrap w-full">
-        <a href="id/aroma-sense-vitamin-c-cartidges-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-lemon" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/1.jpg">
             </div>
@@ -6829,11 +6829,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges lemon</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges lemon</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/Neutral.jpg">
             </div>
@@ -6845,11 +6845,11 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges neutral</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges neutral</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="Aroma Sense - Vitamin C Cartridges -  Phytoncide" class="object-cover object-center w-full h-full block" src="img/Phytoncide.jpg">
             </div>
@@ -6862,12 +6862,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges phytoncide
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges phytoncide
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-PINE/pine3in1abcd.jpg" alt="Aroma Sense - Vitamin C Cartridges -  Pine">
             </div>
@@ -6879,13 +6879,13 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges pine</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges pine</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
     </div>
 <?php } ?>
-<!-- cartidges end -->
+<!-- cartridges end -->
 
 <!-- arofix -->
 <?php if ($page == 'detail39-indo') { ?>
@@ -6922,7 +6922,7 @@
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 790,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="Aroma Sense - Vitamin C Cartridges -  Phytoncide" class="object-cover object-center w-full h-full block" src="img/Phytoncide.jpg">
             </div>
@@ -6935,12 +6935,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges phytoncide
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges phytoncide
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-PINE/pine3in1abcd.jpg" alt="Aroma Sense - Vitamin C Cartridges -  Pine">
             </div>
@@ -6952,7 +6952,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges pine</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges pine</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
@@ -6993,7 +6993,7 @@
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 790,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="Aroma Sense - Vitamin C Cartridges -  Phytoncide" class="object-cover object-center w-full h-full block" src="img/Phytoncide.jpg">
             </div>
@@ -7006,12 +7006,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges phytoncide
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges phytoncide
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-PINE/pine3in1abcd.jpg" alt="Aroma Sense - Vitamin C Cartridges -  Pine">
             </div>
@@ -7023,7 +7023,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges pine</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges pine</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
@@ -7066,7 +7066,7 @@
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 790,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="Aroma Sense - Vitamin C Cartridges -  Phytoncide" class="object-cover object-center w-full h-full block" src="img/Phytoncide.jpg">
             </div>
@@ -7079,12 +7079,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges phytoncide
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges phytoncide
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-PINE/pine3in1abcd.jpg" alt="Aroma Sense - Vitamin C Cartridges -  Pine">
             </div>
@@ -7096,7 +7096,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges pine</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges pine</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
@@ -7140,7 +7140,7 @@
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 790,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="Aroma Sense - Vitamin C Cartridges -  Phytoncide" class="object-cover object-center w-full h-full block" src="img/Phytoncide.jpg">
             </div>
@@ -7153,12 +7153,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges phytoncide
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges phytoncide
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-PINE/pine3in1abcd.jpg" alt="Aroma Sense - Vitamin C Cartridges -  Pine">
             </div>
@@ -7170,7 +7170,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges pine</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges pine</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
@@ -7211,7 +7211,7 @@
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 790,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-phytoncide" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="Aroma Sense - Vitamin C Cartridges -  Phytoncide" class="object-cover object-center w-full h-full block" src="img/Phytoncide.jpg">
             </div>
@@ -7224,12 +7224,12 @@
 
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges phytoncide
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges phytoncide
                 </h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>
-        <a href="id/aroma-sense-vitamin-c-cartidges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+        <a href="id/aroma-sense-vitamin-c-cartridges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
                 <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/CARTRIDGES-PINE/pine3in1abcd.jpg" alt="Aroma Sense - Vitamin C Cartridges -  Pine">
             </div>
@@ -7241,7 +7241,7 @@
                     </svg>
                 </div>
 
-                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartidges pine</h2>
+                <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Aroma Sense - vitamin c cartridges pine</h2>
                 <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
             </div>
         </a>

@@ -16,7 +16,7 @@ require('../inc/base.php')
         <div class="absolute w-full h-full flex items-center">
             <div class="m-auto text-center">
                 <div class="pb-10 text-white text-5xl">Awaken Your Senses</div>
-                <a href="" class="text-white block rounded border appearance-none border-white py-2 px-6 w-[132px] m-auto">
+                <a href="id/" class="text-white block rounded border appearance-none border-white py-2 px-6 w-[132px] m-auto">
                     Learn More
                 </a>
             </div>
@@ -945,46 +945,44 @@ require('../inc/base.php')
                     </div>
                 </div>
                 <div class="flex flex-wrap w-full">
-                    <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                    <a href="id/aroma-sense-showerhead-handheld-showerhead-801" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
                         <div class="block relative rounded overflow-hidden">
                             <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/1.jpg">
                         </div>
                         <div class="mt-8">
-                            <div class="inline-flex items-center">
+                            <div class="inline-flex items-center gap-1">
                                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
                                 </svg>
                             </div>
 
-                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Showerhead Handheld - Showerhead
-                                801</h2>
-                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Showerhead Handheld - Showerhead 801</h2>
+                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 690,000</p>
                         </div>
                     </a>
-                    <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                    <a href="id/aroma-sense-showerhead-handheld-showerhead-701" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
                         <div class="block relative rounded overflow-hidden">
                             <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/2.jpg">
                         </div>
                         <div class="mt-8">
-                            <div class="inline-flex items-center">
+                            <div class="inline-flex items-center gap-1">
                                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
                                 </svg>
                             </div>
 
-                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Showerhead Handheld - Showerhead
-                                701</h2>
-                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Showerhead Handheld - Showerhead 701</h2>
+                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 765,000</p>
                         </div>
                     </a>
-                    <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                    <a href="id/aroma-sense-showerhead-handheld-as9000-vitamin-c" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
                         <div class="block relative rounded overflow-hidden">
                             <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/3.jpg">
                         </div>
                         <div class="mt-8">
-                            <div class="inline-flex items-center">
+                            <div class="inline-flex items-center gap-1">
                                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aromica</h2>
                                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
@@ -995,15 +993,15 @@ require('../inc/base.php')
                             <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Showerhead Handheld - Medium AS9000
                                 Vitamin C
                             </h2>
-                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 690,000</p>
                         </div>
                     </a>
-                    <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                    <a href="id/aroma-sense-showerhead-handheld-mist-vitamin-c" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
                         <div class="block relative rounded overflow-hidden">
                             <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/4.jpg">
                         </div>
                         <div class="mt-8">
-                            <div class="inline-flex items-center">
+                            <div class="inline-flex items-center gap-1">
                                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
@@ -1013,105 +1011,105 @@ require('../inc/base.php')
                             <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Showerhead Handheld - Showerhead
                                 Mist Vitamin
                                 C</h2>
-                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 890,000</p>
                         </div>
                     </a>
                 </div>
             </div>
-            <<!-- home -->
-      <div class="product-list">
-        <div class="container pb-6 pt-20 pl-4">
-          <div class="text-left">
-            <h2 class="font-bold text-3xl capitalize">Home </h2>
-          </div>
-        </div>
-        <div class="flex flex-wrap w-full">
-          <a href="pure-rain-tap-water-filter-pr100-bathroom" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
-            <div class="block relative rounded overflow-hidden">
-              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/1.jpg">
-            </div>
-            <div class="mt-8">
-              <div class="inline-flex items-center gap-1">
-                <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
-                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                  <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#F4CF7A" />
-                </svg>
-              </div>
+            <!-- home -->
+            <div class="product-list">
+                <div class="container pb-6 pt-20 pl-4">
+                    <div class="text-left">
+                        <h2 class="font-bold text-3xl capitalize">Home </h2>
+                    </div>
+                </div>
+                <div class="flex flex-wrap w-full">
+                    <a href="id/pure-rain-tap-water-filter-pr100-bathroom" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                        <div class="block relative rounded overflow-hidden">
+                            <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/1.jpg">
+                        </div>
+                        <div class="mt-8">
+                            <div class="inline-flex items-center gap-1">
+                                <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
+                                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#F4CF7A" />
+                                </svg>
+                            </div>
 
-              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Alat Tap Water Filter PR100 (Bathroom) </h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
-            </div>
-          </a>
-          <a href="pure-rain-tap-water-filter-pr303-kitchen" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
-            <div class="block relative rounded overflow-hidden">
-              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/2.jpg">
-            </div>
-            <div class="mt-8">
-              <div class="inline-flex items-center gap-1">
-                <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
-                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                  <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#F4CF7A" />
-                </svg>
+                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Alat Tap Water Filter PR100 (Bathroom) </h2>
+                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
+                        </div>
+                    </a>
+                    <a href="id/pure-rain-tap-water-filter-pr303-kitchen" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                        <div class="block relative rounded overflow-hidden">
+                            <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/2.jpg">
+                        </div>
+                        <div class="mt-8">
+                            <div class="inline-flex items-center gap-1">
+                                <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
+                                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#F4CF7A" />
+                                </svg>
 
-              </div>
+                            </div>
 
-              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Alat Tap Water Filter PR303 (Kitchen) </h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 290,000</p>
+                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Alat Tap Water Filter PR303 (Kitchen) </h2>
+                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 290,000</p>
+                        </div>
+                    </a>
+                    <a href="id/pure-rain-microfiber-tap-water-filter-pr100-bathroom" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                        <div class="block relative rounded overflow-hidden">
+                            <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/3.jpg">
+                        </div>
+                        <div class="mt-8">
+                            <div class="inline-flex items-center gap-1">
+                                <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
+                                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#F4CF7A" />
+                                </svg>
+
+                            </div>
+
+                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Microfiber Tap Water Filter (Bathroom) PR100
+                            </h2>
+                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
+                        </div>
+                    </a>
+                    <a href="id/pure-rain-microfiber-tap-water-filter-pr303-kitchen" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                        <div class="block relative rounded overflow-hidden">
+                            <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/4.jpg">
+                        </div>
+                        <div class="mt-8">
+                            <div class="inline-flex items-center gap-1">
+                                <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
+                                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#F4CF7A" />
+                                </svg>
+
+                            </div>
+
+                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Microfiber Tap Water Filter PR300 (Kitchen)</h2>
+                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
+                        </div>
+                    </a>
+
+
+                </div>
             </div>
-          </a>
-          <a href="pure-rain-microfiber-tap-water-filter-pr100-bathroom" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
-            <div class="block relative rounded overflow-hidden">
-              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/3.jpg">
-            </div>
-            <div class="mt-8">
-              <div class="inline-flex items-center gap-1">
-                <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
-                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                  <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#F4CF7A" />
-                </svg>
-
-              </div>
-
-              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Microfiber Tap Water Filter (Bathroom) PR100
-              </h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
-            </div>
-          </a>
-          <a href="pure-rain-microfiber-tap-water-filter-pr303-kitchen" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
-            <div class="block relative rounded overflow-hidden">
-              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/4.jpg">
-            </div>
-            <div class="mt-8">
-              <div class="inline-flex items-center gap-1">
-                <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
-                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                  <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#F4CF7A" />
-                </svg>
-
-              </div>
-
-              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Microfiber Tap Water Filter PR300 (Kitchen)</h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
-            </div>
-          </a>
-          
-
-        </div>
-      </div>
             <!-- Aromatube -->
             <div class="product-list">
                 <div class="container pb-6 pt-20 pl-4">
                     <div class="text-left">
-                        <h2 class="font-bold text-3xl capitalize">aromatube </h2>
+                        <h2 class="font-bold text-3xl capitalize">Aromatube</h2>
                     </div>
                 </div>
                 <div class="flex flex-wrap w-full">
-                    <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                    <a href="id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-neutral" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
                         <div class="block relative rounded overflow-hidden">
                             <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/1.jpg">
                         </div>
                         <div class="mt-8">
-                            <div class="inline-flex items-center">
+                            <div class="inline-flex items-center gap-1">
                                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
@@ -1120,18 +1118,17 @@ require('../inc/base.php')
 
                             </div>
 
-                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartridges Aroma Therapy
-                                for Shower
+                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartridges Aroma Therapy for Shower
                                 Arofix - Neutral (1 pcs)</h2>
-                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
                         </div>
                     </a>
-                    <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                    <a href="id/aroma-sense-vitamin-c-cartidges-vanilla-coconut" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
                         <div class="block relative rounded overflow-hidden">
                             <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/2.jpg">
                         </div>
                         <div class="mt-8">
-                            <div class="inline-flex items-center">
+                            <div class="inline-flex items-center gap-1">
                                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
@@ -1142,15 +1139,15 @@ require('../inc/base.php')
                             <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartridges - Vanilla
                                 Coconut (1 pcs)
                             </h2>
-                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
                         </div>
                     </a>
-                    <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                    <a href="id/aroma-sense-vitamin-c-cartidges-aroma-therapy-for-shower-arofix-lavender" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
                         <div class="block relative rounded overflow-hidden">
                             <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/3.jpg">
                         </div>
                         <div class="mt-8">
-                            <div class="inline-flex items-center">
+                            <div class="inline-flex items-center gap-1">
                                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
@@ -1162,15 +1159,15 @@ require('../inc/base.php')
                             <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartridges Aroma Therapy
                                 for Shower
                                 Arofix - Lavender (1 pcs)</h2>
-                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 240,000</p>
                         </div>
                     </a>
-                    <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                    <a href="id/aroma-sense-vitamin-c-cartidges-pine" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
                         <div class="block relative rounded overflow-hidden">
                             <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/4.jpg">
                         </div>
                         <div class="mt-8">
-                            <div class="inline-flex items-center">
+                            <div class="inline-flex items-center gap-1">
                                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
@@ -1180,7 +1177,7 @@ require('../inc/base.php')
 
                             <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Vitamin C Cartridges - Pine
                                 (1 pcs)</h2>
-                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 170,000</p>
                         </div>
                     </a>
 
@@ -1194,12 +1191,12 @@ require('../inc/base.php')
                     </div>
                 </div>
                 <div class="flex flex-wrap w-full">
-                    <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                    <a href="id/pure-rain-showerhead-handheld-showerhead-kids-shark-pink-vitamin-c" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
                         <div class="block relative rounded overflow-hidden">
                             <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/shower-kids/1.jpg">
                         </div>
                         <div class="mt-8">
-                            <div class="inline-flex items-center">
+                            <div class="inline-flex items-center gap-1">
                                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M7.16671 19.1914L5.58337 16.5247L2.58337 15.8581L2.87504 12.7747L0.833374 10.4414L2.87504 8.10807L2.58337 5.02474L5.58337 4.35807L7.16671 1.69141L10 2.89974L12.8334 1.69141L14.4167 4.35807L17.4167 5.02474L17.125 8.10807L19.1667 10.4414L17.125 12.7747L17.4167 15.8581L14.4167 16.5247L12.8334 19.1914L10 17.9831L7.16671 19.1914ZM9.12504 13.3997L13.8334 8.69141L12.6667 7.48307L9.12504 11.0247L7.33337 9.27474L6.16671 10.4414L9.12504 13.3997Z" fill="#01ADEF" />
@@ -1210,15 +1207,15 @@ require('../inc/base.php')
 
                             <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">SH - Showerhead Kids Shark Pink
                                 Vitamin C</h2>
-                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 500,000</p>
                         </div>
                     </a>
-                    <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                    <a href="id/pure-rain-showerhead-handheld-showerhead-kids-shark-blue-vitamin-c" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
                         <div class="block relative rounded overflow-hidden">
                             <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/shower-kids/2.jpg">
                         </div>
                         <div class="mt-8">
-                            <div class="inline-flex items-center">
+                            <div class="inline-flex items-center gap-1">
                                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M7.16671 19.1914L5.58337 16.5247L2.58337 15.8581L2.87504 12.7747L0.833374 10.4414L2.87504 8.10807L2.58337 5.02474L5.58337 4.35807L7.16671 1.69141L10 2.89974L12.8334 1.69141L14.4167 4.35807L17.4167 5.02474L17.125 8.10807L19.1667 10.4414L17.125 12.7747L17.4167 15.8581L14.4167 16.5247L12.8334 19.1914L10 17.9831L7.16671 19.1914ZM9.12504 13.3997L13.8334 8.69141L12.6667 7.48307L9.12504 11.0247L7.33337 9.27474L6.16671 10.4414L9.12504 13.3997Z" fill="#01ADEF" />
@@ -1228,15 +1225,15 @@ require('../inc/base.php')
 
                             <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">SH - Showerhead Kids Shark Blue
                                 Vitamin C</h2>
-                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 500,000</p>
                         </div>
                     </a>
-                    <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                    <a href="id/pure-rain-showerhead-handheld-showerhead-kids-turtle-vitamin-c" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
                         <div class="block relative rounded overflow-hidden">
                             <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/shower-kids/3.jpg">
                         </div>
                         <div class="mt-8">
-                            <div class="inline-flex items-center">
+                            <div class="inline-flex items-center gap-1">
                                 <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
                                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M7.16671 19.1914L5.58337 16.5247L2.58337 15.8581L2.87504 12.7747L0.833374 10.4414L2.87504 8.10807L2.58337 5.02474L5.58337 4.35807L7.16671 1.69141L10 2.89974L12.8334 1.69141L14.4167 4.35807L17.4167 5.02474L17.125 8.10807L19.1667 10.4414L17.125 12.7747L17.4167 15.8581L14.4167 16.5247L12.8334 19.1914L10 17.9831L7.16671 19.1914ZM9.12504 13.3997L13.8334 8.69141L12.6667 7.48307L9.12504 11.0247L7.33337 9.27474L6.16671 10.4414L9.12504 13.3997Z" fill="#01ADEF" />
@@ -1247,7 +1244,7 @@ require('../inc/base.php')
 
                             <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">SH - Showerhead Kids Turtle Vitamin
                                 C</h2>
-                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
+                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 500,000</p>
                         </div>
                     </a>
 
@@ -1263,10 +1260,10 @@ require('../inc/base.php')
         <div class="crousel-mobile">
             <div style="width: 22px;">
                 <ul id="tabs" class="flex text-base font-medium uppercase">
-                    <li class="bordercustom"><a id="default-tab" href="#first"> Showerhead </a></li>
-                    <li><a href="#second"> Home </a></li>
-                    <li><a href="#tree"> Aroma Tube </a></li>
-                    <li><a href="#four"> Showerhead Kids </a></li>
+                    <li class="bordercustom"><a id="default-tab" href="id/#first"> Showerhead </a></li>
+                    <li><a href="id/#second"> Home </a></li>
+                    <li><a href="id/#tree"> Aroma Tube </a></li>
+                    <li><a href="id/#four"> Showerhead Kids </a></li>
                 </ul>
             </div>
         </div>
@@ -1276,87 +1273,87 @@ require('../inc/base.php')
     <div id="tab-contents" class="mb-10 mobile-only">
         <div id="first" class="p-4">
             <!-- showerhead -->
-      <div class="product-list">
+            <div class="product-list">
 
-<div class="flex flex-wrap w-full">
-  <a href="aroma-sense-showerhead-handheld-showerhead-801" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
-    <div class="block relative rounded overflow-hidden">
-      <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/1.jpg">
-    </div>
-    <div class="mt-8">
-      <div class="inline-flex items-center gap-1">
-        <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
-        <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
-        </svg>
-      </div>
+                <div class="flex flex-wrap w-full">
+                    <a href="id/aroma-sense-showerhead-handheld-showerhead-801" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                        <div class="block relative rounded overflow-hidden">
+                            <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/1.jpg">
+                        </div>
+                        <div class="mt-8">
+                            <div class="inline-flex items-center gap-1">
+                                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
+                                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
+                                </svg>
+                            </div>
 
-      <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Showerhead Handheld - Showerhead 801</h2>
-      <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 690,000</p>
-    </div>
-  </a>
-  <a href="aroma-sense-showerhead-handheld-showerhead-701" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
-    <div class="block relative rounded overflow-hidden">
-      <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/2.jpg">
-    </div>
-    <div class="mt-8">
-      <div class="inline-flex items-center gap-1">
-        <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
-        <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
-        </svg>
-      </div>
+                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Showerhead Handheld - Showerhead 801</h2>
+                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 690,000</p>
+                        </div>
+                    </a>
+                    <a href="id/aroma-sense-showerhead-handheld-showerhead-701" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                        <div class="block relative rounded overflow-hidden">
+                            <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/2.jpg">
+                        </div>
+                        <div class="mt-8">
+                            <div class="inline-flex items-center gap-1">
+                                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
+                                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
+                                </svg>
+                            </div>
 
-      <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Showerhead Handheld - Showerhead 701</h2>
-      <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 765,000</p>
-    </div>
-  </a>
-  <a href="aroma-sense-spare-parts-anti-bakteri-as9000-medium" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
-    <div class="block relative rounded overflow-hidden">
-      <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/3.jpg">
-    </div>
-    <div class="mt-8">
-      <div class="inline-flex items-center gap-1">
-        <h2 class="text-title2 text-lg  mb-1 font-semibold">Aromica</h2>
-        <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
-        </svg>
+                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Showerhead Handheld - Showerhead 701</h2>
+                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 765,000</p>
+                        </div>
+                    </a>
+                    <a href="id/aroma-sense-spare-parts-anti-bakteri-as9000-medium" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                        <div class="block relative rounded overflow-hidden">
+                            <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/3.jpg">
+                        </div>
+                        <div class="mt-8">
+                            <div class="inline-flex items-center gap-1">
+                                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aromica</h2>
+                                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
+                                </svg>
 
-      </div>
+                            </div>
 
-      <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Showerhead Handheld - Medium AS9000
-        Vitamin C
-      </h2>
-      <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 690,000</p>
-    </div>
-  </a>
-  <a href="aroma-sense-showerhead-handheld-mist-vitamin-c" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
-    <div class="block relative rounded overflow-hidden">
-      <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/4.jpg">
-    </div>
-    <div class="mt-8">
-      <div class="inline-flex items-center gap-1">
-        <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
-        <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
-        </svg>
-      </div>
+                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Showerhead Handheld - Medium AS9000
+                                Vitamin C
+                            </h2>
+                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 690,000</p>
+                        </div>
+                    </a>
+                    <a href="id/aroma-sense-showerhead-handheld-mist-vitamin-c" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                        <div class="block relative rounded overflow-hidden">
+                            <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/4.jpg">
+                        </div>
+                        <div class="mt-8">
+                            <div class="inline-flex items-center gap-1">
+                                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
+                                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M7.16659 19.1914L5.58325 16.5247L2.58325 15.8581L2.87492 12.7747L0.833252 10.4414L2.87492 8.10807L2.58325 5.02474L5.58325 4.35807L7.16659 1.69141L9.99992 2.89974L12.8333 1.69141L14.4166 4.35807L17.4166 5.02474L17.1249 8.10807L19.1666 10.4414L17.1249 12.7747L17.4166 15.8581L14.4166 16.5247L12.8333 19.1914L9.99992 17.9831L7.16659 19.1914ZM9.12492 13.3997L13.8333 8.69141L12.6666 7.48307L9.12492 11.0247L7.33325 9.27474L6.16659 10.4414L9.12492 13.3997Z" fill="#01ADEF" />
+                                </svg>
+                            </div>
 
-      <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Showerhead Handheld - Showerhead
-        Mist Vitamin
-        C</h2>
-      <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 890,000</p>
-    </div>
-  </a>
-</div>
-</div>
-</div>
-<div id="second" class="hidden p-4">
+                            <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Showerhead Handheld - Showerhead
+                                Mist Vitamin
+                                C</h2>
+                            <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 890,000</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div id="second" class="hidden p-4">
             <!-- home -->
             <div class="product-list">
 
                 <div class="flex flex-wrap w-full">
-                    <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                    <a href="id/" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
                         <div class="block relative rounded overflow-hidden">
                             <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/1.jpg">
                         </div>
@@ -1373,7 +1370,7 @@ require('../inc/base.php')
                             <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
                         </div>
                     </a>
-                    <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                    <a href="id/" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
                         <div class="block relative rounded overflow-hidden">
                             <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/2.jpg">
                         </div>
@@ -1391,7 +1388,7 @@ require('../inc/base.php')
                             <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
                         </div>
                     </a>
-                    <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                    <a href="id/" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
                         <div class="block relative rounded overflow-hidden">
                             <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/3.jpg">
                         </div>
@@ -1410,7 +1407,7 @@ require('../inc/base.php')
                             <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
                         </div>
                     </a>
-                    <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                    <a href="id/" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
                         <div class="block relative rounded overflow-hidden">
                             <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/4.jpg">
                         </div>
@@ -1439,7 +1436,7 @@ require('../inc/base.php')
             <div class="product-list">
 
                 <div class="flex flex-wrap w-full">
-                    <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                    <a href="id/" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
                         <div class="block relative rounded overflow-hidden">
                             <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/1.jpg">
                         </div>
@@ -1459,7 +1456,7 @@ require('../inc/base.php')
                             <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
                         </div>
                     </a>
-                    <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                    <a href="id/" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
                         <div class="block relative rounded overflow-hidden">
                             <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/2.jpg">
                         </div>
@@ -1478,7 +1475,7 @@ require('../inc/base.php')
                             <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
                         </div>
                     </a>
-                    <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                    <a href="id/" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
                         <div class="block relative rounded overflow-hidden">
                             <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/3.jpg">
                         </div>
@@ -1498,7 +1495,7 @@ require('../inc/base.php')
                             <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
                         </div>
                     </a>
-                    <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                    <a href="id/" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
                         <div class="block relative rounded overflow-hidden">
                             <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/aromatube/4.jpg">
                         </div>
@@ -1525,7 +1522,7 @@ require('../inc/base.php')
             <div class="product-list">
 
                 <div class="flex flex-wrap w-full">
-                    <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                    <a href="id/" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
                         <div class="block relative rounded overflow-hidden">
                             <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/shower-kids/1.jpg">
                         </div>
@@ -1544,7 +1541,7 @@ require('../inc/base.php')
                             <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
                         </div>
                     </a>
-                    <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                    <a href="id/" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
                         <div class="block relative rounded overflow-hidden">
                             <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/shower-kids/2.jpg">
                         </div>
@@ -1562,7 +1559,7 @@ require('../inc/base.php')
                             <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 299,000</p>
                         </div>
                     </a>
-                    <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+                    <a href="id/" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
                         <div class="block relative rounded overflow-hidden">
                             <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/shower-kids/3.jpg">
                         </div>

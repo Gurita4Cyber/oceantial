@@ -1092,7 +1092,7 @@ require('inc/base.php')
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
             </div>
           </a>
-          
+
 
         </div>
       </div>
@@ -1420,7 +1420,7 @@ require('inc/base.php')
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
             </div>
           </a>
-          
+
 
 
         </div>

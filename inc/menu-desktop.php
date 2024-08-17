@@ -151,83 +151,83 @@
                                 <ul class="navmenubig">
                                     <li>
                                         <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-lemon">
-                                            Vitamin C Cartidges isi 1 - Lemon
+                                            Vitamin C cartridges isi 1 - Lemon
                                         </a>
                                     </li>
                                     <li>
                                         <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-lemon-mango">Showerhead Handheld -
-                                            Vitamin C Cartidges isi 1 - Lemon Manggo
+                                            Vitamin C cartridges isi 1 - Lemon Manggo
                                         </a>
                                     </li>
                                     <li>
                                         <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-vanilla-coconut">Vitamin
-                                            C Cartidges isi 1
+                                            C cartridges isi 1
                                             - Vanilla Coconut
                                         </a>
                                     </li>
                                     <li>
                                         <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-neutral">Vitamin
-                                            C Cartidges isi 1
+                                            C cartridges isi 1
                                             - Neutral
                                         </a>
                                     </li>
                                     <li>
                                         <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-lavender">Vitamin
-                                            C Cartidges isi 1
+                                            C cartridges isi 1
                                             - Lavender
                                         </a>
                                     </li>
                                     <li>
                                         <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-phytoncide">Vitamin
-                                            C Cartidges isi 1
+                                            C cartridges isi 1
                                             - Phytoncide
                                         </a>
                                     </li>
                                     <li>
                                         <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-jasmine">Vitamin
-                                            C Cartidges isi 1
+                                            C cartridges isi 1
                                             - Jasmine
                                         </a>
                                     </li>
                                     <li>
                                         <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-pine">Vitamin
-                                            C Cartidges isi 1
+                                            C cartridges isi 1
                                             - Pine
                                         </a>
                                     </li>
                                     <li>
                                         <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-rose">Vitamin
-                                            C Cartidges isi 1
+                                            C cartridges isi 1
                                             - Rose
                                         </a>
                                     </li>
                                     <li>
                                         <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-eucalyptus">Vitamin
-                                            C Cartidges isi 1
+                                            C cartridges isi 1
                                             - Eucalyptus
                                         </a>
                                     </li>
                                     <li>
                                         <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lavender">Vitamin
-                                            C Cartidges Aroma
+                                            C cartridges Aroma
                                             Therapy for Shower Arofix - Isi 1 pcs - Lavender
                                         </a>
                                     </li>
                                     <li>
                                         <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lemon">Vitamin
-                                            C Cartidges Aroma
+                                            C cartridges Aroma
                                             Therapy for Shower Arofix - Isi 1 pcs - Lemon
                                         </a>
                                     </li>
                                     <li>
                                         <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-neutral">Vitamin
-                                            C Cartidges Aroma
+                                            C cartridges Aroma
                                             Therapy for Shower Arofix - Isi 1 pcs - Neutral
                                         </a>
                                     </li>
                                     <li>
                                         <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-eucalyptus">Vitamin
-                                            C Cartidges Aroma
+                                            C cartridges Aroma
                                             Therapy for Shower Arofix - Isi 1 pcs - Eucalyptus
                                         </a>
                                     </li>
