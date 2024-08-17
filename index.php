@@ -957,9 +957,8 @@ require('inc/base.php')
                 </svg>
               </div>
 
-              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Showerhead Handheld - Showerhead
-                801</h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
+              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Showerhead Handheld - Showerhead 801</h2>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 690,000</p>
             </div>
           </a>
           <a href="aroma-sense-showerhead-handheld-showerhead-701" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
@@ -974,9 +973,8 @@ require('inc/base.php')
                 </svg>
               </div>
 
-              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Showerhead Handheld - Showerhead
-                701</h2>
-              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 145,000</p>
+              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Showerhead Handheld - Showerhead 701</h2>
+              <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 765,000</p>
             </div>
           </a>
           <a href="aroma-sense-showerhead-handheld-as9000-vitamin-c" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
