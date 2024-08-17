@@ -1075,7 +1075,7 @@ require('inc/base.php')
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
             </div>
           </a>
-          <a href="" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+          <a href="pure-rain-microfiber-tap-water-filter-pr303-kitchen" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/4.jpg">
             </div>
@@ -1088,8 +1088,7 @@ require('inc/base.php')
 
               </div>
 
-              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Microfiber Tap Water Filter PR300 (Kitchen)
-              </h2>
+              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Microfiber Tap Water Filter PR300 (Kitchen)</h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
             </div>
           </a>
