@@ -1036,11 +1036,11 @@ require('inc/base.php')
                 </svg>
               </div>
 
-              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Microfiber Tap Water Filter PR100 (bathroom) </h2>
+              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Alat Tap Water Filter PR100 (Bathroom) </h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
             </div>
           </a>
-          <a href="pure-rain-microfiber-tap-water-filter-pr303-kitchen" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+          <a href="pure-rain-tap-water-filter-pr303-kitchen" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/home/2.jpg">
             </div>
@@ -1053,8 +1053,7 @@ require('inc/base.php')
 
               </div>
 
-              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Alat Tap Water Filter PR303
-                (Kitchen) </h2>
+              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Alat Tap Water Filter PR303 (Kitchen) </h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 290,000</p>
             </div>
           </a>
@@ -1071,8 +1070,7 @@ require('inc/base.php')
 
               </div>
 
-              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Microfiber Tap Water Filter
-                (Bathroom) PR100
+              <h2 class="text-title2 title-font lg:text-lg text-sm font-normal mt-3">Microfiber Tap Water Filter (Bathroom) PR100
               </h2>
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
             </div>
@@ -1095,7 +1093,7 @@ require('inc/base.php')
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 120,000</p>
             </div>
           </a>
-
+          
 
         </div>
       </div>
