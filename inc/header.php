@@ -22,12 +22,12 @@
                                 <?php if ($page == 'home') { ?>
                                     <select class="vodiapicker">
                                         <option value="<?php if ($page == 'home') { ?> <?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
-                                        <option value="<?php if ($page == 'home') { ?>id/home<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'home') { ?>id/home<?php } ?>" data-thumbnail="img/in.png">ID</option>
                                     </select>
                                 <?php } ?>
                                 <?php if ($page == 'home-indo') { ?>
                                     <select class="vodiapicker">
-                                        <option value="<?php if ($page == 'home-indo') { ?>id/home<?php } ?>" data-thumbnail="img/in.png"> IN</option>
+                                        <option value="<?php if ($page == 'home-indo') { ?>id/home<?php } ?>" data-thumbnail="img/in.png">ID</option>
                                         <option value="<?php if ($page == 'home-indo') { ?> <?php } ?>" class="test" data-thumbnail="img/en.png"> EN </option>
                                     </select>
                                 <?php } ?>
