@@ -450,7 +450,7 @@
                         <div class="relative">
                             <select class="vodiapicker2">
                                 <option value="en" class="test" data-thumbnail2="img/en.png"> EN </option>
-                                <option value="in" data-thumbnail2="img/in.png"> IN</option>
+                                <option value="in" data-thumbnail2="img/in.png">ID</option>
                             </select>
                             <div class="lang-select">
                                 <button class="btn-select2 blackbtn" value=""></button>
