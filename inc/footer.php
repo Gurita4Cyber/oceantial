@@ -29,7 +29,7 @@
                         <h2 class="text-center font-semibold">Oceantial_Shopee</h2>
                     </div>
                     <div class="flex my-0 mx-auto">
-                        <a href="https://shopee.co.id/aromasenseofficial" class="w-60 rounded-lg bg-btnsosmed my-0 mx-auto py-4 px-6 inline-flex items-center justify-center">
+                        <a href="https://shopee.co.id/oceantial.official" class="w-60 rounded-lg bg-btnsosmed my-0 mx-auto py-4 px-6 inline-flex items-center justify-center">
                             Contact Us <svg class="ml-2" width="21" height="21" viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M9.91091 4.01898C10.2363 3.69354 10.764 3.69354 11.0894 4.01898L16.9228 9.85231C17.2482 10.1778 17.2482 10.7054 16.9228 11.0308L11.0894 16.8642C10.764 17.1896 10.2363 17.1896 9.91091 16.8642C9.58547 16.5387 9.58547 16.0111 9.91091 15.6856L14.3217 11.2749H4.66683C4.20659 11.2749 3.8335 10.9018 3.8335 10.4416C3.8335 9.98133 4.20659 9.60824 4.66683 9.60824H14.3217L9.91091 5.19749C9.58547 4.87205 9.58547 4.34442 9.91091 4.01898Z" fill="#232020" />
                             </svg>
@@ -45,7 +45,7 @@
                         <h2 class="text-center font-semibold">Oceantial_Tokopedia</h2>
                     </div>
                     <div class="flex my-0 mx-auto">
-                        <a href="https://www.tokopedia.com/aromasense?source=universe&st=product" class="w-60 rounded-lg bg-btnsosmed my-0 mx-auto py-4 px-6 inline-flex items-center justify-center">
+                        <a href="https://www.tokopedia.com/oceantial" class="w-60 rounded-lg bg-btnsosmed my-0 mx-auto py-4 px-6 inline-flex items-center justify-center">
                             Contact Us <svg class="ml-2" width="21" height="21" viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M9.91091 4.01898C10.2363 3.69354 10.764 3.69354 11.0894 4.01898L16.9228 9.85231C17.2482 10.1778 17.2482 10.7054 16.9228 11.0308L11.0894 16.8642C10.764 17.1896 10.2363 17.1896 9.91091 16.8642C9.58547 16.5387 9.58547 16.0111 9.91091 15.6856L14.3217 11.2749H4.66683C4.20659 11.2749 3.8335 10.9018 3.8335 10.4416C3.8335 9.98133 4.20659 9.60824 4.66683 9.60824H14.3217L9.91091 5.19749C9.58547 4.87205 9.58547 4.34442 9.91091 4.01898Z" fill="#232020" />
                             </svg>
@@ -61,7 +61,7 @@
                         <h2 class="text-center font-semibold">Oceantial_TiktokShop</h2>
                     </div>
                     <div class="flex my-0 mx-auto">
-                        <a href="https://www.tiktok.com/@aromasense" class="w-60 rounded-lg bg-btnsosmed my-0 mx-auto py-4 px-6 inline-flex items-center justify-center">
+                        <a href="https://www.tiktok.com/@oceantial" class="w-60 rounded-lg bg-btnsosmed my-0 mx-auto py-4 px-6 inline-flex items-center justify-center">
                             Contact Us <svg class="ml-2" width="21" height="21" viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M9.91091 4.01898C10.2363 3.69354 10.764 3.69354 11.0894 4.01898L16.9228 9.85231C17.2482 10.1778 17.2482 10.7054 16.9228 11.0308L11.0894 16.8642C10.764 17.1896 10.2363 17.1896 9.91091 16.8642C9.58547 16.5387 9.58547 16.0111 9.91091 15.6856L14.3217 11.2749H4.66683C4.20659 11.2749 3.8335 10.9018 3.8335 10.4416C3.8335 9.98133 4.20659 9.60824 4.66683 9.60824H14.3217L9.91091 5.19749C9.58547 4.87205 9.58547 4.34442 9.91091 4.01898Z" fill="#232020" />
                             </svg>
@@ -271,12 +271,12 @@
                         us</h2>
                     <ul class="list-none">
                         <li class="pb-4">
-                            <a href="https://shopee.co.id/aromasenseofficial" class="text-font-small hover:text-gray-800 flex items-center">
+                            <a href="https://shopee.co.id/oceantial.official" class="text-font-small hover:text-gray-800 flex items-center">
                                 <img src="img/shopee-small.png" alt=""> <span>Oceantial_Shoppe</span>
                             </a>
                         </li>
                         <li class="pb-4">
-                            <a href="https://www.tokopedia.com/aromasense?source=universe&st=product" class="text-font-small hover:text-gray-800 flex items-center">
+                            <a href="https://www.tokopedia.com/oceantial" class="text-font-small hover:text-gray-800 flex items-center">
                                 <img src="img/tokopedia-small.png" alt=""><span>Oceantial_Tokopedia</span>
                             </a>
                         </li>
