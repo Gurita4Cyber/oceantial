@@ -54,7 +54,7 @@ require('inc/base.php')
               <img alt="gallery" class="w-full object-cover lg:h-[560px] h-full object-center block rounded-[32px]" src="img/sample/2.jpg">
               <div class="text-left left-0 absolute z-10 w-full hbox bottom-0 p-10">
                 <div class="flex items-center gap-2">
-                  <h2 class="text-4xl text-white font-medium title-font mb-2">Water Lab</h2>
+                  <h2 class="text-4xl text-white font-medium title-font mb-2">WaterLab</h2>
                   <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M11.5607 9.43934C10.9749 8.85355 10.0251 8.85355 9.43934 9.43934C8.85355 10.0251 8.85355 10.9749 9.43934 11.5607L21.8787 24H10.5C9.67157 24 9 24.6716 9 25.5C9 26.3284 9.67157 27 10.5 27H25.5C26.3284 27 27 26.3284 27 25.5V10.5C27 9.67157 26.3284 9 25.5 9C24.6716 9 24 9.67157 24 10.5V21.8787L11.5607 9.43934Z" fill="white" />
                   </svg>
@@ -286,7 +286,7 @@ require('inc/base.php')
             it flows <br> upon
             your body
           </h3>
-          <a href="https://shopee.co.id/oceantial.official" class="text-white bg-btnbg inline-flex items-center md:mb-2 lg:mb-0 py-2 px-4 rounded-lg">Learn More<svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
+          <a href="https://linktr.ee/oceantial_" class="text-white bg-btnbg inline-flex items-center md:mb-2 lg:mb-0 py-2 px-4 rounded-lg">Learn More<svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
               <path d="M5 12h14M12 5l7 7-7 7"></path>
             </svg></a>
 
