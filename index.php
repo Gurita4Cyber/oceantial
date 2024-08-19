@@ -54,15 +54,13 @@ require('inc/base.php')
               <img alt="gallery" class="w-full object-cover lg:h-[560px] h-full object-center block rounded-[32px]" src="img/sample/2.jpg">
               <div class="text-left left-0 absolute z-10 w-full hbox bottom-0 p-10">
                 <div class="flex items-center gap-2">
-                  <h2 class="text-4xl text-white font-medium title-font mb-2">Aromica</h2>
+                  <h2 class="text-4xl text-white font-medium title-font mb-2">Water Lab</h2>
                   <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M11.5607 9.43934C10.9749 8.85355 10.0251 8.85355 9.43934 9.43934C8.85355 10.0251 8.85355 10.9749 9.43934 11.5607L21.8787 24H10.5C9.67157 24 9 24.6716 9 25.5C9 26.3284 9.67157 27 10.5 27H25.5C26.3284 27 27 26.3284 27 25.5V10.5C27 9.67157 26.3284 9 25.5 9C24.6716 9 24 9.67157 24 10.5V21.8787L11.5607 9.43934Z" fill="white" />
                   </svg>
                 </div>
                 <div class="group-hover:stroke-white text-white text-xl group-hover:block hidden">
-                  Elevate your shower time with Aroma Sense Showerhead, infusing your <br>skin with the nourishing
-                  benefits
-                  of vitamin C.
+                Waterlab offer a pleasurable shower experience, from the sight to the touch to the refreshing sensation.
                 </div>
               </div>
             </div>
@@ -72,15 +70,13 @@ require('inc/base.php')
               <img alt="gallery" class="w-full object-cover lg:h-[560px] h-full object-center block rounded-[32px]" src="img/sample/3.jpg">
               <div class="text-left left-0 absolute z-10 w-full hbox bottom-0 p-10">
                 <div class="flex items-center gap-2">
-                  <h2 class="text-4xl text-white font-medium title-font mb-2">Pure Rain</h2>
+                  <h2 class="text-4xl text-white font-medium title-font mb-2">Aromica</h2>
                   <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M11.5607 9.43934C10.9749 8.85355 10.0251 8.85355 9.43934 9.43934C8.85355 10.0251 8.85355 10.9749 9.43934 11.5607L21.8787 24H10.5C9.67157 24 9 24.6716 9 25.5C9 26.3284 9.67157 27 10.5 27H25.5C26.3284 27 27 26.3284 27 25.5V10.5C27 9.67157 26.3284 9 25.5 9C24.6716 9 24 9.67157 24 10.5V21.8787L11.5607 9.43934Z" fill="white" />
                   </svg>
                 </div>
                 <div class="group-hover:stroke-white text-white text-xl group-hover:block hidden">
-                  Elevate your shower time with Aroma Sense Showerhead, infusing your <br>skin with the nourishing
-                  benefits
-                  of vitamin C.
+                AROMICA showerheads use innovative technology to enrich your  water with vitamin C, nourishing your skin for a radiant glow.
                 </div>
               </div>
             </div>
@@ -90,14 +86,13 @@ require('inc/base.php')
           <img alt="gallery" class="w-full object-cover lg:h-[560px] h-full object-center block rounded-[32px]" src="img/Oceantial_PureRain_Final.jpg">
           <div class="text-left left-0 absolute z-10 w-full hbox bottom-0 p-10">
             <div class="flex items-center gap-2">
-              <h2 class="text-4xl text-white font-medium title-font mb-2">Water Lab</h2>
+              <h2 class="text-4xl text-white font-medium title-font mb-2">Pure Rain</h2>
               <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M11.5607 9.43934C10.9749 8.85355 10.0251 8.85355 9.43934 9.43934C8.85355 10.0251 8.85355 10.9749 9.43934 11.5607L21.8787 24H10.5C9.67157 24 9 24.6716 9 25.5C9 26.3284 9.67157 27 10.5 27H25.5C26.3284 27 27 26.3284 27 25.5V10.5C27 9.67157 26.3284 9 25.5 9C24.6716 9 24 9.67157 24 10.5V21.8787L11.5607 9.43934Z" fill="white" />
               </svg>
             </div>
             <div class="group-hover:stroke-white text-white text-xl group-hover:block hidden">
-              Elevate your shower time with Aroma Sense Showerhead, infusing your <br>skin with the nourishing benefits
-              of vitamin C.
+            Pure Rain enhances your water experience with 5 key technologies: rust and debris removal, water-saving, anion-infused shower, soft water flow, and powerful water pressure.
             </div>
           </div>
         </div>
@@ -291,7 +286,7 @@ require('inc/base.php')
             it flows <br> upon
             your body
           </h3>
-          <a class="text-white bg-btnbg inline-flex items-center md:mb-2 lg:mb-0 py-2 px-4 rounded-lg">Learn More<svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
+          <a href="https://shopee.co.id/oceantial.official" class="text-white bg-btnbg inline-flex items-center md:mb-2 lg:mb-0 py-2 px-4 rounded-lg">Learn More<svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
               <path d="M5 12h14M12 5l7 7-7 7"></path>
             </svg></a>
 
@@ -313,7 +308,7 @@ require('inc/base.php')
           <div class="flex rounded-lg h-full p-2 flex-col">
             <div class="flex items-center mb-6">
               <div class="mr-3 inline-flex items-center justify-center ">
-                <img src="img/bazar.png" alt="">
+                <img src="img/bazar.png" alt="Bazaar">
               </div>
             </div>
             <div class="flex-grow py-5">
@@ -321,7 +316,7 @@ require('inc/base.php')
                 but
                 also saves 20-50%
                 on water usage thanks to its advanced technology.</p>
-              <a class="mt-3 text-black inline-flex items-center uppercase font-bold">Learn More
+              <a href="https://harpersbazaar.co.id/aprev?prvid=15483" class="mt-3 text-black inline-flex items-center uppercase font-bold">Learn More
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                   <path d="M5 12h14M12 5l7 7-7 7"></path>
                 </svg>
@@ -333,13 +328,13 @@ require('inc/base.php')
           <div class="flex rounded-lg h-full p-2 flex-col">
             <div class="flex items-center mb-6">
               <div class="mr-3 inline-flex items-center justify-center ">
-                <img src="img/cosmopolitan.png" alt="">
+                <img src="img/cosmopolitan.png" alt="Cosmopolitan">
               </div>
             </div>
             <div class="flex-grow py-5">
               <p class="leading-relaxed text-base h-28">Innovative products for your self-care
                 sessions at home! Aroma Sense Showerhead adds an element of aromatherapy to your shower.</p>
-              <a class="mt-3 text-black inline-flex items-center uppercase font-bold">Learn More
+              <a href="https://www.cosmopolitan.co.id/article/read/4/2020/19183/rekomendasi-produk-skincare-untuk-sesi-self-care-dirumahaja" class="mt-3 text-black inline-flex items-center uppercase font-bold">Learn More
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                   <path d="M5 12h14M12 5l7 7-7 7"></path>
                 </svg>
@@ -351,14 +346,14 @@ require('inc/base.php')
           <div class="flex rounded-lg h-full p-2 flex-col">
             <div class="flex items-center mb-6">
               <div class="mr-3 inline-flex items-center justify-center ">
-                <img src="img/female-daily.png" alt="">
+                <img src="img/female-daily.png" alt="Female Daily">
               </div>
             </div>
             <div class="flex-grow py-5">
               <p class="leading-relaxed text-base h-28">Using the Aroma Sense showerhead leaves skin feeling cleaner.
                 The
                 shower's cartridge not only adds a pleasant fragrance to the water, but also contains vitamin C.</p>
-              <a class="mt-3 text-black inline-flex items-center uppercase font-bold">Learn More
+              <a href="https://www.youtube.com/watch?v=8Y8HwDr79p8" class="mt-3 text-black inline-flex items-center uppercase font-bold">Learn More
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                   <path d="M5 12h14M12 5l7 7-7 7"></path>
                 </svg>
@@ -453,12 +448,12 @@ require('inc/base.php')
         <h2 class="text-lg text-black font-medium">RATED 4.8 OUT OF 5 BASED ON 325.842 REVIEWS</h2>
       </div>
       <div class="flex md:ml-auto md:mr-0 mx-auto items-center flex-shrink-0 space-x-4">
-        <button class="bg-gray-100 inline-flex py-3 px-5 rounded-lg items-center hover:bg-gray-200 focus:outline-none">
-          <img src="img/shopee.png" alt="">
-        </button>
-        <button class="bg-gray-100 inline-flex py-3 px-5 rounded-lg items-center hover:bg-gray-200 focus:outline-none">
-          <img src="img/tokopedia.png" alt="">
-        </button>
+      <a href="https://shopee.co.id/oceantial.official" target="_blank"><button class="bg-gray-100 inline-flex py-3 px-5 rounded-lg items-center hover:bg-gray-200 focus:outline-none">
+          <img src="img/shopee.png" alt="Shopee Oceantial">
+        </button></a>
+        <a href="https://www.tokopedia.com/oceantial" target="_blank"><button class="bg-gray-100 inline-flex py-3 px-5 rounded-lg items-center hover:bg-gray-200 focus:outline-none">
+          <img src="img/tokopedia.png" alt="Tokopedia Oceantial">
+        </button></a>
       </div>
     </div>
   </section>
@@ -477,7 +472,7 @@ require('inc/base.php')
               <div class="flex items-center mb-6">
                 <div class="mr-3 inline-flex items-center justify-center ">
                   <img class="mr-4" src="img/icon-shopee.png" alt="">
-                  <h3 class="text-xl font-bold">Bearcupz</h3>
+                  <h3 class="text-xl font-bold">Rico Hendarto</h3>
                 </div>
               </div>
               <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -598,8 +593,7 @@ require('inc/base.php')
                 </svg>
               </div>
               <div class="flex-grow py-5">
-                <p class="leading-relaxed text-base h-28">Walaupun air dirumah tidak kencang tekanannya,tapi pakai as
-                  9000
+                <p class="leading-relaxed text-base h-28">Dengan memakai atau menggunakan AS9000
                   lumayan jadi kencang jernih dan bersih dari ampas2 yg terkandung dalam air. Admin ramah dan sangat
                   membantu.</p>
               </div>
@@ -611,7 +605,7 @@ require('inc/base.php')
               <div class="flex items-center mb-6">
                 <div class="mr-3 inline-flex items-center justify-center ">
                   <img class="mr-4" src="img/icon-tokopedia.png" alt="">
-                  <h3 class="text-xl font-bold">Vino</h3>
+                  <h3 class="text-xl font-bold">Vonny Fransisca</h3>
                 </div>
               </div>
               <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -632,8 +626,8 @@ require('inc/base.php')
                 </svg>
               </div>
               <div class="flex-grow py-5">
-                <p class="leading-relaxed text-base h-28">Produk sesuai dengan deskripsi yang dijelaskan oleh Seller di
-                  halaman produk. Respon Seller, kecepatan pemrosesan pesanan dan pengemasan/ packaging pesanan aman dan
+                <p class="leading-relaxed text-base h-28">Produk yang dijelaskan oleh Seller di
+                  halaman produk. Respon dari Seller, kecepatan pemrosesan pesanan dan pengemasan/ packaging pesanan aman dan
                   bagus</p>
               </div>
             </div>
@@ -644,7 +638,7 @@ require('inc/base.php')
               <div class="flex items-center mb-6">
                 <div class="mr-3 inline-flex items-center justify-center ">
                   <img class="mr-4" src="img/icon-shopee.png" alt="">
-                  <h3 class="text-xl font-bold">Shabrinakh</h3>
+                  <h3 class="text-xl font-bold">Henri Fajrul</h3>
                 </div>
               </div>
               <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -665,7 +659,7 @@ require('inc/base.php')
                 </svg>
               </div>
               <div class="flex-grow py-5">
-                <p class="leading-relaxed text-base h-28">Walaupun air dirumah tidak kencang tekanannya,tapi pakai as
+                <p class="leading-relaxed text-base h-28">Air di rumah saya terlalu kencang tekanannya,tapi pakai as
                   9000
                   lumayan jadi kencang jernih dan bersih dari ampas2 yg terkandung dalam air. Admin ramah dan sangat
                   membantu.</p>
@@ -681,7 +675,7 @@ require('inc/base.php')
             <div class="flex items-center mb-3">
               <div class="mr-3 inline-flex items-center justify-center ">
                 <img class="mr-4" src="img/icon-shopee.png" alt="">
-                <h3 class="text-xl font-bold">Bearcupz</h3>
+                <h3 class="text-xl font-bold">Giovani Anastasya</h3>
               </div>
             </div>
             <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -702,7 +696,7 @@ require('inc/base.php')
               </svg>
             </div>
             <div class="flex-grow py-5">
-              <p class="leading-relaxed text-base h-28">Walaupun air dirumah tidak kencang tekanannya,tapi pakai as
+              <p class="leading-relaxed text-base h-28">Di tempat saya selalu kencang posisi dan airnya, tapi pakai as
                 9000
                 lumayan jadi kencang jernih dan bersih dari ampas2 yg terkandung dalam air. Admin ramah dan sangat
                 membantu.</p>
@@ -712,7 +706,7 @@ require('inc/base.php')
             <div class="flex items-center mb-3">
               <div class="mr-3 inline-flex items-center justify-center ">
                 <img class="mr-4" src="img/icon-tokopedia.png" alt="">
-                <h3 class="text-xl font-bold">Vino</h3>
+                <h3 class="text-xl font-bold">Roy Richard</h3>
               </div>
             </div>
             <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -733,8 +727,8 @@ require('inc/base.php')
               </svg>
             </div>
             <div class="flex-grow py-5">
-              <p class="leading-relaxed text-base h-28">Produk sesuai dengan deskripsi yang dijelaskan oleh Seller di
-                halaman produk. Respon Seller, kecepatan pemrosesan pesanan dan pengemasan/ packaging pesanan aman dan
+              <p class="leading-relaxed text-base h-28">Produk yang saya pilih sudah sesuai deskripsi yang dijelaskan oleh Seller di
+                halaman produk. Selain itu, respon Seller, kecepatan pemrosesan pesanan dan pengemasan/ packaging pesanan aman dan
                 bagus</p>
             </div>
           </div>
@@ -744,7 +738,7 @@ require('inc/base.php')
             <div class="flex items-center mb-3">
               <div class="mr-3 inline-flex items-center justify-center ">
                 <img class="mr-4" src="img/icon-shopee.png" alt="">
-                <h3 class="text-xl font-bold">Shabrinakh</h3>
+                <h3 class="text-xl font-bold">Donny Koestawa</h3>
               </div>
             </div>
             <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -765,7 +759,7 @@ require('inc/base.php')
               </svg>
             </div>
             <div class="flex-grow py-5">
-              <p class="leading-relaxed text-base h-28">Walaupun air dirumah tidak kencang tekanannya,tapi pakai as
+              <p class="leading-relaxed text-base h-28">Saya membeli tipe yang adalah as
                 9000
                 lumayan jadi kencang jernih dan bersih dari ampas2 yg terkandung dalam air. Admin ramah dan sangat
                 membantu.</p>
@@ -775,7 +769,7 @@ require('inc/base.php')
             <div class="flex items-center mb-3">
               <div class="mr-3 inline-flex items-center justify-center ">
                 <img class="mr-4" src="img/icon-shopee.png" alt="">
-                <h3 class="text-xl font-bold">Bearcupz</h3>
+                <h3 class="text-xl font-bold">Gege Kasimah</h3>
               </div>
             </div>
             <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -808,7 +802,7 @@ require('inc/base.php')
             <div class="flex items-center mb-3">
               <div class="mr-3 inline-flex items-center justify-center ">
                 <img class="mr-4" src="img/icon-tokopedia.png" alt="">
-                <h3 class="text-xl font-bold">Vino</h3>
+                <h3 class="text-xl font-bold">Terry Sandria</h3>
               </div>
             </div>
             <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -829,7 +823,7 @@ require('inc/base.php')
               </svg>
             </div>
             <div class="flex-grow py-5">
-              <p class="leading-relaxed text-base h-28">Produk sesuai dengan deskripsi yang dijelaskan oleh Seller di
+              <p class="leading-relaxed text-base h-28">Saya suka produk yang sesuai dengan deskripsi yang dijelaskan oleh Seller di
                 halaman produk. Respon Seller, kecepatan pemrosesan pesanan dan pengemasan/ packaging pesanan aman dan
                 bagus</p>
             </div>
@@ -838,7 +832,7 @@ require('inc/base.php')
             <div class="flex items-center mb-3">
               <div class="mr-3 inline-flex items-center justify-center ">
                 <img class="mr-4" src="img/icon-shopee.png" alt="">
-                <h3 class="text-xl font-bold">Shabrinakh</h3>
+                <h3 class="text-xl font-bold">Yacub Asyifaturahman</h3>
               </div>
             </div>
             <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -859,7 +853,7 @@ require('inc/base.php')
               </svg>
             </div>
             <div class="flex-grow py-5">
-              <p class="leading-relaxed text-base h-28">Walaupun air dirumah tidak kencang tekanannya,tapi pakai as
+              <p class="leading-relaxed text-base h-28">Di tempat saya tidak terlalu cepat tekanannya,tapi pakai as
                 9000
                 lumayan jadi kencang jernih dan bersih dari ampas2 yg terkandung dalam air. Admin ramah dan sangat
                 membantu.</p>
@@ -871,7 +865,7 @@ require('inc/base.php')
             <div class="flex items-center mb-3">
               <div class="mr-3 inline-flex items-center justify-center ">
                 <img class="mr-4" src="img/icon-shopee.png" alt="">
-                <h3 class="text-xl font-bold">Shabrinakh</h3>
+                <h3 class="text-xl font-bold">Franda Liem</h3>
               </div>
             </div>
             <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -902,7 +896,7 @@ require('inc/base.php')
             <div class="flex items-center mb-3">
               <div class="mr-3 inline-flex items-center justify-center ">
                 <img class="mr-4" src="img/icon-shopee.png" alt="">
-                <h3 class="text-xl font-bold">Shabrinakh</h3>
+                <h3 class="text-xl font-bold">Ferdinand</h3>
               </div>
             </div>
             <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">

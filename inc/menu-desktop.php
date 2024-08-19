@@ -492,9 +492,7 @@
             </div>
 
             <ul class="px-4 w-40 border-gray-600 pb-6 pt-6 lg:pt-3">
-                <li class="pt-3">
-                    <img src="img/placeholder.png">
-                </li>
+                
             </ul>
         </div>
     </div>

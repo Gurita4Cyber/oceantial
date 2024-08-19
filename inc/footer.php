@@ -86,7 +86,7 @@
                     network
                     and benefit from our
                     products.</p>
-                <a href="" class="text-white border inline-flex items-center md:mb-2 lg:mb-0 py-2 px-4 rounded-lg">Contact
+                <a href="http://bit.ly/aromasenseindo" target="_blank" class="text-white border inline-flex items-center md:mb-2 lg:mb-0 py-2 px-4 rounded-lg">Contact
                     Us<svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                         <path d="M5 12h14M12 5l7 7-7 7"></path>
                     </svg></a>
@@ -155,15 +155,7 @@
                     DKI Jakarta. 212932
                 </p>
                 <ul>
-                    <li class="flex items-center pb-4">
-                        <a class="flex" href="mailto:admin@oceantial.com">
-                            <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path fill-rule="evenodd" clip-rule="evenodd" d="M0.833365 5.92695C0.83323 5.93518 0.833216 5.9434 0.833323 5.95161V15.9414C0.833323 17.3183 1.95642 18.4414 3.33332 18.4414H16.6667C18.0436 18.4414 19.1667 17.3183 19.1667 15.9414V5.95171C19.1668 5.94342 19.1668 5.93513 19.1666 5.92683C19.1587 4.55659 18.0387 3.44141 16.6667 3.44141H3.33332C1.96124 3.44141 0.84119 4.55665 0.833365 5.92695ZM2.5888 5.5697C2.72662 5.29718 3.01002 5.10807 3.33332 5.10807H16.6667C16.99 5.10807 17.2734 5.29718 17.4112 5.5697L9.99999 10.7575L2.5888 5.5697ZM17.5 7.54195V15.9414C17.5 16.3978 17.1231 16.7747 16.6667 16.7747H3.33332C2.87689 16.7747 2.49999 16.3978 2.49999 15.9414V7.54195L9.52211 12.4574C9.80904 12.6583 10.1909 12.6583 10.4779 12.4574L17.5 7.54195Z" fill="#964F4C" />
-                            </svg>
-                            <span class="ml-2 font-medium text-font-small hover:opacity-70">admin@oceantial.com</span>
-                        </a>
-
-                    </li>
+                    
                     <li class="flex items-center pb-4">
                         <a class="flex" href="tel:0811-9722-881">
                             <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -264,13 +256,13 @@
                     <h2 class="title-font font-medium text-btnbg capitalize  tracking-normal text-xl mb-8">Help</h2>
                     <ul class="list-none">
                         <li class="pb-4">
-                            <a href="how-it-works.html" class="text-font-small hover:text-gray-800">How it Works</a>
+                            <a href="how-it-works" class="text-font-small hover:text-gray-800">How it Works</a>
                         </li>
                         <li class="pb-4">
-                            <a href="faqs.html" class="text-font-small hover:text-gray-800">FAQs</a>
+                            <a href="faqs" class="text-font-small hover:text-gray-800">FAQs</a>
                         </li>
                         <li class="pb-4">
-                            <a href="about-us.html" class="text-font-small hover:text-gray-800">Contact Us</a>
+                            <a href="about-us" class="text-font-small hover:text-gray-800">Contact Us</a>
                         </li>
                     </ul>
                 </div>
@@ -322,7 +314,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.tiktok.com/@aromasense">
+                            <a href="https://www.tiktok.com/@oceantial">
                                 <svg width="32" height="33" viewBox="0 0 32 33" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M22.1333 8.70141C21.2219 7.6609 20.7196 6.32465 20.72 4.94141H16.6V21.4747C16.5682 22.3694 16.1905 23.2169 15.5463 23.8387C14.9022 24.4604 14.0419 24.8079 13.1466 24.8081C11.2533 24.8081 9.67997 23.2614 9.67997 21.3414C9.67997 19.0481 11.8933 17.3281 14.1733 18.0347V13.8214C9.5733 13.2081 5.54663 16.7814 5.54663 21.3414C5.54663 25.7814 9.22663 28.9414 13.1333 28.9414C17.32 28.9414 20.72 25.5414 20.72 21.3414V12.9547C22.3906 14.1545 24.3965 14.7983 26.4533 14.7947V10.6747C26.4533 10.6747 23.9466 10.7947 22.1333 8.70141Z" fill="#964F4C" />
                                 </svg>
