@@ -1191,7 +1191,7 @@ require('inc/base.php')
             </div>
             <div class="mt-8">
               <div class="inline-flex items-center gap-1">
-                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16671 19.1914L5.58337 16.5247L2.58337 15.8581L2.87504 12.7747L0.833374 10.4414L2.87504 8.10807L2.58337 5.02474L5.58337 4.35807L7.16671 1.69141L10 2.89974L12.8334 1.69141L14.4167 4.35807L17.4167 5.02474L17.125 8.10807L19.1667 10.4414L17.125 12.7747L17.4167 15.8581L14.4167 16.5247L12.8334 19.1914L10 17.9831L7.16671 19.1914ZM9.12504 13.3997L13.8334 8.69141L12.6667 7.48307L9.12504 11.0247L7.33337 9.27474L6.16671 10.4414L9.12504 13.3997Z" fill="#01ADEF" />
                 </svg>
@@ -1210,7 +1210,7 @@ require('inc/base.php')
             </div>
             <div class="mt-8">
               <div class="inline-flex items-center gap-1">
-                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16671 19.1914L5.58337 16.5247L2.58337 15.8581L2.87504 12.7747L0.833374 10.4414L2.87504 8.10807L2.58337 5.02474L5.58337 4.35807L7.16671 1.69141L10 2.89974L12.8334 1.69141L14.4167 4.35807L17.4167 5.02474L17.125 8.10807L19.1667 10.4414L17.125 12.7747L17.4167 15.8581L14.4167 16.5247L12.8334 19.1914L10 17.9831L7.16671 19.1914ZM9.12504 13.3997L13.8334 8.69141L12.6667 7.48307L9.12504 11.0247L7.33337 9.27474L6.16671 10.4414L9.12504 13.3997Z" fill="#01ADEF" />
                 </svg>
@@ -1228,7 +1228,7 @@ require('inc/base.php')
             </div>
             <div class="mt-8">
               <div class="inline-flex items-center gap-1">
-                <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma Sense</h2>
+                <h2 class="text-title2 text-lg  mb-1 font-semibold">Pure Rain</h2>
                 <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M7.16671 19.1914L5.58337 16.5247L2.58337 15.8581L2.87504 12.7747L0.833374 10.4414L2.87504 8.10807L2.58337 5.02474L5.58337 4.35807L7.16671 1.69141L10 2.89974L12.8334 1.69141L14.4167 4.35807L17.4167 5.02474L17.125 8.10807L19.1667 10.4414L17.125 12.7747L17.4167 15.8581L14.4167 16.5247L12.8334 19.1914L10 17.9831L7.16671 19.1914ZM9.12504 13.3997L13.8334 8.69141L12.6667 7.48307L9.12504 11.0247L7.33337 9.27474L6.16671 10.4414L9.12504 13.3997Z" fill="#01ADEF" />
                 </svg>
