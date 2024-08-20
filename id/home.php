@@ -43,8 +43,7 @@ require('../inc/base.php')
                             </svg>
                         </div>
                         <div class="group-hover:stroke-white text-white text-xl group-hover:block hidden">
-                            Elevate your shower time with Aroma Sense Showerhead, infusing your <br>skin with the nourishing benefits
-                            of vitamin C.
+                        Nikmati momen mandi dengan lebih menyenangkan bersama Showerhead Aroma Sense yang mengandung vitamin C untuk merawat kulit Anda.
                         </div>
                     </div>
                 </div>
@@ -54,15 +53,13 @@ require('../inc/base.php')
                             <img alt="gallery" class="w-full object-cover lg:h-[560px] h-full object-center block rounded-[32px]" src="img/sample/2.jpg">
                             <div class="text-left left-0 absolute z-10 w-full hbox bottom-0 p-10">
                                 <div class="flex items-center">
-                                    <h2 class="text-4xl text-white font-medium title-font mb-2">Aromica</h2>
+                                    <h2 class="text-4xl text-white font-medium title-font mb-2">WaterLab</h2>
                                     <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M11.5607 9.43934C10.9749 8.85355 10.0251 8.85355 9.43934 9.43934C8.85355 10.0251 8.85355 10.9749 9.43934 11.5607L21.8787 24H10.5C9.67157 24 9 24.6716 9 25.5C9 26.3284 9.67157 27 10.5 27H25.5C26.3284 27 27 26.3284 27 25.5V10.5C27 9.67157 26.3284 9 25.5 9C24.6716 9 24 9.67157 24 10.5V21.8787L11.5607 9.43934Z" fill="white" />
                                     </svg>
                                 </div>
                                 <div class="group-hover:stroke-white text-white text-xl group-hover:block hidden">
-                                    Elevate your shower time with Aroma Sense Showerhead, infusing your <br>skin with the nourishing
-                                    benefits
-                                    of vitamin C.
+                                Waterlab menghadirkan pengalaman mandi yang menyenangkan, dari segi tampilan, hingga sensasi menyegarkannya.
                                 </div>
                             </div>
                         </div>
@@ -72,15 +69,13 @@ require('../inc/base.php')
                             <img alt="gallery" class="w-full object-cover lg:h-[560px] h-full object-center block rounded-[32px]" src="img/sample/3.jpg">
                             <div class="text-left left-0 absolute z-10 w-full hbox bottom-0 p-10">
                                 <div class="flex items-center">
-                                    <h2 class="text-4xl text-white font-medium title-font mb-2">Pure Rain</h2>
+                                    <h2 class="text-4xl text-white font-medium title-font mb-2">Aromica</h2>
                                     <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M11.5607 9.43934C10.9749 8.85355 10.0251 8.85355 9.43934 9.43934C8.85355 10.0251 8.85355 10.9749 9.43934 11.5607L21.8787 24H10.5C9.67157 24 9 24.6716 9 25.5C9 26.3284 9.67157 27 10.5 27H25.5C26.3284 27 27 26.3284 27 25.5V10.5C27 9.67157 26.3284 9 25.5 9C24.6716 9 24 9.67157 24 10.5V21.8787L11.5607 9.43934Z" fill="white" />
                                     </svg>
                                 </div>
                                 <div class="group-hover:stroke-white text-white text-xl group-hover:block hidden">
-                                    Elevate your shower time with Aroma Sense Showerhead, infusing your <br>skin with the nourishing
-                                    benefits
-                                    of vitamin C.
+                                Showerhead Aromica menggunakan teknologi inovatif untuk memperkaya air dengan vitamin C, mampu merawat kulit Anda agar lebih sehat dan glowing.
                                 </div>
                             </div>
                         </div>
@@ -90,14 +85,13 @@ require('../inc/base.php')
                     <img alt="gallery" class="w-full object-cover lg:h-[560px] h-full object-center block rounded-[32px]" src="img/Oceantial_PureRain_Final.jpg">
                     <div class="text-left left-0 absolute z-10 w-full hbox bottom-0 p-10">
                         <div class="flex items-center">
-                            <h2 class="text-4xl text-white font-medium title-font mb-2">Water Lab</h2>
+                            <h2 class="text-4xl text-white font-medium title-font mb-2">Pure Rain</h2>
                             <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M11.5607 9.43934C10.9749 8.85355 10.0251 8.85355 9.43934 9.43934C8.85355 10.0251 8.85355 10.9749 9.43934 11.5607L21.8787 24H10.5C9.67157 24 9 24.6716 9 25.5C9 26.3284 9.67157 27 10.5 27H25.5C26.3284 27 27 26.3284 27 25.5V10.5C27 9.67157 26.3284 9 25.5 9C24.6716 9 24 9.67157 24 10.5V21.8787L11.5607 9.43934Z" fill="white" />
                             </svg>
                         </div>
                         <div class="group-hover:stroke-white text-white text-xl group-hover:block hidden">
-                            Elevate your shower time with Aroma Sense Showerhead, infusing your <br>skin with the nourishing benefits
-                            of vitamin C.
+                        Pure Rain meningkatkan kualitas air dengan 5 teknologi kunci: menyingkirkan karat dan kotoran, menghemat air, menyuplai ion negatif, memberikan aliran air yang lembut, serta tekanan air yang kuat.
                         </div>
                     </div>
                 </div>
@@ -467,7 +461,7 @@ require('../inc/base.php')
         <div class="container mx-auto flex flex-wrap">
             <div class="lg:px-16 container mx-auto">
                 <div class="text-center">
-                    <h2 class="font-bold lg:text-[40px] text-2xl capitalize lg:py-20 py-10">Everyday with Ocential </h2>
+                    <h2 class="font-bold lg:text-[40px] text-2xl capitalize lg:py-20 py-10">Everyday with Ocential</h2>
                 </div>
             </div>
             <div class="desktop-onlyflex">
@@ -477,7 +471,7 @@ require('../inc/base.php')
                             <div class="flex items-center mb-3">
                                 <div class="mr-3 inline-flex items-center justify-center ">
                                     <img class="mr-4" src="img/icon-shopee.png" alt="">
-                                    <h3 class="text-xl font-bold">Bearcupz</h3>
+                                    <h3 class="text-xl font-bold">M***a</h3>
                                 </div>
                             </div>
                             <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -498,10 +492,7 @@ require('../inc/base.php')
                                 </svg>
                             </div>
                             <div class="flex-grow py-5">
-                                <p class="leading-relaxed text-base h-28">Walaupun air dirumah tidak kencang tekanannya,tapi pakai as
-                                    9000
-                                    lumayan jadi kencang jernih dan bersih dari ampas2 yg terkandung dalam air. Admin ramah dan sangat
-                                    membantu.</p>
+                                <p class="leading-relaxed text-base h-28">Pesan kemarin, hari ini sudah sampai. Nyesel gak beli dari dulu, selama ini cuci muka dan sikat gigi dari air bercampur kotoran.</p>
                             </div>
                         </div>
                     </div>
@@ -511,7 +502,7 @@ require('../inc/base.php')
                             <div class="flex items-center mb-3">
                                 <div class="mr-3 inline-flex items-center justify-center ">
                                     <img class="mr-4" src="img/icon-tokopedia.png" alt="">
-                                    <h3 class="text-xl font-bold">Vino</h3>
+                                    <h3 class="text-xl font-bold">T***r</h3>
                                 </div>
                             </div>
                             <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -532,9 +523,7 @@ require('../inc/base.php')
                                 </svg>
                             </div>
                             <div class="flex-grow py-5">
-                                <p class="leading-relaxed text-base h-28">Produk sesuai dengan deskripsi yang dijelaskan oleh Seller di
-                                    halaman produk. Respon Seller, kecepatan pemrosesan pesanan dan pengemasan/ packaging pesanan aman dan
-                                    bagus</p>
+                                <p class="leading-relaxed text-base h-28">Nyesel gak beli dari dulu!! tujuannya untuk cuci muka dan sikat gigi karena merasa karang gigi cepet numpuk karena keran air kotor, muka juga jadi lebih enak setelah cuci muka pakai filter ini!</p>
                             </div>
                         </div>
                     </div>
@@ -544,7 +533,7 @@ require('../inc/base.php')
                             <div class="flex items-center mb-3">
                                 <div class="mr-3 inline-flex items-center justify-center ">
                                     <img class="mr-4" src="img/icon-shopee.png" alt="">
-                                    <h3 class="text-xl font-bold">Shabrinakh</h3>
+                                    <h3 class="text-xl font-bold">P***to</h3>
                                 </div>
                             </div>
                             <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -565,10 +554,7 @@ require('../inc/base.php')
                                 </svg>
                             </div>
                             <div class="flex-grow py-5">
-                                <p class="leading-relaxed text-base h-28">Walaupun air dirumah tidak kencang tekanannya,tapi pakai as
-                                    9000
-                                    lumayan jadi kencang jernih dan bersih dari ampas2 yg terkandung dalam air. Admin ramah dan sangat
-                                    membantu.</p>
+                                <p class="leading-relaxed text-base h-28">Kualitas air di Indonesia kurang bagus jadi perlu ada filter tambahan terutama untuk keluarga yang ada anak kecil atau baby maupun orang tua yang rentan pada bakteri.</p>
                             </div>
                         </div>
                     </div>
@@ -577,7 +563,7 @@ require('../inc/base.php')
                             <div class="flex items-center mb-3">
                                 <div class="mr-3 inline-flex items-center justify-center ">
                                     <img class="mr-4" src="img/icon-shopee.png" alt="">
-                                    <h3 class="text-xl font-bold">Bearcupz</h3>
+                                    <h3 class="text-xl font-bold">S***s</h3>
                                 </div>
                             </div>
                             <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -598,10 +584,7 @@ require('../inc/base.php')
                                 </svg>
                             </div>
                             <div class="flex-grow py-5">
-                                <p class="leading-relaxed text-base h-28">Walaupun air dirumah tidak kencang tekanannya,tapi pakai as
-                                    9000
-                                    lumayan jadi kencang jernih dan bersih dari ampas2 yg terkandung dalam air. Admin ramah dan sangat
-                                    membantu.</p>
+                                <p class="leading-relaxed text-base h-28">Sudah dites di hari ke 3-4 ini pun masih bagus airnya jalan halus, kencang dan lancar. Jadi lebih hemat air karena airnya lebih terpancar, buka keran sedikit saja udah kenceng ngalirnya tanpa hambatan.</p>
                             </div>
                         </div>
                     </div>
@@ -610,8 +593,8 @@ require('../inc/base.php')
                         <div class="flex rounded-lg h-full p-2 flex-col">
                             <div class="flex items-center mb-3">
                                 <div class="mr-3 inline-flex items-center justify-center ">
-                                    <img class="mr-4" src="img/icon-tokopedia.png" alt="">
-                                    <h3 class="text-xl font-bold">Vino</h3>
+                                    <img class="mr-4" src="img/icon-tokopedia.png" alt="Belanja di Tokopedia Oceantial">
+                                    <h3 class="text-xl font-bold">Linda</h3>
                                 </div>
                             </div>
                             <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -632,9 +615,7 @@ require('../inc/base.php')
                                 </svg>
                             </div>
                             <div class="flex-grow py-5">
-                                <p class="leading-relaxed text-base h-28">Produk sesuai dengan deskripsi yang dijelaskan oleh Seller di
-                                    halaman produk. Respon Seller, kecepatan pemrosesan pesanan dan pengemasan/ packaging pesanan aman dan
-                                    bagus</p>
+                                <p class="leading-relaxed text-base h-28">Berasa lebih bersih pakai filter Aroma Sense, kalau tidak diganti lama-lama warnanya jadi cokelat tua lalu aliran airnya jadi lambat.</p>
                             </div>
                         </div>
                     </div>
@@ -644,7 +625,7 @@ require('../inc/base.php')
                             <div class="flex items-center mb-3">
                                 <div class="mr-3 inline-flex items-center justify-center ">
                                     <img class="mr-4" src="img/icon-shopee.png" alt="">
-                                    <h3 class="text-xl font-bold">Shabrinakh</h3>
+                                    <h3 class="text-xl font-bold">Aprilia</h3>
                                 </div>
                             </div>
                             <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -665,10 +646,7 @@ require('../inc/base.php')
                                 </svg>
                             </div>
                             <div class="flex-grow py-5">
-                                <p class="leading-relaxed text-base h-28">Walaupun air dirumah tidak kencang tekanannya,tapi pakai as
-                                    9000
-                                    lumayan jadi kencang jernih dan bersih dari ampas2 yg terkandung dalam air. Admin ramah dan sangat
-                                    membantu.</p>
+                                <p class="leading-relaxed text-base h-28">Keren filternya… Gak nyangka air rumah sekotor itu… baru pasang 2 hari udah kelihatan item-item.</p>
                             </div>
                         </div>
                     </div>
@@ -681,7 +659,7 @@ require('../inc/base.php')
                         <div class="flex items-center mb-3">
                             <div class="mr-3 inline-flex items-center justify-center ">
                                 <img class="mr-4" src="img/icon-shopee.png" alt="">
-                                <h3 class="text-xl font-bold">Bearcupz</h3>
+                                <h3 class="text-xl font-bold">M***a</h3>
                             </div>
                         </div>
                         <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -702,17 +680,14 @@ require('../inc/base.php')
                             </svg>
                         </div>
                         <div class="flex-grow py-5">
-                            <p class="leading-relaxed text-base h-28">Walaupun air dirumah tidak kencang tekanannya,tapi pakai as
-                                9000
-                                lumayan jadi kencang jernih dan bersih dari ampas2 yg terkandung dalam air. Admin ramah dan sangat
-                                membantu.</p>
+                            <p class="leading-relaxed text-base h-28">Pesan kemarin, hari ini sudah sampai. Nyesel gak beli dari dulu, selama ini cuci muka dan sikat gigi dari air bercampur kotoran.</p>
                         </div>
                     </div>
                     <div class="flex rounded-2xl border border-border2 h-full p-5 m-5 flex-col">
                         <div class="flex items-center mb-3">
                             <div class="mr-3 inline-flex items-center justify-center ">
                                 <img class="mr-4" src="img/icon-tokopedia.png" alt="">
-                                <h3 class="text-xl font-bold">Vino</h3>
+                                <h3 class="text-xl font-bold">T***r</h3>
                             </div>
                         </div>
                         <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -733,9 +708,7 @@ require('../inc/base.php')
                             </svg>
                         </div>
                         <div class="flex-grow py-5">
-                            <p class="leading-relaxed text-base h-28">Produk sesuai dengan deskripsi yang dijelaskan oleh Seller di
-                                halaman produk. Respon Seller, kecepatan pemrosesan pesanan dan pengemasan/ packaging pesanan aman dan
-                                bagus</p>
+                            <p class="leading-relaxed text-base h-28">Nyesel gak beli dari dulu!! tujuannya untuk cuci muka dan sikat gigi karena merasa karang gigi cepet numpuk karena keran air kotor, muka juga jadi lebih enak setelah cuci muka pakai filter ini!</p>
                         </div>
                     </div>
                 </div>
@@ -744,7 +717,7 @@ require('../inc/base.php')
                         <div class="flex items-center mb-3">
                             <div class="mr-3 inline-flex items-center justify-center ">
                                 <img class="mr-4" src="img/icon-shopee.png" alt="">
-                                <h3 class="text-xl font-bold">Shabrinakh</h3>
+                                <h3 class="text-xl font-bold">P***to</h3>
                             </div>
                         </div>
                         <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -765,17 +738,14 @@ require('../inc/base.php')
                             </svg>
                         </div>
                         <div class="flex-grow py-5">
-                            <p class="leading-relaxed text-base h-28">Walaupun air dirumah tidak kencang tekanannya,tapi pakai as
-                                9000
-                                lumayan jadi kencang jernih dan bersih dari ampas2 yg terkandung dalam air. Admin ramah dan sangat
-                                membantu.</p>
+                            <p class="leading-relaxed text-base h-28">Kualitas air di Indonesia kurang bagus jadi perlu ada filter tambahan terutama untuk keluarga yang ada anak kecil atau baby maupun orang tua yang rentan pada bakteri.</p>
                         </div>
                     </div>
                     <div class="flex rounded-2xl border border-border2 h-full p-5 m-5 flex-col">
                         <div class="flex items-center mb-3">
                             <div class="mr-3 inline-flex items-center justify-center ">
                                 <img class="mr-4" src="img/icon-shopee.png" alt="">
-                                <h3 class="text-xl font-bold">Bearcupz</h3>
+                                <h3 class="text-xl font-bold">S***s</h3>
                             </div>
                         </div>
                         <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -796,10 +766,7 @@ require('../inc/base.php')
                             </svg>
                         </div>
                         <div class="flex-grow py-5">
-                            <p class="leading-relaxed text-base h-28">Walaupun air dirumah tidak kencang tekanannya,tapi pakai as
-                                9000
-                                lumayan jadi kencang jernih dan bersih dari ampas2 yg terkandung dalam air. Admin ramah dan sangat
-                                membantu.</p>
+                            <p class="leading-relaxed text-base h-28">Sudah dites di hari ke 3-4 ini pun masih bagus airnya jalan halus, kencang dan lancar. Jadi lebih hemat air karena airnya lebih terpancar, buka keran sedikit saja udah kenceng ngalirnya tanpa hambatan.</p>
                         </div>
                     </div>
                 </div>
@@ -808,7 +775,7 @@ require('../inc/base.php')
                         <div class="flex items-center mb-3">
                             <div class="mr-3 inline-flex items-center justify-center ">
                                 <img class="mr-4" src="img/icon-tokopedia.png" alt="">
-                                <h3 class="text-xl font-bold">Vino</h3>
+                                <h3 class="text-xl font-bold">Linda</h3>
                             </div>
                         </div>
                         <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -829,16 +796,14 @@ require('../inc/base.php')
                             </svg>
                         </div>
                         <div class="flex-grow py-5">
-                            <p class="leading-relaxed text-base h-28">Produk sesuai dengan deskripsi yang dijelaskan oleh Seller di
-                                halaman produk. Respon Seller, kecepatan pemrosesan pesanan dan pengemasan/ packaging pesanan aman dan
-                                bagus</p>
+                            <p class="leading-relaxed text-base h-28">Berasa lebih bersih pakai filter Aroma Sense, kalau tidak diganti lama-lama warnanya jadi cokelat tua lalu aliran airnya jadi lambat.</p>
                         </div>
                     </div>
                     <div class="flex rounded-2xl border border-border2 h-full p-5 m-5 flex-col">
                         <div class="flex items-center mb-3">
                             <div class="mr-3 inline-flex items-center justify-center ">
                                 <img class="mr-4" src="img/icon-shopee.png" alt="">
-                                <h3 class="text-xl font-bold">Shabrinakh</h3>
+                                <h3 class="text-xl font-bold">Aprilia</h3>
                             </div>
                         </div>
                         <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -859,10 +824,7 @@ require('../inc/base.php')
                             </svg>
                         </div>
                         <div class="flex-grow py-5">
-                            <p class="leading-relaxed text-base h-28">Walaupun air dirumah tidak kencang tekanannya,tapi pakai as
-                                9000
-                                lumayan jadi kencang jernih dan bersih dari ampas2 yg terkandung dalam air. Admin ramah dan sangat
-                                membantu.</p>
+                            <p class="leading-relaxed text-base h-28">Keren filternya… Gak nyangka air rumah sekotor itu… baru pasang 2 hari udah kelihatan item-item.</p>
                         </div>
                     </div>
                 </div>
@@ -871,7 +833,7 @@ require('../inc/base.php')
                         <div class="flex items-center mb-3">
                             <div class="mr-3 inline-flex items-center justify-center ">
                                 <img class="mr-4" src="img/icon-shopee.png" alt="">
-                                <h3 class="text-xl font-bold">Shabrinakh</h3>
+                                <h3 class="text-xl font-bold">Franda Liem</h3>
                             </div>
                         </div>
                         <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -892,17 +854,14 @@ require('../inc/base.php')
                             </svg>
                         </div>
                         <div class="flex-grow py-5">
-                            <p class="leading-relaxed text-base h-28">Walaupun air dirumah tidak kencang tekanannya,tapi pakai as
-                                9000
-                                lumayan jadi kencang jernih dan bersih dari ampas2 yg terkandung dalam air. Admin ramah dan sangat
-                                membantu.</p>
+                            <p class="leading-relaxed text-base h-28">Walaupun air dirumah tidak kencang tekanannya,tapi pakai AS9000 lumayan jadi kencang jernih dan bersih dari ampas2 yg terkandung dalam air. Admin ramah dan sangat membantu.</p>
                         </div>
                     </div>
                     <div class="flex rounded-2xl border border-border2 h-full p-5 m-5 flex-col">
                         <div class="flex items-center mb-3">
                             <div class="mr-3 inline-flex items-center justify-center ">
                                 <img class="mr-4" src="img/icon-shopee.png" alt="">
-                                <h3 class="text-xl font-bold">Shabrinakh</h3>
+                                <h3 class="text-xl font-bold">Ferdinand</h3>
                             </div>
                         </div>
                         <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -924,9 +883,9 @@ require('../inc/base.php')
                         </div>
                         <div class="flex-grow py-5">
                             <p class="leading-relaxed text-base h-28">Walaupun air dirumah tidak kencang tekanannya,tapi pakai as
-                                9000
-                                lumayan jadi kencang jernih dan bersih dari ampas2 yg terkandung dalam air. Admin ramah dan sangat
-                                membantu.</p>
+                9000
+                lumayan jadi kencang jernih dan bersih dari ampas2 yg terkandung dalam air. Admin ramah dan sangat
+                membantu.</p>
                         </div>
                     </div>
                 </div>
