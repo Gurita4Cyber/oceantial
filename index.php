@@ -364,7 +364,7 @@ require('inc/base.php')
 
       </div>
 
-      <!-- owl-craousel 1 -->
+      <!-- owl-carousel 1 -->
       <div class="owl-carousel owl-theme mobile-only pb-10">
         <div class="item">
           <div class="m-5 rounded-2xl border border-border2">
@@ -472,7 +472,7 @@ require('inc/base.php')
               <div class="flex items-center mb-6">
                 <div class="mr-3 inline-flex items-center justify-center ">
                   <img class="mr-4" src="img/icon-shopee.png" alt="">
-                  <h3 class="text-xl font-bold">Rico Hendarto</h3>
+                  <h3 class="text-xl font-bold">M***a</h3>
                 </div>
               </div>
               <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -493,10 +493,101 @@ require('inc/base.php')
                 </svg>
               </div>
               <div class="flex-grow py-5">
-                <p class="leading-relaxed text-base h-28">Walaupun air dirumah tidak kencang tekanannya,tapi pakai as
-                  9000
-                  lumayan jadi kencang jernih dan bersih dari ampas2 yg terkandung dalam air. Admin ramah dan sangat
-                  membantu.</p>
+                <p class="leading-relaxed text-base h-28">Just ordered it yesterday, and it arrived today. I wish I had bought this sooner, because I've just been washing my face and brushing my teeth with dirty water this whole time.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="p-3 md:w-1/3">
+            <div class="flex rounded-lg h-full p-2 flex-col">
+              <div class="flex items-center mb-6">
+                <div class="mr-3 inline-flex items-center justify-center ">
+                  <img class="mr-4" src="img/icon-tokopedia.png" alt="Tokopedia">
+                  <h3 class="text-xl font-bold">T***r</h3>
+                </div>
+              </div>
+              <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
+                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
+                  </path>
+                </svg><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
+                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
+                  </path>
+                </svg><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
+                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
+                  </path>
+                </svg><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
+                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
+                  </path>
+                </svg><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
+                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
+                  </path>
+                </svg>
+              </div>
+              <div class="flex-grow py-5">
+                <p class="leading-relaxed text-base h-28">I really wish I had bought this sooner!! I use it to wash my face and brush my teeth because I feel like plaque builds up quickly due to the dirty faucet water. My face feels so much better after using this filter!</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="p-3 md:w-1/3">
+            <div class="flex rounded-lg h-full p-2 flex-col">
+              <div class="flex items-center mb-6">
+                <div class="mr-3 inline-flex items-center justify-center ">
+                  <img class="mr-4" src="img/icon-shopee.png" alt="">
+                  <h3 class="text-xl font-bold">P***to</h3>
+                </div>
+              </div>
+              <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
+                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
+                  </path>
+                </svg><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
+                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
+                  </path>
+                </svg><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
+                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
+                  </path>
+                </svg><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
+                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
+                  </path>
+                </svg><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
+                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
+                  </path>
+                </svg>
+              </div>
+              <div class="flex-grow py-5">
+                <p class="leading-relaxed text-base h-28">The water quality in Indonesia isn't great, so you really need an extra filter, especially if you have baby or elderly member in the family who are more vulnerable to bacteria.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="p-3 md:w-1/3">
+            <div class="flex rounded-lg h-full p-2 flex-col">
+              <div class="flex items-center mb-6">
+                <div class="mr-3 inline-flex items-center justify-center ">
+                  <img class="mr-4" src="img/icon-shopee.png" alt="">
+                  <h3 class="text-xl font-bold">S***s</h3>
+                </div>
+              </div>
+              <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
+                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
+                  </path>
+                </svg><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
+                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
+                  </path>
+                </svg><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
+                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
+                  </path>
+                </svg><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
+                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
+                  </path>
+                </svg><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
+                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
+                  </path>
+                </svg>
+              </div>
+              <div class="flex-grow py-5">
+                <p class="leading-relaxed text-base h-28">I've tested it over the past 3-4 days and the water flow is still smooth, strong and unobstructed. It actually ends up saving water because the water sprays out more forcefully, so you only need to turn on the tap a little bit.</p>
               </div>
             </div>
           </div>
@@ -506,7 +597,7 @@ require('inc/base.php')
               <div class="flex items-center mb-6">
                 <div class="mr-3 inline-flex items-center justify-center ">
                   <img class="mr-4" src="img/icon-tokopedia.png" alt="">
-                  <h3 class="text-xl font-bold">Vino</h3>
+                  <h3 class="text-xl font-bold">Linda</h3>
                 </div>
               </div>
               <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -527,9 +618,7 @@ require('inc/base.php')
                 </svg>
               </div>
               <div class="flex-grow py-5">
-                <p class="leading-relaxed text-base h-28">Produk sesuai dengan deskripsi yang dijelaskan oleh Seller di
-                  halaman produk. Respon Seller, kecepatan pemrosesan pesanan dan pengemasan/ packaging pesanan aman dan
-                  bagus</p>
+                <p class="leading-relaxed text-base h-28">I feel so much cleaner using the Aroma Sense filter. If you don't replace it for a long time, the color turns a dark brown and the water flow gets slow.</p>
               </div>
             </div>
           </div>
@@ -538,8 +627,8 @@ require('inc/base.php')
             <div class="flex rounded-lg h-full p-2 flex-col">
               <div class="flex items-center mb-6">
                 <div class="mr-3 inline-flex items-center justify-center ">
-                  <img class="mr-4" src="img/icon-shopee.png" alt="">
-                  <h3 class="text-xl font-bold">Shabrinakh</h3>
+                  <img class="mr-4" src="img/icon-tokopedia.png" alt="belanja di tokopedia">
+                  <h3 class="text-xl font-bold">Aprilia</h3>
                 </div>
               </div>
               <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -560,122 +649,20 @@ require('inc/base.php')
                 </svg>
               </div>
               <div class="flex-grow py-5">
-                <p class="leading-relaxed text-base h-28">Walaupun air dirumah tidak kencang tekanannya,tapi pakai as
-                  9000
-                  lumayan jadi kencang jernih dan bersih dari ampas2 yg terkandung dalam air. Admin ramah dan sangat
-                  membantu.</p>
-              </div>
-            </div>
-          </div>
-          <div class="p-3 md:w-1/3">
-            <div class="flex rounded-lg h-full p-2 flex-col">
-              <div class="flex items-center mb-6">
-                <div class="mr-3 inline-flex items-center justify-center ">
-                  <img class="mr-4" src="img/icon-shopee.png" alt="">
-                  <h3 class="text-xl font-bold">Bearcupz</h3>
-                </div>
-              </div>
-              <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
-                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
-                  </path>
-                </svg><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
-                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
-                  </path>
-                </svg><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
-                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
-                  </path>
-                </svg><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
-                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
-                  </path>
-                </svg><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
-                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
-                  </path>
-                </svg>
-              </div>
-              <div class="flex-grow py-5">
-                <p class="leading-relaxed text-base h-28">Dengan memakai atau menggunakan AS9000
-                  lumayan jadi kencang jernih dan bersih dari ampas2 yg terkandung dalam air. Admin ramah dan sangat
-                  membantu.</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="p-3 md:w-1/3">
-            <div class="flex rounded-lg h-full p-2 flex-col">
-              <div class="flex items-center mb-6">
-                <div class="mr-3 inline-flex items-center justify-center ">
-                  <img class="mr-4" src="img/icon-tokopedia.png" alt="">
-                  <h3 class="text-xl font-bold">Vonny Fransisca</h3>
-                </div>
-              </div>
-              <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
-                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
-                  </path>
-                </svg><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
-                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
-                  </path>
-                </svg><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
-                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
-                  </path>
-                </svg><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
-                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
-                  </path>
-                </svg><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
-                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
-                  </path>
-                </svg>
-              </div>
-              <div class="flex-grow py-5">
-                <p class="leading-relaxed text-base h-28">Produk yang dijelaskan oleh Seller di
-                  halaman produk. Respon dari Seller, kecepatan pemrosesan pesanan dan pengemasan/ packaging pesanan aman dan
-                  bagus</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="p-3 md:w-1/3">
-            <div class="flex rounded-lg h-full p-2 flex-col">
-              <div class="flex items-center mb-6">
-                <div class="mr-3 inline-flex items-center justify-center ">
-                  <img class="mr-4" src="img/icon-shopee.png" alt="">
-                  <h3 class="text-xl font-bold">Henri Fajrul</h3>
-                </div>
-              </div>
-              <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
-                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
-                  </path>
-                </svg><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
-                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
-                  </path>
-                </svg><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
-                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
-                  </path>
-                </svg><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
-                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
-                  </path>
-                </svg><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
-                  <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z">
-                  </path>
-                </svg>
-              </div>
-              <div class="flex-grow py-5">
-                <p class="leading-relaxed text-base h-28">Air di rumah saya terlalu kencang tekanannya,tapi pakai as
-                  9000
-                  lumayan jadi kencang jernih dan bersih dari ampas2 yg terkandung dalam air. Admin ramah dan sangat
-                  membantu.</p>
+                <p class="leading-relaxed text-base h-28">The filter is awesome... I didn't realize my home water was that dirty... I just installed it 2 days ago and I can already see all the dirt.</p>
               </div>
             </div>
           </div>
         </div>
       </div>
-      <!-- owl-craousel 1 -->
+      <!-- owl-carousel 1 -->
       <div class="owl-carousel owl-theme mobile-only">
         <div class="item">
           <div class="flex rounded-2xl border border-border2 h-full p-5 m-5 flex-col">
             <div class="flex items-center mb-3">
               <div class="mr-3 inline-flex items-center justify-center ">
                 <img class="mr-4" src="img/icon-shopee.png" alt="">
-                <h3 class="text-xl font-bold">Giovani Anastasya</h3>
+                <h3 class="text-xl font-bold">M***a</h3>
               </div>
             </div>
             <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -696,17 +683,14 @@ require('inc/base.php')
               </svg>
             </div>
             <div class="flex-grow py-5">
-              <p class="leading-relaxed text-base h-28">Di tempat saya selalu kencang posisi dan airnya, tapi pakai as
-                9000
-                lumayan jadi kencang jernih dan bersih dari ampas2 yg terkandung dalam air. Admin ramah dan sangat
-                membantu.</p>
+              <p class="leading-relaxed text-base h-28">Just ordered it yesterday, and it arrived today. I wish I had bought this sooner, because I've just been washing my face and brushing my teeth with dirty water this whole time.</p>
             </div>
           </div>
           <div class="flex rounded-2xl border border-border2 h-full p-5 m-5 flex-col">
             <div class="flex items-center mb-3">
               <div class="mr-3 inline-flex items-center justify-center ">
                 <img class="mr-4" src="img/icon-tokopedia.png" alt="">
-                <h3 class="text-xl font-bold">Roy Richard</h3>
+                <h3 class="text-xl font-bold">T***r</h3>
               </div>
             </div>
             <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -727,9 +711,7 @@ require('inc/base.php')
               </svg>
             </div>
             <div class="flex-grow py-5">
-              <p class="leading-relaxed text-base h-28">Produk yang saya pilih sudah sesuai deskripsi yang dijelaskan oleh Seller di
-                halaman produk. Selain itu, respon Seller, kecepatan pemrosesan pesanan dan pengemasan/ packaging pesanan aman dan
-                bagus</p>
+              <p class="leading-relaxed text-base h-28">I really wish I had bought this sooner!! I use it to wash my face and brush my teeth because I feel like plaque builds up quickly due to the dirty faucet water. My face feels so much better after using this filter!</p>
             </div>
           </div>
         </div>
@@ -738,7 +720,7 @@ require('inc/base.php')
             <div class="flex items-center mb-3">
               <div class="mr-3 inline-flex items-center justify-center ">
                 <img class="mr-4" src="img/icon-shopee.png" alt="">
-                <h3 class="text-xl font-bold">Donny Koestawa</h3>
+                <h3 class="text-xl font-bold">P***to</h3>
               </div>
             </div>
             <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -759,17 +741,14 @@ require('inc/base.php')
               </svg>
             </div>
             <div class="flex-grow py-5">
-              <p class="leading-relaxed text-base h-28">Saya membeli tipe yang adalah as
-                9000
-                lumayan jadi kencang jernih dan bersih dari ampas2 yg terkandung dalam air. Admin ramah dan sangat
-                membantu.</p>
+              <p class="leading-relaxed text-base h-28">The water quality in Indonesia isn't great, so you really need an extra filter, especially if you have baby or elderly member in the family who are more vulnerable to bacteria. </p>
             </div>
           </div>
           <div class="flex rounded-2xl border border-border2 h-full p-5 m-5 flex-col">
             <div class="flex items-center mb-3">
               <div class="mr-3 inline-flex items-center justify-center ">
                 <img class="mr-4" src="img/icon-shopee.png" alt="">
-                <h3 class="text-xl font-bold">Gege Kasimah</h3>
+                <h3 class="text-xl font-bold">S***s</h3>
               </div>
             </div>
             <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -790,10 +769,7 @@ require('inc/base.php')
               </svg>
             </div>
             <div class="flex-grow py-5">
-              <p class="leading-relaxed text-base h-28">Walaupun air dirumah tidak kencang tekanannya,tapi pakai as
-                9000
-                lumayan jadi kencang jernih dan bersih dari ampas2 yg terkandung dalam air. Admin ramah dan sangat
-                membantu.</p>
+              <p class="leading-relaxed text-base h-28">I've tested it over the past 3-4 days and the water flow is still smooth, strong and unobstructed. It actually ends up saving water because the water sprays out more forcefully, so you only need to turn on the tap a little bit.</p>
             </div>
           </div>
         </div>
@@ -802,7 +778,7 @@ require('inc/base.php')
             <div class="flex items-center mb-3">
               <div class="mr-3 inline-flex items-center justify-center ">
                 <img class="mr-4" src="img/icon-tokopedia.png" alt="">
-                <h3 class="text-xl font-bold">Terry Sandria</h3>
+                <h3 class="text-xl font-bold">Linda</h3>
               </div>
             </div>
             <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -823,16 +799,14 @@ require('inc/base.php')
               </svg>
             </div>
             <div class="flex-grow py-5">
-              <p class="leading-relaxed text-base h-28">Saya suka produk yang sesuai dengan deskripsi yang dijelaskan oleh Seller di
-                halaman produk. Respon Seller, kecepatan pemrosesan pesanan dan pengemasan/ packaging pesanan aman dan
-                bagus</p>
+              <p class="leading-relaxed text-base h-28">I feel so much cleaner using the Aroma Sense filter. If you don't replace it for a long time, the color turns a dark brown and the water flow gets slow.</p>
             </div>
           </div>
           <div class="flex rounded-2xl border border-border2 h-full p-5 m-5 flex-col">
             <div class="flex items-center mb-3">
               <div class="mr-3 inline-flex items-center justify-center ">
                 <img class="mr-4" src="img/icon-shopee.png" alt="">
-                <h3 class="text-xl font-bold">Yacub Asyifaturahman</h3>
+                <h3 class="text-xl font-bold">Aprilia</h3>
               </div>
             </div>
             <div class="flex items-center"><svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-7 h-7 text-bgstart" viewBox="0 0 24 24">
@@ -853,10 +827,7 @@ require('inc/base.php')
               </svg>
             </div>
             <div class="flex-grow py-5">
-              <p class="leading-relaxed text-base h-28">Di tempat saya tidak terlalu cepat tekanannya,tapi pakai as
-                9000
-                lumayan jadi kencang jernih dan bersih dari ampas2 yg terkandung dalam air. Admin ramah dan sangat
-                membantu.</p>
+              <p class="leading-relaxed text-base h-28">The filter is awesome... I didn't realize my home water was that dirty... I just installed it 2 days ago and I can already see all the dirt.</p>
             </div>
           </div>
         </div>
