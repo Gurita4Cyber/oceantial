@@ -16,7 +16,7 @@ require('inc/base.php')
     <div class="absolute w-full h-full flex items-center">
       <div class="m-auto text-center">
         <div class="pb-10 text-white text-5xl">Awaken Your Senses</div>
-        <a href="" class="text-white block rounded border appearance-none border-white py-2 px-6 w-[132px] m-auto">
+        <a href="https://api.whatsapp.com/send?phone=628119722881&text=halo%20aroma%20sense%20saya%20mau%20order" class="text-white block rounded border appearance-none border-white py-2 px-6 w-[132px] m-auto">
           Learn More
         </a>
       </div>
@@ -60,7 +60,7 @@ require('inc/base.php')
                   </svg>
                 </div>
                 <div class="group-hover:stroke-white text-white text-xl group-hover:block hidden">
-                Waterlab offer a pleasurable shower experience, from the sight to the touch to the refreshing sensation.
+                  Waterlab offer a pleasurable shower experience, from the sight to the touch to the refreshing sensation.
                 </div>
               </div>
             </div>
@@ -76,7 +76,7 @@ require('inc/base.php')
                   </svg>
                 </div>
                 <div class="group-hover:stroke-white text-white text-xl group-hover:block hidden">
-                AROMICA showerheads use innovative technology to enrich your  water with vitamin C, nourishing your skin for a radiant glow.
+                  AROMICA showerheads use innovative technology to enrich your water with vitamin C, nourishing your skin for a radiant glow.
                 </div>
               </div>
             </div>
@@ -92,7 +92,7 @@ require('inc/base.php')
               </svg>
             </div>
             <div class="group-hover:stroke-white text-white text-xl group-hover:block hidden">
-            Pure Rain enhances your water experience with 5 key technologies: rust and debris removal, water-saving, anion-infused shower, soft water flow, and powerful water pressure.
+              Pure Rain enhances your water experience with 5 key technologies: rust and debris removal, water-saving, anion-infused shower, soft water flow, and powerful water pressure.
             </div>
           </div>
         </div>
@@ -448,12 +448,12 @@ require('inc/base.php')
         <h2 class="text-lg text-black font-medium">RATED 4.8 OUT OF 5 BASED ON 325.842 REVIEWS</h2>
       </div>
       <div class="flex md:ml-auto md:mr-0 mx-auto items-center flex-shrink-0 space-x-4">
-      <a href="https://shopee.co.id/oceantial.official" target="_blank"><button class="bg-gray-100 inline-flex py-3 px-5 rounded-lg items-center hover:bg-gray-200 focus:outline-none">
-          <img src="img/shopee.png" alt="Shopee Oceantial">
-        </button></a>
+        <a href="https://shopee.co.id/oceantial.official" target="_blank"><button class="bg-gray-100 inline-flex py-3 px-5 rounded-lg items-center hover:bg-gray-200 focus:outline-none">
+            <img src="img/shopee.png" alt="Shopee Oceantial">
+          </button></a>
         <a href="https://www.tokopedia.com/oceantial" target="_blank"><button class="bg-gray-100 inline-flex py-3 px-5 rounded-lg items-center hover:bg-gray-200 focus:outline-none">
-          <img src="img/tokopedia.png" alt="Tokopedia Oceantial">
-        </button></a>
+            <img src="img/tokopedia.png" alt="Tokopedia Oceantial">
+          </button></a>
       </div>
     </div>
   </section>
@@ -1273,7 +1273,7 @@ require('inc/base.php')
               <p class="mt-6 text-black font-bold text-sm lg:text-lg">IDR 765,000</p>
             </div>
           </a>
-          <a href="aroma-sense-spare-parts-anti-bakteri-as9000-medium" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
+          <a href="aroma-sense-showerhead-handheld-as9000-vitamin-c" class="lg:w-1/4 w-1/2 p-5 hover:opacity-90">
             <div class="block relative rounded overflow-hidden">
               <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="img/showerhead/3.jpg">
             </div>

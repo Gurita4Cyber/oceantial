@@ -57,16 +57,16 @@
                                     Vitamin C</a>
                             </li>
                             <li>
-                                <a class="block py-4" href="aroma-sense-spare-parts-anti-bakteri-arofix-01">Shower Head Wall -
+                                <a class="block py-4" href="aroma-sense-wall-shower-arofix">Shower Head Wall -
                                     Arofix</a>
                             </li>
                             <li>
-                                <a class="block py-4" href="aroma-sense-spare-parts-anti-bakteri-as-701">Showerhead Handheld -
+                                <a class="block py-4" href="aroma-sense-showerhead-handheld-showerhead-701">Showerhead Handheld -
                                     Showerhead
                                     701</a>
                             </li>
                             <li>
-                                <a class="block py-4" href="aroma-sense-spare-parts-anti-bakteri-as-801">Showerhead Handheld -
+                                <a class="block py-4" href="aroma-sense-showerhead-handheld-showerhead-801">Showerhead Handheld -
                                     Showerhead
                                     801</a>
                             </li>
