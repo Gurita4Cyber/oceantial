@@ -76,6 +76,10 @@
                                     Wide
                                     PR-SJW</a>
                             </li>
+                            <li>
+                                <a class="block py-4" href="aroma-sense-wall-shower-arofix">Shower Head Wall -
+                                    Arofix</a>
+                            </li>
                         </ul>
                         <div class="inline-flex items-center">
                             <h2 class="text-title2 text-lg  mb-1 font-semibold">Aromica
@@ -87,35 +91,17 @@
                         </div>
                         <ul class="navmenubig">
                             <li>
-                                <a class="block py-4" href="aroma-sense-showerhead-handheld-as9000-vitamin-c">
-                                    Showerhead Handheld - Medium AS9000 Vitamin C
+                                <a class="block py-4" href="aromica-microfiber-filter-luxe">
+                                    Aromica Microfiber Filter Luxe
                                 </a>
                             </li>
                             <li>
-                                <a class="block py-4" href="aroma-sense-showerhead-handheld-mist-vitamin-c">Showerhead Handheld -
-                                    Showerhead Mist
-                                    Vitamin C</a>
+                                <a class="block py-4" href="aromica-showerhead-handheld-luxe-black">Aromica Showerhead Handheld Luxe Black</a>
                             </li>
                             <li>
-                                <a class="block py-4" href="aroma-sense-wall-shower-arofix">Shower Head Wall -
-                                    Arofix</a>
+                                <a class="block py-4" href="aromica-showerhead-handheld-luxe-chrome">Aromica Showerhead Handheld Luxe Chrome</a>
                             </li>
-                            <li>
-                                <a class="block py-4" href="aroma-sense-showerhead-handheld-showerhead-701">Showerhead Handheld -
-                                    Showerhead
-                                    701</a>
-                            </li>
-                            <li>
-                                <a class="block py-4" href="aroma-sense-showerhead-handheld-showerhead-801">Showerhead Handheld -
-                                    Showerhead
-                                    801</a>
-                            </li>
-                            <li>
-                                <a class="block py-4" href="aroma-sense-microfiber-super-jet-wide">Showerhead Handheld -Super
-                                    Jet
-                                    Wide
-                                    PR-SJW</a>
-                            </li>
+
                         </ul>
                     </div>
                     <!-- menu list end -->
@@ -145,10 +131,7 @@
                                 <a class="block py-4" href="pure-rain-showerhead-handheld-showerhead-kids-shark-blue-vitamin-c">Showerhead Handheld -
                                     Showerhead Kids Shark Blue Vitamin C</a>
                             </li>
-                            <li>
-                                <a class="block py-4" href="aroma-sense-wall-shower-arofix">Shower Head Wall -
-                                    Arofix</a>
-                            </li>
+
                             <li>
                                 <a class="block py-4" href="pure-rain-showerhead-handheld-showerhead-kids-turtle-vitamin-c">Showerhead Handheld -
                                     Showerhead Kids Turtle Vitamin C</a>
@@ -349,7 +332,7 @@
                     <!-- menu list end -->
                     <!-- menu list -->
                     <button type="button" class="collapsible second relative">
-                        Home
+                        Tap Water
                         <svg class="absolute top-5 right-2" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M8.0886 4.41107C7.76317 4.08563 7.23553 4.08563 6.91009 4.41107C6.58466 4.73651 6.58466 5.26414 6.91009 5.58958L11.3208 10.0003L6.91009 14.4111C6.58466 14.7365 6.58466 15.2641 6.91009 15.5896C7.23553 15.915 7.76317 15.915 8.0886 15.5896L13.0886 10.5896C13.414 10.2641 13.414 9.73651 13.0886 9.41107L8.0886 4.41107Z" fill="#232020" />
                         </svg>
@@ -461,7 +444,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="rounded border appearance-none bg-btnsosmed efectmenu">
+                <!-- <div class="rounded border appearance-none bg-btnsosmed efectmenu">
                     <a href="" class="p-2 flex font-normal items-center">
                         <svg class="mr-3" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <g clip-path="url(#clip0_1668_5945)">
@@ -478,7 +461,7 @@
                         <span>Shop Now</span>
 
                     </a>
-                </div>
+                </div> -->
             </div>
 
         </li>

@@ -319,7 +319,7 @@ button.btn-select li a {
 .toggleable.blacktogle label:after{background-image: url(../img/down2.png);}
 .fixed-head .toggleable.blacktogle label:after { background-image: url(../img/down.png); }
 .fixed-head .nav-header.black>.nav-a:after{border-bottom: solid 3px #fff;}
-.logodefault.none { display: none; }
+.logodefault.none { display: none !important; }
 .logodark.show { display: block; }
 
 .menuitemshow { background: #fff; color: #232020; }

@@ -151,83 +151,83 @@
                                 <ul class="navmenubig">
                                     <li>
                                         <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-lemon">
-                                            Vitamin C cartridges isi 1 - Lemon
+                                            Aromatube - cartridges isi 1 - Lemon
                                         </a>
                                     </li>
                                     <li>
                                         <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-lemon-mango">Showerhead Handheld -
-                                            Vitamin C cartridges isi 1 - Lemon Manggo
+                                            Aromatube - cartridges isi 1 - Lemon Manggo
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-vanilla-coconut">Vitamin
-                                            C cartridges isi 1
+                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-vanilla-coconut">
+                                            Aromatube - cartridges isi 1
                                             - Vanilla Coconut
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-neutral">Vitamin
-                                            C cartridges isi 1
+                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-neutral">
+                                            Aromatube - cartridges isi 1
                                             - Neutral
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-lavender">Vitamin
-                                            C cartridges isi 1
+                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-lavender">
+                                            Aromatube - cartridges isi 1
                                             - Lavender
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-phytoncide">Vitamin
-                                            C cartridges isi 1
+                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-phytoncide">
+                                            Aromatube - cartridges isi 1
                                             - Phytoncide
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-jasmine">Vitamin
-                                            C cartridges isi 1
+                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-jasmine">
+                                            Aromatube - cartridges isi 1
                                             - Jasmine
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-pine">Vitamin
-                                            C cartridges isi 1
+                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-pine">
+                                            Aromatube - cartridges isi 1
                                             - Pine
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-rose">Vitamin
-                                            C cartridges isi 1
+                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-rose">
+                                            Aromatube - cartridges isi 1
                                             - Rose
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-eucalyptus">Vitamin
-                                            C cartridges isi 1
+                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-eucalyptus">
+                                            Aromatube - cartridges isi 1
                                             - Eucalyptus
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lavender">Vitamin
-                                            C cartridges Aroma
+                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lavender">
+                                            Aromatube - cartridges Aroma
                                             Therapy for Shower Arofix - Isi 1 pcs - Lavender
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lemon">Vitamin
-                                            C cartridges Aroma
+                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lemon">
+                                            Aromatube - cartridges Aroma
                                             Therapy for Shower Arofix - Isi 1 pcs - Lemon
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-neutral">Vitamin
-                                            C cartridges Aroma
+                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-neutral">
+                                            Aromatube - cartridges Aroma
                                             Therapy for Shower Arofix - Isi 1 pcs - Neutral
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-eucalyptus">Vitamin
-                                            C cartridges Aroma
+                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-eucalyptus">
+                                            Aromatube - cartridges Aroma
                                             Therapy for Shower Arofix - Isi 1 pcs - Eucalyptus
                                         </a>
                                     </li>
@@ -492,7 +492,7 @@
             </div>
 
             <ul class="px-4 w-40 border-gray-600 pb-6 pt-6 lg:pt-3">
-                
+
             </ul>
         </div>
     </div>
