@@ -1,16 +1,17 @@
 <head>
+    <meta name="next-head-count" content="8" />
+    <link rel="canonical" href="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="apple-touch-fullscreen" content="yes" />
 
     <?php if ($page == 'home') { ?>
         <meta charset="utf-8">
 
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -33,13 +34,7 @@
     <?php if ($page == 'how-it-works') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -61,13 +56,7 @@
     <?php if ($page == 'faqs') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -89,13 +78,7 @@
     <?php if ($page == 'about-us') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -119,13 +102,7 @@
     <?php if ($page == 'detail1') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Our microfiber filter effectively traps any lingering rust, dirt, or contaminants in your water, providing consistent purification." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Aroma Sense - Microfiber Filter 701 | Oceantial</title>
 
         <!-- Facebook Meta Tags -->
@@ -148,13 +125,7 @@
     <?php if ($page == 'detail2') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Our microfiber filter effectively traps any lingering rust, dirt, or contaminants in your water, providing consistent purification." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Aroma Sense - Microfiber Filter 801 | Oceantial</title>
 
         <!-- Facebook Meta Tags -->
@@ -177,13 +148,7 @@
     <?php if ($page == 'detail3') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Our microfiber filter effectively traps any lingering rust, dirt, or contaminants in your water, providing consistent purification." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Aroma Sense - Microfiber Filter Arofix Grand Shower | Oceantial</title>
 
         <!-- Facebook Meta Tags -->
@@ -206,13 +171,7 @@
     <?php if ($page == 'detail4') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Our microfiber filter effectively traps any lingering rust, dirt, or contaminants in your water, providing consistent purification." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Aroma Sense - Microfiber Filter Arofix | Oceantial</title>
 
         <!-- Facebook Meta Tags -->
@@ -235,13 +194,7 @@
     <?php if ($page == 'detail5') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -264,13 +217,7 @@
     <?php if ($page == 'detail6') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -293,13 +240,7 @@
     <?php if ($page == 'detail7') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -322,13 +263,7 @@
     <?php if ($page == 'detail8') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -351,13 +286,7 @@
     <?php if ($page == 'detail9') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -380,13 +309,7 @@
     <?php if ($page == 'detail10') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -409,13 +332,7 @@
     <?php if ($page == 'detail11') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -438,13 +355,7 @@
     <?php if ($page == 'detail12') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -466,13 +377,7 @@
     <?php if ($page == 'detail13') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -495,13 +400,7 @@
     <?php if ($page == 'detail14') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -523,13 +422,7 @@
     <?php if ($page == 'detail15') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -552,13 +445,7 @@
     <?php if ($page == 'detail16') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -581,13 +468,7 @@
     <?php if ($page == 'detail17') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -610,13 +491,7 @@
     <?php if ($page == 'detail18') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -639,13 +514,7 @@
     <?php if ($page == 'detail19') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -668,13 +537,7 @@
     <?php if ($page == 'detail20') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -697,13 +560,7 @@
     <?php if ($page == 'detail21') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -726,13 +583,7 @@
     <?php if ($page == 'detail22') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -755,13 +606,7 @@
     <?php if ($page == 'detail23') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -784,13 +629,7 @@
     <?php if ($page == 'detail24') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -813,13 +652,7 @@
     <?php if ($page == 'detail25') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -842,13 +675,7 @@
     <?php if ($page == 'detail26') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -871,13 +698,7 @@
     <?php if ($page == 'detail27') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -900,13 +721,7 @@
     <?php if ($page == 'detail28') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -929,13 +744,7 @@
     <?php if ($page == 'detail29') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -958,13 +767,7 @@
     <?php if ($page == 'detail30') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -987,13 +790,7 @@
     <?php if ($page == 'detail31') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -1016,13 +813,7 @@
     <?php if ($page == 'detail32') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -1045,13 +836,7 @@
     <?php if ($page == 'detail33') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -1074,13 +859,7 @@
     <?php if ($page == 'detail34') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -1103,13 +882,7 @@
     <?php if ($page == 'detail35') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -1132,13 +905,7 @@
     <?php if ($page == 'detail36') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -1161,13 +928,7 @@
     <?php if ($page == 'detail37') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -1190,13 +951,7 @@
     <?php if ($page == 'detail38') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -1219,13 +974,7 @@
     <?php if ($page == 'detail39') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -1248,13 +997,7 @@
     <?php if ($page == 'detail40') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -1277,13 +1020,7 @@
     <?php if ($page == 'detail41') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -1306,13 +1043,7 @@
     <?php if ($page == 'detail42') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -1335,13 +1066,7 @@
     <?php if ($page == 'detail43') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -1364,13 +1089,7 @@
     <?php if ($page == 'detail44') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -1393,13 +1112,7 @@
     <?php if ($page == 'detail45') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -1422,13 +1135,7 @@
     <?php if ($page == 'detail46') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -1596,13 +1303,7 @@
     <?php if ($page == 'detail52') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -1625,13 +1326,7 @@
     <?php if ($page == 'detail53') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -1654,13 +1349,7 @@
     <?php if ($page == 'detail54') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -1683,13 +1372,7 @@
     <?php if ($page == 'detail55') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -1714,13 +1397,7 @@
     <?php if ($page == 'detail1-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Our microfiber filter effectively traps any lingering rust, dirt, or contaminants in your water, providing consistent purification." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Aroma Sense - Microfiber Filter 701 | Oceantial</title>
 
         <!-- Facebook Meta Tags -->
@@ -1743,13 +1420,7 @@
     <?php if ($page == 'detail2-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Our microfiber filter effectively traps any lingering rust, dirt, or contaminants in your water, providing consistent purification." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Aroma Sense - Microfiber Filter 801 | Oceantial</title>
 
         <!-- Facebook Meta Tags -->
@@ -1772,13 +1443,7 @@
     <?php if ($page == 'detail3-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Our microfiber filter effectively traps any lingering rust, dirt, or contaminants in your water, providing consistent purification." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Aroma Sense - Microfiber Filter Arofix Grand Shower | Oceantial</title>
 
         <!-- Facebook Meta Tags -->
@@ -1801,13 +1466,7 @@
     <?php if ($page == 'detail4-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Our microfiber filter effectively traps any lingering rust, dirt, or contaminants in your water, providing consistent purification." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Aroma Sense - Microfiber Filter Arofix | Oceantial</title>
 
         <!-- Facebook Meta Tags -->
@@ -1830,13 +1489,7 @@
     <?php if ($page == 'detail5-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -1859,13 +1512,7 @@
     <?php if ($page == 'detail6-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -1888,13 +1535,7 @@
     <?php if ($page == 'detail7-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -1917,13 +1558,7 @@
     <?php if ($page == 'detail8-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -1946,13 +1581,7 @@
     <?php if ($page == 'detail9-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -1975,13 +1604,7 @@
     <?php if ($page == 'detail10-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2004,13 +1627,7 @@
     <?php if ($page == 'detail11-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2033,13 +1650,7 @@
     <?php if ($page == 'detail12-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2061,13 +1672,7 @@
     <?php if ($page == 'detail13-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2090,13 +1695,7 @@
     <?php if ($page == 'detail14-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2118,13 +1717,7 @@
     <?php if ($page == 'detail15-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2147,13 +1740,7 @@
     <?php if ($page == 'detail16-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2176,13 +1763,7 @@
     <?php if ($page == 'detail17-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2205,13 +1786,7 @@
     <?php if ($page == 'detail18-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2234,13 +1809,7 @@
     <?php if ($page == 'detail19-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2263,13 +1832,7 @@
     <?php if ($page == 'detail20-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2292,13 +1855,7 @@
     <?php if ($page == 'detail21-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2321,13 +1878,7 @@
     <?php if ($page == 'detail22-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2350,13 +1901,7 @@
     <?php if ($page == 'detail23-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2379,13 +1924,7 @@
     <?php if ($page == 'detail24-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2408,13 +1947,7 @@
     <?php if ($page == 'detail25-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2437,13 +1970,7 @@
     <?php if ($page == 'detail26-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2466,13 +1993,7 @@
     <?php if ($page == 'detail27-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2495,13 +2016,7 @@
     <?php if ($page == 'detail28-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2524,13 +2039,7 @@
     <?php if ($page == 'detail29-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2553,13 +2062,7 @@
     <?php if ($page == 'detail30-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2582,13 +2085,7 @@
     <?php if ($page == 'detail31-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2611,13 +2108,7 @@
     <?php if ($page == 'detail32-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2640,13 +2131,7 @@
     <?php if ($page == 'detail33-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2669,13 +2154,7 @@
     <?php if ($page == 'detail34-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2698,13 +2177,7 @@
     <?php if ($page == 'detail35-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2727,13 +2200,7 @@
     <?php if ($page == 'detail36-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2756,13 +2223,7 @@
     <?php if ($page == 'detail37-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2785,13 +2246,7 @@
     <?php if ($page == 'detail38-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2814,13 +2269,7 @@
     <?php if ($page == 'detail39-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2843,13 +2292,7 @@
     <?php if ($page == 'detail40-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2872,13 +2315,7 @@
     <?php if ($page == 'detail41-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2901,13 +2338,7 @@
     <?php if ($page == 'detail42-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2930,13 +2361,7 @@
     <?php if ($page == 'detail43-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2959,13 +2384,7 @@
     <?php if ($page == 'detail44-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -2988,13 +2407,7 @@
     <?php if ($page == 'detail45-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -3017,13 +2430,7 @@
     <?php if ($page == 'detail46-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -3191,13 +2598,7 @@
     <?php if ($page == 'detail52-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -3220,13 +2621,7 @@
     <?php if ($page == 'detail53-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -3249,13 +2644,7 @@
     <?php if ($page == 'detail54-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->
@@ -3278,13 +2667,7 @@
     <?php if ($page == 'detail55-indo') { ?>
         <meta charset="utf-8">
         <meta name="description" content="Elevate your shower time with Aroma Sense Showerhead, and other products to infusing your skin with the nourishing benefits of vitamin C." />
-        <meta name="next-head-count" content="8" />
-        <link rel="canonical" href="" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="HandheldFriendly" content="true" />
-        <meta name="apple-touch-fullscreen" content="yes" />
+
         <title>Oceantial - Inspired By The Ocean, Crafted For You</title>
 
         <!-- Facebook Meta Tags -->

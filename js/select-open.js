@@ -59,7 +59,7 @@
       var img = $(this).attr("data-thumbnail2");
       var text = this.innerText;
       var value = $(this).val();
-      var item = '<li><img src="' + img + '" alt="" value="' + value + '"/><span>' + text + '</span></li>';
+      var item = '<li><a href="'+ value +'"><img src="' + img + '" alt="" /><span>' + text + '</span></a></li>';
       langArray.push(item);
     })
 
@@ -74,7 +74,7 @@
       var img = $(this).find('img').attr("src");
       var value = $(this).find('img').attr('value');
       var text = this.innerText;
-      var item = '<li><img src="' + img + '" alt="" /><span>' + text + '</span></li>';
+      var item = '<li><a href="'+ value +'"><img src="' + img + '" alt="" /><span>' + text + '</span></a></li>';
       $('.btn-select2').html(item);
       $('.btn-select2').attr('value', value);
       $(".b2").toggle();
