@@ -430,18 +430,6 @@
                 <div class="text-xl font-thin flex items-center">
                     <div class="flex items-center">
 
-                        <div class="relative">
-                            <select class="vodiapicker2">
-                                <option value="en" class="test" data-thumbnail2="img/en.png"> EN </option>
-                                <option value="in" data-thumbnail2="img/in.png">ID</option>
-                            </select>
-                            <div class="lang-select">
-                                <button class="btn-select2 blackbtn" value=""></button>
-                                <div class="b2 blacklanguage">
-                                    <ul id="a2" class="sel"></ul>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                 </div>
                 <!-- <div class="rounded border appearance-none bg-btnsosmed efectmenu">

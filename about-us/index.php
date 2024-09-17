@@ -25,21 +25,13 @@ require('../inc/base.php')
                     </h2>
                 </div>
                 <div class="lg:p-5 w-full p-2 lg:w-1/2 flex flex-col items-center justify-center text-center lg:text-left">
-                    <p class="flex text-lg desktop-only">
-                        We recognize the vital role of fostering a profound connection between the products we offer and
-                        their impact on overall well-being. Our aim extends beyond protecting the body externally; we
-                        strive
-                        to provide inner serenity.
+                    <p class="flex text-lg pb-4">
+                        Since 2019, Oceantial has proudly served as a distributor of premium products in Indonesia. Inspired by the soothing essence of the ocean, we are committed to provide exceptional brands that enrich daily life and awaken the senses.
                     </p>
-                    <p class="flex text-lg mobile-only pb-4">
-                        We recognize the vital role of fostering a profound connection between the products we offer and
-                        their impact on overall well-being.
+                    <p class="flex text-lg pb-4">
+                        Headquartered in DKI Jakarta, the vibrant heart of Indonesia, Oceantial has established strong partnerships and a comprehensive distribution network, ensuring that our quality offerings are accessible nationwide. At Oceantial, we believe in the transformative power of quality, bringing a touch of the ocean's serenity into every home.
                     </p>
-                    <p class="flex text-lg mobile-only">
-                        Our aim extends beyond protecting the body externally; we
-                        strive
-                        to provide inner serenity.
-                    </p>
+
 
                 </div>
             </div>
