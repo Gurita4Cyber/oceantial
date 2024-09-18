@@ -296,7 +296,7 @@ require('../inc/base.php')
         <div class="container mx-auto flex flex-wrap">
             <div class="container mx-auto">
                 <div class="text-center">
-                    <h2 class="font-bold lg:text-[40px] text-2xl capitalize lg:py-20 py-10">What they say about us </h2>
+                    <h2 class="font-bold lg:text-[40px] text-2xl capitalize lg:py-20 py-10">Kata mereka tentang Oceantial</h2>
                 </div>
             </div>
             <div class="flex flex-wrap desktop-onlyflex">
@@ -304,15 +304,12 @@ require('../inc/base.php')
                     <div class="flex rounded-lg h-full p-2 flex-col">
                         <div class="flex items-center mb-3">
                             <div class="mr-3 inline-flex items-center justify-center ">
-                                <img src="img/bazar.png" alt="">
+                                <img src="img/bazar.png" alt="bazaar">
                             </div>
                         </div>
                         <div class="flex-grow py-5">
-                            <p class="leading-relaxed text-base h-28">This showerhead not only provides all the benefit for your skin,
-                                but
-                                also saves 20-50%
-                                on water usage thanks to its advanced technology.</p>
-                            <a class="mt-3 text-black inline-flex items-center uppercase font-bold">Learn More
+                            <p class="leading-relaxed text-base h-28">Tak hanya akan memberikan segala manfaat baik yang terkandung, dengan showerhead ini, Anda juga dapat menghemat pemakaian air hingga 20-50% berkat teknologi pada lubang semprotannya.</p>
+                            <a class="mt-3 text-black inline-flex items-center uppercase font-bold">Selengkapnya
                                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                                 </svg>
@@ -324,13 +321,12 @@ require('../inc/base.php')
                     <div class="flex rounded-lg h-full p-2 flex-col">
                         <div class="flex items-center mb-3">
                             <div class="mr-3 inline-flex items-center justify-center ">
-                                <img src="img/cosmopolitan.png" alt="">
+                                <img src="img/cosmopolitan.png" alt="Cosmopolitan">
                             </div>
                         </div>
                         <div class="flex-grow py-5">
-                            <p class="leading-relaxed text-base h-28">Innovative products for your self-care
-                                sessions at home! Aroma Sense Showerhead adds an element of aromatherapy to your shower.</p>
-                            <a class="mt-3 text-black inline-flex items-center uppercase font-bold">Learn More
+                            <p class="leading-relaxed text-base h-28">Produk inovatif untuk sesi self-care kamu di rumah! Aroma Sense Head Shower menambahkan unsur aromaterapi untuk shower kamu.</p>
+                            <a class="mt-3 text-black inline-flex items-center uppercase font-bold">Selengkapnya
                                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                                 </svg>
@@ -342,14 +338,12 @@ require('../inc/base.php')
                     <div class="flex rounded-lg h-full p-2 flex-col">
                         <div class="flex items-center mb-3">
                             <div class="mr-3 inline-flex items-center justify-center ">
-                                <img src="img/female-daily.png" alt="">
+                                <img src="img/female-daily.png" alt="Female Daily">
                             </div>
                         </div>
                         <div class="flex-grow py-5">
-                            <p class="leading-relaxed text-base h-28">Using the Aroma Sense showerhead leaves skin feeling cleaner.
-                                The
-                                shower's cartridge not only adds a pleasant fragrance to the water, but also contains vitamin C.</p>
-                            <a class="mt-3 text-black inline-flex items-center uppercase font-bold">Learn More
+                            <p class="leading-relaxed text-base h-28">Setelah menggunakan showerhead dari Aroma Sense, kulit terasa semakin bersih. Selain itu showernya dilengkapi dengan catridge yang tidak hanya menambahkan wangi pada air, tapi juga mengandung vitamin C.</p>
+                            <a class="mt-3 text-black inline-flex items-center uppercase font-bold">Selengkapnya
                                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                                 </svg>
