@@ -16,7 +16,7 @@ require('../inc/base.php')
         <div class="absolute w-full h-full flex items-center">
             <div class="m-auto text-center">
                 <div class="pb-10 text-white text-5xl">Awaken Your Senses</div>
-                <a href="id/" class="text-white block rounded border appearance-none border-white py-2 px-6 w-[132px] m-auto">
+                <a href="https://api.whatsapp.com/send?phone=628119722881&text=halo%20aroma%20sense%20saya%20mau%20order" class="text-white block rounded border appearance-none border-white py-2 px-6 w-[132px] m-auto">
                     Learn More
                 </a>
             </div>
@@ -283,8 +283,8 @@ require('../inc/base.php')
                         your body
                     </h3>
                     <a href="https://linktr.ee/oceantial_" class="text-white bg-btnbg inline-flex items-center md:mb-2 lg:mb-0 py-2 px-4 rounded-lg">Shop Now<svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
-              <path d="M5 12h14M12 5l7 7-7 7"></path>
-            </svg></a>
+                            <path d="M5 12h14M12 5l7 7-7 7"></path>
+                        </svg></a>
 
                 </div>
 
