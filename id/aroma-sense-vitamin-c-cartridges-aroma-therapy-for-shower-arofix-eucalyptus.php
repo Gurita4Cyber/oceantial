@@ -15,7 +15,7 @@ require('../inc/base.php')
     <section class="w-full pb-20 pt-20 lg:px-20 relative">
         <div class="container px-5 pt-20 mx-auto flex sm:flex-nowrap flex-wrap">
             <div class="lg:w-2/3 rounded-lg overflow-hidden flex items-end justify-start relative">
-            <div class="relative">
+                <div class="relative">
                     <img src="img/Eucalyptus/Eucalyptus_WM_e3b11a3f-e397-45bd-81cd-e2a01119968f_720x.jpeg" alt="Aroma Sense - Vitamin C Cartridges Aroma Therapy for Shower Arofix - Eucalyptus">
                 </div>
             </div>
@@ -141,4 +141,4 @@ require('../inc/base.php')
 
 
     <!-- footer -->
-    <?php require($_SERVER['PUBLIC'] . 'inc/footer.php') ?>
+    <?php require($_SERVER['PUBLIC'] . 'inc/footer-indo.php') ?>

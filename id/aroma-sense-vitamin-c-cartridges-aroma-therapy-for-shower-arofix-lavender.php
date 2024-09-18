@@ -15,7 +15,7 @@ require('../inc/base.php')
     <section class="w-full pb-20 pt-20 lg:px-20 relative">
         <div class="container px-5 pt-20 mx-auto flex sm:flex-nowrap flex-wrap">
             <div class="lg:w-2/3 rounded-lg overflow-hidden flex items-end justify-start relative">
-            <div class="relative">
+                <div class="relative">
                     <img src="img/Lavender/MG_9476_3_2__54213.1490047346_720x.jpg" alt="Aroma Sense - Vitamin C Cartridges Aroma Therapy for Shower Arofix - Lavender">
                 </div>
             </div>
@@ -41,7 +41,7 @@ require('../inc/base.php')
                     <h2 class="font-semibold text-2xl">IDR 240,000</h2>
                 </div>
                 <p class="pb-4">Cartridge Arofix Lavender tidak hanya menghilangkan klorin dari air, tetapi juga menyegarkan dengan aroma terapi yang dapat mengurangi kecemasan, meningkatkan kualitas tidur, dan memperbaiki sirkulasi darah.</p>
-                <p class="pb-4">Diperkaya dengan kandungan vitamin C, filter AROFIX akan memelihara kesehatan rambut dan kulit, memberikan pengalaman menyeluruh. Nikmati sampai 9.000 liter air yang dimurnikan dan menyegarkan per cartridge.</p>            
+                <p class="pb-4">Diperkaya dengan kandungan vitamin C, filter AROFIX akan memelihara kesehatan rambut dan kulit, memberikan pengalaman menyeluruh. Nikmati sampai 9.000 liter air yang dimurnikan dan menyegarkan per cartridge.</p>
                 <section class="accordion bg-btnbg text-white my-0 mx-auto inline-flex items-center justify-center w-full">
                     <div class="tab w-full">
                         <input type="checkbox" name="accordion-1" id="cb2">
@@ -141,4 +141,4 @@ require('../inc/base.php')
 
 
     <!-- footer -->
-    <?php require($_SERVER['PUBLIC'] . 'inc/footer.php') ?>
+    <?php require($_SERVER['PUBLIC'] . 'inc/footer-indo.php') ?>

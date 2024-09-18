@@ -16,7 +16,7 @@ require('../inc/base.php')
         <div class="container mx-auto lg:py-20 pt-10">
             <div class="flex flex-wrap lg:-m-5">
                 <div class="lg:p-5 w-full p-2 lg:w-1/2 flex flex-col  justify-center lg:text-left text-center">
-                    <p class="lg:pb-5 text-lg pb-2 lg:text-left">About us</p>
+                    <p class="lg:pb-5 text-lg pb-2 lg:text-left">Tentang kami</p>
                     <h2 class="font-semibold lg:text-8xl text-[40px] desktop-only">
                         This is <br> Oceantial
                     </h2>
@@ -26,10 +26,10 @@ require('../inc/base.php')
                 </div>
                 <div class="lg:p-5 w-full p-2 lg:w-1/2 flex flex-col items-center justify-center text-center lg:text-left">
                     <p class="flex text-lg pb-4">
-                        Since 2019, Oceantial has proudly served as a distributor of premium products in Indonesia. Inspired by the soothing essence of the ocean, we are committed to provide exceptional brands that enrich daily life and awaken the senses.
+                        Sejak tahun 2019, Oceantial telah hadir sebagai distributor produk premium di Indonesia. Terinspirasi oleh alunan ketenangan laut, kami berkomitmen untuk menghadirkan produk-produk unggulan yang memperkaya kehidupan sehari-hari dan membangkitkan indra.
                     </p>
                     <p class="flex text-lg pb-4">
-                        Headquartered in DKI Jakarta, the vibrant heart of Indonesia, Oceantial has established strong partnerships and a comprehensive distribution network, ensuring that our quality offerings are accessible nationwide. At Oceantial, we believe in the transformative power of quality, bringing a touch of the ocean's serenity into every home.
+                        Bertempat di DKI Jakarta, pusat dinamika Indonesia, Oceantial telah membangun kemitraan yang kuat dan jaringan distribusi yang luas, memastikan produk berkualitas kami dapat diakses di seluruh penjuru negeri. Di Oceantial, kami percaya pada kekuatan transformasi dengan menghadirkan kualitas terbaik, membawa sentuhan ketenangan lautan ke setiap rumah.
                     </p>
 
 
@@ -42,9 +42,8 @@ require('../inc/base.php')
         <img class="w-full mobile-only" src="img/about-us-mobile.jpg" alt="">
 
         <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 font-semibold  text-white text-center lg:w-full w-96">
-            <h3 class="">Our Tagline</h3>
-            <h3 class="lg:text-[80px] text-[40px]">Awaken Your <br>
-                Senses</h3>
+            <h3 class="">Slogan kami</h3>
+            <h3 class="lg:text-[80px] text-[40px]">bangunkan <br> indramu </h3>
 
         </div>
     </section>
@@ -52,21 +51,21 @@ require('../inc/base.php')
     <section class="w-full pb-20 pt-20 lg:px-20 relative">
         <div class="mx-auto flex flex-wrap">
             <div class="lg:w-1/2 w-full lg:pr-10 flex flex-col justify-center lg:text-left text-center lg:px-0 px-4">
-                <h3 class="font-semibold text-[40px] pb-8">Our Mission</h3>
-                <p class="pb-4 text-lg">Like the gentle sea breeze, the soft touch of each water droplet on the skin
-                    feels like
-                    a comforting
-                    embrace. Ocential, inspired by the soothing touch of the ocean, strives to create a similar
-                    experience that brings serenity to every soul that embraces it.</p>
-                <p class="pb-4 text-lg">Ocential attempt to provide innovative solutions with high effectiveness and the
-                    finest
-                    quality
-                    ingredients for the needs of the skin and body.</p>
-                <p class="text-lg lg:pb-0 pb-10">By blending the calming essence of the sea with scientific
-                    innovation,
-                    Ocential
-                    aims to deliver an
-                    experience that awakens the senses.</p>
+                <h3 class="font-semibold text-[40px] pb-8">Misi kami</h3>
+                <p class="pb-4 text-lg">Bagaikan semilir angin laut yang lembut, sentuhan lembut setiap tetesan air di kulit
+                    terasa seperti
+                    sebuah kenyamanan
+                    merangkul. Ocential, terinspirasi oleh sentuhan laut yang menenangkan, berupaya menciptakan hal serupa
+                    pengalaman yang mendatangkan ketenangan bagi setiap jiwa yang menganutnya.</p>
+                <p class="pb-4 text-lg">Upaya penting untuk memberikan solusi inovatif dengan efektivitas tinggi dan
+                    terbaik
+                    kualitas
+                    bahan untuk kebutuhan kulit dan tubuh.</p>
+                <p class="text-lg lg:pb-0 pb-10">Dengan memadukan esensi laut yang menenangkan dengan ilmiah
+                    inovasi,
+                    Osensial
+                    bertujuan untuk menyampaikan sebuah
+                    pengalaman yang membangkitkan indera.</p>
             </div>
             <img class="lg:w-1/2 w-full lg:h-auto object-cover object-center" src="img/mission.jpg" alt="">
         </div>
@@ -74,4 +73,4 @@ require('../inc/base.php')
 
 
     <!-- footer -->
-    <?php require($_SERVER['PUBLIC'] . 'inc/footer.php') ?>
+    <?php require($_SERVER['PUBLIC'] . 'inc/footer-indo.php') ?>

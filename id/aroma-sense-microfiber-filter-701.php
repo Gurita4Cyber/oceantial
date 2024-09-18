@@ -93,4 +93,4 @@ require('../inc/base.php')
 
 
     <!-- footer -->
-    <?php require($_SERVER['PUBLIC'] . 'inc/footer.php') ?>
+    <?php require($_SERVER['PUBLIC'] . 'inc/footer-indo.php') ?>

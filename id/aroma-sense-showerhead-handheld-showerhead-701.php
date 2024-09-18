@@ -137,4 +137,4 @@ require('../inc/base.php')
     </section>
 
     <!-- footer -->
-    <?php require($_SERVER['PUBLIC'] . 'inc/footer.php') ?>
+    <?php require($_SERVER['PUBLIC'] . 'inc/footer-indo.php') ?>

@@ -15,7 +15,7 @@ require('../inc/base.php')
     <section class="w-full pb-20 pt-20 lg:px-20 relative">
         <div class="container px-5 pt-20 mx-auto flex sm:flex-nowrap flex-wrap">
             <div class="lg:w-2/3 rounded-lg overflow-hidden flex items-end justify-start relative">
-            <div class="relative">
+                <div class="relative">
                     <img src="img/CARTRIDGES-PINE/pine3in1abcd.jpg" alt="Aroma Sense - Vitamin C Cartridges -  Pine">
                 </div>
             </div>
@@ -140,4 +140,4 @@ require('../inc/base.php')
 
 
     <!-- footer -->
-    <?php require($_SERVER['PUBLIC'] . 'inc/footer.php') ?>
+    <?php require($_SERVER['PUBLIC'] . 'inc/footer-indo.php') ?>

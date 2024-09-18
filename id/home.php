@@ -43,7 +43,7 @@ require('../inc/base.php')
                             </svg>
                         </div>
                         <div class="group-hover:stroke-white text-white text-xl group-hover:block hidden">
-                        Nikmati momen mandi dengan lebih menyenangkan bersama Showerhead Aroma Sense yang mengandung vitamin C untuk merawat kulit Anda.
+                            Nikmati momen mandi dengan lebih menyenangkan bersama Showerhead Aroma Sense yang mengandung vitamin C untuk merawat kulit Anda.
                         </div>
                     </div>
                 </div>
@@ -59,7 +59,7 @@ require('../inc/base.php')
                                     </svg>
                                 </div>
                                 <div class="group-hover:stroke-white text-white text-xl group-hover:block hidden">
-                                Waterlab menghadirkan pengalaman mandi yang menyenangkan, dari segi tampilan, hingga sensasi menyegarkannya.
+                                    Waterlab menghadirkan pengalaman mandi yang menyenangkan, dari segi tampilan, hingga sensasi menyegarkannya.
                                 </div>
                             </div>
                         </div>
@@ -75,7 +75,7 @@ require('../inc/base.php')
                                     </svg>
                                 </div>
                                 <div class="group-hover:stroke-white text-white text-xl group-hover:block hidden">
-                                Showerhead Aromica menggunakan teknologi inovatif untuk memperkaya air dengan vitamin C, mampu merawat kulit Anda agar lebih sehat dan glowing.
+                                    Showerhead Aromica menggunakan teknologi inovatif untuk memperkaya air dengan vitamin C, mampu merawat kulit Anda agar lebih sehat dan glowing.
                                 </div>
                             </div>
                         </div>
@@ -91,7 +91,7 @@ require('../inc/base.php')
                             </svg>
                         </div>
                         <div class="group-hover:stroke-white text-white text-xl group-hover:block hidden">
-                        Pure Rain meningkatkan kualitas air dengan 5 teknologi kunci: menyingkirkan karat dan kotoran, menghemat air, menyuplai ion negatif, memberikan aliran air yang lembut, serta tekanan air yang kuat.
+                            Pure Rain meningkatkan kualitas air dengan 5 teknologi kunci: menyingkirkan karat dan kotoran, menghemat air, menyuplai ion negatif, memberikan aliran air yang lembut, serta tekanan air yang kuat.
                         </div>
                     </div>
                 </div>
@@ -447,12 +447,12 @@ require('../inc/base.php')
                 <h2 class="text-lg text-black font-medium">RATED 4.8 OUT OF 5 BASED ON 325.842 REVIEWS</h2>
             </div>
             <div class="flex md:ml-auto md:mr-0 mx-auto items-center flex-shrink-0 space-x-4">
-            <a href="https://shopee.co.id/oceantial.official" target="_blank"><button class="bg-gray-100 inline-flex py-3 px-5 rounded-lg items-center hover:bg-gray-200 focus:outline-none">
-                    <img src="img/shopee.png" alt="belanja di shopee">
-                </button></a>
+                <a href="https://shopee.co.id/oceantial.official" target="_blank"><button class="bg-gray-100 inline-flex py-3 px-5 rounded-lg items-center hover:bg-gray-200 focus:outline-none">
+                        <img src="img/shopee.png" alt="belanja di shopee">
+                    </button></a>
                 <a href="https://www.tokopedia.com/oceantial" target="_blank"><button class="bg-gray-100 inline-flex py-3 px-5 rounded-lg items-center hover:bg-gray-200 focus:outline-none">
-                    <img src="img/tokopedia.png" alt="belanja di tokopedia">
-                </button></a>
+                        <img src="img/tokopedia.png" alt="belanja di tokopedia">
+                    </button></a>
             </div>
         </div>
     </section>
@@ -883,9 +883,9 @@ require('../inc/base.php')
                         </div>
                         <div class="flex-grow py-5">
                             <p class="leading-relaxed text-base h-28">Walaupun air dirumah tidak kencang tekanannya,tapi pakai as
-                9000
-                lumayan jadi kencang jernih dan bersih dari ampas2 yg terkandung dalam air. Admin ramah dan sangat
-                membantu.</p>
+                                9000
+                                lumayan jadi kencang jernih dan bersih dari ampas2 yg terkandung dalam air. Admin ramah dan sangat
+                                membantu.</p>
                         </div>
                     </div>
                 </div>
@@ -1546,4 +1546,4 @@ require('../inc/base.php')
 
 
     <!-- footer -->
-    <?php require($_SERVER['PUBLIC'] . 'inc/footer.php') ?>
+    <?php require($_SERVER['PUBLIC'] . 'inc/footer-indo.php') ?>

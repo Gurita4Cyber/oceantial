@@ -422,9 +422,9 @@
 
 
         </li>
-        <li><a href="how-it-works.php">How it Works</a></li>
-        <li><a href="faqs.php">FAQs</a></li>
-        <li><a href="about-us.php">About Us</a></li>
+        <li><a href="how-it-works">How it Works</a></li>
+        <li><a href="faqs">FAQs</a></li>
+        <li><a href="about-us">About Us</a></li>
         <li>
             <div class="flex w-full justify-between">
                 <div class="text-xl font-thin flex items-center">
