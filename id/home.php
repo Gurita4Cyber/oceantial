@@ -103,7 +103,7 @@ require('../inc/base.php')
         <div class="container mx-auto flex flex-wrap">
             <div class="container mx-auto">
                 <div class="text-center">
-                    <h2 class="font-bold text-[40px] capitalize py-20">Healthy skin starts here</h2>
+                    <h2 class="font-bold text-[40px] capitalize py-20">Kulit yang sehat dimulai dari sini</h2>
                 </div>
             </div>
             <div class="flex flex-wrap w-full">
@@ -122,7 +122,7 @@ require('../inc/base.php')
                         </svg>
 
                         <div class="w-full">
-                            <h2 class="title-font font-bold lg:text-2xl text-lg text-black pt-4">Neutralize chlorine</h2>
+                            <h2 class="title-font font-bold lg:text-2xl text-lg text-black pt-4">Menetralisir klorin</h2>
 
                         </div>
                     </div>
@@ -155,8 +155,7 @@ require('../inc/base.php')
                         </svg>
 
                         <div class="w-full">
-                            <h2 class="title-font font-bold lg:text-2xl text-lg text-black pt-4">Remove dirt and <br>
-                                rust residues</h2>
+                            <h2 class="title-font font-bold lg:text-2xl text-lg text-black pt-4">Basmi Kotoran</h2>
 
                         </div>
                     </div>
@@ -177,8 +176,7 @@ require('../inc/base.php')
                         </svg>
 
                         <div class="w-full">
-                            <h2 class="title-font font-bold lg:text-2xl text-lg text-black pt-4">Help restore skin's <br>
-                                natural moisture</h2>
+                            <h2 class="title-font font-bold lg:text-2xl text-lg text-black pt-4">Kembalikan kelembapan alami</h2>
 
                         </div>
                     </div>
@@ -203,7 +201,7 @@ require('../inc/base.php')
 
 
                         <div class="w-full">
-                            <h2 class="title-font font-bold lg:text-2xl text-lg text-black pt-4">Benefit of negative ions</h2>
+                            <h2 class="title-font font-bold lg:text-2xl text-lg text-black pt-4">Manfaat ion negatif</h2>
 
                         </div>
                     </div>
@@ -236,7 +234,7 @@ require('../inc/base.php')
 
 
                         <div class="w-full">
-                            <h2 class="title-font font-bold lg:text-2xl text-lg text-black pt-4">Nutrition for the skin</h2>
+                            <h2 class="title-font font-bold lg:text-2xl text-lg text-black pt-4">Menutrisi Kulit</h2>
 
                         </div>
                     </div>
@@ -261,8 +259,7 @@ require('../inc/base.php')
 
 
                         <div class="w-full">
-                            <h2 class="title-font font-bold lg:text-2xl text-lg text-black pt-4">Safe for various <br>
-                                skin types</h2>
+                            <h2 class="title-font font-bold lg:text-2xl text-lg text-black pt-4">Aman untuk berbagai jenis kulit</h2>
 
                         </div>
                     </div>
