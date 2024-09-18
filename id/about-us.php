@@ -52,20 +52,9 @@ require('../inc/base.php')
         <div class="mx-auto flex flex-wrap">
             <div class="lg:w-1/2 w-full lg:pr-10 flex flex-col justify-center lg:text-left text-center lg:px-0 px-4">
                 <h3 class="font-semibold text-[40px] pb-8">Misi kami</h3>
-                <p class="pb-4 text-lg">Bagaikan semilir angin laut yang lembut, sentuhan lembut setiap tetesan air di kulit
-                    terasa seperti
-                    sebuah kenyamanan
-                    merangkul. Ocential, terinspirasi oleh sentuhan laut yang menenangkan, berupaya menciptakan hal serupa
-                    pengalaman yang mendatangkan ketenangan bagi setiap jiwa yang menganutnya.</p>
-                <p class="pb-4 text-lg">Upaya penting untuk memberikan solusi inovatif dengan efektivitas tinggi dan
-                    terbaik
-                    kualitas
-                    bahan untuk kebutuhan kulit dan tubuh.</p>
-                <p class="text-lg lg:pb-0 pb-10">Dengan memadukan esensi laut yang menenangkan dengan ilmiah
-                    inovasi,
-                    Osensial
-                    bertujuan untuk menyampaikan sebuah
-                    pengalaman yang membangkitkan indera.</p>
+                <p class="pb-4 text-lg">Seperti angin laut yang bergerak lembut, sentuhan lembut tiap tetes air pada kulit terasa seperti pelukan yang menenangkan. Ocential, terinspirasi oleh sentuhan menenangkan lautan, menciptakan pengalaman serupa yang membawa ketenangan bagi setiap insan yang merasakannya.</p>
+                <p class="pb-4 text-lg">Ocential berusaha menyediakan solusi inovatif dengan efektivitas tinggi dan bahan berkualitas terbaik untuk kebutuhan kulit dan tubuh.</p>
+                <p class="text-lg lg:pb-0 pb-10">Dengan menggabungkan esensi menenangkan dari lautan dengan inovasi ilmiah, Ocential memberikan pengalaman yang dapat membangkitkan indera.</p>
             </div>
             <img class="lg:w-1/2 w-full lg:h-auto object-cover object-center" src="img/mission.jpg" alt="">
         </div>
