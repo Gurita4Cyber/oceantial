@@ -201,18 +201,12 @@ require('../inc/base.php')
 
     <section class="w-full lg:px-20 bg-bg-section">
         <div class="py-10 px-10 flex flex-col items-center text-center mobile-only">
-            <h2 class="title-font lg:text-3xl text-lg mb-5 font-semibold">How does chlorine affect the
-                skin?</h2>
+            <h2 class="title-font lg:text-3xl text-lg mb-5 font-semibold">Bagaimana klorin berdampak pada kulit?</h2>
 
-            <p class="mb-8 leading-relaxed">Air yang kita gunakan setiap hari untuk mandi, mencuci muka, dan menyikat
-                gigi mengandung klorin.
+            <p class="mb-8 leading-relaxed">Air yang kita gunakan setiap hari untuk mandi, mencuci muka, dan menyikat gigi mengandung klorin. Kandungan ini dapat berdampak pada kondisi kulit, seperti kulit menjadi kering yang dapat memicu munculnya jerawat, ruam kulit, rasa gatal akibat kulit kering, kemerahan pada kulit, dan bahkan dapat menyebabkan eczema.
 
             </p>
-            <p class="mb-8 leading-relaxed">
-                Kandungan ini dapat berdampak pada kondisi kulit, seperti kulit menjadi kering yang dapat memicu
-                munculnya jerawat, ruam kulit, rasa gatal akibat kulit kering, kemerahan pada kulit, dan bahkan dapat
-                menyebabkan eczema.
-            </p>
+
         </div>
         <div class="w-full mobile-only">
             <img class="object-cover object-center rounded" alt="hero" src="img/how.jpg">
@@ -223,13 +217,9 @@ require('../inc/base.php')
                 <img class="object-cover object-center rounded" alt="hero" src="img/how.jpg">
             </div>
             <div class="lg:flex-grow md:w-1/2 lg:pl-10 md:pl-10 flex flex-col md:items-start md:text-left items-center text-center desktop-only">
-                <h2 class="title-font lg:text-3xl text-lg mb-5 font-semibold">How does chlorine affect the
-                    skin?</h2>
+                <h2 class="title-font lg:text-3xl text-lg mb-5 font-semibold">Bagaimana klorin berdampak pada kulit?</h2>
 
-                <p class="leading-relaxed">Every day, the water we use for bathing, washing our faces, and
-                    brushing
-                    our teeth contains chlorine. This component can impact our skin and hair, leading to dryness that
-                    can trigger acne, skin rashes, itching due to dry skin, skin redness, and even eczema.</p>
+                <p class="leading-relaxed">Air yang kita gunakan setiap hari untuk mandi, mencuci muka, dan menyikat gigi mengandung klorin. Kandungan ini dapat berdampak pada kondisi kulit, seperti kulit menjadi kering yang dapat memicu munculnya jerawat, ruam kulit, rasa gatal akibat kulit kering, kemerahan pada kulit, dan bahkan dapat menyebabkan eczema.</p>
             </div>
         </div>
     </section>

@@ -42,8 +42,9 @@ require('../inc/base.php')
         <img class="w-full mobile-only" src="img/about-us-mobile.jpg" alt="">
 
         <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 font-semibold  text-white text-center lg:w-full w-96">
-            <h3 class="">Slogan kami</h3>
-            <h3 class="lg:text-[80px] text-[40px]">bangunkan <br> indramu </h3>
+            <h3 class="">Tagline Kami</h3>
+            <h3 class="lg:text-[80px] text-[40px]">Awaken Your <br>
+                Senses </h3>
 
         </div>
     </section>
