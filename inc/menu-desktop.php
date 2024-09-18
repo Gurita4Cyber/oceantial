@@ -3,7 +3,7 @@
         Home
     </a>
 </div>
-<div class="nav-a toggleable <?php if ($page != 'home') { ?>blacktogle <?php } ?> vfb-checkbox">
+<div class="nav-a toggleable <?php if ($page != 'home' && $page != 'home-indo') { ?>blacktogle <?php } ?> vfb-checkbox">
     <input type="checkbox" value="selected" id="toggle-one" class="toggle-input">
     <label for="toggle-one" class="block cursor-pointer p-5 text-sm lg:text-base">Shop</label>
     <div role="toggle" class="p-6 mega-menu mb-16 sm:mb-0 shadow-xl bg-white">
@@ -19,7 +19,7 @@
                             <li><a href="#second"> Showerhead Kids Series </a></li>
                             <li><a href="#tree"> Aroma Tube </a></li>
                             <li><a href="#four"> Filter </a></li>
-                            <li><a href="#five"> Home </a></li>
+                            <li><a href="#five"> Tap Water </a></li>
                             <li><a href="#six"> Other </a></li>
                         </ul>
                     </div>
@@ -341,7 +341,7 @@
                     </div>
                     <!-- home sense -->
                     <div id="five" class="hidden p-4">
-                        <h2 class="text-2xl text-font-nav pb-6">Home</h2>
+                        <h2 class="text-2xl text-font-nav pb-6">Tap Water</h2>
                         <div class="flex justify-between">
                             <div class="p-6">
                                 <div class="inline-flex items-center pb-6">
