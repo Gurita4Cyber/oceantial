@@ -155,7 +155,7 @@
                     DKI Jakarta. 212932
                 </p>
                 <ul>
-                    
+
                     <li class="flex items-center pb-4">
                         <a class="flex" href="tel:0811-9722-881">
                             <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -400,106 +400,106 @@
 <script src="js/select-open.js"></script>
 <script src="js/owl.carousel.js"></script>
 
-<?php if ($page == 'faqs') { ?>
 
-    <script>
-        let tabsContainer2 = document.querySelector("#tabsnav");
-        let tabTogglers2 = tabsContainer2.querySelectorAll("#tabsnav a");
-        tabTogglers2.forEach(function(toggler2) {
-            toggler2.addEventListener("click", function(c) {
-                c.preventDefault();
-                let tabName2 = this.getAttribute("href");
 
-                let tabContents2 = document.querySelector("#tab-contentsnav");
+<script>
+    let tabsContainer2 = document.querySelector("#tabsnav");
+    let tabTogglers2 = tabsContainer2.querySelectorAll("#tabsnav a");
+    tabTogglers2.forEach(function(toggler2) {
+        toggler2.addEventListener("click", function(c) {
+            c.preventDefault();
+            let tabName2 = this.getAttribute("href");
 
-                for (let b = 0; b < tabContents2.children.length; b++) {
+            let tabContents2 = document.querySelector("#tab-contentsnav");
 
-                    tabTogglers2[b].parentElement.classList.remove("bordercustom");
-                    tabContents2.children[b].classList.remove("hidden");
-                    if ("#" + tabContents2.children[b].id === tabName2) {
-                        continue;
-                    }
-                    tabContents2.children[b].classList.add("hidden");
+            for (let b = 0; b < tabContents2.children.length; b++) {
 
+                tabTogglers2[b].parentElement.classList.remove("bordercustom");
+                tabContents2.children[b].classList.remove("hidden");
+                if ("#" + tabContents2.children[b].id === tabName2) {
+                    continue;
                 }
-                c.target.parentElement.classList.add("bordercustom");
+                tabContents2.children[b].classList.add("hidden");
+
+            }
+            c.target.parentElement.classList.add("bordercustom");
+        });
+    });
+
+
+
+
+    // Get the button
+    const menuHead = document.getElementById("menuHead");
+
+    // When the user scrolls down 20px from the top of the document, show the button
+
+    const scrollFunction = () => {
+        if (
+            document.body.scrollTop > 20 ||
+            document.documentElement.scrollTop > 20
+        ) {
+            mybutton.classList.remove("hidden");
+            menuHead.classList.add("bg-default");
+            menuHead.classList.add("drop-shadow-lg");
+
+        } else {
+            mybutton.classList.add("hidden");
+            menuHead.classList.remove("bg-default");
+            menuHead.classList.remove("drop-shadow-lg");
+
+        }
+    };
+</script>
+<script>
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+
+    for (i = 0; i < coll.length; i++) {
+        coll[i].addEventListener("click", function() {
+            this.classList.toggle("active");
+            var content = this.nextElementSibling;
+            if (content.style.display === "block") {
+                content.style.display = "none";
+            } else {
+                content.style.display = "block";
+            }
+        });
+    }
+</script>
+<script>
+    $(document).ready(function() {
+
+
+
+        $(function() {
+            $("#filterList").keyup(function() {
+                var valThis = $(this).val().toLowerCase();
+                if (valThis == "") {
+                    $("#testList > div").show();
+                } else {
+                    $("#testList > div").each(function() {
+                        var text = $(this).text().toLowerCase();
+                        text.indexOf(valThis) >= 0 ? $(this).show() : $(this).hide();
+                    });
+                }
+
+                // Start - Unnecessary "matching results" code
+                var remainingResults = $('#testList > div[style!="display: none;"]').length;
+                if (valThis != '') {
+                    $('small.form-text.text-muted').html('<strong>' + remainingResults + '</strong> matching results');
+                } else {
+                    $('small.form-text.text-muted').html('');
+                }
+                // End - Unnecessary "matching results" code
+
             });
         });
 
+    })
+</script>
 
 
-
-        // Get the button
-        const menuHead = document.getElementById("menuHead");
-
-        // When the user scrolls down 20px from the top of the document, show the button
-
-        const scrollFunction = () => {
-            if (
-                document.body.scrollTop > 20 ||
-                document.documentElement.scrollTop > 20
-            ) {
-                mybutton.classList.remove("hidden");
-                menuHead.classList.add("bg-default");
-                menuHead.classList.add("drop-shadow-lg");
-
-            } else {
-                mybutton.classList.add("hidden");
-                menuHead.classList.remove("bg-default");
-                menuHead.classList.remove("drop-shadow-lg");
-
-            }
-        };
-    </script>
-    <script>
-        var coll = document.getElementsByClassName("collapsible");
-        var i;
-
-        for (i = 0; i < coll.length; i++) {
-            coll[i].addEventListener("click", function() {
-                this.classList.toggle("active");
-                var content = this.nextElementSibling;
-                if (content.style.display === "block") {
-                    content.style.display = "none";
-                } else {
-                    content.style.display = "block";
-                }
-            });
-        }
-    </script>
-    <script>
-        $(document).ready(function() {
-
-
-
-            $(function() {
-                $("#filterList").keyup(function() {
-                    var valThis = $(this).val().toLowerCase();
-                    if (valThis == "") {
-                        $("#testList > div").show();
-                    } else {
-                        $("#testList > div").each(function() {
-                            var text = $(this).text().toLowerCase();
-                            text.indexOf(valThis) >= 0 ? $(this).show() : $(this).hide();
-                        });
-                    }
-
-                    // Start - Unnecessary "matching results" code
-                    var remainingResults = $('#testList > div[style!="display: none;"]').length;
-                    if (valThis != '') {
-                        $('small.form-text.text-muted').html('<strong>' + remainingResults + '</strong> matching results');
-                    } else {
-                        $('small.form-text.text-muted').html('');
-                    }
-                    // End - Unnecessary "matching results" code
-
-                });
-            });
-
-        })
-    </script>
-
-<?php } ?>
 
 <?php if ($page == 'how-it-works') { ?>
 
