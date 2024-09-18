@@ -29,7 +29,7 @@ require('../inc/base.php')
         <div class="container mx-auto flex flex-wrap">
             <div class="lg:py-20 py-10 lg:px-16 container mx-auto">
                 <div class="text-center">
-                    <h2 class="font-bold text-[40px] capitalize">Inspired by the ocean, crafted for you</h2>
+                    <h2 class="font-bold text-[40px] capitalize">Terinspirasi dari lautan, tercipta untukmu</h2>
                 </div>
             </div>
             <div class=" w-full mx-auto p-4 lg:p-0">
