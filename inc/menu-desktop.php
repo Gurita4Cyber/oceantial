@@ -277,12 +277,12 @@
                                 <ul class="navmenubig">
                                     <li>
                                         <a class="block py-4" href="aroma-sense-microfiber-filter-prestiges">
-                                            Microfiber Filter Prestiges (isi 5)
+                                            Microfiber Filter Prestiges
                                         </a>
                                     </li>
                                     <li>
                                         <a class="block py-4" href="aroma-sense-spare-parts-anti-bakteri-as9000-medium">Microfiber Filter Medium
-                                            (isi 5)</a>
+                                        </a>
                                     </li>
                                     <li>
                                         <a class="block py-4" href="aroma-sense-microfiber-mist">Microfiber Mist (isi
@@ -290,7 +290,7 @@
                                     </li>
                                     <li>
                                         <a class="block py-4" href="aroma-sense-microfiber-filter-arofix">Microfiber Filter Arofix
-                                            (isi 5)</a>
+                                        </a>
                                     </li>
                                     <li>
                                         <a class="block py-4" href="aroma-sense-microfiber-filter-801">Microfiber Filter 801
@@ -304,7 +304,7 @@
                                     </li>
                                     <li>
                                         <a class="block py-4" href="aroma-sense-microfiber-filter-arofix-grand-shower">Microfiber Filter
-                                            GrandShower (isi 5)</a>
+                                            GrandShower </a>
                                     </li>
                                     <li>
                                         <a class="block py-4" href="aroma-sense-microfiber-super-jet">Microfiber Super Jet</a>
@@ -329,7 +329,7 @@
                                 <ul class="navmenubig">
                                     <li>
                                         <a class="block py-4" href="aromica-microfiber-filter-luxe">
-                                            Microfiber Filter Luxe (isi 5)
+                                            Microfiber Filter Luxe
                                         </a>
                                     </li>
 
@@ -356,7 +356,7 @@
                                 <ul class="navmenubig">
                                     <li>
                                         <a class="block py-4" href="pure-rain-microfiber-tap-water-filter-pr100-bathroom">
-                                            Alat Tap Water Filter PR100 (Bathroom)
+                                            Tap Water Filter PR100 (Bathroom)
                                         </a>
                                     </li>
                                     <li>

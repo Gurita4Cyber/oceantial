@@ -7,7 +7,7 @@
     <input class="menu-btn" type="checkbox" id="menu-btn" />
     <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
     <ul class="menu text-black">
-        <li><a href=" ">Home</a></li>
+        <li><a href=" ">Tap Water</a></li>
         <li>
 
             <input type="checkbox" id="menuBtn" />
@@ -272,12 +272,12 @@
                         <ul class="navmenubig">
                             <li>
                                 <a class="block py-4" href="aroma-sense-microfiber-filter-prestiges">
-                                    Microfiber Filter Prestiges (isi 5)
+                                    Microfiber Filter Prestiges
                                 </a>
                             </li>
                             <li>
                                 <a class="block py-4" href="aroma-sense-microfiber-mist">Microfiber Filter Medium
-                                    (isi 5)</a>
+                                </a>
                             </li>
                             <li>
                                 <a class="block py-4" href="aroma-sense-microfiber-mist">Microfiber Mist (isi
@@ -285,7 +285,7 @@
                             </li>
                             <li>
                                 <a class="block py-4" href="aroma-sense-microfiber-filter-arofix">Microfiber Filter Arofix
-                                    (isi 5)</a>
+                                </a>
                             </li>
                             <li>
                                 <a class="block py-4" href="aroma-sense-microfiber-filter-801">Microfiber Filter 801 (isi
@@ -297,7 +297,7 @@
                             </li>
                             <li>
                                 <a class="block py-4" href="aroma-sense-microfiber-filter-arofix-grand-shower">Microfiber Filter
-                                    GrandShower (isi 5)</a>
+                                    GrandShower </a>
                             </li>
                             <li>
                                 <a class="block py-4" href="aroma-sense-microfiber-super-jet">Microfiber Super Jet</a>
@@ -350,11 +350,11 @@
                         <ul class="navmenubig">
                             <li>
                                 <a class="block py-4" href="pure-rain-tap-water-filter-pr100-bathroom">
-                                    Alat Tap Water Filter PR100 (Bathroom)
+                                    Tap Water Filter PR100 (Bathroom)
                                 </a>
                             </li>
                             <li>
-                                <a class="block py-4" href="pure-rain-tap-water-filter-pr303-kitchen">Alat Tap Water Filter
+                                <a class="block py-4" href="pure-rain-tap-water-filter-pr303-kitchen">Tap Water Filter
                                     PR303 (Kitchen) </a>
                             </li>
                             <li>
