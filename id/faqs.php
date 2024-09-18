@@ -46,10 +46,7 @@ require('../inc/base.php')
                         <!-- inputan -->
                         <input type="checkbox" id="item1" name="accordion1">
 
-                        <label for="item1" class="font-medium lg:text-2xl text-sm">What are the differences between the
-                            AS 9000 and
-                            AS 701?
-
+                        <label for="item1" class="font-medium lg:text-2xl text-sm">Apa perbedaan Showerhead AS 9000 dan AS 701?
                             <svg class="fa-chevron-down" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M15.0578 20.9425C15.5785 21.4632 16.4228 21.4632 16.9435 20.9425L24.9435 12.9425C25.4642 12.4218 25.4642 11.5776 24.9435 11.0569C24.4228 10.5362 23.5785 10.5362 23.0578 11.0569L16.0007 18.1141L8.94346 11.0569C8.42276 10.5362 7.57854 10.5362 7.05784 11.0569C6.53714 11.5776 6.53714 12.4218 7.05784 12.9425L15.0578 20.9425Z" fill="#232020" />
                             </svg>
@@ -57,12 +54,7 @@ require('../inc/base.php')
 
                         <div id="content1" class="item">
 
-                            <div class="lg:text-lg text-sm">The difference lies in the diameter of the showerhead. AS
-                                9000 Showerhead
-                                has a diameter
-                                of 8cm, while AS 701 has a diameter of 11.5cm. Therefore, the AS 701 model is more
-                                suitable for use with strong water pressure.
-
+                            <div class="lg:text-lg text-sm">Perbedaan terletak pada ukuran diameter showerhead. Showerhead AS 9000 memiliki diameter 8cm, sedangkan AS 701 memiliki diameter 11,5cm. Oleh karena itu, tipe AS 701 lebih cocok digunakan pada tekanan air yang kuat.
                             </div>
 
                         </div>
@@ -70,9 +62,7 @@ require('../inc/base.php')
                         <!-- inputan -->
                         <input type="checkbox" id="item2" name="accordion1">
 
-                        <label for="item2" class="font-medium lg:text-2xl text-sm">What are the diameter sizes of each
-                            Oceantial
-                            showerhead?
+                        <label for="item2" class="font-medium lg:text-2xl text-sm">Berapa ukuran diameter masing-masing shower Oceantial?
 
                             <svg class="fa-chevron-down" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M15.0578 20.9425C15.5785 21.4632 16.4228 21.4632 16.9435 20.9425L24.9435 12.9425C25.4642 12.4218 25.4642 11.5776 24.9435 11.0569C24.4228 10.5362 23.5785 10.5362 23.0578 11.0569L16.0007 18.1141L8.94346 11.0569C8.42276 10.5362 7.57854 10.5362 7.05784 11.0569C6.53714 11.5776 6.53714 12.4218 7.05784 12.9425L15.0578 20.9425Z" fill="#232020" />
@@ -83,14 +73,12 @@ require('../inc/base.php')
 
                         <div id="content2" class="item">
 
-                            <div class="lg:text-lg text-sm">Aroma Sense - Showerhead Handheld Kids Series diameter size
-                                is 4,6cm,
-                                Aroma Sense - Showerhead Handheld - Medium AS9000 diameter size is 8Cm, Aroma Sense -
-                                Showerhead Handheld - Showerhead 701 diameter size is 11,5Cm, Aroma Sense - Showerhead
-                                Handheld - Showerhead 801 diameter size is 8,6Cm, Aroma Sense - Arofix Grand diameter
-                                size is 11,5cm, and Aroma Sense - Showerhead Handheld - Showerhead Mist diameter size is
-                                8Cm.
-
+                            <div class="lg:text-lg text-sm">Aroma Sense - Showerhead Handheld Kids Series memiliki diameter 4,6 cm,
+Aroma Sense - Showerhead Handheld - Medium AS9000 memiliki diameter 8 cm,
+Aroma Sense - Showerhead Handheld - Showerhead 701 memiliki diameter 11,5 cm,
+Aroma Sense - Showerhead Handheld - Showerhead 801 memiliki diameter 8,6 cm,
+Aroma Sense - Arofix Grand memiliki diameter 11,5 cm, dan
+Aroma Sense - Showerhead Handheld - Showerhead Mist memiliki diameter 8 cm.
                             </div>
 
                         </div>
@@ -98,9 +86,7 @@ require('../inc/base.php')
                         <!-- inputan -->
                         <input type="checkbox" id="item3" name="accordion1">
 
-                        <label for="item3" class="font-medium lg:text-2xl text-sm">Is the Ocential showerhead size
-                            compatible with
-                            all brands of hoses?
+                        <label for="item3" class="font-medium lg:text-2xl text-sm">Apakah showerhead Ocential ukurannya cocok dengan semua merk selang?
 
                             <svg class="fa-chevron-down" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M15.0578 20.9425C15.5785 21.4632 16.4228 21.4632 16.9435 20.9425L24.9435 12.9425C25.4642 12.4218 25.4642 11.5776 24.9435 11.0569C24.4228 10.5362 23.5785 10.5362 23.0578 11.0569L16.0007 18.1141L8.94346 11.0569C8.42276 10.5362 7.57854 10.5362 7.05784 11.0569C6.53714 11.5776 6.53714 12.4218 7.05784 12.9425L15.0578 20.9425Z" fill="#232020" />
@@ -111,11 +97,7 @@ require('../inc/base.php')
 
                         <div id="content3" class="item">
 
-                            <div class="lg:text-lg text-sm">You can easily replace your old shower with our product
-                                because it is
-                                simple to remove and attach. We provide a diameter size guide for each showerhead to
-                                ensure a perfect fit.
-
+                            <div class="lg:text-lg text-sm">Anda dapat dengan mudah mengganti shower lama Anda dengan produk kami karena proses pemasangannya yang sederhana. Kami menyediakan panduan ukuran diameter untuk setiap showerhead guna memastikan kesesuaian.
                             </div>
 
                         </div>
@@ -123,9 +105,7 @@ require('../inc/base.php')
                         <!-- inputan -->
                         <input type="checkbox" id="item4" name="accordion1">
 
-                        <label for="item4" class="font-medium lg:text-2xl text-sm">What are the differences between the
-                            showerheads
-                            from the brands available in Oceantial and other showers?
+                        <label for="item4" class="font-medium lg:text-2xl text-sm">Apa perbedaan showerhead dari brand-brand yang ada di Oceantial dan shower lainnya?
 
                             <svg class="fa-chevron-down" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M15.0578 20.9425C15.5785 21.4632 16.4228 21.4632 16.9435 20.9425L24.9435 12.9425C25.4642 12.4218 25.4642 11.5776 24.9435 11.0569C24.4228 10.5362 23.5785 10.5362 23.0578 11.0569L16.0007 18.1141L8.94346 11.0569C8.42276 10.5362 7.57854 10.5362 7.05784 11.0569C6.53714 11.5776 6.53714 12.4218 7.05784 12.9425L15.0578 20.9425Z" fill="#232020" />
@@ -136,14 +116,7 @@ require('../inc/base.php')
 
                         <div id="content4" class="item">
 
-                            <div class="lg:text-lg text-sm">The Oceantial showerhead is crafted from high-quality
-                                stainless steel.
-                                Its built-in water filter effectively removes rust and possesses antibacterial
-                                properties. The optimal water pressure ensures a strong yet gentle flow. Showers from
-                                the brands available at Oceantial are designed not only for bathing but also to ensure
-                                the water quality is excellent for skin and hair care, as well as providing a relaxing
-                                experience. This is made possible by adding microfiber filters, antibacterial features,
-                                and aromatherapy in the showers from the brands offered at Oceantial.
+                            <div class="lg:text-lg text-sm">Showerhead Oceantial terbuat dari stainless steel berkualitas tinggi. Filter air di dalam shower ini mampu menghilangkan karat dan memiliki sifat antibakteri. Tekanan air maksimal membuat aliran air kuat namun tetap lembut. Shower dari berbagai merek di Oceantial tidak hanya berfungsi untuk mandi, tetapi juga memastikan kualitas air terbaik untuk menjaga kesehatan kulit dan rambut serta memberikan efek relaksasi. Hal ini didukung oleh kehadiran filter mikrofiber, antibakteri, dan aromaterapi di dalam shower dari brand-brand yang ada di Oceantial.
 
                             </div>
 
@@ -170,9 +143,7 @@ require('../inc/base.php')
                         <!-- inputan -->
                         <input type="checkbox" id="item5" name="accordion2">
 
-                        <label for="item5" class="font-medium lg:text-2xl text-sm">What are the appropriate faucet sizes
-                            for
-                            Oceantial products?
+                        <label for="item5" class="font-medium lg:text-2xl text-sm">Berapa ukuran keran yang sesuai untuk produk Oceantial?
 
                             <svg class="fa-chevron-down" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M15.0578 20.9425C15.5785 21.4632 16.4228 21.4632 16.9435 20.9425L24.9435 12.9425C25.4642 12.4218 25.4642 11.5776 24.9435 11.0569C24.4228 10.5362 23.5785 10.5362 23.0578 11.0569L16.0007 18.1141L8.94346 11.0569C8.42276 10.5362 7.57854 10.5362 7.05784 11.0569C6.53714 11.5776 6.53714 12.4218 7.05784 12.9425L15.0578 20.9425Z" fill="#232020" />
@@ -182,9 +153,7 @@ require('../inc/base.php')
                         <div id="content5" class="item">
 
                             <div class="lg:text-lg text-sm">
-                                For PR 303, the compatible faucet should have an external thread diameter of 2.2 cm. As
-                                for PR 100, the compatible faucet should have an external thread diameter of 2.2 cm and
-                                an internal thread diameter ranging from 2.0 cm to 2.4 cm.
+                            Untuk shower PR 303, keran yang kompatibel memiliki drat luar dengan diameter 2,2 cm. Sedangkan untuk shower PR 100, keran yang kompatibel memiliki diameter drat luar 2,2 cm dan diameter drat dalam antara 2,0 cm hingga 2,4 cm.
 
                             </div>
 
@@ -212,9 +181,7 @@ require('../inc/base.php')
                         <!-- inputan -->
                         <input type="checkbox" id="item6" name="accordion2">
 
-                        <label for="item6" class="font-medium lg:text-2xl text-sm">What are the different variants of
-                            aroma tube
-                            available?
+                        <label for="item6" class="font-medium lg:text-2xl text-sm">Apa saja varian aroma tube?
 
                             <svg class="fa-chevron-down" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M15.0578 20.9425C15.5785 21.4632 16.4228 21.4632 16.9435 20.9425L24.9435 12.9425C25.4642 12.4218 25.4642 11.5776 24.9435 11.0569C24.4228 10.5362 23.5785 10.5362 23.0578 11.0569L16.0007 18.1141L8.94346 11.0569C8.42276 10.5362 7.57854 10.5362 7.05784 11.0569C6.53714 11.5776 6.53714 12.4218 7.05784 12.9425L15.0578 20.9425Z" fill="#232020" />
@@ -224,8 +191,7 @@ require('../inc/base.php')
                         <div id="content6" class="item">
 
                             <div class="lg:text-lg text-sm">
-                                Lemon, Lemon Mango, Vanilla Coconut, Jasmine, Rose, Pine, Phytoncide, Neutral,
-                                Eucalyptus, Lavender
+                            Lemon, Lemon Mango, Vanilla Coconut, Jasmine, Rose, Pine, Phytoncide, Neutral, Eucalyptus, Lavender
 
                             </div>
 
@@ -234,9 +200,7 @@ require('../inc/base.php')
                         <!-- inputan -->
                         <input type="checkbox" id="item7" name="accordion2">
 
-                        <label for="item7" class="font-medium lg:text-2xl text-sm">How long can the antibacterial be
-                            used before it
-                            needs to be replaced or renewed?
+                        <label for="item7" class="font-medium lg:text-2xl text-sm">Berapa lama antibakteri dapat digunakan sebelum perlu diganti atau diperbarui?
 
                             <svg class="fa-chevron-down" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M15.0578 20.9425C15.5785 21.4632 16.4228 21.4632 16.9435 20.9425L24.9435 12.9425C25.4642 12.4218 25.4642 11.5776 24.9435 11.0569C24.4228 10.5362 23.5785 10.5362 23.0578 11.0569L16.0007 18.1141L8.94346 11.0569C8.42276 10.5362 7.57854 10.5362 7.05784 11.0569C6.53714 11.5776 6.53714 12.4218 7.05784 12.9425L15.0578 20.9425Z" fill="#232020" />
@@ -246,7 +210,7 @@ require('../inc/base.php')
                         <div id="content7" class="item">
 
                             <div class="lg:text-lg text-sm">
-                                The antibacterial can be used for a duration of 1-2 years.
+                            Antibakteri bisa digunakan dalam rentang waktu 1-2 tahun
 
                             </div>
 
@@ -255,7 +219,7 @@ require('../inc/base.php')
                         <!-- inputan -->
                         <input type="checkbox" id="item8" name="accordion2">
 
-                        <label for="item8" class="font-medium lg:text-2xl text-sm">How do you clean the antibacterial?
+                        <label for="item8" class="font-medium lg:text-2xl text-sm">Bagaimana cara membersihkan antibakteri?
 
                             <svg class="fa-chevron-down" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M15.0578 20.9425C15.5785 21.4632 16.4228 21.4632 16.9435 20.9425L24.9435 12.9425C25.4642 12.4218 25.4642 11.5776 24.9435 11.0569C24.4228 10.5362 23.5785 10.5362 23.0578 11.0569L16.0007 18.1141L8.94346 11.0569C8.42276 10.5362 7.57854 10.5362 7.05784 11.0569C6.53714 11.5776 6.53714 12.4218 7.05784 12.9425L15.0578 20.9425Z" fill="#232020" />
@@ -266,21 +230,13 @@ require('../inc/base.php')
 
                             <div class="lg:text-lg text-sm">
                                 <p class="pb-4">
-                                    If the showerhead is not too dirty, you can clean it by simply letting water flow
-                                    over
-                                    it while rotating it. This will help remove any light dirt or residue from the
-                                    surface
-                                    of the showerhead.
+                                Jika showerhead tidak terlalu kotor, Anda dapat membersihkannya dengan membiarkannya terkena aliran air sambil diputar-putar. Hal ini dapat membantu menghilangkan kotoran ringan pada showerhead.
                                 </p>
                                 <p class="pb-4">
-                                    The second method is to soak the showerhead in water for at least 5 minutes. After
-                                    soaking, rinse the showerhead with hot or warm water to further clean it.
+                                Metode kedua adalah merendam showerhead di dalam air selama minimal 5 menit. Setelah direndam, bilas showerhead dengan air panas atau air hangat untuk membersihkannya lebih lanjut.
                                 </p>
                                 <p class="pb-4">
-                                    If the showerhead is heavily soiled, you can use a specialized cleaning solution
-                                    (such as a non-scrub or liquid-based cleanser). Follow the instructions provided on
-                                    the cleaning product packaging. After using the cleaning solution, be sure to rinse
-                                    the showerhead thoroughly with clean water to remove any residue from the cleanser.
+                                Jika showerhead sangat kotor, Anda dapat menggunakan cairan pembersih khusus (seperti cairan pembersih non-scrub/berbahan dasar cairan cns). Ikuti petunjuk penggunaan pada kemasan produk pembersih tersebut. Setelah menggunakan cairan pembersih, pastikan untuk membilas showerhead dengan air bersih untuk menghilangkan residu cairan pembersih.
                                 </p>
 
 
@@ -291,9 +247,7 @@ require('../inc/base.php')
                         <!-- inputan -->
                         <input type="checkbox" id="item9" name="accordion2">
 
-                        <label for="item9" class="font-medium lg:text-2xl text-sm">What are the differences between the
-                            PRM filter
-                            and the PRC filter?
+                        <label for="item9" class="font-medium lg:text-2xl text-sm">Apa perbedaan antara PRM filter dan PRC filter?
 
                             <svg class="fa-chevron-down" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M15.0578 20.9425C15.5785 21.4632 16.4228 21.4632 16.9435 20.9425L24.9435 12.9425C25.4642 12.4218 25.4642 11.5776 24.9435 11.0569C24.4228 10.5362 23.5785 10.5362 23.0578 11.0569L16.0007 18.1141L8.94346 11.0569C8.42276 10.5362 7.57854 10.5362 7.05784 11.0569C6.53714 11.5776 6.53714 12.4218 7.05784 12.9425L15.0578 20.9425Z" fill="#232020" />
@@ -304,15 +258,10 @@ require('../inc/base.php')
 
                             <div class="lg:text-lg text-sm">
                                 <p class="pb-4">
-                                    The PRM filter is designed to filter out impurities in the water. The frequency of
-                                    replacing the filter depends on the water quality in each area. If the water quality
-                                    is very poor, the filter may need to be replaced more frequently.
+                                Filter PRM berfungsi untuk menyaring kotoran dalam air. Penggantian filter ini tergantung pada kualitas air di masing-masing daerah. Jika kualitas air sangat buruk, maka filter perlu diganti lebih sering.
                                 </p>
                                 <p class="pb-4">
-                                    On the other hand, the PRC filter is designed to filter out impurities, turbid
-                                    water, odor, and metals in the water. This filter can last up to 12,000 liters of
-                                    water, or approximately 4 months, when used for showering with an average
-                                    consumption of around 100 liters of water per day.
+                                Sementara itu, Filter PRC berfungsi untuk menyaring kotoran, air yang keruh, bau, dan berlogam dalam air. Filter ini dapat bertahan hingga 12.000 liter air, atau sekitar 4 bulan, jika digunakan untuk mandi dengan konsumsi sekitar 100 liter air per hari.
                                 </p>
 
 
@@ -323,9 +272,7 @@ require('../inc/base.php')
                         <!-- inputan -->
                         <input type="checkbox" id="item10" name="accordion2">
 
-                        <label for="item10" class="font-medium lg:text-2xl text-sm">When is the right time to replace
-                            the
-                            microfiber filter?
+                        <label for="item10" class="font-medium lg:text-2xl text-sm">Kapan waktu yang tepat untuk mengganti microfiber filter?
 
                             <svg class="fa-chevron-down" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M15.0578 20.9425C15.5785 21.4632 16.4228 21.4632 16.9435 20.9425L24.9435 12.9425C25.4642 12.4218 25.4642 11.5776 24.9435 11.0569C24.4228 10.5362 23.5785 10.5362 23.0578 11.0569L16.0007 18.1141L8.94346 11.0569C8.42276 10.5362 7.57854 10.5362 7.05784 11.0569C6.53714 11.5776 6.53714 12.4218 7.05784 12.9425L15.0578 20.9425Z" fill="#232020" />
@@ -336,8 +283,7 @@ require('../inc/base.php')
 
                             <div class="lg:text-lg text-sm">
                                 <p class="pb-4">
-                                    The microfiber filter should be replaced when its color has turned black or brown,
-                                    and when the water spray from the shower becomes weaker.
+                                Microfiber filter perlu diganti ketika warnanya sudah berubah menjadi hitam atau coklat, dan ketika semprotan air dari shower menjadi lebih kecil.
                                 </p>
 
 
@@ -368,7 +314,7 @@ require('../inc/base.php')
                         <!-- inputan -->
                         <input type="checkbox" id="item11" name="accordion2">
                         <label for="item11" class="font-medium lg:text-2xl text-sm">
-                            How to install showerhead handheld?
+                        Bagaimana cara memasang shower handheld?
 
                             <svg class="fa-chevron-down" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M15.0578 20.9425C15.5785 21.4632 16.4228 21.4632 16.9435 20.9425L24.9435 12.9425C25.4642 12.4218 25.4642 11.5776 24.9435 11.0569C24.4228 10.5362 23.5785 10.5362 23.0578 11.0569L16.0007 18.1141L8.94346 11.0569C8.42276 10.5362 7.57854 10.5362 7.05784 11.0569C6.53714 11.5776 6.53714 12.4218 7.05784 12.9425L15.0578 20.9425Z" fill="#232020" />
@@ -386,7 +332,7 @@ require('../inc/base.php')
                         <!-- inputan -->
                         <input type="checkbox" id="item12" name="accordion2">
                         <label for="item12" class="font-medium lg:text-2xl text-sm">
-                            How to install a microfiber filter?
+                        Bagaimana cara memasang microfiber?
 
                             <svg class="fa-chevron-down" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M15.0578 20.9425C15.5785 21.4632 16.4228 21.4632 16.9435 20.9425L24.9435 12.9425C25.4642 12.4218 25.4642 11.5776 24.9435 11.0569C24.4228 10.5362 23.5785 10.5362 23.0578 11.0569L16.0007 18.1141L8.94346 11.0569C8.42276 10.5362 7.57854 10.5362 7.05784 11.0569C6.53714 11.5776 6.53714 12.4218 7.05784 12.9425L15.0578 20.9425Z" fill="#232020" />
@@ -403,7 +349,7 @@ require('../inc/base.php')
                         <!-- inputan -->
                         <input type="checkbox" id="item13" name="accordion2">
                         <label for="item13" class="font-medium lg:text-2xl text-sm">
-                            How to install filter prm & prc?
+                        Bagaimana cara memasang filter prm & prc?
 
                             <svg class="fa-chevron-down" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M15.0578 20.9425C15.5785 21.4632 16.4228 21.4632 16.9435 20.9425L24.9435 12.9425C25.4642 12.4218 25.4642 11.5776 24.9435 11.0569C24.4228 10.5362 23.5785 10.5362 23.0578 11.0569L16.0007 18.1141L8.94346 11.0569C8.42276 10.5362 7.57854 10.5362 7.05784 11.0569C6.53714 11.5776 6.53714 12.4218 7.05784 12.9425L15.0578 20.9425Z" fill="#232020" />
@@ -426,7 +372,7 @@ require('../inc/base.php')
                         <!-- inputan -->
                         <input type="checkbox" id="item14" name="accordion2">
                         <label for="item14" class="font-medium lg:text-2xl text-sm">
-                            How to install Aroma Tube?
+                        Bagaimana cara memasang aroma tube?
 
                             <svg class="fa-chevron-down" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M15.0578 20.9425C15.5785 21.4632 16.4228 21.4632 16.9435 20.9425L24.9435 12.9425C25.4642 12.4218 25.4642 11.5776 24.9435 11.0569C24.4228 10.5362 23.5785 10.5362 23.0578 11.0569L16.0007 18.1141L8.94346 11.0569C8.42276 10.5362 7.57854 10.5362 7.05784 11.0569C6.53714 11.5776 6.53714 12.4218 7.05784 12.9425L15.0578 20.9425Z" fill="#232020" />
@@ -444,7 +390,7 @@ require('../inc/base.php')
                         <!-- inputan -->
                         <input type="checkbox" id="item15" name="accordion2">
                         <label for="item15" class="font-medium lg:text-2xl text-sm">
-                            How to install tap water filter PR100
+                        Bagaimana cara memasang filter keran PR100
 
                             <svg class="fa-chevron-down" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M15.0578 20.9425C15.5785 21.4632 16.4228 21.4632 16.9435 20.9425L24.9435 12.9425C25.4642 12.4218 25.4642 11.5776 24.9435 11.0569C24.4228 10.5362 23.5785 10.5362 23.0578 11.0569L16.0007 18.1141L8.94346 11.0569C8.42276 10.5362 7.57854 10.5362 7.05784 11.0569C6.53714 11.5776 6.53714 12.4218 7.05784 12.9425L15.0578 20.9425Z" fill="#232020" />
@@ -463,7 +409,7 @@ require('../inc/base.php')
                         <!-- inputan -->
                         <input type="checkbox" id="item16" name="accordion2">
                         <label for="item16" class="font-medium lg:text-2xl text-sm">
-                            How to install filter PR303?
+                        Bagaimana cara memasang filter PR303?
 
                             <svg class="fa-chevron-down" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M15.0578 20.9425C15.5785 21.4632 16.4228 21.4632 16.9435 20.9425L24.9435 12.9425C25.4642 12.4218 25.4642 11.5776 24.9435 11.0569C24.4228 10.5362 23.5785 10.5362 23.0578 11.0569L16.0007 18.1141L8.94346 11.0569C8.42276 10.5362 7.57854 10.5362 7.05784 11.0569C6.53714 11.5776 6.53714 12.4218 7.05784 12.9425L15.0578 20.9425Z" fill="#232020" />
@@ -481,7 +427,7 @@ require('../inc/base.php')
                         <!-- inputan -->
                         <input type="checkbox" id="item17" name="accordion2">
                         <label for="item17" class="font-medium lg:text-2xl text-sm">
-                            Is there a warranty for this product?
+                        Apakah ada jaminan garansi untuk produk ini?
 
                             <svg class="fa-chevron-down" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M15.0578 20.9425C15.5785 21.4632 16.4228 21.4632 16.9435 20.9425L24.9435 12.9425C25.4642 12.4218 25.4642 11.5776 24.9435 11.0569C24.4228 10.5362 23.5785 10.5362 23.0578 11.0569L16.0007 18.1141L8.94346 11.0569C8.42276 10.5362 7.57854 10.5362 7.05784 11.0569C6.53714 11.5776 6.53714 12.4218 7.05784 12.9425L15.0578 20.9425Z" fill="#232020" />
@@ -490,9 +436,7 @@ require('../inc/base.php')
                         <div id="content17" class="item">
                             <div class="lg:text-lg text-sm">
                                 <p>
-                                    Currently, we do not provide an official guarantee for this product. However, we
-                                    provide an unboxing video as a usage guide. If there is damage to the product, you
-                                    can contact our admin for further assistance.
+                                Saat ini, kami belum menyediakan garansi resmi untuk produk ini. Namun, kami menyediakan video unboxing sebagai panduan penggunaan. Jika terjadi kerusakan pada produk, Anda dapat menghubungi admin kami untuk mendapatkan bantuan lebih lanjut.
                                 </p>
                             </div>
                         </div>
@@ -518,7 +462,7 @@ require('../inc/base.php')
                         <!-- inputan -->
                         <input type="checkbox" id="item18" name="accordion2">
                         <label for="item18" class="font-medium lg:text-2xl text-sm">
-                            Where can I order Oceantial?
+                        Dimana saya bisa memesan produk-produk Oceantial?
 
                             <svg class="fa-chevron-down" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M15.0578 20.9425C15.5785 21.4632 16.4228 21.4632 16.9435 20.9425L24.9435 12.9425C25.4642 12.4218 25.4642 11.5776 24.9435 11.0569C24.4228 10.5362 23.5785 10.5362 23.0578 11.0569L16.0007 18.1141L8.94346 11.0569C8.42276 10.5362 7.57854 10.5362 7.05784 11.0569C6.53714 11.5776 6.53714 12.4218 7.05784 12.9425L15.0578 20.9425Z" fill="#232020" />
@@ -526,8 +470,7 @@ require('../inc/base.php')
                         </label>
                         <div id="content18" class="item">
                             <div class="lg:text-lg text-sm">
-                                Oceantial products can be ordered via our official e-commerce at Shopee, Tokopedia,
-                                TikTok Shop, or through our official WhatsApp contact listed below.
+                            Produk Oceantial dapat dipesan melalui official e-commerce kami di Shopee, Tokopedia, TikTok Shop, maupun WhatsApp di official WhatsApp kami yang tertera di bawah.
                             </div>
                         </div>
                         <!-- inputan -->
