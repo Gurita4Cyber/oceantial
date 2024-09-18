@@ -260,11 +260,10 @@ require('../inc/base.php')
         <!-- kanan -->
         <div class="container mx-auto flex p-5 py-2  md:pb-6 lg:flex-row flex-col items-center">
             <div class="lg:flex-grow md:w-1/2 lg:pr-10 md:pr-10 flex flex-col md:items-start md:text-left items-center text-center">
-                <h3 class="title-font sm:text-4xl text-3xl mb-8 font-bold">Neutralize chlorine
+                <h3 class="title-font sm:text-4xl text-3xl mb-8 font-bold">Menetralisir klorin
+
                 </h3>
-                <p class="mb-8 leading-relaxed text-sm lg:text-base">The influence of water quality on skin and hair
-                    condition is far more significant than you might think. The effectiveness of various skincare and
-                    haircare products is compromised when not supported by good and reliable water quality.</p>
+                <p class="mb-8 leading-relaxed text-sm lg:text-base">Kandungan vitamin C, atau asam askorbat, telah terbukti efektif dalam menetralkan klorin dalam air. Ketika klorin bertemu dengan vitamin C, keduanya berekasi dan membentuk asam hidroklorus yang lebih aman bagi kulit dan rambut. Klorin dalam air dapat membuat kulit dan rambut menjadi kering dan rusak, sementara vitamin C dapat mengikat klorin dan mengubahnya menjadi senyawa yang lebih aman, sehingga air menjadi lebih lembut dan tidak merusak kulit dan rambut.</p>
             </div>
             <div class="lg:max-w-lg lg:w-full lg:mb-10 mb-0 border-b-2 border-gray-100 pb-6 lg:pb-0">
                 <img class="object-cover object-center rounded" alt="hero" src="img/n-1.jpg">
