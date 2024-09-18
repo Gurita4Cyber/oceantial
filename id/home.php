@@ -446,7 +446,7 @@ require('../inc/base.php')
         <div class="container mx-auto flex flex-wrap">
             <div class="lg:px-16 container mx-auto">
                 <div class="text-center">
-                    <h2 class="font-bold lg:text-[40px] text-2xl capitalize lg:py-20 py-10">Everyday with Ocential</h2>
+                    <h2 class="font-bold lg:text-[40px] text-2xl capitalize lg:py-20 py-10">Hari-hari bersama Oceantial</h2>
                 </div>
             </div>
             <div class="desktop-onlyflex">
