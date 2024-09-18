@@ -276,14 +276,9 @@ require('../inc/base.php')
                 <img class="object-cover object-center rounded" alt="hero" src="img/n-2.jpg">
             </div>
             <div class="lg:flex-grow md:w-1/2 lg:pl-10 md:pl-10 flex flex-col md:items-start md:text-left items-center text-center">
-                <h3 class="title-font sm:text-4xl text-3xl mb-8 font-bold">Remove dirt and rust residues
+                <h3 class="title-font sm:text-4xl text-3xl mb-8 font-bold">Basmi kotoran
                 </h3>
-                <p class="mb-8 leading-relaxed text-sm lg:text-base">Oceantial products are equipped with a Micro Fiber
-                    filter that prevents
-                    water from being contaminated by unwanted pipe residue. The anti-bacterial ceramic balls inside also
-                    help prevent bacterial growth. Through this technology, the water flows free from harmful particles
-                    for the skin and hair. The filter and anti-bacterial properties also protect the nutrients in food
-                    and utensils used by families on a daily basis.</p>
+                <p class="mb-8 leading-relaxed text-sm lg:text-base">Produk Oceantial dilengkapi dengan filter Microfiber yang mencegah air terkontaminasi oleh residu pipa yang tidak diinginkan. Bola keramik anti-bakteri di dalamnya juga membantu mencegah pertumbuhan bakteri. Melalui teknologi ini, air mengalir bebas dari partikel berbahaya bagi kulit dan rambut. Filter serta anti-bakteri juga melindungi nutrisi pada makanan dan peralatan makan yang digunakan keluarga sehari-hari.</p>
             </div>
             <div class="lg:max-w-lg lg:w-full mb-10 md:mb-0 mobile-only">
                 <img class="object-cover object-center rounded" alt="hero" src="img/n-2.jpg">
@@ -292,13 +287,9 @@ require('../inc/base.php')
         <!-- kanan -->
         <div class="container mx-auto flex p-5 py-2  md:pb-6 lg:flex-row flex-col items-center">
             <div class="lg:flex-grow md:w-1/2 lg:pr-10 md:pr-10 flex flex-col md:items-start md:text-left items-center text-center">
-                <h3 class="title-font sm:text-4xl text-3xl mb-8 font-bold">Help restore skin's natural moisture
+                <h3 class="title-font sm:text-4xl text-3xl mb-8 font-bold">Bantu kembalikan kelembapan alami
                 </h3>
-                <p class="mb-8 leading-relaxed text-sm lg:text-base">In addition to neutralize chlorine, vitamin C also
-                    provides nourishment
-                    to the hair and restores moisture to the skin, keeping it hydrated and preventing dehydration.
-                    Moreover, the use of vitamin C can boost collagen production, keeping the skin youthful and free
-                    from wrinkles.</p>
+                <p class="mb-8 leading-relaxed text-sm lg:text-base">Selain menetralisir klorin, kandungan vitamin C juga memberikan nutrisi pada rambut dan mengembalikan kelembapan kulit, sehingga kulit dan tubuh terhindar dari dehidrasi. Tidak hanya itu, penggunaan vitamin C juga dapat meningkatkan produksi kolagen yang menjadikan kulit tetap muda dan terhindar dari kerutan. </p>
             </div>
             <div class="lg:max-w-lg lg:w-full mb-10 md:mb-0">
                 <img class="object-cover object-center rounded" alt="hero" src="img/n-3.jpg">
@@ -310,30 +301,17 @@ require('../inc/base.php')
                 <img class="object-cover object-center rounded" alt="hero" src="img/n-4.jpg">
             </div>
             <div class="lg:flex-grow md:w-1/2 lg:pl-10 md:pl-10 flex flex-col md:items-start md:text-left items-center text-center">
-                <h3 class="title-font sm:text-4xl text-3xl mb-8 font-bold">Provide negative ion benefits
+                <h3 class="title-font sm:text-4xl text-3xl mb-8 font-bold">Memberi manfaat ion negatif
                 </h3>
-                <p class="mb-8 leading-relaxed text-sm lg:text-base">Oceantial introduces a technology that generates
-                    negative ions through
-                    the Lenard effect produced by triangular-shaped water spray nozzles on the showerhead plate. This
-                    effect occurs when water molecules attached to oxygen or carbon dioxide experience friction with the
-                    colliding water surface, resulting in millions of negative ions. Scientifically, negative ions have
-                    been proven to alleviate stress, improve blood circulation, balance pH, optimize respiratory
-                    function, and provide a truly refreshing bathing experience.</p>
+                <p class="mb-8 leading-relaxed text-sm lg:text-base">Oceantial menghadirkan teknologi yang mampu menghasilkan ion negatif melalui efek Lenard yang dihasilkan dari lubang-lubang semprotan air berbentuk segitiga pada piringan showerhead. Efek ini muncul ketika molekul air yang menempel pada oksigen atau karbon dioksida mengalami gesekan dengan permukaan air yang saling bertabrakan, hingga akhirnya menghasilkan jutaan ion negatif. Secara ilmiah, ion negatif telah terbukti dapat mengatasi stres, meningkatkan peredaran darah, menyeimbangkan pH, mengoptimalkan fungsi pernapasan, serta memberikan pengalaman mandi yang menyegarkan secara seutuhnya.</p>
             </div>
         </div>
         <!-- kanan -->
         <div class="container mx-auto flex p-5 py-2  md:pb-6 lg:flex-row flex-col items-center">
             <div class="lg:flex-grow md:w-1/2 lg:pr-10 md:pr-10 flex flex-col md:items-start md:text-left items-center text-center">
-                <h3 class="title-font sm:text-4xl text-3xl mb-8 font-bold">Reduce water consumption
+                <h3 class="title-font sm:text-4xl text-3xl mb-8 font-bold">Hemat air
                 </h3>
-                <p class="mb-8 leading-relaxed text-sm lg:text-base">Unlike regular showerheads that can only spray
-                    water
-                    up to a maximum
-                    height of 0.8 meters, Oceantial showerheads are designed with the ability to spray water up to a
-                    height of 2.5 meters. Through advanced technology that increases water pressure by 1.5 times
-                    compared to regular showerheads, Oceantial provides a thorough cleansing shower experience that
-                    remains gentle and soothing. Additionally, Oceantial is equipped with triangular-shaped water spray
-                    plate holes that conserve water and energy by reducing water consumption.</p>
+                <p class="mb-8 leading-relaxed text-sm lg:text-base">Berbeda dengan showerhead biasa yang hanya dapat menyemprotkan air setinggi maksimal 0,8 meter, showerhead Oceantial dirancang dengan kemampuan menyemprotkan air setinggi hingga 2,5 meter. Melalui teknologi canggih yang meningkatkan tekanan air hingga 1,5 kali lipat dibandingkan showerhead biasa, Oceantial mampu menghadirkan pengalaman mandi yang membersihkan secara maksimal namun tetap terasa lembut dan menenangkan. Selain itu, Oceantial juga dilengkapi dengan lubang pelat semprotan air berbentuk segitiga yang dapat menghemat air dan energi dengan mengurangi jumlah air yang dikonsumsi.</p>
             </div>
             <div class="lg:max-w-lg lg:w-full mb-10 md:mb-0">
                 <img class="object-cover object-center rounded" alt="hero" src="img/n-5.jpg">
@@ -347,12 +325,9 @@ require('../inc/base.php')
                 <img class="object-cover object-center rounded" alt="hero" src="img/n-6.jpg">
             </div>
             <div class="lg:flex-grow md:w-1/2 lg:pl-10 md:pl-10 flex flex-col md:items-start md:text-left items-center text-center">
-                <h3 class="title-font sm:text-4xl text-3xl mb-8 font-bold">Safe for all skin types
+                <h3 class="title-font sm:text-4xl text-3xl mb-8 font-bold">Aman untuk berbagai jenis kulit
                 </h3>
-                <p class="mb-8 leading-relaxed text-sm lg:text-base">Oceantial products are designed to be safe for all
-                    skin types. By using
-                    Oceantial, we can effectively care for our skin and body by cleansing impurities, neutralizing
-                    chlorine in the water, and nourishing our skin with vitamin C.</p>
+                <p class="mb-8 leading-relaxed text-sm lg:text-base">Produk Oceantial dirancang untuk aman digunakan pada semua jenis kulit. Dengan menggunakan produk Oceantial, kita dapat merawat kulit dan tubuh secara efektif dengan membersihkan kotoran, menetralisir kandungan klorin pada air, serta menambah nutrisi dengan kandungan vitamin C. </p>
             </div>
         </div>
     </section>
