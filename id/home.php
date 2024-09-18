@@ -273,14 +273,8 @@ require('../inc/base.php')
         <div class="w-full py-36">
             <div class="w-full lg:pb-5">
                 <div class="container text-center lg:text-left">
-                    <h3 class="lg:text-[40px] text-2xl text-black font-bold pb-10 m-2 lg:m-0 leading-[135%]">It is time to give
-                        full
-                        attention to
-                        <br> each
-                        droplet of
-                        water as
-                        it flows <br> upon
-                        your body
+                    <h3 class="lg:text-[40px] text-2xl text-black font-bold pb-10 m-2 lg:m-0 leading-[135%]">Saatnya memberi perhatian
+                        <br> penuh pada tiap tetes air yang<br> mengalir ke tubuh
                     </h3>
                     <a href="https://linktr.ee/oceantial_" class="text-white bg-btnbg inline-flex items-center md:mb-2 lg:mb-0 py-2 px-4 rounded-lg">Shop Now<svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                             <path d="M5 12h14M12 5l7 7-7 7"></path>
