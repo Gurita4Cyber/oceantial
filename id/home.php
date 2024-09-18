@@ -970,7 +970,7 @@ require('../inc/base.php')
             <div class="product-list">
                 <div class="container pb-6 pt-20 pl-4">
                     <div class="text-left">
-                        <h2 class="font-bold text-3xl capitalize">Home </h2>
+                        <h2 class="font-bold text-3xl capitalize">Tap Water</h2>
                     </div>
                 </div>
                 <div class="flex flex-wrap w-full">
