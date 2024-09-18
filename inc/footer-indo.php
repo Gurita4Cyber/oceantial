@@ -78,7 +78,7 @@
     <div class="w-full py-36">
         <div class="w-full lg:pb-5">
             <div class="container lg:text-left text-center">
-                <div class="text-5xl text-btnsosmed font-bold pb-6 lg:text-left text-center leading-[60px]">Bergabunglah dengan Kami
+                <div class="text-5xl text-btnsosmed font-bold pb-6 lg:text-left text-center leading-[60px]">Bergabung Bersama
                     <br>
                     <div class="text-white">Program Reseller</div>
                 </div>
