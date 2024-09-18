@@ -2,7 +2,7 @@
     <div class="container mx-auto">
         <div class="container">
             <div class="text-center">
-                <h2 class="font-bold text-[40px] capitalize py-20">Menghadirkan Harmoni Lautan pada Kulit Anda </h2>
+                <h2 class="font-bold text-[40px] capitalize py-20">Menghadirkan Harmoni Lautan pada Kulit</h2>
             </div>
         </div>
         <div class="flex flex-wrap">
