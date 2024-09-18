@@ -16,7 +16,7 @@ require('../inc/base.php')
         <div class="absolute w-full h-full flex items-center">
             <div class="m-auto text-center">
                 <div class="pb-10 text-white text-5xl">Awaken Your Senses</div>
-                <a href="https://api.whatsapp.com/send?phone=628119722881&text=halo%20aroma%20sense%20saya%20mau%20order" class="text-white block rounded border appearance-none border-white py-2 px-6 w-[132px] m-auto">
+                <a href="/how-it-works" class="text-white block rounded border appearance-none border-white py-2 px-6 w-[132px] m-auto">
                     Learn More
                 </a>
             </div>
