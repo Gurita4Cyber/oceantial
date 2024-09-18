@@ -360,8 +360,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="pure-rain-microfiber-tap-water-filter-pr303-kitchen">Alat
-                                            Tap Water Filter
+                                        <a class="block py-4" href="pure-rain-microfiber-tap-water-filter-pr303-kitchen">Tap Water Filter
                                             PR303 (Kitchen) </a>
                                     </li>
                                     <li>
