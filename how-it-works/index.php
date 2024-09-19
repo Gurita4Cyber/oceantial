@@ -17,8 +17,7 @@ require('../inc/base.php')
             <div class="container">
                 <div class="text-center">
                     <h2 class="font-bold lg:text-3xl text-2xl capitalize lg:py-20 py-10">
-                        Berbagai Masalah Karena Buruknya Kualitas
-                        Air </h2>
+                        Various Problems Due to Compromised Water Quality</h2>
                 </div>
             </div>
             <div class="divide-y-2 divide-gray-100 mx-5 lg:mx-0 ">
@@ -37,15 +36,8 @@ require('../inc/base.php')
                             </defs>
                         </svg>
                         <div class="lg:mt-28 mt-6">
-                            <h2 class="title-font  lg:text-3xl text-lg mb-5 font-semibold ">Kualitas air </h2>
-                            <p class="lg:mb-8 mb-6 leading-relaxed text-sm lg:text-lg">Pengaruh kualitas air terhadap
-                                kondisi
-                                kulit dan rambut jauh
-                                lebih signifikan daripada yang Anda pikirkan. Penggunaan berbagai produk perawatan kulit
-                                dan
-                                rambut menjadi tidak maksimal, apabila tidak didukung oleh kualitas air yang baik dan
-                                dapat
-                                diandalkan.</p>
+                            <h2 class="title-font  lg:text-3xl text-lg mb-5 font-semibold ">Water quality </h2>
+                            <p class="lg:mb-8 mb-6 leading-relaxed text-sm lg:text-lg">The influence of water quality on skin and hair condition is far more significant than you might think. The effectiveness of various skincare and haircare products is compromised when not supported by good and reliable water quality.</p>
                         </div>
 
 
@@ -83,13 +75,8 @@ require('../inc/base.php')
                         </svg>
 
                         <div class="mt-6">
-                            <h2 class="title-font lg:text-3xl text-lg mb-5 font-semibold ">Kulit kering </h2>
-                            <p class="mb-8 leading-relaxed text-sm lg:text-base">Kulit kering terjadi ketika lapisan
-                                pelindung kulit
-                                kehilangan kadar air dan minyak yang cukup. Gejalanya bisa berupa kulit bersisik,
-                                mengelupas, terasa kasar, terasa kencang setelah mandi, serta terasa gatal, bahkan
-                                hingga munculnya eczema. Kondisi ini sering kali muncul ketika kita kurang memperhatikan
-                                kualitas air yang kita gunakan.</p>
+                            <h2 class="title-font lg:text-3xl text-lg mb-5 font-semibold ">Dry skin </h2>
+                            <p class="mb-8 leading-relaxed text-sm lg:text-base">Dry skin occurs when the skin's protective layer loses water and oil, causing symptoms like scales, peeling, rough texture, tightness after bathing, itching sensations, and disruptive rashes. This issue often arises when we neglect the special attention needed for the quality of water used.</p>
                         </div>
 
 
@@ -107,13 +94,8 @@ require('../inc/base.php')
                         </svg>
 
                         <div class="lg:mt-2 mt-6">
-                            <h2 class="title-font lg:text-3xl text-lg mb-5 font-semibold ">Rambut kusam </h2>
-                            <p class="mb-8 leading-relaxed text-sm lg:text-base">Masalah rambut kering muncul ketika
-                                rambut tidak dapat
-                                mempertahankan kelembapan yang cukup. Rambut menjadi terlihat kusut, kusam, dan tidak
-                                sehat. Salah satu faktor yang dapat memperburuk kondisi rambut adalah tingginya
-                                kandungan klorin dalam air yang digunakan. Kandungan klorin dapat menyebabkan rambut
-                                kehilangan kelembapan alaminya dan membuatnya semakin kering.</p>
+                            <h2 class="title-font lg:text-3xl text-lg mb-5 font-semibold ">Dull hair</h2>
+                            <p class="mb-8 leading-relaxed text-sm lg:text-base">Dry hair occurs when the hair is unable to retain enough moisture, resulting in a tangled, dull, and unhealthy appearance. One factor that can worsen hair condition is the high chlorine content in the water used. Chlorine content can cause the hair to lose its natural moisture and become even drier.</p>
                         </div>
 
 
@@ -143,12 +125,8 @@ require('../inc/base.php')
 
 
                         <div class="lg:mt-20 mt-6">
-                            <h2 class="title-font lg:text-3xl text-lg mb-5 font-semibold ">Munculnya Jerawat </h2>
-                            <p class="mb-8 leading-relaxed text-sm lg:text-base">Ketika kita menggunakan air yang kotor,
-                                partikel-partikel
-                                yang terkandung di dalamnya dapat menumpuk di pori-pori kulit. Hal ini dapat menyebabkan
-                                pori-pori tersumbat dan memicu timbulnya komedo atau jerawat. Jika tidak diatasi dengan
-                                baik, masalah ini dapat berkembang menjadi jerawat yang lebih besar dan meradang.</p>
+                            <h2 class="title-font lg:text-3xl text-lg mb-5 font-semibold ">Acne problem </h2>
+                            <p class="mb-8 leading-relaxed text-sm lg:text-base">When we use dirty water, particles contained in it can accumulate in the skin pores. This can lead to clogged pores and trigger the formation of blackheads or acne. If not properly addressed, this issue can develop into larger and inflamed acne.</p>
                         </div>
 
 
@@ -171,18 +149,11 @@ require('../inc/base.php')
 
 
                         <div class="lg:mt-0 mt-6">
-                            <h2 class="title-font lg:text-3xl text-lg mb-5 font-semibold ">Rusaknya Nutrisi </h2>
-                            <p class="mb-8 leading-relaxed text-sm lg:text-base">Penting untuk disadari bahwa air yang
-                                kita gunakan tidak
-                                hanya mempengaruhi kesehatan rambut dan kulit kita, tetapi juga dapat berdampak pada
-                                makanan dan minuman yang kita konsumsi.
-
-                                Ketika menggunakan air yang kotor untuk mencuci alat makan, sayuran, dan buah-buahan,
-                                secara tidak langsung kita membawa masalah kebersihan dan kualitas air tersebut ke dalam
-                                makanan kita. Kandungan residu pipa berkarat mengandung zat-zat beracun yang dapat
-                                mencemari makanan dan berpotensi membahayakan kesehatan. Selain itu, klorin yang
-                                terdapat dalam air juga dapat meninggalkan residu pada makanan, mengubah rasa dan
-                                kualitas nutrisi yang terkandung di dalamnya.</p>
+                            <h2 class="title-font lg:text-3xl text-lg mb-5 font-semibold ">Damaging nutrition </h2>
+                            <p class="mb-8 leading-relaxed text-sm lg:text-base">It's important to realize that the water we use not only impacts the health of our hair and skin but also has implications for the food and beverages we consume.
+                            </p>
+                            <p class="mb-8 leading-relaxed text-sm lg:text-base">
+                                When we use contaminated water to wash utensils, vegetables, and fruits, we unknowingly introduce cleanliness and water quality issues into our meals. Rust residue in pipes can harbor toxic substances that contaminate food and potentially endanger our health. Furthermore, chlorine in the water can leave residues on food, altering its taste and the quality of the nutrients it holds.</p>
                         </div>
 
 
@@ -204,14 +175,8 @@ require('../inc/base.php')
             <h2 class="title-font lg:text-3xl text-lg mb-5 font-semibold">How does chlorine affect the
                 skin?</h2>
 
-            <p class="mb-8 leading-relaxed">Air yang kita gunakan setiap hari untuk mandi, mencuci muka, dan menyikat
-                gigi mengandung klorin.
+            <p class="mb-8 leading-relaxed">Every day, the water we use for bathing, washing our faces, and brushing our teeth contains chlorine. This component can impact our skin and hair, leading to dryness that can trigger acne, skin rashes, itching due to dry skin, skin redness, and even eczema.
 
-            </p>
-            <p class="mb-8 leading-relaxed">
-                Kandungan ini dapat berdampak pada kondisi kulit, seperti kulit menjadi kering yang dapat memicu
-                munculnya jerawat, ruam kulit, rasa gatal akibat kulit kering, kemerahan pada kulit, dan bahkan dapat
-                menyebabkan eczema.
             </p>
         </div>
         <div class="w-full mobile-only">
