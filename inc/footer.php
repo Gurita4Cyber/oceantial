@@ -426,6 +426,29 @@
         });
     });
 
+    let tabsContainer = document.querySelector("#tabs");
+    let tabTogglers = tabsContainer.querySelectorAll("#tabs a");
+    tabTogglers.forEach(function(toggler) {
+        toggler.addEventListener("click", function(e) {
+            e.preventDefault();
+            let tabName = this.getAttribute("href");
+
+            let tabContents = document.querySelector("#tab-contents");
+
+            for (let i = 0; i < tabContents.children.length; i++) {
+
+                tabTogglers[i].parentElement.classList.remove("bordercustom");
+                tabContents.children[i].classList.remove("hidden");
+                if ("#" + tabContents.children[i].id === tabName) {
+                    continue;
+                }
+                tabContents.children[i].classList.add("hidden");
+
+            }
+            e.target.parentElement.classList.add("bordercustom");
+        });
+    });
+
 
 
 
@@ -500,234 +523,157 @@
 </script>
 
 
+<script>
+    // Get the button
+    const menuHead = document.getElementById("menuHead");
 
-<?php if ($page == 'how-it-works') { ?>
+    // When the user scrolls down 20px from the top of the document, show the button
 
-    <script>
-        let tabsContainer2 = document.querySelector("#tabsnav");
-        let tabTogglers2 = tabsContainer2.querySelectorAll("#tabsnav a");
-        tabTogglers2.forEach(function(toggler2) {
-            toggler2.addEventListener("click", function(c) {
-                c.preventDefault();
-                let tabName2 = this.getAttribute("href");
+    const scrollFunction = () => {
+        if (
+            document.body.scrollTop > 20 ||
+            document.documentElement.scrollTop > 20
+        ) {
+            mybutton.classList.remove("hidden");
+            menuHead.classList.add("bg-default");
+            menuHead.classList.add("drop-shadow-lg");
 
-                let tabContents2 = document.querySelector("#tab-contentsnav");
+        } else {
+            mybutton.classList.add("hidden");
+            menuHead.classList.remove("bg-default");
+            menuHead.classList.remove("drop-shadow-lg");
 
-                for (let b = 0; b < tabContents2.children.length; b++) {
-
-                    tabTogglers2[b].parentElement.classList.remove("bordercustom");
-                    tabContents2.children[b].classList.remove("hidden");
-                    if ("#" + tabContents2.children[b].id === tabName2) {
-                        continue;
-                    }
-                    tabContents2.children[b].classList.add("hidden");
-
-                }
-                c.target.parentElement.classList.add("bordercustom");
-            });
-        });
-
-
-
-
-        // Get the button
-        const menuHead = document.getElementById("menuHead");
-
-        // When the user scrolls down 20px from the top of the document, show the button
-
-        const scrollFunction = () => {
-            if (
-                document.body.scrollTop > 20 ||
-                document.documentElement.scrollTop > 20
-            ) {
-                mybutton.classList.remove("hidden");
-                menuHead.classList.add("bg-default");
-                menuHead.classList.add("drop-shadow-lg");
-
-            } else {
-                mybutton.classList.add("hidden");
-                menuHead.classList.remove("bg-default");
-                menuHead.classList.remove("drop-shadow-lg");
-
-            }
-        };
-    </script>
-    <script>
-        var coll = document.getElementsByClassName("collapsible");
-        var i;
-
-        for (i = 0; i < coll.length; i++) {
-            coll[i].addEventListener("click", function() {
-                this.classList.toggle("active");
-                var content = this.nextElementSibling;
-                if (content.style.display === "block") {
-                    content.style.display = "none";
-                } else {
-                    content.style.display = "block";
-                }
-            });
         }
-    </script>
-    <script>
-        $(document).ready(function() {
-            var owl = $('.owl-carousel');
-            owl.owlCarousel({
-                margin: 10,
-                nav: true,
-                dots: false,
-                loop: false,
-                responsive: {
-                    0: {
-                        items: 1
-                    },
-                    600: {
-                        items: 1
-                    },
-                    1000: {
-                        items: 1
-                    }
-                }
-            })
-        })
-    </script>
+    };
+</script>
+<script>
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
 
-<?php } ?>
-
-<!-- =========================== -->
-<?php if ($page == 'home' || $page == 'about-us' || $page == 'detail') { ?>
-    <script>
-        let tabsContainer = document.querySelector("#tabs");
-        let tabTogglers = tabsContainer.querySelectorAll("#tabs a");
-        tabTogglers.forEach(function(toggler) {
-            toggler.addEventListener("click", function(e) {
-                e.preventDefault();
-                let tabName = this.getAttribute("href");
-
-                let tabContents = document.querySelector("#tab-contents");
-
-                for (let i = 0; i < tabContents.children.length; i++) {
-
-                    tabTogglers[i].parentElement.classList.remove("bordercustom");
-                    tabContents.children[i].classList.remove("hidden");
-                    if ("#" + tabContents.children[i].id === tabName) {
-                        continue;
-                    }
-                    tabContents.children[i].classList.add("hidden");
-
-                }
-                e.target.parentElement.classList.add("bordercustom");
-            });
-        });
-        $(".simplecarousel-list").each(function() {
-            var m_count = $(this).find("> div > div").children().length;
-            var m_box_width = ($(this).find("> div > div > ul").outerWidth()) + 22;
-            $(this).find("> div > div").css("width", m_count * m_box_width);
-        });
-
-        let tabsContainer2 = document.querySelector("#tabsnav");
-        let tabTogglers2 = tabsContainer2.querySelectorAll("#tabsnav a");
-        tabTogglers2.forEach(function(toggler2) {
-            toggler2.addEventListener("click", function(c) {
-                c.preventDefault();
-                let tabName2 = this.getAttribute("href");
-
-                let tabContents2 = document.querySelector("#tab-contentsnav");
-
-                for (let b = 0; b < tabContents2.children.length; b++) {
-
-                    tabTogglers2[b].parentElement.classList.remove("bordercustom");
-                    tabContents2.children[b].classList.remove("hidden");
-                    if ("#" + tabContents2.children[b].id === tabName2) {
-                        continue;
-                    }
-                    tabContents2.children[b].classList.add("hidden");
-
-                }
-                c.target.parentElement.classList.add("bordercustom");
-            });
-        });
-
-
-        // Get the button
-        const menuHead = document.getElementById("menuHead");
-
-        // When the user scrolls down 20px from the top of the document, show the button
-
-        const scrollFunction = () => {
-            if (
-                document.body.scrollTop > 20 ||
-                document.documentElement.scrollTop > 20
-            ) {
-                mybutton.classList.remove("hidden");
-                menuHead.classList.add("bg-default");
-                menuHead.classList.add("drop-shadow-lg");
-
+    for (i = 0; i < coll.length; i++) {
+        coll[i].addEventListener("click", function() {
+            this.classList.toggle("active");
+            var content = this.nextElementSibling;
+            if (content.style.display === "block") {
+                content.style.display = "none";
             } else {
-                mybutton.classList.add("hidden");
-                menuHead.classList.remove("bg-default");
-                menuHead.classList.remove("drop-shadow-lg");
-
+                content.style.display = "block";
             }
-        };
-    </script>
-    <script>
-        var coll = document.getElementsByClassName("collapsible");
-        var i;
-
-        for (i = 0; i < coll.length; i++) {
-            coll[i].addEventListener("click", function() {
-                this.classList.toggle("active");
-                var content = this.nextElementSibling;
-                if (content.style.display === "block") {
-                    content.style.display = "none";
-                } else {
-                    content.style.display = "block";
+        });
+    }
+</script>
+<script>
+    $(document).ready(function() {
+        var owl = $('.owl-carousel');
+        owl.owlCarousel({
+            margin: 10,
+            nav: true,
+            dots: false,
+            loop: false,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                600: {
+                    items: 1
+                },
+                1000: {
+                    items: 1
                 }
-            });
-        }
-    </script>
-
-    <script>
-        $(document).ready(function() {
-            var owl = $('.owl-carousel');
-            owl.owlCarousel({
-                margin: 10,
-                nav: true,
-                dots: false,
-                loop: false,
-                responsive: {
-                    0: {
-                        items: 1
-                    },
-                    600: {
-                        items: 3
-                    },
-                    1000: {
-                        items: 5
-                    }
-                }
-            })
-            var owl2 = $('.owl-carousel2');
-            owl2.owlCarousel({
-                margin: 10,
-                nav: true,
-                dots: false,
-                loop: false,
-                responsive: {
-                    0: {
-                        items: 1
-                    },
-                    600: {
-                        items: 3
-                    },
-                    1000: {
-                        items: 5
-                    }
-                }
-            })
+            }
         })
-    </script>
-<?php } ?>
+    })
+</script>
+
+<script>
+    $(".simplecarousel-list").each(function() {
+        var m_count = $(this).find("> div > div").children().length;
+        var m_box_width = ($(this).find("> div > div > ul").outerWidth()) + 22;
+        $(this).find("> div > div").css("width", m_count * m_box_width);
+    });
+
+
+
+
+    // Get the button
+    const menuHead = document.getElementById("menuHead");
+
+    // When the user scrolls down 20px from the top of the document, show the button
+
+    const scrollFunction = () => {
+        if (
+            document.body.scrollTop > 20 ||
+            document.documentElement.scrollTop > 20
+        ) {
+            mybutton.classList.remove("hidden");
+            menuHead.classList.add("bg-default");
+            menuHead.classList.add("drop-shadow-lg");
+
+        } else {
+            mybutton.classList.add("hidden");
+            menuHead.classList.remove("bg-default");
+            menuHead.classList.remove("drop-shadow-lg");
+
+        }
+    };
+</script>
+<script>
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+
+    for (i = 0; i < coll.length; i++) {
+        coll[i].addEventListener("click", function() {
+            this.classList.toggle("active");
+            var content = this.nextElementSibling;
+            if (content.style.display === "block") {
+                content.style.display = "none";
+            } else {
+                content.style.display = "block";
+            }
+        });
+    }
+</script>
+
+<script>
+    $(document).ready(function() {
+        var owl = $('.owl-carousel');
+        owl.owlCarousel({
+            margin: 10,
+            nav: true,
+            dots: false,
+            loop: false,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                600: {
+                    items: 3
+                },
+                1000: {
+                    items: 5
+                }
+            }
+        })
+        var owl2 = $('.owl-carousel2');
+        owl2.owlCarousel({
+            margin: 10,
+            nav: true,
+            dots: false,
+            loop: false,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                600: {
+                    items: 3
+                },
+                1000: {
+                    items: 5
+                }
+            }
+        })
+    })
+</script>
 
 
 

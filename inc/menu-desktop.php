@@ -150,86 +150,46 @@
                                 </div>
                                 <ul class="navmenubig">
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-lemon">
-                                            Aromatube - cartridges isi 1 - Lemon
-                                        </a>
+                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-lemon"> Vitamin C Cartridges - Lemon </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-lemon-mango">Showerhead Handheld -
-                                            Aromatube - cartridges isi 1 - Lemon Manggo
-                                        </a>
+                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-lemon-mango">Vitamin C Cartridges - Lemon Mango </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-vanilla-coconut">
-                                            Aromatube - cartridges isi 1
-                                            - Vanilla Coconut
-                                        </a>
+                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-vanilla-coconut"> Vitamin C Cartridges - Vanilla Coconut </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-neutral">
-                                            Aromatube - cartridges isi 1
-                                            - Neutral
-                                        </a>
+                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-neutral">Vitamin C Cartridges - Neutral </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-lavender">
-                                            Aromatube - cartridges isi 1
-                                            - Lavender
-                                        </a>
+                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-lavender">Vitamin C Cartridges - Lavender </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-phytoncide">
-                                            Aromatube - cartridges isi 1
-                                            - Phytoncide
-                                        </a>
+                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-phytoncide">Vitamin C Cartridges - Phytoncide </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-jasmine">
-                                            Aromatube - cartridges isi 1
-                                            - Jasmine
-                                        </a>
+                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-jasmine"> Vitamin C Cartridges - Jasmine </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-pine">
-                                            Aromatube - cartridges isi 1
-                                            - Pine
-                                        </a>
+                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-pine"> itamin C Cartridges - Pine </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-rose">
-                                            Aromatube - cartridges isi 1
-                                            - Rose
-                                        </a>
+                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-rose">Vitamin C Cartridges - Rose </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-eucalyptus">
-                                            Aromatube - cartridges isi 1
-                                            - Eucalyptus
-                                        </a>
+                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-eucalyptus">Vitamin C Cartridges - Eucalyptus </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lavender">
-                                            Aromatube - cartridges Aroma
-                                            Therapy for Shower Arofix - Isi 1 pcs - Lavender
-                                        </a>
+                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lavender">Vitamin C Cartridges Aroma Therapy for Shower Arofix - Lavender </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lemon">
-                                            Aromatube - cartridges Aroma
-                                            Therapy for Shower Arofix - Isi 1 pcs - Lemon
-                                        </a>
+                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-lemon"> Vitamin C Cartridges Aroma Therapy for Shower Arofix - Lemon </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-neutral">
-                                            Aromatube - cartridges Aroma
-                                            Therapy for Shower Arofix - Isi 1 pcs - Neutral
-                                        </a>
+                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-aroma-therapy-for-shower-arofix-neutral">Vitamin C Cartridges Aroma Therapy for Shower Arofix - Neutral </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-eucalyptus">
-                                            Aromatube - cartridges Aroma
-                                            Therapy for Shower Arofix - Isi 1 pcs - Eucalyptus
-                                        </a>
+                                        <a class="block py-4" href="aroma-sense-vitamin-c-cartridges-eucalyptus">Vitamin C Cartridges Aroma Therapy for Shower Arofix - Eucalyptus </a>
                                     </li>
 
                                 </ul>
@@ -246,14 +206,10 @@
                                 </div>
                                 <ul class="navmenubig">
                                     <li>
-                                        <a class="block py-4" href="pure-rain-microfiber-prm">
-                                            Microfiber PRM (Isi 3)
-                                        </a>
+                                        <a class="block py-4" href="pure-rain-microfiber-prm"> Pure Rain - Microfiber PRM </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="pure-rain-acf-filter-carbon">Carbon
-                                            PRC
-                                        </a>
+                                        <a class="block py-4" href="pure-rain-acf-filter-carbon">Pure Rain - Carbon PRC </a>
                                     </li>
                                 </ul>
                             </div>
@@ -266,9 +222,7 @@
                         <div class="flex justify-between">
                             <div class="p-6">
                                 <div class="inline-flex items-center pb-6">
-                                    <h2 class="text-title2 text-lg  mb-1 font-semibold">Aroma
-                                        Sense
-                                    </h2>
+                                    <h2 class="text-title2 text-lg mb-1 font-semibold">Aroma Sense </h2>
                                     <svg width="21" height="21" viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M7.5638 19.25L5.98047 16.5833L2.98047 15.9167L3.27214 12.8333L1.23047 10.5L3.27214 8.16667L2.98047 5.08333L5.98047 4.41667L7.5638 1.75L10.3971 2.95833L13.2305 1.75L14.8138 4.41667L17.8138 5.08333L17.5221 8.16667L19.5638 10.5L17.5221 12.8333L17.8138 15.9167L14.8138 16.5833L13.2305 19.25L10.3971 18.0417L7.5638 19.25ZM9.52214 13.4583L14.2305 8.75L13.0638 7.54167L9.52214 11.0833L7.73047 9.33333L6.5638 10.5L9.52214 13.4583Z" fill="#004E98" />
                                     </svg>
@@ -276,20 +230,19 @@
                                 </div>
                                 <ul class="navmenubig">
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-microfiber-filter-prestiges">
-                                            Microfiber Filter Prestiges
-                                        </a>
+                                        <a class="block py-4" href="aroma-sense-microfiber-filter-prestiges"> Microfiber Filter Prestiges </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-spare-parts-anti-bakteri-as9000-medium">Microfiber Filter Medium
-                                        </a>
+                                        <a class="block py-4" href="aroma-sense-spare-parts-anti-bakteri-as9000-medium">Microfiber Filter AS9000 </a>
+                                    </li>
+                                    <li>
+                                        <a class="block py-4" href="aroma-sense-microfiber-filter-kids-tulip">Microfiber Filter Tulip & Kids </a>
                                     </li>
                                     <li>
                                         <a class="block py-4" href="aroma-sense-microfiber-mist">Microfiber Mist</a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-microfiber-filter-arofix">Microfiber Filter Arofix
-                                        </a>
+                                        <a class="block py-4" href="aroma-sense-microfiber-filter-arofix">Microfiber Filter Arofix </a>
                                     </li>
                                     <li>
                                         <a class="block py-4" href="aroma-sense-microfiber-filter-801">Microfiber Filter 801</a>
@@ -298,23 +251,20 @@
                                         <a class="block py-4" href="aroma-sense-microfiber-filter-701">Microfiber Filter 701</a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-microfiber-filter-arofix-grand-shower">Microfiber Filter
-                                            GrandShower </a>
+                                        <a class="block py-4" href="aroma-sense-microfiber-filter-arofix-grand-shower">Microfiber Filter GrandShower </a>
                                     </li>
                                     <li>
                                         <a class="block py-4" href="aroma-sense-microfiber-super-jet">Microfiber Super Jet</a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-microfiber-super-jet-wide">Microfiber Super Jet
-                                            Wide</a>
+                                        <a class="block py-4" href="aroma-sense-microfiber-super-jet-wide">Microfiber Super Jet Wide</a>
                                     </li>
 
                                 </ul>
                             </div>
                             <div class="p-6">
                                 <div class="inline-flex items-center pb-6">
-                                    <h2 class="text-title2 text-lg  mb-1 font-semibold">Aromica
-                                    </h2>
+                                    <h2 class="text-title2 text-lg  mb-1 font-semibold">Aromica </h2>
                                     <svg width="21" height="21" viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M7.36458 19.25L5.78125 16.5833L2.78125 15.9167L3.07292 12.8333L1.03125 10.5L3.07292 8.16667L2.78125 5.08333L5.78125 4.41667L7.36458 1.75L10.1979 2.95833L13.0312 1.75L14.6146 4.41667L17.6146 5.08333L17.3229 8.16667L19.3646 10.5L17.3229 12.8333L17.6146 15.9167L14.6146 16.5833L13.0312 19.25L10.1979 18.0417L7.36458 19.25ZM9.32292 13.4583L14.0313 8.75L12.8646 7.54167L9.32292 11.0833L7.53125 9.33333L6.36458 10.5L9.32292 13.4583Z" fill="#66102D" />
                                     </svg>
@@ -323,9 +273,7 @@
                                 </div>
                                 <ul class="navmenubig">
                                     <li>
-                                        <a class="block py-4" href="aromica-microfiber-filter-luxe">
-                                            Microfiber Filter Luxe
-                                        </a>
+                                        <a class="block py-4" href="aromica-microfiber-filter-luxe"> Microfiber Filter Luxe </a>
                                     </li>
 
 
