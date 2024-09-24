@@ -228,7 +228,7 @@ require('../inc/base.php')
         <div class="container mx-auto">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="font-bold text-3xl capitalize py-20">How Ocential Protect You</h2>
+                    <h2 class="font-bold text-3xl capitalize py-20">Betapa Pentingnya Melindungi Anda</h2>
                 </div>
             </div>
             <!-- slide -->
