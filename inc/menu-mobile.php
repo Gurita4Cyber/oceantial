@@ -303,21 +303,16 @@
                         </div>
                         <ul class="navmenubig">
                             <li>
-                                <a class="block py-4" href="pure-rain-tap-water-filter-pr100-bathroom">
-                                    Tap Water Filter PR100 (Bathroom)
-                                </a>
+                                <a class="block py-4" href="pure-rain-tap-water-filter-pr100-bathroom"> Tap Water Filter PR100 (Bathroom) </a>
                             </li>
                             <li>
-                                <a class="block py-4" href="pure-rain-tap-water-filter-pr303-kitchen">Tap Water Filter
-                                    PR303 (Kitchen) </a>
+                                <a class="block py-4" href="pure-rain-tap-water-filter-pr303-kitchen">Tap Water Filter PR303 (Kitchen) </a>
                             </li>
                             <li>
-                                <a class="block py-4" href="pure-rain-microfiber-tap-water-filter-pr100-bathroom">Microfiber Tap Water
-                                    Filter (Bathroom) PR100</a>
+                                <a class="block py-4" href="pure-rain-microfiber-tap-water-filter-pr100-bathroom">Microfiber Tap Water Filter (Bathroom) PR100</a>
                             </li>
                             <li>
-                                <a class="block py-4" href="pure-rain-microfiber-tap-water-filter-pr303-kitchen">Microfiber Tap Water
-                                    Filter PR300 (Kitchen)</a>
+                                <a class="block py-4" href="pure-rain-microfiber-tap-water-filter-pr303-kitchen">Microfiber Tap Water Filter PR300 (Kitchen)</a>
                             </li>
 
                         </ul>
