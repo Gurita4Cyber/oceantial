@@ -285,22 +285,17 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-microfiber-mist">Microfiber Mist (isi
-                                            5)</a>
+                                        <a class="block py-4" href="aroma-sense-microfiber-mist">Microfiber Mist</a>
                                     </li>
                                     <li>
                                         <a class="block py-4" href="aroma-sense-microfiber-filter-arofix">Microfiber Filter Arofix
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-microfiber-filter-801">Microfiber Filter 801
-                                            (isi
-                                            5)</a>
+                                        <a class="block py-4" href="aroma-sense-microfiber-filter-801">Microfiber Filter 801</a>
                                     </li>
                                     <li>
-                                        <a class="block py-4" href="aroma-sense-microfiber-filter-701">Microfiber Filter 701
-                                            (isi
-                                            5)</a>
+                                        <a class="block py-4" href="aroma-sense-microfiber-filter-701">Microfiber Filter 701</a>
                                     </li>
                                     <li>
                                         <a class="block py-4" href="aroma-sense-microfiber-filter-arofix-grand-shower">Microfiber Filter
