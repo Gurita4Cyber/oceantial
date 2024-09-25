@@ -190,8 +190,6 @@ require('../inc/base.php')
 
                         </div>
                         <!-- inputan -->
-
-
                     </div>
                 </div>
 
@@ -314,8 +312,6 @@ require('../inc/base.php')
                                     water, or approximately 4 months, when used for showering with an average
                                     consumption of around 100 liters of water per day.
                                 </p>
-
-
                             </div>
 
                         </div>
@@ -418,8 +414,6 @@ require('../inc/base.php')
                                     <iframe width="560" height="315" src="https://youtube.com/embed/r0jOlfkoatA?si=kDnhPR8RWbKlHn__" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                                 </div>
 
-
-
                             </div>
                         </div>
                         <!-- inputan -->
@@ -455,8 +449,6 @@ require('../inc/base.php')
                                 <div class="videowrapper">
                                     <iframe width="560" height="315" src="https://youtube.com/embed/LlJr6yo-EFs?si=vmVKRl3A0sQGABs5" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                                 </div>
-
-
                             </div>
                         </div>
                         <!-- inputan -->
