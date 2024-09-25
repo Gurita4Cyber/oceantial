@@ -377,7 +377,7 @@ require('../inc/base.php')
                         <div id="content11" class="item">
                             <div class="lg:text-lg text-sm">
                                 <div class="videowrapper">
-                                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/-IKC5Ia2xio?si=_dTYXWiQZ-JafJTH" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/-IKC5Ia2xio?si=_dTYXWiQZ-JafJTH" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                                 </div>
                             </div>
 
