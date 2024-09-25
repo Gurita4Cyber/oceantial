@@ -74,11 +74,11 @@ require('../inc/base.php')
                         <div id="content2" class="item">
 
                             <div class="lg:text-lg text-sm">Aroma Sense - Showerhead Handheld Kids Series memiliki diameter 4,6 cm,
-Aroma Sense - Showerhead Handheld - Medium AS9000 memiliki diameter 8 cm,
-Aroma Sense - Showerhead Handheld - Showerhead 701 memiliki diameter 11,5 cm,
-Aroma Sense - Showerhead Handheld - Showerhead 801 memiliki diameter 8,6 cm,
-Aroma Sense - Arofix Grand memiliki diameter 11,5 cm, dan
-Aroma Sense - Showerhead Handheld - Showerhead Mist memiliki diameter 8 cm.
+                                Aroma Sense - Showerhead Handheld - Medium AS9000 memiliki diameter 8 cm,
+                                Aroma Sense - Showerhead Handheld - Showerhead 701 memiliki diameter 11,5 cm,
+                                Aroma Sense - Showerhead Handheld - Showerhead 801 memiliki diameter 8,6 cm,
+                                Aroma Sense - Arofix Grand memiliki diameter 11,5 cm, dan
+                                Aroma Sense - Showerhead Handheld - Showerhead Mist memiliki diameter 8 cm.
                             </div>
 
                         </div>
@@ -153,7 +153,7 @@ Aroma Sense - Showerhead Handheld - Showerhead Mist memiliki diameter 8 cm.
                         <div id="content5" class="item">
 
                             <div class="lg:text-lg text-sm">
-                            Untuk shower PR 303, keran yang kompatibel memiliki drat luar dengan diameter 2,2 cm. Sedangkan untuk shower PR 100, keran yang kompatibel memiliki diameter drat luar 2,2 cm dan diameter drat dalam antara 2,0 cm hingga 2,4 cm.
+                                Untuk shower PR 303, keran yang kompatibel memiliki drat luar dengan diameter 2,2 cm. Sedangkan untuk shower PR 100, keran yang kompatibel memiliki diameter drat luar 2,2 cm dan diameter drat dalam antara 2,0 cm hingga 2,4 cm.
 
                             </div>
 
@@ -191,7 +191,7 @@ Aroma Sense - Showerhead Handheld - Showerhead Mist memiliki diameter 8 cm.
                         <div id="content6" class="item">
 
                             <div class="lg:text-lg text-sm">
-                            Lemon, Lemon Mango, Vanilla Coconut, Jasmine, Rose, Pine, Phytoncide, Neutral, Eucalyptus, Lavender
+                                Lemon, Lemon Mango, Vanilla Coconut, Jasmine, Rose, Pine, Phytoncide, Neutral, Eucalyptus, Lavender
 
                             </div>
 
@@ -210,7 +210,7 @@ Aroma Sense - Showerhead Handheld - Showerhead Mist memiliki diameter 8 cm.
                         <div id="content7" class="item">
 
                             <div class="lg:text-lg text-sm">
-                            Antibakteri bisa digunakan dalam rentang waktu 1-2 tahun
+                                Antibakteri bisa digunakan dalam rentang waktu 1-2 tahun
 
                             </div>
 
@@ -230,13 +230,13 @@ Aroma Sense - Showerhead Handheld - Showerhead Mist memiliki diameter 8 cm.
 
                             <div class="lg:text-lg text-sm">
                                 <p class="pb-4">
-                                Jika showerhead tidak terlalu kotor, Anda dapat membersihkannya dengan membiarkannya terkena aliran air sambil diputar-putar. Hal ini dapat membantu menghilangkan kotoran ringan pada showerhead.
+                                    Jika showerhead tidak terlalu kotor, Anda dapat membersihkannya dengan membiarkannya terkena aliran air sambil diputar-putar. Hal ini dapat membantu menghilangkan kotoran ringan pada showerhead.
                                 </p>
                                 <p class="pb-4">
-                                Metode kedua adalah merendam showerhead di dalam air selama minimal 5 menit. Setelah direndam, bilas showerhead dengan air panas atau air hangat untuk membersihkannya lebih lanjut.
+                                    Metode kedua adalah merendam showerhead di dalam air selama minimal 5 menit. Setelah direndam, bilas showerhead dengan air panas atau air hangat untuk membersihkannya lebih lanjut.
                                 </p>
                                 <p class="pb-4">
-                                Jika showerhead sangat kotor, Anda dapat menggunakan cairan pembersih khusus (seperti cairan pembersih non-scrub/berbahan dasar cairan cns). Ikuti petunjuk penggunaan pada kemasan produk pembersih tersebut. Setelah menggunakan cairan pembersih, pastikan untuk membilas showerhead dengan air bersih untuk menghilangkan residu cairan pembersih.
+                                    Jika showerhead sangat kotor, Anda dapat menggunakan cairan pembersih khusus (seperti cairan pembersih non-scrub/berbahan dasar cairan cns). Ikuti petunjuk penggunaan pada kemasan produk pembersih tersebut. Setelah menggunakan cairan pembersih, pastikan untuk membilas showerhead dengan air bersih untuk menghilangkan residu cairan pembersih.
                                 </p>
 
 
@@ -258,10 +258,10 @@ Aroma Sense - Showerhead Handheld - Showerhead Mist memiliki diameter 8 cm.
 
                             <div class="lg:text-lg text-sm">
                                 <p class="pb-4">
-                                Filter PRM berfungsi untuk menyaring kotoran dalam air. Penggantian filter ini tergantung pada kualitas air di masing-masing daerah. Jika kualitas air sangat buruk, maka filter perlu diganti lebih sering.
+                                    Filter PRM berfungsi untuk menyaring kotoran dalam air. Penggantian filter ini tergantung pada kualitas air di masing-masing daerah. Jika kualitas air sangat buruk, maka filter perlu diganti lebih sering.
                                 </p>
                                 <p class="pb-4">
-                                Sementara itu, Filter PRC berfungsi untuk menyaring kotoran, air yang keruh, bau, dan berlogam dalam air. Filter ini dapat bertahan hingga 12.000 liter air, atau sekitar 4 bulan, jika digunakan untuk mandi dengan konsumsi sekitar 100 liter air per hari.
+                                    Sementara itu, Filter PRC berfungsi untuk menyaring kotoran, air yang keruh, bau, dan berlogam dalam air. Filter ini dapat bertahan hingga 12.000 liter air, atau sekitar 4 bulan, jika digunakan untuk mandi dengan konsumsi sekitar 100 liter air per hari.
                                 </p>
 
 
@@ -283,7 +283,7 @@ Aroma Sense - Showerhead Handheld - Showerhead Mist memiliki diameter 8 cm.
 
                             <div class="lg:text-lg text-sm">
                                 <p class="pb-4">
-                                Microfiber filter perlu diganti ketika warnanya sudah berubah menjadi hitam atau coklat, dan ketika semprotan air dari shower menjadi lebih kecil.
+                                    Microfiber filter perlu diganti ketika warnanya sudah berubah menjadi hitam atau coklat, dan ketika semprotan air dari shower menjadi lebih kecil.
                                 </p>
 
 
@@ -314,7 +314,7 @@ Aroma Sense - Showerhead Handheld - Showerhead Mist memiliki diameter 8 cm.
                         <!-- inputan -->
                         <input type="checkbox" id="item11" name="accordion2">
                         <label for="item11" class="font-medium lg:text-2xl text-sm">
-                        Bagaimana cara memasang shower handheld?
+                            Bagaimana cara memasang shower handheld?
 
                             <svg class="fa-chevron-down" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M15.0578 20.9425C15.5785 21.4632 16.4228 21.4632 16.9435 20.9425L24.9435 12.9425C25.4642 12.4218 25.4642 11.5776 24.9435 11.0569C24.4228 10.5362 23.5785 10.5362 23.0578 11.0569L16.0007 18.1141L8.94346 11.0569C8.42276 10.5362 7.57854 10.5362 7.05784 11.0569C6.53714 11.5776 6.53714 12.4218 7.05784 12.9425L15.0578 20.9425Z" fill="#232020" />
@@ -323,7 +323,7 @@ Aroma Sense - Showerhead Handheld - Showerhead Mist memiliki diameter 8 cm.
                         <div id="content11" class="item">
                             <div class="lg:text-lg text-sm">
                                 <div class="videowrapper">
-                                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/-IKC5Ia2xio?si=_dTYXWiQZ-JafJTH" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/-IKC5Ia2xio?si=_dTYXWiQZ-JafJTH" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                                 </div>
                             </div>
 
@@ -332,7 +332,7 @@ Aroma Sense - Showerhead Handheld - Showerhead Mist memiliki diameter 8 cm.
                         <!-- inputan -->
                         <input type="checkbox" id="item12" name="accordion2">
                         <label for="item12" class="font-medium lg:text-2xl text-sm">
-                        Bagaimana cara memasang microfiber?
+                            Bagaimana cara memasang microfiber?
 
                             <svg class="fa-chevron-down" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M15.0578 20.9425C15.5785 21.4632 16.4228 21.4632 16.9435 20.9425L24.9435 12.9425C25.4642 12.4218 25.4642 11.5776 24.9435 11.0569C24.4228 10.5362 23.5785 10.5362 23.0578 11.0569L16.0007 18.1141L8.94346 11.0569C8.42276 10.5362 7.57854 10.5362 7.05784 11.0569C6.53714 11.5776 6.53714 12.4218 7.05784 12.9425L15.0578 20.9425Z" fill="#232020" />
@@ -349,7 +349,7 @@ Aroma Sense - Showerhead Handheld - Showerhead Mist memiliki diameter 8 cm.
                         <!-- inputan -->
                         <input type="checkbox" id="item13" name="accordion2">
                         <label for="item13" class="font-medium lg:text-2xl text-sm">
-                        Bagaimana cara memasang filter prm & prc?
+                            Bagaimana cara memasang filter prm & prc?
 
                             <svg class="fa-chevron-down" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M15.0578 20.9425C15.5785 21.4632 16.4228 21.4632 16.9435 20.9425L24.9435 12.9425C25.4642 12.4218 25.4642 11.5776 24.9435 11.0569C24.4228 10.5362 23.5785 10.5362 23.0578 11.0569L16.0007 18.1141L8.94346 11.0569C8.42276 10.5362 7.57854 10.5362 7.05784 11.0569C6.53714 11.5776 6.53714 12.4218 7.05784 12.9425L15.0578 20.9425Z" fill="#232020" />
@@ -372,7 +372,7 @@ Aroma Sense - Showerhead Handheld - Showerhead Mist memiliki diameter 8 cm.
                         <!-- inputan -->
                         <input type="checkbox" id="item14" name="accordion2">
                         <label for="item14" class="font-medium lg:text-2xl text-sm">
-                        Bagaimana cara memasang aroma tube?
+                            Bagaimana cara memasang aroma tube?
 
                             <svg class="fa-chevron-down" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M15.0578 20.9425C15.5785 21.4632 16.4228 21.4632 16.9435 20.9425L24.9435 12.9425C25.4642 12.4218 25.4642 11.5776 24.9435 11.0569C24.4228 10.5362 23.5785 10.5362 23.0578 11.0569L16.0007 18.1141L8.94346 11.0569C8.42276 10.5362 7.57854 10.5362 7.05784 11.0569C6.53714 11.5776 6.53714 12.4218 7.05784 12.9425L15.0578 20.9425Z" fill="#232020" />
@@ -390,7 +390,7 @@ Aroma Sense - Showerhead Handheld - Showerhead Mist memiliki diameter 8 cm.
                         <!-- inputan -->
                         <input type="checkbox" id="item15" name="accordion2">
                         <label for="item15" class="font-medium lg:text-2xl text-sm">
-                        Bagaimana cara memasang filter keran PR100
+                            Bagaimana cara memasang filter keran PR100
 
                             <svg class="fa-chevron-down" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M15.0578 20.9425C15.5785 21.4632 16.4228 21.4632 16.9435 20.9425L24.9435 12.9425C25.4642 12.4218 25.4642 11.5776 24.9435 11.0569C24.4228 10.5362 23.5785 10.5362 23.0578 11.0569L16.0007 18.1141L8.94346 11.0569C8.42276 10.5362 7.57854 10.5362 7.05784 11.0569C6.53714 11.5776 6.53714 12.4218 7.05784 12.9425L15.0578 20.9425Z" fill="#232020" />
@@ -409,7 +409,7 @@ Aroma Sense - Showerhead Handheld - Showerhead Mist memiliki diameter 8 cm.
                         <!-- inputan -->
                         <input type="checkbox" id="item16" name="accordion2">
                         <label for="item16" class="font-medium lg:text-2xl text-sm">
-                        Bagaimana cara memasang filter PR303?
+                            Bagaimana cara memasang filter PR303?
 
                             <svg class="fa-chevron-down" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M15.0578 20.9425C15.5785 21.4632 16.4228 21.4632 16.9435 20.9425L24.9435 12.9425C25.4642 12.4218 25.4642 11.5776 24.9435 11.0569C24.4228 10.5362 23.5785 10.5362 23.0578 11.0569L16.0007 18.1141L8.94346 11.0569C8.42276 10.5362 7.57854 10.5362 7.05784 11.0569C6.53714 11.5776 6.53714 12.4218 7.05784 12.9425L15.0578 20.9425Z" fill="#232020" />
@@ -427,7 +427,7 @@ Aroma Sense - Showerhead Handheld - Showerhead Mist memiliki diameter 8 cm.
                         <!-- inputan -->
                         <input type="checkbox" id="item17" name="accordion2">
                         <label for="item17" class="font-medium lg:text-2xl text-sm">
-                        Apakah ada jaminan garansi untuk produk ini?
+                            Apakah ada jaminan garansi untuk produk ini?
 
                             <svg class="fa-chevron-down" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M15.0578 20.9425C15.5785 21.4632 16.4228 21.4632 16.9435 20.9425L24.9435 12.9425C25.4642 12.4218 25.4642 11.5776 24.9435 11.0569C24.4228 10.5362 23.5785 10.5362 23.0578 11.0569L16.0007 18.1141L8.94346 11.0569C8.42276 10.5362 7.57854 10.5362 7.05784 11.0569C6.53714 11.5776 6.53714 12.4218 7.05784 12.9425L15.0578 20.9425Z" fill="#232020" />
@@ -436,7 +436,7 @@ Aroma Sense - Showerhead Handheld - Showerhead Mist memiliki diameter 8 cm.
                         <div id="content17" class="item">
                             <div class="lg:text-lg text-sm">
                                 <p>
-                                Saat ini, kami belum menyediakan garansi resmi untuk produk ini. Namun, kami menyediakan video unboxing sebagai panduan penggunaan. Jika terjadi kerusakan pada produk, Anda dapat menghubungi admin kami untuk mendapatkan bantuan lebih lanjut.
+                                    Saat ini, kami belum menyediakan garansi resmi untuk produk ini. Namun, kami menyediakan video unboxing sebagai panduan penggunaan. Jika terjadi kerusakan pada produk, Anda dapat menghubungi admin kami untuk mendapatkan bantuan lebih lanjut.
                                 </p>
                             </div>
                         </div>
@@ -462,7 +462,7 @@ Aroma Sense - Showerhead Handheld - Showerhead Mist memiliki diameter 8 cm.
                         <!-- inputan -->
                         <input type="checkbox" id="item18" name="accordion2">
                         <label for="item18" class="font-medium lg:text-2xl text-sm">
-                        Dimana saya bisa memesan produk-produk Oceantial?
+                            Dimana saya bisa memesan produk-produk Oceantial?
 
                             <svg class="fa-chevron-down" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M15.0578 20.9425C15.5785 21.4632 16.4228 21.4632 16.9435 20.9425L24.9435 12.9425C25.4642 12.4218 25.4642 11.5776 24.9435 11.0569C24.4228 10.5362 23.5785 10.5362 23.0578 11.0569L16.0007 18.1141L8.94346 11.0569C8.42276 10.5362 7.57854 10.5362 7.05784 11.0569C6.53714 11.5776 6.53714 12.4218 7.05784 12.9425L15.0578 20.9425Z" fill="#232020" />
@@ -470,7 +470,7 @@ Aroma Sense - Showerhead Handheld - Showerhead Mist memiliki diameter 8 cm.
                         </label>
                         <div id="content18" class="item">
                             <div class="lg:text-lg text-sm">
-                            Produk Oceantial dapat dipesan melalui official e-commerce kami di Shopee, Tokopedia, TikTok Shop, maupun WhatsApp di official WhatsApp kami yang tertera di bawah.
+                                Produk Oceantial dapat dipesan melalui official e-commerce kami di Shopee, Tokopedia, TikTok Shop, maupun WhatsApp di official WhatsApp kami yang tertera di bawah.
                             </div>
                         </div>
                         <!-- inputan -->
