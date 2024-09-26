@@ -303,7 +303,7 @@ require('../inc/base.php')
                         </div>
                         <div class="flex-grow py-5">
                             <p class="leading-relaxed text-base h-28">Tak hanya akan memberikan segala manfaat baik yang terkandung, dengan showerhead ini, Anda juga dapat menghemat pemakaian air hingga 20-50% berkat teknologi pada lubang semprotannya.</p>
-                            <a class="mt-3 text-black inline-flex items-center uppercase font-bold">Selengkapnya
+                            <a href="https://harpersbazaar.co.id/aprev?prvid=15483" class="mt-3 text-black inline-flex items-center uppercase font-bold">Selengkapnya
                                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                                 </svg>
@@ -320,7 +320,7 @@ require('../inc/base.php')
                         </div>
                         <div class="flex-grow py-5">
                             <p class="leading-relaxed text-base h-28">Produk inovatif untuk sesi self-care kamu di rumah! Aroma Sense Head Shower menambahkan unsur aromaterapi untuk shower kamu.</p>
-                            <a class="mt-3 text-black inline-flex items-center uppercase font-bold">Selengkapnya
+                            <a href="https://www.cosmopolitan.co.id/article/read/4/2020/19183/rekomendasi-produk-skincare-untuk-sesi-self-care-dirumahaja" class="mt-3 text-black inline-flex items-center uppercase font-bold">Selengkapnya
                                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                                 </svg>
@@ -337,7 +337,7 @@ require('../inc/base.php')
                         </div>
                         <div class="flex-grow py-5">
                             <p class="leading-relaxed text-base h-28">Setelah menggunakan showerhead dari Aroma Sense, kulit terasa semakin bersih. Selain itu showernya dilengkapi dengan catridge yang tidak hanya menambahkan wangi pada air, tapi juga mengandung vitamin C.</p>
-                            <a class="mt-3 text-black inline-flex items-center uppercase font-bold">Selengkapnya
+                            <a href="https://www.youtube.com/watch?v=8Y8HwDr79p8" class="mt-3 text-black inline-flex items-center uppercase font-bold">Selengkapnya
                                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
                                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                                 </svg>
