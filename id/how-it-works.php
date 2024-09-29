@@ -237,19 +237,14 @@ require('../inc/base.php')
                 <div class="owl-carousel owl-theme pb-10">
                     <div class="item">
                         <div class="w-full">
-                            <img src="img/videothumb.jpg" alt="">
+                            <iframe width="100%" height="576" src="https://www.youtube.com/embed/IKUPaLhJ0Ww?si=CtjKQJ9e-1Bfsm9m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                         </div>
                     </div>
                     <div class="item">
                         <div class="w-full">
-                            <img src="img/videothumb.jpg" alt="">
+                            <iframe width="100%" height="576" src="https://www.youtube.com/embed/hH03wXyqHOM?si=y1mF2pI_qbL5HJiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                         </div>
 
-                    </div>
-                    <div class="item">
-                        <div class="w-full">
-                            <img src="img/videothumb.jpg" alt="">
-                        </div>
                     </div>
                     <!-- end owl -->
                 </div>
