@@ -294,6 +294,7 @@ button.btn-select li a {
 .accordion2 label svg{width: 20px;top: 10px;}
 .accordion2 .item{padding: 10px 0 10px 0;}
 .list-none.mobile-only input { display: none; }
+.slide-owl-content { padding: 20px; }
 
 
 }

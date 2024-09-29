@@ -207,7 +207,7 @@ require('../inc/base.php')
                 </div>
             </div>
             <!-- slide -->
-            <div class="desktop-only">
+            <div class="slide-owl-content">
                 <!-- owl-craousel 1 -->
                 <div class="owl-carousel owl-theme pb-10">
                     <div class="item">
