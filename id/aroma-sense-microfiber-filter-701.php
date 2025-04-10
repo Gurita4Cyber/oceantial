@@ -62,7 +62,7 @@ require('../inc/base.php')
                                 <div class="iconbuy mr-3"><img src="img/icon/shopee.png" alt=""></div>
                                 Tersedia di Shopee
                             </a>
-                            <a class="flex p-4" href="https://www.tokopedia.com/oceantial/microfiber-filter-as-arofix-as-701-5-pcs?extParam=src%3Dshop%26whid%3D7243527">
+                            <a class="flex p-4" href="https://tokopedia.link/algv6TJGrSb">
                                 <div class="iconbuy mr-3"><img src="img/icon/tokopedia.png" alt=""></div>
                                 Tersedia di Tokopedia
                             </a>
