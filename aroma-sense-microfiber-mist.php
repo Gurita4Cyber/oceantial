@@ -59,7 +59,7 @@ require('inc/base.php')
                                 <div class="iconbuy mr-3"><img src="img/icon/shopee.png" alt=""></div>
                                 Shop via Shopee
                             </a>
-                            <a class="flex p-4" href="https://www.tokopedia.com/oceantial/aroma-sense-microfiber-mist?extParam=src%3Dshop%26whid%3D7243527">
+                            <a class="flex p-4" href="https://tokopedia.link/cokJyDDMrSb">
                                 <div class="iconbuy mr-3"><img src="img/icon/tokopedia.png" alt=""></div>
                                 Shop via Tokopedia
                             </a>

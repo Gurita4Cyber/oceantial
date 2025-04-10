@@ -57,7 +57,7 @@ require('../inc/base.php')
                                 <div class="iconbuy mr-3"><img src="img/icon/shopee.png" alt=""></div>
                                 Tersedia di Shopee
                             </a>
-                            <a class="flex p-4" href="https://www.tokopedia.com/oceantial/aroma-sense-prm-filter?extParam=whid%3D7243527%26src%3Dshop">
+                            <a class="flex p-4" href="https://tokopedia.link/ByT3et8NrSb">
                                 <div class="iconbuy mr-3"><img src="img/icon/tokopedia.png" alt=""></div>
                                 Tersedia di Tokopedia
                             </a>

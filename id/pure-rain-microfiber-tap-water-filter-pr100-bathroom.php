@@ -56,7 +56,7 @@ require('../inc/base.php')
                                 <div class="iconbuy mr-3"><img src="img/icon/shopee.png" alt=""></div>
                                 Tersedia di Shopee
                             </a>
-                            <a class="flex p-4" href="https://www.tokopedia.com/oceantial/aroma-sense-alat-filter-keran-wastafel-pr100?extParam=src%3Dshop%26whid%3D7243527">
+                            <a class="flex p-4" href="https://tokopedia.link/J1sgbQbOrSb">
                                 <div class="iconbuy mr-3"><img src="img/icon/tokopedia.png" alt=""></div>
                                 Tersedia di Tokopedia
                             </a>
